@@ -48,6 +48,10 @@
           <date when="1927">9 de septiembre de 1927</date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1927"/>
+          <date type="premiere" when="1927"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -48,6 +48,10 @@
           <date when="1907">1907</date>
           <pubPlace>Barcelona</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1907"/>
+          <date type="premiere" when="1907"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

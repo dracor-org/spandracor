@@ -63,6 +63,10 @@
           <date when="1895">9 de febrero de 1895</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1895"/>
+          <date type="premiere" when="1895"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

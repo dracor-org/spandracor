@@ -51,6 +51,10 @@
           <date when="1901">30 de enero de 1901</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1901"/>
+          <date type="premiere" when="1901"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

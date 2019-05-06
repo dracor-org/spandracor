@@ -92,4 +92,21 @@
     </profileDesc>
   </xsl:template>
 
+  <!-- add 'originalSource' dates -->
+  <xsl:template match="tei:sourceDesc">
+    <xsl:variable name="premiere" select="tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
+    <xsl:variable name="print" select="tei:bibl[@type='first-published']/tei:date/text()"/>
+    <sourceDesc>
+      <xsl:apply-templates/>
+      <bibl type="originalSource">
+        <xsl:if test="$print">
+          <date type="print" when="{$print}"/>
+        </xsl:if>
+        <xsl:if test="$premiere">
+          <date type="premiere" when="{$premiere}"/>
+        </xsl:if>
+      </bibl>
+    </sourceDesc>
+  </xsl:template>
+
 </xsl:stylesheet>

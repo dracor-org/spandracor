@@ -50,6 +50,10 @@
           <ref target="https://www.epublibre.org/libro/detalle/3698"/>
           <date>2013</date>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1933"/>
+          <date type="premiere" when="1933"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

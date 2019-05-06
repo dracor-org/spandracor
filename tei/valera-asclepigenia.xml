@@ -48,6 +48,10 @@
           <date when="1928">27 de septiembre de 1928</date>
           <pubPlace>Sala Rex de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1878"/>
+          <date type="premiere" when="1928"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

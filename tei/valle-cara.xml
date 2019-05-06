@@ -48,6 +48,10 @@
           <date when="1967">23/12/1967</date>
           <pubPlace>Teatro Moratín de Barcelona</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1922"/>
+          <date type="premiere" when="1967"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -48,6 +48,10 @@
           <date when="1970">abril de 1970</date>
           <pubPlace>Teatro San Martín de Buenos Aires</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1908"/>
+          <date type="premiere" when="1970"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

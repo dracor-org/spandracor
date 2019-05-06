@@ -47,6 +47,9 @@
           <date/>
           <pubPlace/>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1938"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

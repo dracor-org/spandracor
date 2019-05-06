@@ -51,6 +51,10 @@
           <date when="1918">7 de mayo de 1918</date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1918"/>
+          <date type="premiere" when="1918"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

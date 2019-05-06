@@ -48,6 +48,10 @@
           <date when="1934">29 de diciembre de 1934</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1938"/>
+          <date type="premiere" when="1934"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

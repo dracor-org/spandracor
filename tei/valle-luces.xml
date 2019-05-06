@@ -48,6 +48,10 @@
           <date when="1963">21 de marzo de 1963</date>
           <pubPlace>Palais de Chaillot de París</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1924"/>
+          <date type="premiere" when="1963"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -48,6 +48,10 @@
           <date when="1933">16-11-1933</date>
           <pubPlace>Teatro Español</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1920"/>
+          <date type="premiere" when="1933"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

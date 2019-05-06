@@ -45,6 +45,9 @@
           <pubPlace>Alicante</pubPlace>
           <ref target="http://www.cervantesvirtual.com/obra/casandra-drama--0/"/>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1910"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -50,6 +50,10 @@
           <publisher>Teatro Español</publisher>
           <pubPlace>Madrid</pubPlace>
         </bibl>
+        <bibl type="originalSource">
+          <date type="print" when="1895"/>
+          <date type="premiere" when="1895"/>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
