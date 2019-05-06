@@ -80,8 +80,17 @@
                 <xsl:value-of select="$who"/>
               </xsl:attribute>
               <persName>
-                <xsl:if test="$name"><xsl:value-of select="$name"/></xsl:if>
-                <xsl:if test="not($name)"><xsl:value-of select="$who"/></xsl:if>
+                <xsl:choose>
+                  <xsl:when test="$name">
+                    <xsl:value-of select="$name"/>
+                  </xsl:when>
+                  <xsl:when test="$sp/tei:speaker">
+                    <xsl:value-of select="normalize-space($sp/tei:speaker)"/>
+                  </xsl:when>
+                  <xsl:otherwise>
+                    <xsl:value-of select="$who"/>
+                  </xsl:otherwise>
+                </xsl:choose>
               </persName>
             </person>
             </xsl:if>
