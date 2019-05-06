@@ -77,7 +77,7 @@
             <persName>Una voz</persName>
           </person>
           <person xml:id="sobr">
-            <persName>sobr</persName>
+            <persName>Sobrino</persName>
           </person>
           <person xml:id="man1">
             <persName>Manola 1ª</persName>
@@ -88,14 +88,11 @@
           <person xml:id="man3">
             <persName>Manola 3ª</persName>
           </person>
-          <person xml:id="mano">
-            <persName>mano</persName>
-          </person>
           <person xml:id="prim">
-            <persName>prim</persName>
+            <persName>Primo</persName>
           </person>
           <person xml:id="senx">
-            <persName>senx</persName>
+            <persName>Señor X</persName>
           </person>
           <person xml:id="madr">
             <persName>Madre de las Solteras</persName>
@@ -114,9 +111,6 @@
           </person>
           <person xml:id="ayo2">
             <persName>Ayola 2ª</persName>
-          </person>
-          <person xml:id="ayol">
-            <persName>ayol</persName>
           </person>
           <person xml:id="mart">
             <persName>Don Martín</persName>
@@ -912,15 +906,15 @@
           <speaker>Manola 2ª</speaker>
           <p>Calla.</p>
         </sp>
-        <sp who="#mano">
+        <sp who="#man3">
           <speaker>Manola 3ª</speaker>
           <p>¿Por qué?</p>
         </sp>
-        <sp who="#mano">
+        <sp who="#man2">
           <speaker>Manola 2ª</speaker>
           <p>¡Ay!</p>
         </sp>
-        <sp who="#mano">
+        <sp who="#man1">
           <speaker>Manola 1ª</speaker>
           <p>¡Ay, sin que nadie lo oiga!</p>
         </sp>
@@ -2151,7 +2145,7 @@
           <speaker>Ayola 1ª</speaker>
           <p>Con quien sea, pero no me quiero quedar soltera.</p>
         </sp>
-        <sp who="#ayol">
+        <sp who="#ayo2">
           <speaker>Ayola 2ª</speaker>
           <p>Yo pienso igual.</p>
         </sp>

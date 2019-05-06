@@ -81,7 +81,7 @@
             <persName>Leonardo</persName>
           </person>
           <person xml:id="much">
-            <persName>much</persName>
+            <persName>Muchacha</persName>
           </person>
           <person xml:id="cria">
             <persName>Criada</persName>
@@ -114,7 +114,7 @@
             <persName/>
           </person>
           <person xml:id="voz">
-            <persName>voz</persName>
+            <persName>Voz</persName>
           </person>
           <person xml:id="len1">
             <persName/>
@@ -131,17 +131,11 @@
           <person xml:id="mend">
             <persName/>
           </person>
-          <person xml:id="mozo">
-            <persName>mozo</persName>
-          </person>
-          <person xml:id="niña">
-            <persName>niña</persName>
+          <person xml:id="nina">
+            <persName/>
           </person>
           <person xml:id="muer">
             <persName>Muerte (como Mendiga)</persName>
-          </person>
-          <person xml:id="nina">
-            <persName/>
           </person>
           <person xml:id="muj1">
             <persName/>
@@ -3762,7 +3756,7 @@
             <speaker>Novio</speaker>
             <p>Vete por ahí y da la vuelta.</p>
           </sp>
-          <sp who="#mozo">
+          <sp who="#moz1">
             <speaker>Mozo 1</speaker>
             <p>Esto es una caza.</p>
           </sp>
@@ -4180,7 +4174,7 @@
               <l>amargo laurel.</l>
             </lg>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p><stage>(Cantando)</stage>¿Fuisteis a la boda?</p>
           </sp>
@@ -4188,7 +4182,7 @@
             <speaker>Muchacha 1</speaker>
             <p>No.</p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <lg>
               <l>¡Tampoco fui yo!</l>
@@ -4205,7 +4199,7 @@
             <speaker>Muchacha 2</speaker>
             <p>Hemos dicho que no.</p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p><stage>(Yéndose)</stage>¡Tampoco fui yo!</p>
           </sp>
@@ -4225,7 +4219,7 @@
               <l>de noche velar.</l>
             </lg>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>
               <stage>(En la puerta).</stage>
@@ -4261,7 +4255,7 @@
               <stage>(Se detiene mirando la madeja).</stage>
             </p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>
               <stage>(Asomándose a la puerta).</stage>
@@ -4342,7 +4336,7 @@
             <p><stage>(A la puerta)</stage>
 																										Un pedazo de pan, muchachas.</p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>¡Vete!
 							<stage>(Las muchachas se agrupan).</stage>
@@ -4352,7 +4346,7 @@
             <speaker>Mendiga</speaker>
             <p>¿Por qué?</p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>Porque tú gimes: vete.</p>
           </sp>
@@ -4363,7 +4357,7 @@
               <l>de pájaros me sigue; ¿quieres uno?</l>
             </lg>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>¡Yo me quiero marchar!</p>
           </sp>
@@ -4417,7 +4411,7 @@
             <speaker>Muchacha 2</speaker>
             <p>Sobre la flor del oro.</p>
           </sp>
-          <sp who="#niña">
+          <sp who="#nina">
             <speaker>Niña</speaker>
             <p>
               <lg>

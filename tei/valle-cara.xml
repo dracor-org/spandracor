@@ -156,7 +156,7 @@
             <persName/>
           </person>
           <person xml:id="cape">
-            <persName>cape</persName>
+            <persName>El Capellán</persName>
           </person>
           <person xml:id="diac">
             <persName>El Diácono de Lesón</persName>
@@ -186,7 +186,7 @@
             <persName/>
           </person>
           <person xml:id="vozr">
-            <persName>vozr</persName>
+            <persName>Voz de ruada</persName>
           </person>
           <person xml:id="gala">
             <persName>Don Galán</persName>

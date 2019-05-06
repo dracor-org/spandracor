@@ -71,7 +71,7 @@
             <persName>La Poncia</persName>
           </person>
           <person xml:id="voz">
-            <persName>voz</persName>
+            <persName>Voz</persName>
           </person>
           <person xml:id="mend">
             <persName>Mendiga</persName>
@@ -116,7 +116,7 @@
             <persName>María Josefa</persName>
           </person>
           <person xml:id="coro">
-            <persName>coro</persName>
+            <persName>Coro</persName>
           </person>
           <person xml:id="prud">
             <persName>Prudencia</persName>
