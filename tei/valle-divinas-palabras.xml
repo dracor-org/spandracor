@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +9,7 @@
           <idno type="viaf">177399388</idno>
           <idno type="bne">XX2958776</idno>
         </title>
-        <author key="Wikidata:Q311001">
+        <author key="wikidata:Q311001">
           <name type="full">Ramón María del Valle Inclán</name>
           <name type="short">Valle</name>
           <idno type="viaf">197999653</idno>
@@ -25,7 +24,8 @@
         </availability>
         <date>2016</date>
         <idno>013</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q8561242</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">span000013</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q8561242</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">

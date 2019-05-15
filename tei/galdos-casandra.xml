@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +9,7 @@
           <idno type="viaf"/>
           <idno type="bne">bimo0001295349</idno>
         </title>
-        <author key="Wikidata:Q189869">
+        <author key="wikidata:Q189869">
           <name type="full">Benito Pérez Galdós</name>
           <name type="short">Galdos</name>
           <idno type="viaf">71395987</idno>
@@ -27,7 +26,8 @@
         </availability>
         <date>2015</date>
         <idno>005</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q5755730</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">span000005</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q5755730</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="first-published">

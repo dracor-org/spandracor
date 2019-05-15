@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +9,7 @@
           <idno type="viaf">180647047</idno>
           <idno type="bne">XX3383743</idno>
         </title>
-        <author key="Wikidata:Q41408">
+        <author key="wikidata:Q41408">
           <name type="full">Federico García Lorca</name>
           <name type="short">Lorca</name>
           <idno type="viaf">34456883</idno>
@@ -25,7 +24,8 @@
         </availability>
         <date>2016</date>
         <idno>041</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q886624</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">span000041</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q886624</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">

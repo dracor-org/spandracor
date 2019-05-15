@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -10,7 +9,7 @@
           <idno type="viaf"/>
           <idno type="bne"/>
         </title>
-        <author key="Wikidata:Q3322907">
+        <author key="wikidata:Q3322907">
           <name type="full">Pedro Muñoz Seca</name>
           <name type="short">Munoz</name>
           <idno type="viaf">24776670</idno>
@@ -27,7 +26,8 @@
         </availability>
         <date>2016</date>
         <idno>032</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">Q63200027</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">span000032</idno>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q63200027</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">

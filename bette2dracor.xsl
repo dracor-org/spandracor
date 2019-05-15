@@ -16,7 +16,9 @@
   <xsl:variable name="wikidata" select="document('wikidata.xml')"/>
 
   <xsl:template match="/">
-    <xsl:apply-templates/>
+    <TEI xml:lang="es">
+      <xsl:apply-templates select="/tei:TEI/*"/>
+    </TEI>
   </xsl:template>
 
   <xsl:template match="@*|node()">
@@ -42,7 +44,10 @@
     <xsl:variable name="idno" select="tei:idno[1]/text()"/>
     <publicationStmt>
       <xsl:apply-templates/>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/wiki/">
+      <idno type="dracor" xml:base="https://dracor.org/id/">
+        <xsl:value-of select="concat('span000', ./tei:idno[not(@type)])"/>
+      </idno>
+      <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">
         <xsl:value-of select="$wikidata//play[@id = $idno]/@play"/>
       </idno>
     </publicationStmt>
@@ -52,7 +57,7 @@
   <xsl:template match="tei:titleStmt/tei:author">
     <xsl:variable
       name="idno" select="//tei:publicationStmt/tei:idno[1]/text()"/>
-    <author key="Wikidata:{$wikidata//play[@id = $idno]/@author}">
+    <author key="wikidata:{$wikidata//play[@id = $idno]/@author}">
       <xsl:apply-templates/>
     </author>
   </xsl:template>
