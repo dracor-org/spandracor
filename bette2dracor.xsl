@@ -13,8 +13,6 @@
     indent="no"
   />
 
-  <xsl:variable name="wikidata" select="document('wikidata.xml')"/>
-
   <xsl:template match="/">
     <TEI xml:lang="es">
       <xsl:apply-templates select="/tei:TEI/*"/>
@@ -39,16 +37,16 @@
   <!-- remove xml:id from castList roles -->
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 
-  <!-- add wikidata ID for play -->
+  <!-- add DraCor and Wikidata IDs for play -->
   <xsl:template match="tei:publicationStmt">
-    <xsl:variable name="idno" select="tei:idno[1]/text()"/>
+    <xsl:variable name="idno" select="tei:idno[1]/tei:idno[@type='number']/text()"/>
     <publicationStmt>
       <xsl:apply-templates/>
       <idno type="dracor" xml:base="https://dracor.org/id/">
-        <xsl:value-of select="concat('span000', ./tei:idno[not(@type)])"/>
+        <xsl:value-of select="concat('span000', $idno)"/>
       </idno>
       <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">
-        <xsl:value-of select="$wikidata//play[@id = $idno]/@play"/>
+        <xsl:value-of select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
       </idno>
     </publicationStmt>
   </xsl:template>
@@ -56,54 +54,45 @@
   <!-- add wikidata ID for author -->
   <xsl:template match="tei:titleStmt/tei:author">
     <xsl:variable
-      name="idno" select="//tei:publicationStmt/tei:idno[1]/text()"/>
-    <author key="wikidata:{$wikidata//play[@id = $idno]/@author}">
+      name="id" select="./tei:idno[@type='wikidata']/text()"/>
+    <author key="wikidata:{$id}">
       <xsl:apply-templates/>
     </author>
   </xsl:template>
 
-  <!-- create particDesc -->
-  <xsl:template match="tei:profileDesc">
-    <xsl:variable name="castList" select="/tei:TEI//tei:castList"/>
-    <profileDesc>
-      <xsl:apply-templates/>
-      <particDesc>
-        <listPerson>
-        <xsl:for-each select="/tei:TEI//tei:sp[@who]">
-          <xsl:variable name="sp" select="."/>
-          <xsl:variable
-            name="whos" select="tokenize(normalize-space(@who), '\s+')"/>
-          <xsl:for-each select="$whos">
-            <xsl:variable name="who" select="substring(., 2)"/>
-            <xsl:variable
-              name="name" select="$castList//tei:role[@xml:id = $who]"/>
-            <xsl:if test="not(
-              $sp/preceding::tei:sp[tokenize(@who) = concat('#', $who)]
-            )">
-            <person>
-              <xsl:attribute name="xml:id">
-                <xsl:value-of select="$who"/>
-              </xsl:attribute>
-              <persName>
-                <xsl:choose>
-                  <xsl:when test="$name">
-                    <xsl:value-of select="$name"/>
-                  </xsl:when>
-                  <xsl:when test="$sp/tei:speaker">
-                    <xsl:value-of select="normalize-space($sp/tei:speaker)"/>
-                  </xsl:when>
-                  <xsl:otherwise>
-                    <xsl:value-of select="$who"/>
-                  </xsl:otherwise>
-                </xsl:choose>
-              </persName>
-            </person>
-            </xsl:if>
-          </xsl:for-each>
-        </xsl:for-each>
-        </listPerson>
-      </particDesc>
-    </profileDesc>
+  <!-- remove original wikidata idno for author -->
+  <!-- <xsl:template match="tei:titleStmt/tei:author/tei:idno[@type='wikidata']">
+  </xsl:template> -->
+
+  <!-- transform particDesc -->
+  <xsl:template match="tei:particDesc/tei:listPerson/tei:person">
+    <person>
+      <xsl:apply-templates select="@xml:id"/>
+      <xsl:apply-templates select="@sex"/>
+      <persName>
+        <xsl:value-of select="tei:persName"/>
+      </persName>
+    </person>
+  </xsl:template>
+
+  <xsl:template match="tei:particDesc/tei:listPerson/tei:personGrp">
+    <personGrp>
+      <xsl:apply-templates select="@xml:id"/>
+      <xsl:apply-templates select="@sex"/>
+      <name>
+        <xsl:value-of select="tei:persName"/>
+      </name>
+    </personGrp>
+  </xsl:template>
+
+  <xsl:template match="@sex">
+    <xsl:attribute name="sex">
+      <xsl:choose>
+        <xsl:when test=". = 'M'"><xsl:text>MALE</xsl:text></xsl:when>
+        <xsl:when test=". = 'F'"><xsl:text>FEMALE</xsl:text></xsl:when>
+        <xsl:otherwise><xsl:text>UNKNOWN</xsl:text></xsl:otherwise>
+      </xsl:choose>
+    </xsl:attribute>
   </xsl:template>
 
   <!-- add 'originalSource' dates -->
