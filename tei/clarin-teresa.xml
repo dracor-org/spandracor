@@ -3,8 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title type="main">Teresa</title>
+        <title type="sub">ensayo dramático en un acto y en prosa</title>
         <title type="short">Teresa</title>
-        <title type="full">Teresa: ensayo dramático en un acto y en prosa </title>
+        <title type="full">Teresa: ensayo dramático en un acto y en prosa</title>
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">bimo0000824649</idno>
