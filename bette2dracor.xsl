@@ -60,9 +60,9 @@
     </author>
   </xsl:template>
 
-  <!-- remove original wikidata idno for author -->
-  <!-- <xsl:template match="tei:titleStmt/tei:author/tei:idno[@type='wikidata']">
-  </xsl:template> -->
+  <!-- remove original wikidata idnos -->
+  <xsl:template match="tei:titleStmt/tei:*/tei:idno[@type='wikidata']">
+  </xsl:template>
 
   <!-- transform particDesc -->
   <xsl:template match="tei:particDesc/tei:listPerson/tei:person">

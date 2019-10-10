@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">bimo0001295349</idno>
-          <idno type="wikidata">Q5755730</idno>
         </title>
         <author key="wikidata:Q189869">
           <name type="full">Benito Pérez Galdós</name>
           <name type="short">Galdos</name>
           <idno type="viaf">71395987</idno>
           <idno type="bne">XX1014802</idno>
-          <idno type="wikidata">Q189869</idno>
         </author>
         <principal xml:id="rbm">Roxana Beatriz Martínez</principal>
         <principal xml:id="moc">Marta Ortiz Canseco</principal>

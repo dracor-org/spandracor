@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne"/>
-          <idno type="wikidata">Q63200027</idno>
         </title>
         <author key="wikidata:Q3322907">
           <name type="full">Pedro Muñoz Seca</name>
           <name type="short">Munoz</name>
           <idno type="viaf">24776670</idno>
           <idno type="bne">XX983355</idno>
-          <idno type="wikidata">Q3322907</idno>
         </author>
         <principal xml:id="mgs">María García Sánchez</principal>
         <principal xml:id="mas">María Ángel Somalo</principal>

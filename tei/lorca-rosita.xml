@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf">195836250</idno>
           <idno type="bne">XX3107511</idno>
-          <idno type="wikidata">Q1987928</idno>
         </title>
         <author key="wikidata:Q41408">
           <name type="full">Federico García Lorca</name>
           <name type="short">Lorca</name>
           <idno type="viaf">34456883</idno>
           <idno type="bne">XX841898</idno>
-          <idno type="wikidata">Q41408</idno>
         </author>
         <principal xml:id="moc">Marta Ortiz Canseco</principal>
       </titleStmt>

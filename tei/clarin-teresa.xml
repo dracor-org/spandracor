@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">bimo0000824649</idno>
-          <idno type="wikidata">Q63197172</idno>
         </title>
         <author key="wikidata:Q312747">
           <name type="full">Leopoldo Alas</name>
           <name type="short">Clarin</name>
           <idno type="viaf">17218138</idno>
           <idno type="bne">XX922976</idno>
-          <idno type="wikidata">Q312747</idno>
         </author>
         <principal xml:id="mfm">Mireya Fernández Merino</principal>
         <principal xml:id="irm">Ignacio Roldán Martínez</principal>

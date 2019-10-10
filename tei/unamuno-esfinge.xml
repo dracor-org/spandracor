@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf">210973152</idno>
           <idno type="bne">XX2804277</idno>
-          <idno type="wikidata">Q63200581</idno>
         </title>
         <author key="wikidata:Q185085">
           <name type="full">Miguel de Unamuno</name>
           <name type="short">Unamuno</name>
           <idno type="viaf">88844103</idno>
           <idno type="bne">XX1139151</idno>
-          <idno type="wikidata">Q185085</idno>
         </author>
         <principal xml:id="jct">José Calvo Tello</principal>
       </titleStmt>

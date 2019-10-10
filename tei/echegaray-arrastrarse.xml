@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">bimo0000803288</idno>
-          <idno type="wikidata">Q19410894</idno>
         </title>
         <author key="wikidata:Q127349">
           <name type="full">José Echegaray</name>
           <name type="short">Echegaray</name>
           <idno type="viaf">79077383</idno>
           <idno type="bne">XX910695</idno>
-          <idno type="wikidata">Q127349</idno>
         </author>
         <principal xml:id="coj">Concepción Jiménez</principal>
         <principal xml:id="emc">Elena Martínez</principal>

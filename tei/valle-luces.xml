@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf">68936773</idno>
           <idno type="bne">XX2215982</idno>
-          <idno type="wikidata">Q3312512</idno>
         </title>
         <author key="wikidata:Q311001">
           <name type="full">Ramón María del Valle Inclán</name>
           <name type="short">Valle</name>
           <idno type="viaf">197999653</idno>
           <idno type="bne">XX1055436</idno>
-          <idno type="wikidata">Q311001</idno>
         </author>
         <principal xml:id="emc">Elena Martínez Carro</principal>
       </titleStmt>

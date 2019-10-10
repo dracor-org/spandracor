@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">XX2892959</idno>
-          <idno type="wikidata">Q63197188</idno>
         </title>
         <author key="wikidata:Q463630">
           <name type="full">Juan Valera</name>
           <name type="short">Valera</name>
           <idno type="viaf">46770556</idno>
           <idno type="bne">XX918093</idno>
-          <idno type="wikidata">Q463630</idno>
         </author>
         <principal xml:id="mal">María Aboal López</principal>
       </titleStmt>

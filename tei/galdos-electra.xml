@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf">210052098</idno>
           <idno type="bne">XX2127860</idno>
-          <idno type="wikidata">Q924513</idno>
         </title>
         <author key="wikidata:Q189869">
           <name type="full">Benito Pérez Galdós</name>
           <name type="short">Galdós</name>
           <idno type="viaf">71395987</idno>
           <idno type="bne">XX1014802</idno>
-          <idno type="wikidata">Q189869</idno>
         </author>
         <principal xml:id="tsm">Teresa Santa María</principal>
         <principal xml:id="jct">José Calvo Tello</principal>

@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">XX2677457</idno>
-          <idno type="wikidata">Q63200349</idno>
         </title>
         <author key="wikidata:Q3322907">
           <name type="full">Pedro Muñoz Seca</name>
           <name type="short">Munoz</name>
           <idno type="viaf">24776670</idno>
           <idno type="bne">XX983355</idno>
-          <idno type="wikidata">Q3322907</idno>
         </author>
         <principal xml:id="irm">Ignacio Roldán Martínez</principal>
         <principal xml:id="mfm">Mireya Fernández Merino</principal>

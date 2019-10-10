@@ -8,14 +8,12 @@
         <title type="idno">
           <idno type="viaf">175923703</idno>
           <idno type="bne">XX1987200</idno>
-          <idno type="wikidata">Q822850</idno>
         </title>
         <author key="wikidata:Q41408">
           <name type="full">Federico García Lorca</name>
           <name type="short">Lorca</name>
           <idno type="viaf">34456883</idno>
           <idno type="bne">XX841898</idno>
-          <idno type="wikidata">Q41408</idno>
         </author>
         <principal xml:id="rbm">Roxana Beatriz Martínez</principal>
       </titleStmt>
