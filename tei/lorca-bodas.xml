@@ -3,27 +3,36 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="short">Bodas de sangre</title>
+        <title type="short">BodasSangre</title>
         <title type="full">Bodas de sangre: Tragedia en tres actos y siete cuadros</title>
         <title type="idno">
           <idno type="viaf">180647047</idno>
           <idno type="bne">XX3383743</idno>
+          <idno type="wikidata">Q886624</idno>
         </title>
         <author key="wikidata:Q41408">
           <name type="full">Federico García Lorca</name>
           <name type="short">Lorca</name>
           <idno type="viaf">34456883</idno>
           <idno type="bne">XX841898</idno>
+          <idno type="wikidata">Q41408</idno>
         </author>
-        <principal xml:id="SGA">Sila Gómez Álvarez</principal>
+        <principal xml:id="sga">Sila Gómez Álvarez</principal>
       </titleStmt>
+      <editionStmt>
+        <edition>oportunistic</edition>
+      </editionStmt>
       <publicationStmt>
         <publisher>Ghedi (UNIR)</publisher>
         <availability status="free">
           <p>The text is freely available.</p>
         </availability>
         <date>2016</date>
-        <idno>041</idno>
+        <idno>
+          <idno type="number">041</idno>
+          <idno type="text">0.2</idno>
+          <idno type="structure">2.0</idno>
+        </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000041</idno>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q886624</idno>
       </publicationStmt>
@@ -54,6 +63,12 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
+      <langUsage>
+        <language ident="es">español</language>
+      </langUsage>
+      <textDesc n="play">
+        <purpose type="tragedia"/>
+      </textDesc>
       <abstract>
         <p>Tragedia de Lorca inspirada en una historia real, conocida como el crimen de Níjar. En el acto primero se presenta al novio, que quiere casarse con una muchacha que despierta los recelos de la madre, pues ha sido novia de un miembro de la familia de los Félix, responsables de la muerte de su marido y su hijo. En el acto segundo tienen lugar los preparativos de la boda y se presenta a Leonardo, el antiguo novio de la prometida, y se muestra cómo ese amor sigue estando vivo. Tras la boda, Leonardo huye con la novia. En el Acto tercero se produce la muerte de Leonardo y el novio y la confrontación de la novia con la madre.</p>
         <p>Acto 1: Cuadro 1: El novio y su madre hablan sobre la novia de este y del futuro de sus relaciones. Se hace referencia a las muertes en la familia que causaron una familia enemiga. Una vecina advierte a la madre del novio que había sospechas sobre la difunta madre de la novia; además señala que la novia tuvo de adolescente relaciones con Leonardo de los Félix, parte de la familia enemiga. Cuadro 2: La escena tiene lugar en la casa de Leonardo, donde su suegra y su mujer ponen a dormir al niño. Leonardo llega y hablan de la próxima boda de su antigua novia. En la conversación aparecen ciertos aspectos secretos y mentiras entre la pareja; termina en una fuerte discusión. Cuadro 3: el novio y su madre visitan a la novia y su padre y hacen los arreglos para que se casen en breve. La novia rechaza enseñar los regalos que le han hecho a la criada. Esta última le señala que Leonardo vino a verla la noche anterior y que ahora mismo está de nuevo fuera de la casa.</p>
@@ -61,94 +76,90 @@
         <p>Acto 3: Cuadro 1: el novio y un grupo de leñadores buscan a la novia y Leonardo. Aparece la luna y una mendiga como representaciones de la muerte. Leonardo y la novia huyen mientras se hacen declaraciones apasionadas. Finalmente se señala en la última acotación que algunos personajes mueren. Cuadro último: Diferentes muchachas hablan sobre qué debe haber pasado en la boda. Vuelven las mujeres (suegra, mujer de Leonardo, madre y novia) y se lamentan pasionalmente de la muerte del Novio y de Leonardo. La novia pide que la madre del Novio la mate, asegurando que ella sigue virgen, lo que a la madre la deja indiferente. Termina la obra con los personajes llorando los muertos.</p>
       </abstract>
       <particDesc>
-        <listPerson>
-          <person xml:id="novo">
-            <persName>Novio</persName>
-          </person>
-          <person xml:id="madr">
+        <listPerson cert="medium">
+          <person xml:id="madr" sex="FEMALE">
             <persName>Madre</persName>
           </person>
-          <person xml:id="veci">
-            <persName>Vecina</persName>
-          </person>
-          <person xml:id="sueg">
-            <persName>Suegra</persName>
-          </person>
-          <person xml:id="muje">
-            <persName>Mujer de Leonardo</persName>
-          </person>
-          <person xml:id="leon">
-            <persName>Leonardo</persName>
-          </person>
-          <person xml:id="much">
-            <persName>Muchacha</persName>
-          </person>
-          <person xml:id="cria">
-            <persName>Criada</persName>
-          </person>
-          <person xml:id="padr">
-            <persName>Padre de la novia</persName>
-          </person>
-          <person xml:id="nova">
+          <person xml:id="nova" sex="FEMALE">
             <persName>Novia</persName>
           </person>
-          <person xml:id="voce">
-            <persName/>
+          <person xml:id="sueg" sex="FEMALE">
+            <persName>Suegra</persName>
           </person>
-          <person xml:id="muc1">
-            <persName/>
+          <person xml:id="muje" sex="FEMALE">
+            <persName>Mujer de Leonardo</persName>
           </person>
-          <person xml:id="muc2">
-            <persName/>
+          <person xml:id="cria" sex="FEMALE">
+            <persName>Criada</persName>
           </person>
-          <person xml:id="moz1">
-            <persName/>
+          <person xml:id="veci" sex="FEMALE">
+            <persName>Vecina</persName>
           </person>
-          <person xml:id="muc3">
-            <persName/>
+          <personGrp xml:id="much" sex="FEMALE">
+            <name>Muchachas</name>
+          </personGrp>
+          <person xml:id="leon" sex="MALE">
+            <persName>Leonardo</persName>
           </person>
-          <person xml:id="conv">
-            <persName/>
+          <person xml:id="novo" sex="MALE">
+            <persName>Novio</persName>
           </person>
-          <person xml:id="moz2">
-            <persName/>
+          <person xml:id="padr" sex="MALE">
+            <persName>Padre de la novia</persName>
           </person>
-          <person xml:id="voz">
-            <persName>Voz</persName>
-          </person>
-          <person xml:id="len1">
-            <persName/>
-          </person>
-          <person xml:id="len2">
-            <persName/>
-          </person>
-          <person xml:id="len3">
-            <persName/>
-          </person>
-          <person xml:id="luna">
+          <person xml:id="luna" sex="FEMALE">
             <persName>Luna</persName>
           </person>
-          <person xml:id="mend">
-            <persName/>
-          </person>
-          <person xml:id="nina">
-            <persName/>
-          </person>
-          <person xml:id="muer">
+          <person xml:id="muer" sex="FEMALE">
             <persName>Muerte (como Mendiga)</persName>
           </person>
-          <person xml:id="muj1">
-            <persName/>
+          <person xml:id="muc1" sex="FEMALE">
+            <persName>Muchacha 1</persName>
           </person>
-          <person xml:id="muj2">
-            <persName/>
+          <person xml:id="muc2" sex="FEMALE">
+            <persName>Muchacha 2</persName>
+          </person>
+          <person xml:id="muc3" sex="FEMALE">
+            <persName>Muchacha 3</persName>
+          </person>
+          <person xml:id="conv" sex="MALE">
+            <persName>Convidado</persName>
+          </person>
+          <person xml:id="len1" sex="MALE">
+            <persName>Leñador 1</persName>
+          </person>
+          <person xml:id="len2" sex="MALE">
+            <persName>Leñador 2</persName>
+          </person>
+          <person xml:id="len3" sex="MALE">
+            <persName>Leñador 3</persName>
+          </person>
+          <person xml:id="moz1" sex="MALE">
+            <persName>Mozo 1</persName>
+          </person>
+          <person xml:id="moz2" sex="MALE">
+            <persName>Mozo 2</persName>
+          </person>
+          <personGrp xml:id="voce" sex="UNKNOWN">
+            <name>Voces</name>
+          </personGrp>
+          <personGrp xml:id="mujs" sex="FEMALE">
+            <name>Mujeres</name>
+          </personGrp>
+          <person xml:id="nina" sex="FEMALE">
+            <persName>Niña</persName>
+          </person>
+          <person xml:id="voz_" sex="UNKNOWN">
+            <persName>Voz</persName>
           </person>
         </listPerson>
       </particDesc>
     </profileDesc>
     <revisionDesc status="approved">
-      <change when="2016-07-23" who="sga">Versión inicial TEI.</change>
-      <change when="2017-06-11" who="jct" status="approved">Pequeños cambios en algunos datos del teiHeader y resumen añadido.</change>
+      <change when="2016-07-23" who="#sga">Versión inicial TEI.</change>
+      <change status="approved" when="2017-06-11" who="#jct">Pequeños cambios en algunos datos del teiHeader y resumen añadido.</change>
+      <change when="2017-07-18" who="#jct">Añadidos metadatos de personajes.</change>
+      <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -157,97 +168,54 @@
         <castList>
           <head>Personajes</head>
           <castItem>
-            <role>Madre</role>
+            <role corresp="#madr">Madre</role>
           </castItem>
           <castItem>
-            <role>Novia</role>
+            <role corresp="#nova">Novia</role>
           </castItem>
           <castItem>
-            <role>Suegra</role>
+            <role corresp="#sueg">Suegra</role>
           </castItem>
           <castItem>
-            <role>Mujer de Leonardo</role>
+            <role corresp="#muje">Mujer de Leonardo</role>
           </castItem>
           <castItem>
-            <role>Criada</role>
+            <role corresp="#cria">Criada</role>
           </castItem>
           <castItem>
-            <role>Vecina</role>
+            <role corresp="#veci">Vecina</role>
           </castItem>
           <castItem>
-            <role>Muchachas</role>
+            <role corresp="#muc1 #muc2 #muc3">Muchachas</role>
           </castItem>
           <castItem>
-            <role>Leonardo</role>
+            <role corresp="#leon">Leonardo</role>
           </castItem>
           <castItem>
-            <role>Novio</role>
+            <role corresp="#novo">Novio</role>
           </castItem>
           <castItem>
-            <role>Padre de la novia</role>
+            <role corresp="#padr">Padre de la novia</role>
           </castItem>
           <castItem>
-            <role>Luna</role>
+            <role corresp="#luna">Luna</role>
           </castItem>
           <castItem>
-            <role>Muerte (como Mendiga)<!--SGA: ¿quitar, por lo que dice la primera vez que aparece en la acotación?Ver cómo está marcado en la primera edición--></role>
+            <role corresp="#muer">Muerte (como Mendiga)</role>
           </castItem>
           <castItem>
-            <role>Leñadores</role>
+            <role corresp="#len1 #len2 #len3">Leñadores</role>
           </castItem>
           <castItem>
-            <role>Mozos</role>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-            <!--SGA: Aparece en la obra, último acto, este "personaje colectivo"-->
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
-          </castItem>
-          <castItem>
-            <role/>
+            <role corresp="#moz1 #moz2 #moz3">Mozos</role>
           </castItem>
         </castList>
       </div>
     </front>
     <body>
-      <div type="act" n="1">
+      <div n="1" type="act">
         <head>Acto primero</head>
-        <div type="scene" n="1">
+        <div n="1" type="scene">
           <head>Cuadro primero</head>
           <stage>Habitación pintada de amarillo.</stage>
           <sp who="#novo">
@@ -650,7 +618,7 @@
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>
-            <p>Es que quisiera que ni a la viva ni a la muerta las conociera nadie. Que fueran como dos cardos, que ninguna persona <!--SGA: comprobar primera edición-->les nombra y pinchan si llega el momento.</p>
+            <p>Es que quisiera que ni a la viva ni a la muerta las conociera nadie. Que fueran como dos cardos, que ninguna persona <!--sga: comprobar primera edición-->les nombra y pinchan si llega el momento.</p>
           </sp>
           <sp who="#veci">
             <speaker>Vecina</speaker>
@@ -699,7 +667,7 @@
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>
-            <p>Es verdad… Pero oigo eso de Félix y es lo mismo <stage>(Entre dientes).</stage> Félix <!--SGA: comprobar primera edición-->que llenárseme de cieno la boca <stage>(Escupe)</stage> y tengo que escupir, tengo que escupir por no matar.</p>
+            <p>Es verdad… Pero oigo eso de Félix y es lo mismo <stage>(Entre dientes).</stage> Félix <!--sga: comprobar primera edición-->que llenárseme de cieno la boca <stage>(Escupe)</stage> y tengo que escupir, tengo que escupir por no matar.</p>
           </sp>
           <sp who="#veci">
             <speaker>Vecina</speaker>
@@ -743,7 +711,7 @@
           </sp>
           <stage>Telón</stage>
         </div>
-        <div type="scene" n="2">
+        <div n="2" type="scene">
           <head>Cuadro segundo</head>
           <stage>Habitación pintada de rosa, con cobres y ramos de flores populares. En el centro, una mesa con mantel. Es la mañana.</stage>
           <stage>(<rs key="#sueg">Suegra de Leonardo</rs> con un niño en brazos. Lo mece. La <rs key="#muje">mujer</rs>, en la otra esquina, hace punto de media).</stage>
@@ -1182,7 +1150,7 @@
 											¡Cállate! <stage>(Sale <rs key="#leon">Leonardo</rs>).</stage> ¡El niño!</p>
           </sp>
           <stage>(Entra y vuelve a salir con él en brazos. La <rs key="#muje">Mujer</rs> ha permanecido de pie, inmóvil).</stage>
-          <!--SGA ¿quién dice esto, la suegra? Cf. 1ª edición-->
+          <!--sga ¿quién dice esto, la suegra? Cf. 1ª edición-->
           <sp who="#sueg">
             <speaker>Suegra</speaker>
             <lg>
@@ -1234,7 +1202,7 @@
                 <l>¡No vengas, no entres!</l>
                 <l>¡Vete a la montaña!</l>
                 <l>¡Ay, dolor de nieve,</l>
-                <!--SGA Me he perdido, comprobar primera edición-->
+                <!--sga Me he perdido, comprobar primera edición-->
                 <l>caballo del alba!</l>
               </lg>
             </p>
@@ -1275,9 +1243,9 @@
             </lg>
           </sp>
         </div>
-        <div type="scene" n="3">
+        <div n="3" type="scene">
           <head>Cuadro tercero</head>
-          <stage>Interior de la cueva donde vive la <rs key="nova">Novia</rs>. Al fondo, una cruz de grandes flores rosa. Las puertas redondas con cortinas de encaje y lazos rosa<!--SGA rosas?-->. Por las paredes, de material blanco y duro, abanicos redondos, jarros azules y pequeños espejos.</stage>
+          <stage>Interior de la cueva donde vive la <rs key="nova">Novia</rs>. Al fondo, una cruz de grandes flores rosa. Las puertas redondas con cortinas de encaje y lazos rosa<!--sga rosas?-->. Por las paredes, de material blanco y duro, abanicos redondos, jarros azules y pequeños espejos.</stage>
           <sp who="#cria">
             <speaker>Criada</speaker>
             <p>Pasen… <stage>(Muy afable, llena de hipocresía humilde. Entran el <rs key="#novo">Novio</rs> y su <rs key="#madr">madre</rs>. La <rs key="#madr">madre</rs> viste de raso negro y lleva mantilla de encaje. El <rs key="#novo">novio</rs>, de pana negra con gran cadena de oro).</stage> ¿Se quieren sentar? Ahora vienen. <stage>(Sale).</stage></p>
@@ -1361,7 +1329,7 @@
           </sp>
           <sp who="#padr">
             <speaker>Padre</speaker>
-            <p><stage>(Sonriendo).</stage>Tú eres más rica que yo. Las viñas valen un capital. <!--SGA: confirmar con primera edición-->Cada pámpano una moneda de plata. Lo que siento es que las tierras..., ¿entiendes?..., estén separadas. A mí me gusta todo junto. Una espina tengo en el corazón, y es la huertecilla esa metida entre mis tierras, que no me quieren vender por todo el oro del mundo.</p>
+            <p><stage>(Sonriendo).</stage>Tú eres más rica que yo. Las viñas valen un capital. <!--sga: confirmar con primera edición-->Cada pámpano una moneda de plata. Lo que siento es que las tierras..., ¿entiendes?..., estén separadas. A mí me gusta todo junto. Una espina tengo en el corazón, y es la huertecilla esa metida entre mis tierras, que no me quieren vender por todo el oro del mundo.</p>
           </sp>
           <sp who="#novo">
             <speaker>Novio</speaker>
@@ -1756,9 +1724,9 @@
           <stage>Fin del acto primero</stage>
         </div>
       </div>
-      <div type="act" n="2">
+      <div n="2" type="act">
         <head>Acto segundo</head>
-        <div type="scene" n="1">
+        <div n="1" type="scene">
           <head>Cuadro primero</head>
           <stage>Zaguán de casa de la <rs key="#nova">Novia</rs>. Portón al fondo. Es de noche. La <rs key="#nova">Novia</rs> sale con enaguas blancas encañonadas, llenas de encajes y puntas bordadas y un corpiño blanco, con los brazos al aire. La <rs key="#cria">criada</rs>, lo mismo.</stage>
           <sp who="#cria">
@@ -2131,7 +2099,7 @@
           <sp who="#nova">
             <speaker>Novia</speaker>
             <p>Y sé que estoy loca y sé que tengo el pecho podrido de aguantar, y aquí estoy quieta por oírlo, por verlo menear los brazos.</p>
-            <!--SGA ¿No falta nada?-->
+            <!--sga ¿No falta nada?-->
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
@@ -2229,7 +2197,7 @@
               <l>Despierte la novia</l>
               <l>que por los campos viene</l>
               <l>rodando la boda,</l>
-              <!--SGA: ¿rodando-->
+              <!--sga: ¿rodando-->
               <l>con bandeja de dalias</l>
               <l>y panes de gloria.</l>
             </lg>
@@ -2453,7 +2421,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <!--SGA: Es la mujer de Leonardo, no?-->
+            <!--sga: Es la mujer de Leonardo, no?-->
             <lg>
               <l>¡Para que el campo se alegre</l>
               <l>con el agua de tu pelo!</l>
@@ -2639,7 +2607,7 @@
             </lg>
           </sp>
         </div>
-        <div type="scene" n="2">
+        <div n="2" type="scene">
           <head>Cuadro segundo</head>
           <stage>Exterior de la cueva de la novia. Entonación en blancos grises y azules fríos. Grandes chumberas. Tonos sombríos y plateados. Panoramas de mesetas color barquillo, todo endurecido como paisaje de cerámica popular.</stage>
           <sp who="#cria">
@@ -3069,7 +3037,7 @@
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
             <p>Ahora que una se casa antes que otra.</p>
-            <!--SGA: no se entiende-->
+            <!--sga: no se entiende-->
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -3388,7 +3356,7 @@
             <speaker>Madre</speaker>
             <p>¿Quién tiene un caballo ahora mismo, quién tiene un caballo?, que le daré todo lo que tengo, mis ojos y hasta mi lengua…</p>
           </sp>
-          <sp who="#voz">
+          <sp who="#voz_">
             <speaker>Voz</speaker>
             <p>Aquí hay uno.</p>
           </sp>
@@ -3408,9 +3376,9 @@
           <stage>Fin del acto segundo</stage>
         </div>
       </div>
-      <div type="act" n="3">
+      <div n="3" type="act">
         <head>Acto tercero</head>
-        <div type="scene" n="1">
+        <div n="1" type="scene">
           <head>Cuadro primero</head>
           <stage>Bosque. Es de noche. Grandes troncos húmedos. Ambiente oscuro. Se oyen dos violines.</stage>
           <stage>(Salen tres leñadores).</stage>
@@ -3652,8 +3620,8 @@
               <l>una fiebre de diamante.</l>
             </lg>
           </sp>
-          <stage>(Desaparece entre los troncos, y vuelve la escena a su luz oscura. Sale una <rs key="#mend">anciana</rs> totalmente cubierta por tenues paños verdeoscuro. Lleva los pies descalzos. Apenas si se le verá el rostro entre los pliegues. Este personaje no figura en el reparto<!--SGA: Curioso, ¿no? ¿Se respeta?-->).</stage>
-          <sp who="#mend">
+          <stage>(Desaparece entre los troncos, y vuelve la escena a su luz oscura. Sale una <rs key="#muer">anciana</rs> totalmente cubierta por tenues paños verdeoscuro. Lleva los pies descalzos. Apenas si se le verá el rostro entre los pliegues. Este personaje no figura en el reparto<!--sga: Curioso, ¿no? ¿Se respeta?-->).</stage>
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><lg><l>Esa luna se va, y ellos se acercan</l><l>De aquí no pasan. El rumor del río</l><l>apagará con el rumor de troncos</l><l>el desgarrado vuelo de los gritos.</l><l>Aquí ha de ser, y pronto. Estoy cansada.</l><l>Abren los cofres, y los blancos hilos</l><l>aguardan por el suelo de la alcoba</l><l>cuerpos pesados con el cuello herido.</l><l>No se despierte un pájaro y la brisa,</l><l>recogiendo en su falda los gemidos,</l><l>huya con ellos por las negras copas</l><l>o los entierre por el blando limo.</l><l>¡Esa luna, esa luna!</l></lg><stage>(Impaciente).</stage>
 																								¡Esa luna, esa luna!</p>
@@ -3664,7 +3632,7 @@
             <p><lg><l>Ya se acercan</l><l>Unos por la cañada y el otro por el río. </l></lg>
 																								Voy a alumbrar las piedras. ¿Qué necesitas?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>Nada.</p>
           </sp>
@@ -3672,7 +3640,7 @@
             <speaker>Luna</speaker>
             <p>El aire va llegando duro, con doble filo.</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <lg>
               <l>Ilumina el chaleco y aparta los botones,</l>
@@ -3691,7 +3659,7 @@
               </lg>
             </p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>No dejemos que pasen el arroyo. ¡Silencio!</p>
           </sp>
@@ -3699,14 +3667,14 @@
             <speaker>Luna</speaker>
             <p>¡Allí vienen!<stage> (Se va. Queda la escena oscura)</stage></p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <lg>
               <l>De prisa. ¡Mucha luz! ¿Me has oído?</l>
               <l>¡No pueden escaparse!</l>
             </lg>
           </sp>
-          <stage>(Entran el <rs key="#novo">novio</rs> y <rs key="#moz1">mozo 1</rs>. La <rs key="#mend">mendiga</rs> se sienta y se tapa con el manto).</stage>
+          <stage>(Entran el <rs key="#novo">novio</rs> y <rs key="#moz1">mozo 1</rs>. La <rs key="#muer">mendiga</rs> se sienta y se tapa con el manto).</stage>
           <sp who="#novo">
             <speaker>Novio</speaker>
             <p>Por aquí.</p>
@@ -3743,7 +3711,7 @@
             <speaker>Novio</speaker>
             <p>Calla. Estoy seguro de encontrármelos aquí. ¿Ves este brazo? Pues no es mi brazo. Es el brazo de mi hermano y el de mi padre y el de toda mi familia que está muerta. Y tiene tanto poderío, que puede arrancar este árbol de raíz si quiere. Y vamos pronto, que siento los dientes de todos los míos clavados aquí de una manera que se me hace imposible respirar tranquilo.</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><stage>(Quejándose)</stage>
 																								¡Ay!</p>
@@ -3764,8 +3732,8 @@
             <speaker>Novio</speaker>
             <p>Una caza. La más grande que se puede hacer.</p>
           </sp>
-          <stage>(Se va el <rs key="#moz1">Mozo 1</rs>. El <rs key="#novo">novio</rs> se dirige rápidamente hacia la izquierda y tropieza con la <rs key="#mend">mendiga</rs>. La muerte).</stage>
-          <sp who="#mend">
+          <stage>(Se va el <rs key="#moz1">Mozo 1</rs>. El <rs key="#novo">novio</rs> se dirige rápidamente hacia la izquierda y tropieza con la <rs key="#muer">mendiga</rs>. La muerte).</stage>
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>¡Ay!</p>
           </sp>
@@ -3773,7 +3741,7 @@
             <speaker>Novio</speaker>
             <p>¿Qué quieres?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>Tengo frío.</p>
           </sp>
@@ -3781,7 +3749,7 @@
             <speaker>Novio</speaker>
             <p>¿Adónde te diriges?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><stage>(Siempre quejándose como una mendiga)</stage>Allá lejos.</p>
           </sp>
@@ -3789,7 +3757,7 @@
             <speaker>Novio</speaker>
             <p>¿De dónde vienes?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>De allí…, de muy lejos.</p>
           </sp>
@@ -3797,7 +3765,7 @@
             <speaker>Novio</speaker>
             <p>¿Viste un hombre y una mujer que corrían montados en un caballo?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><stage>(Despertándose)</stage> Espera… <stage>(Lo mira).</stage> Hermoso galán. <stage>(Se levanta).</stage> Pero mucho más hermoso si estuviera dormido.</p>
           </sp>
@@ -3805,15 +3773,15 @@
             <speaker>Novio</speaker>
             <p>Dime, contesta, ¿los viste?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>Espera… ¡Qué espaldas más anchas! ¿Cómo no te gusta estar tendido sobre ellas y no andar sobre las plantas de los pies, que son tan chicas?</p>
           </sp>
           <sp who="#novo">
             <speaker>Novio</speaker>
-            <p><stage>(Zamarreándola<!--SGA: comprobar primera edición-->)</stage>¡Te digo si los viste! ¿Han pasado por aquí?</p>
+            <p><stage>(Zamarreándola<!--sga: comprobar primera edición-->)</stage>¡Te digo si los viste! ¿Han pasado por aquí?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><stage>(Enérgica)</stage>
 																								No han pasado; pero están saliendo de la colina. ¿No los oyes?</p>
@@ -3822,7 +3790,7 @@
             <speaker>Novio</speaker>
             <p>No.</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>¿Tú no conoces el camino?</p>
           </sp>
@@ -3830,7 +3798,7 @@
             <speaker>Novio</speaker>
             <p>¡Iré sea como sea!</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p>Te acompañaré. Conozco esta tierra.</p>
           </sp>
@@ -3838,11 +3806,11 @@
             <speaker>Novio</speaker>
             <p><stage>(Impaciente)</stage>¡Pero vamos! ¿Por dónde?</p>
           </sp>
-          <sp who="#mend">
+          <sp who="#muer">
             <speaker>Mendiga</speaker>
             <p><stage>(Dramática)</stage>¡Por allí!</p>
           </sp>
-          <stage>(Salen rápidos. Se oyen lejanos dos violines que expresan el bosque. Vuelven los leñadores<!--SGA: ¿Cómo se marcan los personajes colectivos?-->. Llevan las hachas al hombro. Pasan lentos entre los troncos).</stage>
+          <stage>(Salen rápidos. Se oyen lejanos dos violines que expresan el bosque. Vuelven los leñadores<!--sga: ¿Cómo se marcan los personajes colectivos?-->. Llevan las hachas al hombro. Pasan lentos entre los troncos).</stage>
           <sp who="#len1">
             <speaker>Leñador 1</speaker>
             <lg>
@@ -3864,7 +3832,7 @@
           <sp who="#len3">
             <speaker>Leñador 3</speaker>
             <p>¡No cubras de flores la boda!</p>
-            <!--SGA: verso o prosa? Confirmar con edición -->
+            <!--sga: verso o prosa? Confirmar con edición -->
           </sp>
           <sp who="#len2">
             <speaker>Leñador 2</speaker>
@@ -3888,7 +3856,7 @@
           <sp who="#nova">
             <speaker>Novia</speaker>
             <lg>
-              <!-->SGA: ¿es un poema? Comprobar con la primera edición-->
+              <!-->sga: ¿es un poema? Comprobar con la primera edición-->
               <l>Desde aquí yo me iré sola</l>
               <l>¡Vete! Quiero que te vuelvas.</l>
             </lg>
@@ -4119,7 +4087,7 @@
             <speaker>Leonardo</speaker>
             <p>
               <lg>
-                <!--SGA: ¿poema?-->
+                <!--sga: ¿poema?-->
                 <l>Silencio. Que no nos sientan</l>
                 <l>Tú delante. ¡Vamos, digo!</l>
               </lg>
@@ -4135,7 +4103,7 @@
             <p>
               <stage>(Abrazándola).</stage>
               <lg>
-                <!--SGA: ¿poema?-->
+                <!--sga: ¿poema?-->
                 <l>¡Como quieras!</l>
                 <l>Si nos separan,</l>
                 <l>será porque esté muerto.</l>
@@ -4150,7 +4118,7 @@
           <stage>(Aparece la luna muy despacio. La escena adquiere una fuerte luz azul. Se oyen los dos violines. Bruscamente se oyen dos largos gritos desgarrados, y se corta la música de los violines. Al segundo grito aparece la <rs key="luna">mendiga</rs> y queda de espaldas. Abre el manto y queda en el centro como un gran pájaro de alas inmensas. La luna se detiene. El telón baja en medio de un silencio absoluto).</stage>
           <stage>Telón</stage>
         </div>
-        <div type="scene" n="2">
+        <div n="2" type="scene">
           <head>Cuadro último</head>
           <stage>Habitación blanca con arcos y gruesos muros. A la derecha y a la izquierda escaleras blancas. Gran arco al fondo y pared del mismo color. El suelo será también de un blanco reluciente. Esta habitación simple tendrá un sentido monumental de iglesia. No habrá ni un gris, ni una sombra, ni siquiera lo preciso para la perspectiva.</stage>
           <stage>(Dos muchachas vestidas de azul oscuro están devanando una madeja roja).</stage>
@@ -4321,7 +4289,7 @@
             <p>
               <lg>
                 <l>No importa.</l>
-                <!--SGA: ¿acaba aquí el verso?-->
+                <!--sga: ¿acaba aquí el verso?-->
                 <l>Échate un velo en la cara.</l>
                 <l>Tus hijos son hijos tuyos</l>
                 <l>nada más. Sobre la cama</l>
@@ -4572,7 +4540,7 @@
               <l>La cruz, la cruz.</l>
             </lg>
           </sp>
-          <sp who="#muj1 #muj2">
+          <sp who="#mujs">
             <speaker>Mujeres</speaker>
             <lg>
               <l>Dulces clavos,</l>
