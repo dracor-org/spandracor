@@ -3,8 +3,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title type="main">Teresa</title>
+        <title type="sub">ensayo dramático en un acto y en prosa</title>
         <title type="short">Teresa</title>
-        <title type="full">Teresa: ensayo dramático en un acto y en prosa </title>
+        <title type="full">Teresa: ensayo dramático en un acto y en prosa</title>
         <title type="idno">
           <idno type="viaf"/>
           <idno type="bne">bimo0000824649</idno>
@@ -18,13 +20,20 @@
         <principal xml:id="mfm">Mireya Fernández Merino</principal>
         <principal xml:id="irm">Ignacio Roldán Martínez</principal>
       </titleStmt>
+      <editionStmt>
+        <edition>oportunistic</edition>
+      </editionStmt>
       <publicationStmt>
         <publisher>Ghedi (UNIR)</publisher>
         <availability status="free">
           <p>The text is freely available.</p>
         </availability>
         <date>2016</date>
-        <idno>018</idno>
+        <idno>
+          <idno type="number">018</idno>
+          <idno type="text">0.2</idno>
+          <idno type="structure">2.0</idno>
+        </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000018</idno>
         <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q63197172</idno>
       </publicationStmt>
@@ -57,39 +66,42 @@
       </sourceDesc>
     </fileDesc>
     <profileDesc>
+      <langUsage>
+        <language ident="es">español</language>
+      </langUsage>
+      <textDesc n="play">
+        <purpose type="ensayo-dramático"/>
+      </textDesc>
       <abstract>
         <p>Único acto: Fernando, el señorito de la casa en que ha servido Teresa, visita el pueblo minero donde ella vive con su marido, Roque; con Rita, la hermana de este, jovencita frágil y enfermiza; y la pequeña hija de ambos, Palmira. Anima la visita estudiar las condiciones de los trabajadores y, sobre todo, reencontrase con la antigua criada de quien sigue enamorado. La vida de Teresa es dura, llena de penurias y pesadumbre. Roque es un minero, trabajador, rudo, autoritario y machista, que busca promover los ideales socialistas entre sus compañeros y antepone la ideología y solidaridad hacia ellos al afecto filial. En una de sus ausencias, en que ha ido a leer los manifiestos revolucionarios en la taberna, Fernando se acerca a la casa y contempla la precaria situación en que vive Teresa. La conversación entre ellos se llena de recuerdos. Ante la declaración de su amor y la propuesta de irse con él y llevar a su hija, la mujer defiende su matrimonio. El regreso del marido junto a los mineros alerta a la pareja. Teresa esconde a Fernando en un rincón debajo de la escalera. Roque viene borracho y herido tras un altercado con uno de los parroquianos. Increpa y culpa a su mujer de haber sido sirvienta y defender a sus antiguos amos, de atarle y haberle engañado. En medio del altercado, cae insconsciente y su mujer lo atiende y cuida. Teresa ruega a Fernando que se vaya, la olvide y logre hacer vida junto a otra mujer. </p>
       </abstract>
       <particDesc>
-        <listPerson>
-          <person xml:id="palm">
-            <persName>Palmira </persName>
-          </person>
-          <person xml:id="fern">
-            <persName>Fernando</persName>
-          </person>
-          <person xml:id="rita">
-            <persName>Rita</persName>
-          </person>
-          <person xml:id="min2">
-            <persName>Minero 2</persName>
-          </person>
-          <person xml:id="min1">
-            <persName>Minero 1</persName>
-          </person>
-          <person xml:id="min3">
-            <persName>Minero 3</persName>
-          </person>
-          <person xml:id="roqu">
-            <persName>Roque</persName>
-          </person>
-          <person xml:id="tere">
+        <listPerson cert="medium">
+          <person xml:id="tere" sex="FEMALE">
             <persName>Teresa</persName>
           </person>
-          <person xml:id="mins">
-            <persName>Mineros</persName>
+          <person xml:id="rita" sex="FEMALE">
+            <persName>Rita</persName>
           </person>
-          <person xml:id="otro">
+          <person xml:id="palm" sex="FEMALE">
+            <persName>Palmira </persName>
+          </person>
+          <person xml:id="roqu" sex="MALE">
+            <persName>Roque</persName>
+          </person>
+          <person xml:id="fern" sex="MALE">
+            <persName>Fernando</persName>
+          </person>
+          <person xml:id="min1" sex="MALE">
+            <persName>Minero 1</persName>
+          </person>
+          <person xml:id="min2" sex="MALE">
+            <persName>Minero 2</persName>
+          </person>
+          <person xml:id="min3" sex="MALE">
+            <persName>Minero 3</persName>
+          </person>
+          <person xml:id="otro" sex="UNKNOWN">
             <persName>Otros</persName>
           </person>
         </listPerson>
@@ -98,8 +110,11 @@
     <revisionDesc status="approved">
       <change when="2016-09-28" who="#jct">De Cervantes Virtual a HTML.</change>
       <change when="2015-07-07" who="#jct">Pequeños cambios en algunos datos del teiHeader.</change>
-      <change when="2015-11-05" who="#tsm" status="proposed">Modernización gramatical según criterios y subsanación de erratas.</change>
-      <change when="2017-05-11" who="#jct" status="approved">Corregidos errores menores.</change>
+      <change status="proposed" when="2015-11-05" who="#tsm">Modernización gramatical según criterios y subsanación de erratas.</change>
+      <change status="approved" when="2017-05-11" who="#jct">Corregidos errores menores.</change>
+      <change when="2017-09-27" who="#jct">Cambios en metadatos</change>
+      <change when="2017-11-10" who="#emc">Revisión de metadatos a partir del resumen</change>
+      <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -108,35 +123,35 @@
         <castList>
           <head>Personajes</head>
           <castItem>
-            <role>Teresa</role>
+            <role corresp="#tere">Teresa</role>
             <roleDesc>Srta. Guerrero </roleDesc>
           </castItem>
           <castItem>
-            <role>Rita</role>
+            <role corresp="#rita">Rita</role>
             <roleDesc>Srta. Valdivia </roleDesc>
           </castItem>
           <castItem>
-            <role>Palmira </role>
+            <role corresp="#palm">Palmira </role>
             <roleDesc>Sr. Soriano </roleDesc>
           </castItem>
           <castItem>
-            <role>Roque</role>
+            <role corresp="#roqu">Roque</role>
             <roleDesc> SR. Perrín (Antonio) </roleDesc>
           </castItem>
           <castItem>
-            <role>Fernando</role>
+            <role corresp="#fern">Fernando</role>
             <roleDesc> Sr. Díaz de Mendoza</roleDesc>
           </castItem>
           <castItem>
-            <role>Minero 1</role>
+            <role corresp="#min1">Minero 1</role>
             <roleDesc>Sr. Núñez </roleDesc>
           </castItem>
           <castItem>
-            <role>Minero 2</role>
+            <role corresp="#min2">Minero 2</role>
             <roleDesc> Sr. Casielles</roleDesc>
           </castItem>
           <castItem>
-            <role>Minero 3</role>
+            <role corresp="#min3">Minero 3</role>
             <roleDesc> Sr. Torner</roleDesc>
           </castItem>
         </castList>
@@ -146,8 +161,8 @@
       </div>
     </front>
     <body>
-      <div type="act" n="1">
-        <div type="scene" n="1">
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <head>Escena Primera</head>
           <stage>Anochece. A ser posible, imítese alguno de los ruidos propios del campo, en verano, en los valles del Noroeste de España; por ejemplo, voces lejanas de aldeanos, rechino apagado de carretas. De no conseguir una imitación apropiada, es preferible prescindir de todo esto. Al levantarse el telón, se oirá a lo lejos un aire del país en un instrumento rústico (algo como gaita, dulzaina, caramillo o cosa análoga). <rs key="#rita">Rita</rs> (de unos dieciocho años), y <rs key="#palm">Palmira</rs> (de cinco a siete años). <rs key="#rita">Rita</rs> duerme de bruces sobre el montón de grava, viste traje de aldeana del país, mezclado con prendas de artesana de la ciudad, todo maltrecho, pobre. <rs key="#palm">Palmira</rs>, cerca de ella, sentada sobre el polvo de la carretera, desgreñada, descalza. Llora con cierto ritmo, cansada ya del llanto. Cuando suena la música lejana, deja de llorar. Cesa la música, y vuelve el llanto. Pasan por la carretera algunos grupos de tres o cuatro mineros, unos silenciosos, otros en conversación confusa, lenta, desanimada. Los más, llevan lámpara de minero. Tuercen por el primer término de la izquierda, donde hace curva la carretera, y desaparecen. Después <rs key="#fern">Fernando</rs>.</stage>
           <sp who="#palm">
@@ -271,7 +286,7 @@
             <p> Por allí viene gente: un grupo. Serán mineros. Sí: <rs key="#roqu">Roque</rs>... y <rs key="#tere">Teresa</rs>... y más serán. No quiero que me vean. Ahora no. La niña diría lo de la peseta; y ese <rs key="#roqu">Roque</rs> es altivo, creo. No querrá limosnas, de fijo. Además, le he visto mirarme con malos ojos. Tal vez sospecha. Pero yo he de verla, he de hablar con ella otra vez. Mañana, al ser de día, sale el tren, y he de marchar; no hay remedio. Sí: hablaré a <rs key="#tere">Teresa</rs> esta noche. Si puedo, aquí, a solas, cuando él salga, pues sé que sale: va a perorar a la taberna. Y si no, con un pretexto, entraré luego ahí, aunque esté <rs key="#roqu">Roque</rs>. Se acercan. Ahora, a mi escondite, ahí, en la Foz, entre los árboles, donde la contemplé esta tarde... ¡tan triste, tan pobre, tan dulce en su miseria...! Perdida la lozanía... y más hermosa. ¡Mi pobre ilusión del amor humilde, puro, respetuoso... no desvanecida, no, transformada; deshecha en humo, no: convertida en olorosa nube de ideal incienso, de impasible abnegación, de tristeza inexorable. ¡Oh, realidad, maestra de la vida y de la muerte! ¡Poética en tus desengaños, como este crepúsculo en la aldea! <stage>(Se oye a lo lejos rumor de voces en disputa áspera, sorda, lenta: otras veces la voz de <rs key="#palm">Palmira</rs> que llama a su madre; y por fin, la gaita o caramillo, muy lejos, perdiéndose en la distancia. <rs key="#fern">Fernando</rs> sale de la escena por el primer término izquierda: al sentir acercarse por la carretera un grupo de mineras.)  </stage>  </p>
           </sp>
         </div>
-        <div type="scene" n="2">
+        <div n="2" type="scene">
           <head>Escena Segunda</head>
           <stage><rs key="#rita">Rita</rs>; <rs key="#roqu">Roque</rs> y varios mineros.Llega al primer término de la izquierda un grupo de mineros, entre ellos <rs key="#roqu">Roque</rs>, el cual manifiesta al andar que tiene un pie herido: el zapato de este pie, roto por delante.</stage>
           <sp who="#min2">
@@ -419,7 +434,7 @@
             <p> ¡Ah! sí... ¡voy! ¡voy! «¡Rayo en la miseria! ¡Que arda el mundo! Lo mejor es eso, ¡que arda el mundo!» <rs key="#rita">Rita</rs>, cena. Cena... chocolate si queda. Ya sabes lo que ha dicho el médico; sin comer no hay vida.   <stage>(A los mineros.)</stage> Vamos. </p>
           </sp>
         </div>
-        <div type="scene" n="3">
+        <div n="3" type="scene">
           <head>Escena Tercera</head>
           <stage>Dichos y <rs key="#tere">Teresa</rs>.El mismo traje aproximadamente que <rs key="#rita">Rita</rs>. Trae sobre la cabeza una herrada llena de agua que rebosa y le cae sobre los hombros, <rs key="#palm">Palmira</rs> viene cogida a la falda de su madre.</stage>
           <sp who="#tere">
@@ -498,7 +513,7 @@
             <speaker>Roque</speaker>
             <p>¡Es del diablo! <stage>(Arroja la moneda lejos.) </stage>  ¡A callar todo el mundo! Ya lo veis amigos; yo predico, y hago lo que predico. La limosna envilece. La caridad, ¡pamplina! ¡humillación! ¡Derecho! ¡justicia! ¡venganza!</p>
           </sp>
-          <sp who="#mins">
+          <sp who="#min1 #min2 #min3">
             <speaker>Mineros</speaker>
             <p>¡Eso, eso!</p>
           </sp>
@@ -527,7 +542,7 @@
             <p> Que no hay justicia en la tierra; ya lo sé. A eso vamos; a buscarla. ¡Adelante, adelante! <stage> (Sale por la izquierda con los demás mineros.) </stage>  </p>
           </sp>
         </div>
-        <div type="scene" n="4">
+        <div n="4" type="scene">
           <head>Escena Cuarta</head>
           <stage><rs key="#tere">Teresa</rs>, <rs key="#rita">Rita</rs> y <rs key="#palm">Palmira</rs>.Mientras hablan <rs key="#tere">Teresa</rs> y <rs key="#rita">Rita</rs>, <rs key="#palm">Palmira</rs> entra sollozando en la casa; se sube sobre un banco de madera; busca en el cajón de la mesa; saca un pedazo de pan, y llorando y comiendo, se queda dormida en el suelo, junto a la mesa.</stage>
           <sp who="#tere">
@@ -671,7 +686,7 @@
             <p> ¡<rs key="#rita">Rita</rs>! ¡<rs key="#rita">Rita</rs>! ¿qué es eso? <stage>(<rs key="#rita">Rita</rs> estará como desmayada o dormida con sopor.)</stage>Dormida... ¿o estará mala? ¡<rs key="#rita">Rita</rs>! ¡<rs key="#rita">Rita</rs>! ¿No cenas? Como un poste. Si la dejo aquí, la mata el fresco. ¡Y sin probar bocado desde medio día! ¡<rs key="#rita">Rita</rs>! ¡Bah! ¿qué remedio? Armas al hombro. <stage>(Procura cogerla en brazos.)</stage> Ay; pero ésta pesa más que mi ángel... No importa; al hombro.<stage>(Hace un esfuerzo, y cuando ya la tiene a cuestas, tocando los pies de <rs key="#rita">Rita</rs> en tierra, y <rs key="#tere">Teresa</rs> inclinándose bajo la carga y buscando, con un brazo extendido, un apoyo, se le pone delante <rs key="#fern">Fernando</rs>, que llega por el primer término izquierda. Hay luna, y de la casa sale un reflejo del quinqué.)</stage> ¿Quién anda ahí? ¡Ah! ¡El señorito! </p>
           </sp>
         </div>
-        <div type="scene" n="5">
+        <div n="5" type="scene">
           <head>Escena Quinta</head>
           <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>; <rs key="#rita">Rita</rs>, que no habla más.</stage>
           <sp who="#tere">
@@ -703,7 +718,7 @@
             <p> No, señor. ¡Qué criada! No. Es hermana de <rs key="#roqu">Roque</rs>. No tiene padre ni madre. Es <rs key="#rita">Rita</rs>; nuestra <rs key="#rita">Rita</rs>. <stage>(Salen de la escena por la primera puerta de la derecha y vuelven a poco.) </stage> </p>
           </sp>
         </div>
-        <div type="scene" n="6">
+        <div n="6" type="scene">
           <head>Escena Sexta</head>
           <stage><rs key="#fern">Fernando</rs>, detrás; y a poco <rs key="#tere">Teresa</rs>.-</stage>
           <sp who="#fern">
@@ -1067,7 +1082,7 @@
             <p> Si no es por usted; si es por mí... por lo único mío que no es un andrajo, una miseria; por esta honra que tan bien guardaban usted y su madre, allí en el palacio de Soto... ¡Porque yo no quiero que mi <rs key="#roqu">Roque</rs> me crea mala... y haya aquí sangre... y deshonra!... ¡Por esa hija que duerme con hambre! <stage>(Se oyen más cerca los gritos; aparece en el primer término izquierda un grupo, en medio de él, <rs key="#roqu">Roque</rs>, vociferando.) </stage></p>
           </sp>
         </div>
-        <div type="scene" n="7">
+        <div n="7" type="scene">
           <head>Escena Séptima</head>
           <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs> en la casa; fuera <rs key="#roqu">Roque</rs> y grupo de <rs key="#min1 #min2">Mineros</rs>.</stage>
           <sp who="#roqu">
@@ -1098,7 +1113,7 @@
             <speaker>Roque</speaker>
             <p>¡Rayos! Iré... y arda el mundo. Y si vienen los guardias, ¡a ellos! ¡Miserables! Son verdugos; son cómplices. </p>
           </sp>
-          <sp who="#mins">
+          <sp who="#min1 #min2 #min3">
             <speaker>Mineros</speaker>
             <p>  ¡Buenas noches! </p>
           </sp>
@@ -1155,7 +1170,7 @@
             <p> ¿Estás sorda? ¿Qué hacías? ¿Por qué no vienes? Abre ahí de par en par; que vean todos que en mi casa no hay señores. </p>
           </sp>
         </div>
-        <div type="scene" n="8">
+        <div n="8" type="scene">
           <head>Escena Octava</head>
           <stage><rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs>; <rs key="#fern">Fernando</rs>, escondido.-</stage>
           <sp who="#tere">
@@ -1239,7 +1254,7 @@
             <p> ¡Ah! ¿qué es eso? ¿Me amenazas? ¿Tú a mí? Aquí anduvo el señorito. Nunca has hecho eso. Consejos del señorito, ¿verdad? Eso quiero yo: ¡guerra, sangre! No: pero yo no te mato... Espera... espera... me falta algo... la luz... ya... sé... la vara del guardia... allá dentro la tengo... Ya la conoces... se la arranqué a un guardia que azotaba a un minero el día de la huelga... ¿Dónde está, mala pécora? ¡Ay de ti si la has escondido! Si no parece, con esto te aplasto. <stage>(Sacudiendo en la mano la lámpara de minero que estaba sobre la mesa. Sale, arrastrando el pie, tropezando con todo, por la puerta del segundo término de la derecha. Se ha de notar en su gesto, voz y actitudes, que la excitación aumenta por momentos el desvarío de la embriaguez y la ira.)  </stage></p>
           </sp>
         </div>
-        <div type="scene" n="9">
+        <div n="9" type="scene">
           <head>Escena Novena</head>
           <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>.<rs key="#tere">Teresa</rs> se deja caer sollozando sobre una silla de paja que hay cerca de la ventana. <rs key="#fern">Fernando</rs> sale de su escondite.</stage>
           <sp who="#tere">
@@ -1303,7 +1318,7 @@
             <p><stage>(Arrebatada por el pavor, coge a <rs key="#fern">Fernando</rs> por medio del cuerpo, le impele hacia la puerta, que cierra por dentro con cerrojo y se vuelve de frente a la habitación en que habla <rs key="#roqu">Roque</rs>. Al arrojar a <rs key="#fern">Fernando</rs>, en voz baja, enérgica, dice.) </stage> ¡Fuera digo; fuera!</p>
           </sp>
         </div>
-        <div type="scene" n="10">
+        <div n="10" type="scene">
           <head>Escena Décima</head>
           <stage><rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs> en la casa; <rs key="#fern">Fernando</rs> fuera.<rs key="#roqu">Roque</rs> aparece en el umbral, donde se detiene, apoyándose en el marco de la puerta. Cada vez anda con más dificultad. Dará muestras de gran fatiga, postración sombría, más furor, pero más ciego, incoherente y de difícil expresión.</stage>
           <sp who="#roqu">
@@ -1463,7 +1478,7 @@
             <p> ¡Eso! ¡Eso! La santa madre nos bendiga. <stage>(Según <rs key="#fern">Fernando</rs> se aleja lentamente, vuelve el rostro hacia la casa; <rs key="#tere">Teresa</rs>, sacando el busto fuera como si quisiera seguirle sin moverse, va dando más expresión de ternura a sus palabras de despedida.)</stage> Hasta... cuando Dios quiera... Buenas noches... <stage>(Ya no se ve a <rs key="#fern">Fernando</rs>.)</stage> Buenas noches, señorito.</p>
           </sp>
         </div>
-        <div type="scene" n="11">
+        <div n="11" type="scene">
           <head>Escena Undécima</head>
           <stage><rs key="#tere">Teresa</rs>; <rs key="#roqu">Roque</rs>, en tierra. Después que pierde el ruido de los pasos de <rs key="#fern">Fernando</rs>, se vuelve, a <rs key="#roqu">Roque</rs>, aletargado.</stage>
           <sp who="#tere">
