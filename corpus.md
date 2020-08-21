@@ -1,1 +1,0 @@
-Forked from the [BETTE corpus](https://github.com/GHEDI/BETTE) (Biblioteca Electrónica Textual del Teatro en Español de 1868–1936).
