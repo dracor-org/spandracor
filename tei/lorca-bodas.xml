@@ -34,7 +34,7 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000041</idno>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q886624</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q886624</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
