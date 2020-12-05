@@ -45,7 +45,7 @@
       <idno type="dracor" xml:base="https://dracor.org/id/">
         <xsl:value-of select="concat('span000', $idno)"/>
       </idno>
-      <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">
+      <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">
         <xsl:value-of select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
       </idno>
     </publicationStmt>
