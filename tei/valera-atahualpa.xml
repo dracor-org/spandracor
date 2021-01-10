@@ -11,9 +11,12 @@
           <idno type="viaf"/>
           <idno type="bne"/>
         </title>
-        <author key="wikidata:Q463630">
-          <name type="full">Juan Valera</name>
-          <name type="short">Valera</name>
+        <author>
+          <persName>
+            <forename>Juan</forename>
+            <surname>Valera</surname>
+          </persName>
+          <idno type="wikidata">Q463630</idno>
           <idno type="viaf">46770556</idno>
           <idno type="bne">XX918093</idno>
         </author>

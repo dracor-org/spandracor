@@ -10,9 +10,13 @@
           <idno type="viaf">210973152</idno>
           <idno type="bne">XX2804277</idno>
         </title>
-        <author key="wikidata:Q185085">
-          <name type="full">Miguel de Unamuno</name>
-          <name type="short">Unamuno</name>
+        <author>
+          <persName>
+            <forename>Miguel</forename>
+            <nameLink>de</nameLink>
+            <surname>Unamuno</surname>
+          </persName>
+          <idno type="wikidata">Q185085</idno>
           <idno type="viaf">88844103</idno>
           <idno type="bne">XX1139151</idno>
         </author>

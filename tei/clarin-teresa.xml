@@ -11,9 +11,13 @@
           <idno type="viaf"/>
           <idno type="bne">bimo0000824649</idno>
         </title>
-        <author key="wikidata:Q312747">
-          <name type="full">Leopoldo Alas</name>
-          <name type="short">Clarin</name>
+        <author>
+          <persName type="pen">Clarín</persName>
+          <persName>
+            <forename>Leopoldo</forename>
+            <surname>Alas</surname>
+          </persName>
+          <idno type="wikidata">Q312747</idno>
           <idno type="viaf">17218138</idno>
           <idno type="bne">XX922976</idno>
         </author>

@@ -11,9 +11,13 @@
           <idno type="viaf"/>
           <idno type="bne">XX2677398</idno>
         </title>
-        <author key="wikidata:Q3322907">
-          <name type="full">Pedro Muñoz Seca</name>
-          <name type="short">Munoz</name>
+        <author>
+          <persName>
+            <forename>Pedro</forename>
+            <surname>Muñoz</surname>
+            <surname>Seca</surname>
+          </persName>
+          <idno type="wikidata">Q3322907</idno>
           <idno type="viaf">24776670</idno>
           <idno type="bne">XX983355</idno>
         </author>

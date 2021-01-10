@@ -10,9 +10,13 @@
           <idno type="viaf">180243104</idno>
           <idno type="bne">XX3383597</idno>
         </title>
-        <author key="wikidata:Q41408">
-          <name type="full">Federico García Lorca</name>
-          <name type="short">Lorca</name>
+        <author>
+          <persName>
+            <forename>Federico</forename>
+            <surname>García</surname>
+            <surname sort="1">Lorca</surname>
+          </persName>
+          <idno type="wikidata">Q41408</idno>
           <idno type="viaf">34456883</idno>
           <idno type="bne">XX841898</idno>
         </author>

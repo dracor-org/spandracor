@@ -11,9 +11,12 @@
           <idno type="viaf">185472416</idno>
           <idno type="bne">XX1634955</idno>
         </title>
-        <author key="wikidata:Q2450746">
-          <name type="full">Joaquín Dicenta</name>
-          <name type="short">Dicenta</name>
+        <author>
+          <persName>
+            <forename>Joaquín</forename>
+            <surname>Dicenta</surname>
+          </persName>
+          <idno type="wikidata">Q2450746</idno>
           <idno type="viaf">68949187</idno>
           <idno type="bne">XX2416036</idno>
         </author>

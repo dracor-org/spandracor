@@ -11,9 +11,12 @@
           <idno type="viaf"/>
           <idno type="bne">bimo0000803288</idno>
         </title>
-        <author key="wikidata:Q127349">
-          <name type="full">José Echegaray</name>
-          <name type="short">Echegaray</name>
+        <author>
+          <persName>
+            <forename>José</forename>
+            <surname>Echegaray</surname>
+          </persName>
+          <idno type="wikidata">Q127349</idno>
           <idno type="viaf">79077383</idno>
           <idno type="bne">XX910695</idno>
         </author>

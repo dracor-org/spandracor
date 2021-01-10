@@ -11,9 +11,15 @@
           <idno type="viaf">68936773</idno>
           <idno type="bne">XX2215982</idno>
         </title>
-        <author key="wikidata:Q311001">
-          <name type="full">Ramón María del Valle Inclán</name>
-          <name type="short">Valle</name>
+        <author>
+          <persName>
+            <forename>Ramón</forename>
+            <forename>María</forename>
+            <nameLink>del</nameLink>
+            <surname>Valle</surname>
+            <surname>Inclán</surname>
+          </persName>
+          <idno type="wikidata">Q311001</idno>
           <idno type="viaf">197999653</idno>
           <idno type="bne">XX1055436</idno>
         </author>

@@ -11,9 +11,13 @@
           <idno type="viaf"/>
           <idno type="bne">bimo0001295349</idno>
         </title>
-        <author key="wikidata:Q189869">
-          <name type="full">Benito Pérez Galdós</name>
-          <name type="short">Galdos</name>
+        <author>
+          <persName>
+            <forename>Benito</forename>
+            <surname>Pérez</surname>
+            <surname sort="1">Galdós</surname>
+          </persName>
+          <idno type="wikidata">Q189869</idno>
           <idno type="viaf">71395987</idno>
           <idno type="bne">XX1014802</idno>
         </author>

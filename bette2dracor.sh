@@ -20,5 +20,8 @@ for f in ./BETTE/corpus/TEI/*.xml; do
     | sed 's/valle-divinaspalabras/valle-divinas-palabras/')
   echo $n
   # add particDesc and Wikidata IDs
-  saxon $f bette2dracor.xsl | xmllint --format - > tei/$n.xml
+  # strip reduntant xmlns:* attributes inserted by saxon
+  saxon $f bette2dracor.xsl \
+  | sed 's/<persName xmlns:xsl="http:\/\/www\.w3\.org\/1999\/XSL\/Transform" xmlns:tei="http:\/\/www\.tei-c\.org\/ns\/1\.0"/<persName/g' \
+  | xmllint --format - > tei/$n.xml
 done
