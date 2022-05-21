@@ -657,7 +657,8 @@
             <speaker>Sabelita</speaker>
             <p>No soy cirujana.</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs> mete el puño en la boca del alano, que gime hostigado, pero sin morderle. <rs key="#sabe">Sabelita</rs> le mira fijamente, los ojos ingenuos y francos como los de una niña.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs> mete el puño en la boca del alano, que gime hostigado, pero sin morderle. <rs key="#sabe">Sabelita</rs> le mira fijamente, los ojos ingenuos y francos como los de una niña.</stage>
           <sp who="#sabe">
             <speaker>Sabelita</speaker>
             <p>¡No tienes los cabales!</p>
@@ -674,7 +675,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Pues que siga con la espina!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs> salta en pie, con gentil y violento alarde. Tiene el cabello de oro, los ojos de alegre verde, la nariz de águila imperial. <rs key="#sabe">Sabelita</rs>, arrodillada al pie del can, sobre el suelo de piedra, se afana por sacarle la espina que tiene clavada en el brazuelo. El <rs key="#cara">hermoso segundón</rs> vuelve a su lado.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs> salta en pie, con gentil y violento alarde. Tiene el cabello de oro, los ojos de alegre verde, la nariz de águila imperial. <rs key="#sabe">Sabelita</rs>, arrodillada al pie del can, sobre el suelo de piedra, se afana por sacarle la espina que tiene clavada en el brazuelo. El <rs key="#cara">hermoso segundón</rs> vuelve a su lado.</stage>
           <sp who="#sabe">
             <speaker>Sabelita</speaker>
             <p>¡Loco!</p>
@@ -759,7 +761,8 @@
             <speaker>Sabelita</speaker>
             <p>¡Cómo te gusta cavilar en el pecado! Y no me das miedo, <rs key="#cara">Carita de Plata</rs>… Pero si me quieres, quiéreme honesta.</p>
           </sp>
-          <stage><rs key="#caba">Don Juan Manuel Montenegro</rs>, con la escopeta y el galgo, rufo y madrugador, aparece por el huerto de frutales y se detiene en la cancela. Es un hidalgo mujeriego y despótico, hospitalario y violento, rey suevo en su Pazo de Lantañón </stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel Montenegro</rs>, con la escopeta y el galgo, rufo y madrugador, aparece por el huerto de frutales y se detiene en la cancela. Es un hidalgo mujeriego y despótico, hospitalario y violento, rey suevo en su Pazo de Lantañón </stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p><rs key="#cara">Cara de Plata</rs>, deja la buena compañía y ven a rendir tu cuenta. Ayer te esperaba. ¡Muy largo se ha vuelto el camino de Viana!</p>
@@ -784,7 +787,8 @@
             <speaker>Cara de Plata</speaker>
             <p>Lo tendré presente.</p>
           </sp>
-          <stage><rs key="#caba">Don Juan Manuel</rs> le mira con enojo risueño: siente por aquel hijo una afección indulgente y ruda. El gentil mancebo está en pie delante de su padre, la boca seria y un alegre ímpetu en el verde cristal de los ojos.</stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel</rs> le mira con enojo risueño: siente por aquel hijo una afección indulgente y ruda. El gentil mancebo está en pie delante de su padre, la boca seria y un alegre ímpetu en el verde cristal de los ojos.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¿Queda en buena salud tu <rs key="#mari">madre</rs>?</p>
@@ -853,7 +857,8 @@
             <speaker>El Caballero</speaker>
             <p>Tus hermanos te pervierten con sus malos ejemplos. Escúchame. No te pido que seas un santo, cada edad reclama lo suyo, pero no olvides las obligaciones de tu sangre, como hacen los otros perversos.</p>
           </sp>
-          <stage><rs key="#caba">El linajudo</rs> acabó de hablar con un gran suspiro, los brazos sobre los hombros del mancebo, que pronto y liberal se arranca y besa la mano del viejo.</stage>
+          <stage>
+            <rs key="#caba">El linajudo</rs> acabó de hablar con un gran suspiro, los brazos sobre los hombros del mancebo, que pronto y liberal se arranca y besa la mano del viejo.</stage>
           <sp who="#cara">
             <speaker>Cara de Plata</speaker>
             <p><rs key="#caba">Padre</rs>, yo aquello que hago, bueno o malo, lo hago sin consejo.</p>
@@ -960,7 +965,8 @@
             <speaker>Fuso Negro</speaker>
             <p>¡Touporroutou! ¡Se juntó una tropa de irmandiños! ¡Touporroutou! ¡Para acá viene! ¡La torre entre todos nos han de quemar! ¡Touporroutou!</p>
           </sp>
-          <stage><rs key="#fuso">Fuso Negro</rs> se esguinza con una espantada, sacando la lengua. Una nalga negruzca le palpita entre jirones de remiendos. ¡Touporroutou! De pronto se vuelve, y comienza a bailar, trenzando las piernas. ¡Touporroutou!</stage>
+          <stage>
+            <rs key="#fuso">Fuso Negro</rs> se esguinza con una espantada, sacando la lengua. Una nalga negruzca le palpita entre jirones de remiendos. ¡Touporroutou! De pronto se vuelve, y comienza a bailar, trenzando las piernas. ¡Touporroutou!</stage>
         </div>
         <div n="3" type="scene">
           <head>Escena tercera</head>
@@ -1029,7 +1035,8 @@
             <speaker>El viejo de Cures</speaker>
             <p>¡Amén! Nieves paternas para el hijo espejos. ¡Así es! Y grillos de bronce sus mandamientos.</p>
           </sp>
-          <stage><rs key="#viej">El viejo</rs> con la vara en alto, hace retroceder el tropel de sus vacas que entrechoca las cuernas, entornado por las voces y las picas de tantos hijos y nietos, sangre de <rs key="#viej">Quinto de Cures</rs>. Y aquel negro jinete que sobre el sol llega trotando es <rs key="#abad">el Abad</rs> de San Clemente de Lantañón.</stage>
+          <stage>
+            <rs key="#viej">El viejo</rs> con la vara en alto, hace retroceder el tropel de sus vacas que entrechoca las cuernas, entornado por las voces y las picas de tantos hijos y nietos, sangre de <rs key="#viej">Quinto de Cures</rs>. Y aquel negro jinete que sobre el sol llega trotando es <rs key="#abad">el Abad</rs> de San Clemente de Lantañón.</stage>
           <sp who="#cara">
             <speaker>Cara de Plata</speaker>
             <p>¡Señor <rs key="#abad">Abad</rs>, tuerza el caballo!</p>
@@ -1178,11 +1185,13 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Venid a ganarlo!</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs> vuelve grupas y pone espuelas. Sobre los roquedos, ágiles siluetas pastoriles gritan agitando los brazos, y esparcidos rebaños pacen en torno: voces y ladridos se prolongan y encadenan por la quebrada.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs> vuelve grupas y pone espuelas. Sobre los roquedos, ágiles siluetas pastoriles gritan agitando los brazos, y esparcidos rebaños pacen en torno: voces y ladridos se prolongan y encadenan por la quebrada.</stage>
         </div>
         <div n="4" type="scene">
           <head>Escena cuarta</head>
-          <stage><rs key="#abad">El Abad</rs> de Lantañón con escolta de chalanes y boyeros, entra por la verde quintana de su iglesia, y ante el portón de la rectoral, descabalga. <rs key="#sac1">Blas de Míguez, el sacristán</rs>, acude a tenerle el bridón de la montura. Tumulto de voces quiebra el verde y aldeano silencio. El tonsurado esquivo y sin hablar palabra, se mete por las puertas de la sacristía. Negro, zancudo, angosto, desaparece en la tiniebla de arcones y santos viejos. A poco retorna, y en el quicio de la puerta hace disimulo de no mirar a los chalanes, atento al tempero. Disputa el tropel de feriantes y se mueven las picas entre gritos y gestos. De pronto, sobre el patín de la rectoral, aparece una dueña pilonga, muy halduda, que con la rueca en la cinta tuerce el huso y escupe en el dedo. Es <rs key="#jero">doña Jeromita</rs>, la hermana de <rs key="#abad">el Abad</rs>.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs> de Lantañón con escolta de chalanes y boyeros, entra por la verde quintana de su iglesia, y ante el portón de la rectoral, descabalga. <rs key="#sac1">Blas de Míguez, el sacristán</rs>, acude a tenerle el bridón de la montura. Tumulto de voces quiebra el verde y aldeano silencio. El tonsurado esquivo y sin hablar palabra, se mete por las puertas de la sacristía. Negro, zancudo, angosto, desaparece en la tiniebla de arcones y santos viejos. A poco retorna, y en el quicio de la puerta hace disimulo de no mirar a los chalanes, atento al tempero. Disputa el tropel de feriantes y se mueven las picas entre gritos y gestos. De pronto, sobre el patín de la rectoral, aparece una dueña pilonga, muy halduda, que con la rueca en la cinta tuerce el huso y escupe en el dedo. Es <rs key="#jero">doña Jeromita</rs>, la hermana de <rs key="#abad">el Abad</rs>.</stage>
           <sp who="#jero">
             <speaker>Doña Jeromita</speaker>
             <p>¡Jesús, con las voces! ¡Pues aunque estuvieseis a la puerta de un ventorrillo! ¡No habléis todos a una, selváticos! ¡Hermano, ponga paz!</p>
@@ -1203,7 +1212,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>¡Jesús, mil veces!</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs> vuelve a entrarse por la puerta de la sacristía. <rs key="#sac1">Blas de Míguez</rs> le sigue sonando las llaves de la iglesia. <rs key="#jero">Doña Jeromita</rs>, con la rueca en la cintura y los brazos en aspa, baja la escalera del patín.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs> vuelve a entrarse por la puerta de la sacristía. <rs key="#sac1">Blas de Míguez</rs> le sigue sonando las llaves de la iglesia. <rs key="#jero">Doña Jeromita</rs>, con la rueca en la cintura y los brazos en aspa, baja la escalera del patín.</stage>
           <sp who="#jero">
             <speaker>Doña Jeromita</speaker>
             <p>No habléis todos a una. ¡Ay, Dios, que me entere! ¿Con quién tuvo mi hermano ese mal encuentro?</p>
@@ -1256,7 +1266,8 @@
             <speaker>Sebastián de Xogas</speaker>
             <p>Y el nuestro por el igual. No eres tú el solo. Tú eres uno como los más, y no te pongas el primero. El clamor de todos es tener por cabeza a nuestro <rs key="#abad">Abad</rs>.</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs>, negro y escueto, reaparece en la puerta de la sacristía, con el breviario entre las manos. La tropa de chalanes y boyeros queda silenciosa, esperando que hable, y la dueña pilonga, con la rueca en la cinta y el huso bailándole al flanco, se espanta en el ruedo del halda, los brazos abiertos, aspadas las manos.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs>, negro y escueto, reaparece en la puerta de la sacristía, con el breviario entre las manos. La tropa de chalanes y boyeros queda silenciosa, esperando que hable, y la dueña pilonga, con la rueca en la cinta y el huso bailándole al flanco, se espanta en el ruedo del halda, los brazos abiertos, aspadas las manos.</stage>
           <sp who="#abad">
             <speaker>El Abad</speaker>
             <p>¿Qué esperáis?</p>
@@ -1389,7 +1400,8 @@
             <speaker>El Abad</speaker>
             <p><rs key="#jero">Jeromita</rs>, saca un jarro de vino para que estos amigos se refresquen. Yo voy a rezar mi breviario.</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs>, signándose de prisa, y paseando a la sombra del muro, comienza el rezo canónico. La tropa de chalanes se reparte por el murete de la quintana, en espera del jarro de mosto. Era famoso el vino de la rectoral.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs>, signándose de prisa, y paseando a la sombra del muro, comienza el rezo canónico. La tropa de chalanes se reparte por el murete de la quintana, en espera del jarro de mosto. Era famoso el vino de la rectoral.</stage>
         </div>
         <div n="5" type="scene">
           <head>Escena quinta</head>
@@ -1470,7 +1482,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>Jesús, mil veces!</p>
           </sp>
-          <stage><rs key="#sabe">Sabelita</rs> aparece por la sombra de los limoneros. Canta la nota popular y dramática del hábito morado, en la penumbra verde. Tiene la niña esa expresión triste que tienen las dalias en los floreros. Viendo a la dueña pilonga, corre a ella.</stage>
+          <stage>
+            <rs key="#sabe">Sabelita</rs> aparece por la sombra de los limoneros. Canta la nota popular y dramática del hábito morado, en la penumbra verde. Tiene la niña esa expresión triste que tienen las dalias en los floreros. Viendo a la dueña pilonga, corre a ella.</stage>
           <sp who="#sabe">
             <speaker>Sabelita</speaker>
             <p>¿Ocurre algo, mi tía?</p>
@@ -1743,7 +1756,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>Ponte a mi vera.</p>
           </sp>
-          <stage><rs key="#caba">El mayorazgo</rs>, al salir por la puerta de su torre, se ha detenido en la gran sombra de piedra. <rs key="#sac1">Blas de Míguez, el sacristán</rs>, salta y gime al flanco del <rs key="#caba">linajudo</rs>, que le prende de una oreja con mofa feudal, cercado de perdigueros y galgos.</stage>
+          <stage>
+            <rs key="#caba">El mayorazgo</rs>, al salir por la puerta de su torre, se ha detenido en la gran sombra de piedra. <rs key="#sac1">Blas de Míguez, el sacristán</rs>, salta y gime al flanco del <rs key="#caba">linajudo</rs>, que le prende de una oreja con mofa feudal, cercado de perdigueros y galgos.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>Este <rs key="#sac1">chupacirios</rs> me ha traído una embajada.</p>
@@ -1804,7 +1818,8 @@
             <speaker>El Sacristán</speaker>
             <p>¡Ay, mi ropa rachada!</p>
           </sp>
-          <stage><rs key="#sac1">El Sacristán</rs>, renqueando, éntrase por el enlosado zaguán, y en la sombra sonora del arco, ríe con su ruda risa feudal el viejo <rs key="#caba">Montenegro</rs>.</stage>
+          <stage>
+            <rs key="#sac1">El Sacristán</rs>, renqueando, éntrase por el enlosado zaguán, y en la sombra sonora del arco, ríe con su ruda risa feudal el viejo <rs key="#caba">Montenegro</rs>.</stage>
           <sp who="#jero">
             <speaker>Doña Jeromita</speaker>
             <p>¡Qué genio fanático!</p>
@@ -1981,7 +1996,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Si Dios no lo quiere, lo querrá el Diablo!</p>
           </sp>
-          <stage><rs key="#sac1">Blas de Míguez</rs> sale por la puerta de la torre con un jarro de vino, borracho y bailando. La <rs key="#jero">vieja pilonga</rs> se espanta en el ruedo de su falda, y renueva la risa el <rs key="#caba">viejo linajudo</rs>, mientras halaga blandamente la cabeza de <rs key="#sabe">la niña</rs>, que se arrodilla para besarle la mano. En la penumbra verde de los limoneros, la nota morada es un grito dramático.</stage>
+          <stage>
+            <rs key="#sac1">Blas de Míguez</rs> sale por la puerta de la torre con un jarro de vino, borracho y bailando. La <rs key="#jero">vieja pilonga</rs> se espanta en el ruedo de su falda, y renueva la risa el <rs key="#caba">viejo linajudo</rs>, mientras halaga blandamente la cabeza de <rs key="#sabe">la niña</rs>, que se arrodilla para besarle la mano. En la penumbra verde de los limoneros, la nota morada es un grito dramático.</stage>
         </div>
       </div>
       <div n="2" type="act">
@@ -2075,7 +2091,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Cómo se conoce que andas entre abades!</p>
           </sp>
-          <stage><rs key="#fuso">Fuso Negro</rs>, con su media sotana hecha jirones, al sol una nalga y el bonete lleno de guijarros, blasfema y dogmatiza en el atrio de la iglesia.</stage>
+          <stage>
+            <rs key="#fuso">Fuso Negro</rs>, con su media sotana hecha jirones, al sol una nalga y el bonete lleno de guijarros, blasfema y dogmatiza en el atrio de la iglesia.</stage>
           <sp who="#fuso">
             <speaker>Fuso Negro</speaker>
             <p>El mundo está para acabarse. ¡Talmente finalizado! ¿Para qué mudar de costumbres y echarse nuevos cargos? Pero ¡me hacían obispo! Hay pocos teólogos, y los pocos que hay, amancebados.</p>
@@ -2084,7 +2101,8 @@
             <speaker>El Ciego de Gondar</speaker>
             <p>¡Se cansa la boca de comer! ¡Se cansa el cuerpo de dormir! ¡Solamente los ojos no son cansos en su aquel de mirar!</p>
           </sp>
-          <stage><rs key="#maur">Don Mauro Montenegro</rs>, un gigante bermejo y atrabiliario, sale del mesón contando dineros. Para abravar su figura se conciertan pica vaquera, espuelas y galgos.</stage>
+          <stage>
+            <rs key="#maur">Don Mauro Montenegro</rs>, un gigante bermejo y atrabiliario, sale del mesón contando dineros. Para abravar su figura se conciertan pica vaquera, espuelas y galgos.</stage>
           <sp who="#farr">
             <speaker>Don Farruquiño</speaker>
             <p>¿Hay juego dentro?</p>
@@ -2251,7 +2269,8 @@
             <speaker>Don Farruquiño</speaker>
             <p>¡Indulgencias!</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs>, lento y socarrón, apila los dineros, peina el naipe y lo pone al corte. <rs key="#maur">Don Mauro</rs> tiende su brazo de gigante, y <rs key="#abad">el clerigote</rs> queda mirándole, con la mano sobre las cartas.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs>, lento y socarrón, apila los dineros, peina el naipe y lo pone al corte. <rs key="#maur">Don Mauro</rs> tiende su brazo de gigante, y <rs key="#abad">el clerigote</rs> queda mirándole, con la mano sobre las cartas.</stage>
           <sp who="#abad">
             <speaker>El Abad</speaker>
             <p>Lo tiene pedido el capellán de Lesón.</p>
@@ -2268,7 +2287,8 @@
             <speaker>El viejo de Cures</speaker>
             <p>Ya lo dijo el refranero: con maricones y putas, no te metas en disputas. Por sota y rey nunca jures, ni tu dinero aventures.</p>
           </sp>
-          <stage><rs key="#maur">Don Mauro</rs>, soberbio y callado, asesta los ojos sobre el naipe y juega su dinero en un rey. <rs key="#abad">El Abad</rs> acastillado y enjuto, la nariz torcida, la boca dibujada como una boca de piedra, corre la pinta y oficia dramático y lento.</stage>
+          <stage>
+            <rs key="#maur">Don Mauro</rs>, soberbio y callado, asesta los ojos sobre el naipe y juega su dinero en un rey. <rs key="#abad">El Abad</rs> acastillado y enjuto, la nariz torcida, la boca dibujada como una boca de piedra, corre la pinta y oficia dramático y lento.</stage>
           <sp who="#maur">
             <speaker>Don Mauro</speaker>
             <p>Me quedo a la luna si ese rey me falla.</p>
@@ -2297,7 +2317,8 @@
             <speaker>El Abad</speaker>
             <p>No respondo a preguntas impertinentes.</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs> habla oscuro, entornando los ojos. Tiene vuelta sobre el tapete la baraja, y encima cruzadas las dos manos. <rs key="#cara">Cara de Plata</rs> sonríe, rubio y bello, apoyado en la pica vaquera, al hombro las jalmas cantándole alegres.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs> habla oscuro, entornando los ojos. Tiene vuelta sobre el tapete la baraja, y encima cruzadas las dos manos. <rs key="#cara">Cara de Plata</rs> sonríe, rubio y bello, apoyado en la pica vaquera, al hombro las jalmas cantándole alegres.</stage>
           <sp who="#cara">
             <speaker>Cara de Plata</speaker>
             <p>¡Señor <rs key="#abad">Abad</rs>, con lo que yo le quiero!</p>
@@ -2432,7 +2453,8 @@
             <speaker>El Abad</speaker>
             <p>¡<rs key="#maur">Judas</rs>!</p>
           </sp>
-          <stage><rs key="#maur">Don Mauro</rs> restalla su vara. El fogonazo de un tiro, charamuscas del taco, olor de pólvora, ladridos, denuestos, espantos. <rs key="#maur">Don Mauro</rs> pelea por desasirse entre clerigotes y chalanes que le amonestan y traban. <rs key="#abad">El Abad</rs> con la sotana rota y la pistola humeante, caminando de espalda, pega con la puerta del huerto y escapa. Repentinamente se aclara el tropel. <rs key="#cara">Cara de Plata</rs> tiene en la frente el rasguño rojo de una bala, y todo un lado del rostro, negro del fogonazo. Se lava con vino, y sus hermanos, con sorda brama, hacen rueda mirándole.</stage>
+          <stage>
+            <rs key="#maur">Don Mauro</rs> restalla su vara. El fogonazo de un tiro, charamuscas del taco, olor de pólvora, ladridos, denuestos, espantos. <rs key="#maur">Don Mauro</rs> pelea por desasirse entre clerigotes y chalanes que le amonestan y traban. <rs key="#abad">El Abad</rs> con la sotana rota y la pistola humeante, caminando de espalda, pega con la puerta del huerto y escapa. Repentinamente se aclara el tropel. <rs key="#cara">Cara de Plata</rs> tiene en la frente el rasguño rojo de una bala, y todo un lado del rostro, negro del fogonazo. Se lava con vino, y sus hermanos, con sorda brama, hacen rueda mirándole.</stage>
         </div>
         <div n="3" type="scene">
           <head>Escena tercera</head>
@@ -2575,7 +2597,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>En el arca de las tías Pedrayes.</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs> pasea de un lado al otro, barullando latín sobre el breviario, negro y escueto en la sotana. Cruza la sobrina con el manojo de cera terciado en los brazos, al abrigo de la mantilla.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs> pasea de un lado al otro, barullando latín sobre el breviario, negro y escueto en la sotana. Cruza la sobrina con el manojo de cera terciado en los brazos, al abrigo de la mantilla.</stage>
           <sp who="#abad">
             <speaker>El Abad</speaker>
             <p>¿Adónde vas?</p>
@@ -2616,7 +2639,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>¡Montenegros! ¡Almas negras! ¡Pedernales!</p>
           </sp>
-          <stage><rs key="#sac1">Blas de Míguez</rs> sale por la puerta de la sacristía sonando un llavero. <rs key="#sac1">Blas de Míguez</rs>, hombre de cuentos y mentiras, la cara de sebo rancio, la boca larga, la encía sin dientes, muy repelado de las cejas, los ojos tiernos, un gran bellaco aquel <rs key="#sac1">sacristán</rs> de San Clemente. Sobre la escalera de la solana, <rs key="#abad">el tonsurado</rs> le recoge las llaves.</stage>
+          <stage>
+            <rs key="#sac1">Blas de Míguez</rs> sale por la puerta de la sacristía sonando un llavero. <rs key="#sac1">Blas de Míguez</rs>, hombre de cuentos y mentiras, la cara de sebo rancio, la boca larga, la encía sin dientes, muy repelado de las cejas, los ojos tiernos, un gran bellaco aquel <rs key="#sac1">sacristán</rs> de San Clemente. Sobre la escalera de la solana, <rs key="#abad">el tonsurado</rs> le recoge las llaves.</stage>
           <sp who="#sac1">
             <speaker>El Sacristán</speaker>
             <p>¡Montenegros! ¡Lobos fieros!</p>
@@ -2666,7 +2690,8 @@
             <speaker>El Sacristán</speaker>
             <p>A prevenirla me alargo.</p>
           </sp>
-          <stage><rs key="#sac1">El Sacristán</rs>, arraposado y medroso, salta por el muro al camino, la cabeza vuelta para inquirir lo que se pasa en la quintana. Torcido el bonete, escueto y ensotanado, <rs key="#sac1">el clérigo</rs> se mete por una puerta, y asoma, apuntando con el trabuco, en el ventano del fayado.</stage>
+          <stage>
+            <rs key="#sac1">El Sacristán</rs>, arraposado y medroso, salta por el muro al camino, la cabeza vuelta para inquirir lo que se pasa en la quintana. Torcido el bonete, escueto y ensotanado, <rs key="#sac1">el clérigo</rs> se mete por una puerta, y asoma, apuntando con el trabuco, en el ventano del fayado.</stage>
           <sp who="#abad">
             <speaker>El Abad</speaker>
             <p><rs key="#cara">Soberbio Absalón</rs>, sigue tu camino. ¡Mira que te encañono y te mando al infierno!</p>
@@ -2732,7 +2757,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>¡El mundo se acaba!</p>
           </sp>
-          <stage><rs key="#abad">El Abad</rs>, palpitando con ronca brama, arroja la bolsa al camino, por donde, al galope de su caballo, se aleja <rs key="#cara">Cara de Plata</rs>. <rs key="#jero">Doña Jeromita</rs> cae de rodillas abriendo los brazos, y el bonete espanta sus cuatro cuernos en el ventanuco.</stage>
+          <stage>
+            <rs key="#abad">El Abad</rs>, palpitando con ronca brama, arroja la bolsa al camino, por donde, al galope de su caballo, se aleja <rs key="#cara">Cara de Plata</rs>. <rs key="#jero">Doña Jeromita</rs> cae de rodillas abriendo los brazos, y el bonete espanta sus cuatro cuernos en el ventanuco.</stage>
         </div>
         <div n="4" type="scene">
           <head>Escena cuarta</head>
@@ -3073,7 +3099,8 @@
             <speaker>Ludovina</speaker>
             <p>¡Madre Santísima, balda y tulle a éste ante Cristo!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs> vuelve en corveta el caballo. Lucen un momento las herraduras en la sombra del zaguán, y sonoras y bárbaras caen sobre la escalerilla de cadalso. <rs key="#pich">Pichona</rs>, en justillo y zagalejo, sale por un lado de la cortinilla. Sobre los hombros desnudos, nácares y leche, tuerce el pico una pañoleta.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs> vuelve en corveta el caballo. Lucen un momento las herraduras en la sombra del zaguán, y sonoras y bárbaras caen sobre la escalerilla de cadalso. <rs key="#pich">Pichona</rs>, en justillo y zagalejo, sale por un lado de la cortinilla. Sobre los hombros desnudos, nácares y leche, tuerce el pico una pañoleta.</stage>
           <sp who="#pich">
             <speaker>Pichona la Bisbisera</speaker>
             <p>¿Qué se ofrece?</p>
@@ -3234,7 +3261,8 @@
             <speaker>Pichona la Bisbisera</speaker>
             <p>Yo no soy mujer para ir a su lado.</p>
           </sp>
-          <stage><rs key="#ludo">Ludovina</rs> tras el mostrador cabecea, y en el ruedo de la falda, el gato con los ojos en ciernes, sopla un ronquido sobre los bigotes. <rs key="#pich">Pichona</rs> ríe con lumbres en el rostro, y ajusta sobre los hombros la pañoleta. <rs key="#cara">Cara de Plata</rs> le hunde una mano en los pechos. <rs key="#ludo">Ludovina</rs>, restregándose los ojos, se mete por una puerta.</stage>
+          <stage>
+            <rs key="#ludo">Ludovina</rs> tras el mostrador cabecea, y en el ruedo de la falda, el gato con los ojos en ciernes, sopla un ronquido sobre los bigotes. <rs key="#pich">Pichona</rs> ríe con lumbres en el rostro, y ajusta sobre los hombros la pañoleta. <rs key="#cara">Cara de Plata</rs> le hunde una mano en los pechos. <rs key="#ludo">Ludovina</rs>, restregándose los ojos, se mete por una puerta.</stage>
           <sp who="#cara">
             <speaker>Cara de Plata</speaker>
             <p>¿Para qué eres tú mujer?</p>
@@ -3319,7 +3347,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Que te lleve el diablo!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs>, encorvándose sobre la silla, de un bote sale al camino y desaparece en la noche. <rs key="#pich">Pichona</rs> y <rs key="#ludo">Ludovina</rs>, que vuelve, se miran y sonríen con el gesto pícaro de un mismo pensar secreto.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs>, encorvándose sobre la silla, de un bote sale al camino y desaparece en la noche. <rs key="#pich">Pichona</rs> y <rs key="#ludo">Ludovina</rs>, que vuelve, se miran y sonríen con el gesto pícaro de un mismo pensar secreto.</stage>
           <sp who="#pich">
             <speaker>Pichona la Bisbisera</speaker>
             <p>Me voy, que aún llego con luna a mi burata de Cures.</p>
@@ -3400,7 +3429,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena sexta</head>
-          <stage>La rectoral. A la luz de un velón, el zaguán encalado y desguarnido, con arcas antañonas y negra viguería. Pasea <rs key="#abad">el tonsurado</rs>: trabuco, sotana, bonete. Los reflejos del velón llenan de aladas inquietudes las paredes, y en el temblor de la luz y la sombra se hace visible el viento sobre las lívidas cales. Colgado de un clavo baila el solideo, y solfea sobre el arcón de los diezmos la cola de un perrillo que runfla y bosteza. La Quintana, silenciosa y nocherniega, se prolonga por el vano de la puerta, y en el claro de luna, con los brazos abiertos, se espanta la <rs key="#jero">vieja pilonga hermana de <rs key="#abad">el Abad</rs></rs>. Estremece el viento la llama del velón, y calca su negro baile en la pared la borla del solideo.</stage>
+          <stage>La rectoral. A la luz de un velón, el zaguán encalado y desguarnido, con arcas antañonas y negra viguería. Pasea <rs key="#abad">el tonsurado</rs>: trabuco, sotana, bonete. Los reflejos del velón llenan de aladas inquietudes las paredes, y en el temblor de la luz y la sombra se hace visible el viento sobre las lívidas cales. Colgado de un clavo baila el solideo, y solfea sobre el arcón de los diezmos la cola de un perrillo que runfla y bosteza. La Quintana, silenciosa y nocherniega, se prolonga por el vano de la puerta, y en el claro de luna, con los brazos abiertos, se espanta la <rs key="#jero">vieja pilonga hermana de <rs key="#abad">el Abad</rs>
+            </rs>. Estremece el viento la llama del velón, y calca su negro baile en la pared la borla del solideo.</stage>
           <sp who="#abad">
             <speaker>El Abad</speaker>
             <p>¿Vuelve ese <rs key="#cara">Satanás</rs>?</p>
@@ -3501,7 +3531,8 @@
             <speaker>El Abad</speaker>
             <p>¡Y a mí! Pero no me vence ese <rs key="#cara">Satanás</rs>. Entra que quiero echar la llave.</p>
           </sp>
-          <stage><rs key="#jero">Doña Jeromita</rs> cae de rodillas suplicante, con los brazos abiertos bajo la luna clara. <rs key="#abad">El Abad</rs>, negro y escueto, está en el umbral. Bonete, trabuco, sotana. La sombra parda de una <rs key="#viea">vieja</rs> por el camino.</stage>
+          <stage>
+            <rs key="#jero">Doña Jeromita</rs> cae de rodillas suplicante, con los brazos abiertos bajo la luna clara. <rs key="#abad">El Abad</rs>, negro y escueto, está en el umbral. Bonete, trabuco, sotana. La sombra parda de una <rs key="#viea">vieja</rs> por el camino.</stage>
           <sp who="#viea">
             <speaker>La Vieja</speaker>
             <p>¡<rs key="#sabe">Sabeliña</rs>! ¡<rs key="#sabe">Sabel</rs>! Asómate un momento, <rs key="#sabe">paloma</rs>. ¿No está <rs key="#sabe">Sabeliña</rs>?</p>
@@ -3554,7 +3585,8 @@
             <speaker>La vieja</speaker>
             <p>Con los años, la vista muchas veces se engaña.</p>
           </sp>
-          <stage><rs key="#sac1">El Sacristán</rs>, por una ruina de piedras calvas, salta el muro de la Quintana. Asustado y acezando aparece en la niebla lunar.</stage>
+          <stage>
+            <rs key="#sac1">El Sacristán</rs>, por una ruina de piedras calvas, salta el muro de la Quintana. Asustado y acezando aparece en la niebla lunar.</stage>
           <sp who="#sac1">
             <speaker>El Sacristán</speaker>
             <p>¡Anda suelto el pecado! ¡Aquel negro sueño! ¡La sartén rabela, jureles asados! ¡Aquel negro sueño!</p>
@@ -3631,7 +3663,8 @@
             <speaker>Doña Jeromita</speaker>
             <p>¡La Virgen Santa! ¡<rs key="#abad">Hermano</rs>!… ¡Allí!… ¡La bolsa!… ¡Esto me mata! ¡Treinta portuguesas de mis entrañas!</p>
           </sp>
-          <stage><rs key="#jero">Doña Jeromita</rs> abre los brazos para alcanzar el cielo, y con un grito traspasa el nocturno silencio de estrellas. En la niebla lunar, por el camino de plata, <rs key="#fuso">Fuso Negro</rs>. ¡Touporroutou! Ha tropezado con la bolsa y escapa con ella. <rs key="#abad">El Abad</rs> dispara su trabuco. Ladridos lejanos.</stage>
+          <stage>
+            <rs key="#jero">Doña Jeromita</rs> abre los brazos para alcanzar el cielo, y con un grito traspasa el nocturno silencio de estrellas. En la niebla lunar, por el camino de plata, <rs key="#fuso">Fuso Negro</rs>. ¡Touporroutou! Ha tropezado con la bolsa y escapa con ella. <rs key="#abad">El Abad</rs> dispara su trabuco. Ladridos lejanos.</stage>
         </div>
         <div n="7" type="scene">
           <head>Escena séptima</head>
@@ -3685,7 +3718,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Aparta!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs> empuja a la moza y se mete por la puerta tirando de las riendas al caballo. Bufa el gato, cacarea la clueca, respinga el cuerno del candil, y el caballo se recoge y la enorme pupila espanta.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs> empuja a la moza y se mete por la puerta tirando de las riendas al caballo. Bufa el gato, cacarea la clueca, respinga el cuerno del candil, y el caballo se recoge y la enorme pupila espanta.</stage>
           <sp who="#pich">
             <speaker>Pichona la Bisbisera</speaker>
             <p>¿Dónde quieres dejar el caballo?</p>
@@ -3759,7 +3793,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Buena cátedra!</p>
           </sp>
-          <stage><rs key="#pich">Pichona</rs> la camisa resbalando por los hombros, cachea en la hucha y torna al pie del camastro con el candil y el libro de Vilham. Por tres veces se lo presenta para el corte al hermoso segundón y lo tiende sobre la colcha floreada.</stage>
+          <stage>
+            <rs key="#pich">Pichona</rs> la camisa resbalando por los hombros, cachea en la hucha y torna al pie del camastro con el candil y el libro de Vilham. Por tres veces se lo presenta para el corte al hermoso segundón y lo tiende sobre la colcha floreada.</stage>
           <sp who="#pich">
             <speaker>Pichona la Bisbisera</speaker>
             <p>IDame lo secreto, libro de Villano, si no quieres que lo pida a las rayas de la mano. Señala caminos, alumbra destinos, por las varillas de Mosén, ábrete, naipe para que lea el mal y el bien.</p>
@@ -3868,7 +3903,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Aborrecida vergüenza!</p>
           </sp>
-          <stage><rs key="#caba">El Caballero</rs> estrella la copa y se alza del sillón bamboleando la mesa. Largo y sobresaltado temblor del ajuar loceño, se derrama el vino y se apaga el velón. En la sala oscura, como si naciese de pronto, la luna argentó una vidriera. Con las figuras diluidas en la oscuridad, crecía el prestigio de las voces y de las sombras.</stage>
+          <stage>
+            <rs key="#caba">El Caballero</rs> estrella la copa y se alza del sillón bamboleando la mesa. Largo y sobresaltado temblor del ajuar loceño, se derrama el vino y se apaga el velón. En la sala oscura, como si naciese de pronto, la luna argentó una vidriera. Con las figuras diluidas en la oscuridad, crecía el prestigio de las voces y de las sombras.</stage>
           <sp who="#sabe">
             <speaker>Sabelita</speaker>
             <p><rs key="#caba">Padrino</rs>, permítame volver a San Clemente.</p>
@@ -4375,7 +4411,8 @@
             <speaker>La Sacristana</speaker>
             <p>¡Ten la boca desapartada, gran sinvergüenza! Arrímate mucho a los mozos y verás lo que sacas. ¡Ay, qué condición más renegada la tuya! Si te hacen una barriga, vas para fuera de casa. ¡Es anís doble, condenación! ¡Bebe un trago, <rs key="#biga">rapaza</rs>!</p>
           </sp>
-          <stage><rs key="#biga">La Bigardona</rs>, con remangue, toma el pichel que le ofrece la vieja, y tras de catarlo, se frota los labios con el pañuelo majo que lleva al pecho.</stage>
+          <stage>
+            <rs key="#biga">La Bigardona</rs>, con remangue, toma el pichel que le ofrece la vieja, y tras de catarlo, se frota los labios con el pañuelo majo que lleva al pecho.</stage>
           <sp who="#biga">
             <speaker>La Bigardona</speaker>
             <p>¡Resolio!</p>
@@ -4422,7 +4459,8 @@
             <speaker>La Sacristana</speaker>
             <p>¡Asús! ¡Pues no me vuelve la tema pasada! ¡Viento inventor! ¡Talmente el lamento de tu padre!</p>
           </sp>
-          <stage><rs key="#biga">Ginera</rs>, estremecida, abre la puerta, y bajo el encaje lunario del emparrado aparece la sombra del <rs key="#sac1">sacristán</rs>, de rodillas y con los brazos abiertos en cruz.</stage>
+          <stage>
+            <rs key="#biga">Ginera</rs>, estremecida, abre la puerta, y bajo el encaje lunario del emparrado aparece la sombra del <rs key="#sac1">sacristán</rs>, de rodillas y con los brazos abiertos en cruz.</stage>
           <sp who="#sac1">
             <speaker>El Sacristán</speaker>
             <p>¿Dónde me hallo? ¡El dolor me nubla la vista y no reconozco los parajes!</p>
@@ -4547,7 +4585,8 @@
             <speaker>El Sacristán</speaker>
             <p>Cállate esos textos hasta que visite el Santolio.</p>
           </sp>
-          <stage><rs key="#sac1">Blas de Míguez</rs> guiña el ojo, tuerce la boca, saca la lengua, componiendo una mueca tragicómica de antruejo. La vieja pelona empavorida se santigua, y temblándole las manos, se viste la camisa.</stage>
+          <stage>
+            <rs key="#sac1">Blas de Míguez</rs> guiña el ojo, tuerce la boca, saca la lengua, componiendo una mueca tragicómica de antruejo. La vieja pelona empavorida se santigua, y temblándole las manos, se viste la camisa.</stage>
           <sp who="#sac2">
             <speaker>La Sacristana</speaker>
             <p>¡Ay, muerte, qué bien andabas por lejos! ¡<rs key="#biga">Ginera</rs>, toma soleta!</p>
@@ -4629,7 +4668,8 @@
             <speaker>El Sacristán</speaker>
             <p>¡<rs key="#celo #gabi #ming">Grandísimos ladrones</rs>, callarvos!</p>
           </sp>
-          <stage><rs key="#sac1">Blas de Míguez</rs>, con súbito alarido, se descalza de un zueco, y cojitranco, salta de la yacija, majando la pelambre de críos, que se encadilla con lloro de espanto, al ruedo de la vieja encamisada.</stage>
+          <stage>
+            <rs key="#sac1">Blas de Míguez</rs>, con súbito alarido, se descalza de un zueco, y cojitranco, salta de la yacija, majando la pelambre de críos, que se encadilla con lloro de espanto, al ruedo de la vieja encamisada.</stage>
           <sp who="#sac2">
             <speaker>La Sacristana</speaker>
             <p>Asosiega, <rs key="#sac1">Blas</rs>! ¡De por fuerza entra en ti el enemigo! ¡Escorréntalo y reza el trisagio! ¡Pecador, salva tu alma!</p>
@@ -4690,7 +4730,8 @@
             <speaker>Fuso Negro</speaker>
             <p>¡Touporroutóu!</p>
           </sp>
-          <stage><rs key="#fuso">Fuso Negro</rs>, acautelado, aparece en la puerta. Tiene una expresión alobada aquella sombra que acecha desde el camino. La risa en baladro, y entre camisa y cuero oculta una mano que suena el oro portugués de la bolsa cismática.</stage>
+          <stage>
+            <rs key="#fuso">Fuso Negro</rs>, acautelado, aparece en la puerta. Tiene una expresión alobada aquella sombra que acecha desde el camino. La risa en baladro, y entre camisa y cuero oculta una mano que suena el oro portugués de la bolsa cismática.</stage>
           <sp who="#sac1">
             <speaker>El Sacristán</speaker>
             <p>Escapa de ahí, <rs key="#fuso">Fuso Negro</rs>.</p>
@@ -4723,7 +4764,8 @@
             <speaker>El Sacristán</speaker>
             <p>¡A morir me rebelo!</p>
           </sp>
-          <stage><rs key="#sac1">Blas de Míguez</rs> salta de la yacija con los pelos espantados. Por ser calzo de un solo zueco, trenquea. Se le opone la mujer, con la pelambre de críos encadillada al ruedo de la camisa.</stage>
+          <stage>
+            <rs key="#sac1">Blas de Míguez</rs> salta de la yacija con los pelos espantados. Por ser calzo de un solo zueco, trenquea. Se le opone la mujer, con la pelambre de críos encadillada al ruedo de la camisa.</stage>
           <sp who="#sac2">
             <speaker>La Sacristana</speaker>
             <p>Acuéstate, <rs key="#sac1">Blas</rs>.</p>
@@ -5061,7 +5103,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Satanás me ampare!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs>, con sorda brama, los ojos en lumbre, airado y frenético, del tajo hogareño arranca el hacha. Armado con ella revuelve el brazo, hunde la puerta, se lanza a la noche estrellada.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs>, con sorda brama, los ojos en lumbre, airado y frenético, del tajo hogareño arranca el hacha. Armado con ella revuelve el brazo, hunde la puerta, se lanza a la noche estrellada.</stage>
           <sp who="#pich">
             <speaker>Pichona la Bisbisera</speaker>
             <p>¿Qué negra idea te gobierna? ¡Espera! ¡Detente! ¡No dejes mis brazos, rebelde a tu padre! ¡Quédate mío y te serviré toda la vida! ¡Seré tu esclava! ¡No renueves mi sino enlutado! ¡Yo soy aquella de la vida airada por quien mató a su padre Benitiño el Penitenciado! De tu misma furia revestido, escapó de mis brazos. ¡Detente, adorado! ¡Quedo rezándote!</p>
@@ -5241,7 +5284,8 @@
             <speaker>Voces de viejas</speaker>
             <p>¡<rs key="#caba">Montenegro</rs>! ¡Negro de alma! ¡Negro de pecados! ¡Negro de las calderas del infierno!</p>
           </sp>
-          <stage><rs key="#caba">Don Juan Manuel</rs>, con dos perros como leones cogidos por los collares, descendía por la gran escalera de piedra. Camina por entre las luces en tenebroso silencio. Bajo el palio, levanta la copa de plata <rs key="#abad">el Abad</rs> de San Clemente. <rs key="#caba">El Caballero</rs>, adusto, burlón, enigmático, hinca la rodilla en tierra y hace arrodillar a sus perros.</stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel</rs>, con dos perros como leones cogidos por los collares, descendía por la gran escalera de piedra. Camina por entre las luces en tenebroso silencio. Bajo el palio, levanta la copa de plata <rs key="#abad">el Abad</rs> de San Clemente. <rs key="#caba">El Caballero</rs>, adusto, burlón, enigmático, hinca la rodilla en tierra y hace arrodillar a sus perros.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Sacrílego <rs key="#abad">Abad</rs>! ¿Qué vas buscando?</p>
@@ -5283,7 +5327,8 @@
             <speaker>Cara de Plata</speaker>
             <p>¡Dónde está el rayo que a todos nos abrase!</p>
           </sp>
-          <stage><rs key="#cara">Cara de Plata</rs> sale por el arco recobrando las riendas, tendido sobre la crin del caballo espantado. Capuces y luces del piadoso cortejo retroceden. Voces agorinas. Sombras huideras. Pánico sagrado. <rs key="#caba">El Caballero</rs> con la copa de plata en la mano se sienta en la escalera.</stage>
+          <stage>
+            <rs key="#cara">Cara de Plata</rs> sale por el arco recobrando las riendas, tendido sobre la crin del caballo espantado. Capuces y luces del piadoso cortejo retroceden. Voces agorinas. Sombras huideras. Pánico sagrado. <rs key="#caba">El Caballero</rs> con la copa de plata en la mano se sienta en la escalera.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Tengo miedo de ser el Diablo!</p>
@@ -5292,7 +5337,7 @@
       </div>
     </body>
     <back>
-      <p> </p>
+      <p></p>
     </back>
   </text>
 </TEI>

@@ -53,7 +53,7 @@
         </bibl>
         <bibl type="first-published">
           <date>1924</date>
-          <!--Según la edición de Castalia no confirmado; la siguiente es en 1954-->
+<!--Según la edición de Castalia no confirmado; la siguiente es en 1954-->
           <publisher/>
           <pubPlace>Madrid</pubPlace>
         </bibl>
@@ -163,7 +163,8 @@
           </castItem>
           <castItem>
             <role corresp="#rosa">Rosa</role>
-            <roleDesc>, <hi rend="italic">la criada</hi></roleDesc>
+            <roleDesc>, <hi rend="italic">la criada</hi>
+            </roleDesc>
           </castItem>
         </castList>
       </div>
@@ -177,7 +178,9 @@
         <head>Acto primero</head>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#eust">Eustaquia</rs></stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#eust">Eustaquia</rs>
+          </stage>
           <sp who="#eust">
             <speaker>Eustaquia</speaker>
             <p>Pero qué, ¿no se te quita eso de la cabeza, <rs key="#fedr">Fedra</rs>?</p>
@@ -473,7 +476,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>, su marido.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>, su marido.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p><stage>(Entrando.)</stage> Buenos días, <rs key="#fedr">Fedra</rs>, ¿qué tal hoy?</p>
@@ -737,7 +741,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#fedr">Fedra</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <sp who="#hipo">
             <speaker>Hipólito</speaker>
             <p>Y bien, ¿qué es ello, madre? ¿Callas? ¿Qué es? <stage>(Poniéndole una mano sobre el hombro, a lo que ella se estremece.)</stage> ¡Vamos, habla! Tu beso me pareció antes más largo, más apretado...</p>
@@ -1009,7 +1014,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#rosa">Rosa</rs>, la criada.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#rosa">Rosa</rs>, la criada.</stage>
           <sp who="#fedr">
             <speaker>Fedra</speaker>
             <p>Anda, <rs key="#rosa">Rosa</rs>, recoge eso y llévalo. Espera, di, ¿tienes novio?</p>
@@ -1089,7 +1095,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#marc">Marcelo</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#marc">Marcelo</rs>.</stage>
           <sp who="#marc">
             <speaker>Marcelo.</speaker>
             <p><stage>(Entrando.)</stage> ¿Qué? ¿Cómo va la paciente?</p>
@@ -1237,7 +1244,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p>Y bien, ¿qué dijo?</p>
@@ -1321,7 +1329,8 @@
         <head>Acto segundo</head>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#eust">Eustaquia</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#eust">Eustaquia</rs>.</stage>
           <sp who="#eust">
             <speaker>Eustaquia</speaker>
             <p>Pero, hija mía, te veo enflaquecer, ir...</p>
@@ -1465,7 +1474,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#fedr">Fedra</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <sp who="#hipo">
             <speaker>Hipólito</speaker>
             <p>¡Bien, acaba!</p>
@@ -1569,7 +1579,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p><stage>(Que ha oído las últimas palabras de su hijo, entrando.)</stage> ¿Qué es eso, <rs key="#fedr">Fedra</rs>? ¿Qué ha dicho? ¿Qué es lo que ha dicho nuestro hijo? ¿Callas? ¿He oído bien? ¿No te maldecía? ¡Vamos, <rs key="#fedr">Fedra</rs>, habla!</p>
@@ -1859,7 +1870,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#pedr">Pedro</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#pedr">Pedro</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p><stage>(Tras un breve silencio.)</stage> Pero, hijo, <rs key="#hipo">Hipólito</rs>, ¿cómo te has atrevido a poner ojos... ojos, y labios en tu madre? ¿Cómo has osado revelarle nada? ¿Era ésa tu caza? ¿Callas? ¡Vamos, habla, ven acá, confíate a mí! ¡Sí, sí, es una desgracia, lo sé...! ¿Qué? ¿Callas? ¿No lo niegas? ¡Oh, esto es horrible! ¿Qué has hecho, hijo, qué has hecho de la tranquilidad de tu padre? y yo que la traje a casa sobre todo por ti, por ti, hijo, para que tuvieses madre...</p>
@@ -1907,7 +1919,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#pedr">Pedro</rs>.</stage>
           <sp who="#fedr">
             <speaker>Fedra</speaker>
             <p><stage>(Entrando.)</stage> ¿Qué, se fue?</p>
@@ -2023,7 +2036,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#pedr">Pedro</rs> y <rs key="#marc">Marcelo</rs>.</stage>
+          <stage>
+            <rs key="#pedr">Pedro</rs> y <rs key="#marc">Marcelo</rs>.</stage>
           <sp who="#marc">
             <speaker>Marcelo</speaker>
             <p>¿Qué? ¿Se ha salido <rs key="#fedr">Fedra</rs>?</p>
@@ -2215,7 +2229,9 @@
         </div>
         <div n="12" type="scene">
           <head>Escena XII</head>
-          <stage><rs key="#fedr">Fedra</rs> y <rs key="#rosa">Rosa</rs></stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs> y <rs key="#rosa">Rosa</rs>
+          </stage>
           <sp who="#rosa">
             <speaker>Rosa</speaker>
             <p><stage>(Desde la puerta.)</stage> Señorita...</p>
@@ -2340,7 +2356,8 @@
         <head>Acto tercero</head>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#fedr">Fedra</rs>, muy débil, casi moribunda, apoyándose en el brazo de <rs key="#eust">Eustaquia</rs>. </stage>
+          <stage>
+            <rs key="#fedr">Fedra</rs>, muy débil, casi moribunda, apoyándose en el brazo de <rs key="#eust">Eustaquia</rs>. </stage>
           <sp who="#fedr">
             <speaker>Fedra</speaker>
             <p>¡Por fin va a acabarse esta tortura! ¡Llega la hora del descanso!</p>
@@ -2468,7 +2485,9 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#pedr">Pedro</rs> y <rs key="#marc">Marcelo</rs></stage>
+          <stage>
+            <rs key="#pedr">Pedro</rs> y <rs key="#marc">Marcelo</rs>
+          </stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p><stage>(Entrando con <rs key="#marc">Marcelo</rs>.)</stage> De modo que...</p>
@@ -2540,7 +2559,9 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#eust">Eustaquia</rs> y <rs key="#rosa">Rosa</rs></stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs> y <rs key="#rosa">Rosa</rs>
+          </stage>
           <sp who="#rosa">
             <speaker>Rosa</speaker>
             <p>¿Y cómo sigue?</p>
@@ -2576,7 +2597,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#eust">Eustaquia</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <sp who="#hipo">
             <speaker>Hipólito</speaker>
             <p><stage>(Desde la puerta.)</stage> Yo.</p>
@@ -2644,7 +2666,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#eust">Eustaquia</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <sp who="#hipo">
             <speaker>Hipólito</speaker>
             <p>Sí, mi virtud, una virtud ciega, era egoísmo. Sintiéndome firme no sentí que se caía ella... Y luego aquella vida de campo en que busqué alimento a mi exceso de vitalidad... aquello me hizo torpe. ¡Y yo que recuerdo habérsela recomendado a ella invitándole a ir conmigo, solos los dos, al campo! Acaso habría sido mejor, acaso habría yo visto claro más a tiempo... No, no me lo perdono...</p>
@@ -2672,7 +2695,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#eust">Eustaquia</rs> y <rs key="#marc">Marcelo</rs>.</stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs> y <rs key="#marc">Marcelo</rs>.</stage>
           <sp who="#marc">
             <speaker>Marcelo</speaker>
             <p><stage>(Saliendo.)</stage> Bueno, señora, ahora que estamos, al parecer, solos, usted tiene que saber la verdad. ¿Qué ha sido esto?</p>
@@ -2744,7 +2768,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#eust">Eustaquia</rs> y <rs key="#pedr">Pedro</rs>.</stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs> y <rs key="#pedr">Pedro</rs>.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p><stage>(Saliendo del cuarto.)</stage> Pregunta por usted y por...</p>
@@ -2760,7 +2785,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#eust">Eustaquia</rs>, <rs key="#pedr">Pedro</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
+          <stage>
+            <rs key="#eust">Eustaquia</rs>, <rs key="#pedr">Pedro</rs> e <rs key="#hipo">Hipólito</rs>.</stage>
           <stage>Entra <rs key="#hipo">Hipólito</rs> con <rs key="#eust">Eustaquia</rs> y se queda cabizbajo frente a su padre que le mide un momento en silencio con la mirada.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
@@ -2809,7 +2835,8 @@
         </div>
         <div n="11" type="scene">
           <head>Escena XI</head>
-          <stage><rs key="#pedr">Pedro</rs> y <rs key="#eust">Eustaquia</rs>.</stage>
+          <stage>
+            <rs key="#pedr">Pedro</rs> y <rs key="#eust">Eustaquia</rs>.</stage>
           <sp who="#pedr">
             <speaker>Pedro</speaker>
             <p>¡Yo también quiero morirme, ama, y que muramos todos! ¿Para qué vivir? ¿Para qué haber nacido? Y luego...</p>

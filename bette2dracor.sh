@@ -18,10 +18,12 @@ for f in ./BETTE/corpus/TEI/*.xml; do
     | sed 's/_/-/' \
     | sed 's/dicenta-juanjose/dicenta-juan-jose/' \
     | sed 's/valle-divinaspalabras/valle-divinas-palabras/')
-  echo $n
+  target=tei/$n.xml
+  echo $n $target
   # add particDesc and Wikidata IDs
   # strip reduntant xmlns:* attributes inserted by saxon
-  saxon $f bette2dracor.xsl \
-  | sed 's/<persName xmlns:xsl="http:\/\/www\.w3\.org\/1999\/XSL\/Transform" xmlns:tei="http:\/\/www\.tei-c\.org\/ns\/1\.0"/<persName/g' \
-  | xmllint --format - > tei/$n.xml
+  saxon -s:$f -xsl:bette2dracor.xsl \
+  | sed 's/<persName xmlns:tei="http:\/\/www\.tei-c\.org\/ns\/1\.0" xmlns:xsl="http:\/\/www\.w3\.org\/1999\/XSL\/Transform"/<persName/g' \
+    > $target
+  xmlformat -i -f format.conf $target
 done

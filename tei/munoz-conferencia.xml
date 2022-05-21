@@ -787,8 +787,13 @@
             <sp who="#alge">
               <speaker>Algeciras</speaker>
               <p><stage>(¡Dios mío, ilumíname!)</stage> La mosca, señores, además de ser repugnante es molesta; muy molesta. Ya lo han asegurado desde el eminentísimo doctor Calvo, que dice que no las puede soportar, hasta el apóstol San Pedro que santa gloria yazga, a quien se adjudica por los cantores esta inspirada copla:
-								<lg><l>San Pedro como era calvo</l><l>le picaban los... moscones,</l><l>y su madre le decía...</l><l>voy a cerrar los balcones.</l></lg>
-								<stage>(Aplaude solamente <rs key="#cans">Canseco</rs>.)</stage> De manera que yo les aconsejo a ustedes que la persigan y la maten, ya esté en un tabique, ya se pose sobre la calva de cualquier sujeto.</p>
+								<lg>
+                  <l>San Pedro como era calvo</l>
+                  <l>le picaban los... moscones,</l>
+                  <l>y su madre le decía...</l>
+                  <l>voy a cerrar los balcones.</l>
+                </lg>
+                <stage>(Aplaude solamente <rs key="#cans">Canseco</rs>.)</stage> De manera que yo les aconsejo a ustedes que la persigan y la maten, ya esté en un tabique, ya se pose sobre la calva de cualquier sujeto.</p>
             </sp>
             <sp who="#cans">
               <speaker>Canseco</speaker>
@@ -858,7 +863,8 @@
             </sp>
             <sp who="#alge">
               <speaker>Algeciras</speaker>
-              <p><stage>(Cada vez más azarado.)</stage> Ahora, señores, voy a explicar sobre el encerado y a la carrera lo del vehículo. <stage>(Toma el puntero.)</stage> (Si me vuelvo se me va a ver el frac descosido.) <stage>(Recula hasta quedar delante del encerado ) </stage> Aquí, como ven ustedes, hay pintadas tres moscas comunes. Son blancas, pero son comunes. (No se me ocurre nada.) Pues bien., eso es... Esta... <stage>(De espaldas al encerado señala con el puntero y atraviesa la tela. Risas en el público.)</stage> <stage>(¡Mi madre, me he cargado el hule!)</stage> Esta... <stage>(Saca el pañuelo y lo sacude.)</stage> La de... que díptero... vehículo... <stage>(Agita el pañuelo nuevamente.) </stage> Eso es... La... bueno, la que...</p>
+              <p><stage>(Cada vez más azarado.)</stage> Ahora, señores, voy a explicar sobre el encerado y a la carrera lo del vehículo. <stage>(Toma el puntero.)</stage> (Si me vuelvo se me va a ver el frac descosido.) <stage>(Recula hasta quedar delante del encerado ) </stage> Aquí, como ven ustedes, hay pintadas tres moscas comunes. Son blancas, pero son comunes. (No se me ocurre nada.) Pues bien., eso es... Esta... <stage>(De espaldas al encerado señala con el puntero y atraviesa la tela. Risas en el público.)</stage>
+                <stage>(¡Mi madre, me he cargado el hule!)</stage> Esta... <stage>(Saca el pañuelo y lo sacude.)</stage> La de... que díptero... vehículo... <stage>(Agita el pañuelo nuevamente.) </stage> Eso es... La... bueno, la que...</p>
             </sp>
             <sp who="#cans">
               <speaker>Canseco</speaker>
@@ -960,9 +966,7 @@
             </sp>
             <sp who="#alge">
               <speaker>Algeciras</speaker>
-              <p>
-                <stage>(Aporreando los papeles.)(Aquí está, hombre… Díptero aterícero, de la tribu de los múscidos.)</stage>
-              </p>
+              <p><stage>(Aporreando los papeles.)(Aquí está, hombre… Díptero aterícero, de la tribu de los múscidos.)</stage></p>
             </sp>
             <sp who="#memb">
               <speaker>Membrives</speaker>
@@ -1215,7 +1219,12 @@
             <sp who="#alge">
               <speaker>Algeciras</speaker>
               <p>Guardia, un momento. <stage>(Al público.)</stage>
-								<lg><l>Ya que todo lo sufrí</l><l>resignado y con paciencia,</l><l>tan solo espero de ti</l><l>que aplaudas la conferencia.</l></lg> </p>
+                <lg>
+                  <l>Ya que todo lo sufrí</l>
+                  <l>resignado y con paciencia,</l>
+                  <l>tan solo espero de ti</l>
+                  <l>que aplaudas la conferencia.</l>
+                </lg></p>
             </sp>
             <stage>(Telón)</stage>
           </div>

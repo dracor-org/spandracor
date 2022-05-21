@@ -342,7 +342,7 @@
             </sp>
             <sp who="#licu">
               <speaker>El tío Licurgo</speaker>
-              <p>Sí, señora; nacen en las laderas altas de Alamillos, que al parecer son de este sujeto, don Pepito Rey, unas aguas maléficas, escrupulosas y mutativas, que se estancan en nuestra heredad, y nos matan toda la fisonomía vegetal de la tierra... <stage>(Sale <rs key="#rosa">Rosarito</rs> del comedor.)</stage> </p>
+              <p>Sí, señora; nacen en las laderas altas de Alamillos, que al parecer son de este sujeto, don Pepito Rey, unas aguas maléficas, escrupulosas y mutativas, que se estancan en nuestra heredad, y nos matan toda la fisonomía vegetal de la tierra... <stage>(Sale <rs key="#rosa">Rosarito</rs> del comedor.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -352,10 +352,10 @@
           <div n="2" type="scene">
             <head>Escena II</head>
             <stage>Dichos; <rs key="#rosa">Rosarito</rs>, <rs key="#libr">Librada</rs> con el servicio del café.</stage>
-            <!--irm: ¿Usamos el rs key para Dichos?-->
+<!--irm: ¿Usamos el rs key para Dichos?-->
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
-              <p>Ponlo aquí. <stage>(En la mesa de la izquierda.)</stage> ¿Se enfriará si tardan?... ¡Ah! Remedios. <stage>(Vase <rs key="#libr">Librada</rs>, que vuelve luego con licores, copas y una caja de cigarros.)</stage> </p>
+              <p>Ponlo aquí. <stage>(En la mesa de la izquierda.)</stage> ¿Se enfriará si tardan?... ¡Ah! Remedios. <stage>(Vase <rs key="#libr">Librada</rs>, que vuelve luego con licores, copas y una caja de cigarros.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -375,7 +375,7 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>Me voy, me voy. <stage>(Vase hacia la huerta.)</stage> </p>
+              <p>Me voy, me voy. <stage>(Vase hacia la huerta.)</stage></p>
             </sp>
           </div>
           <div n="3" type="scene">
@@ -407,7 +407,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p><stage>(Tomando asiento.)</stage> Ya lo he dicho: mi deleite es el sosiego del campo, mi sociedad la familia, mi descanso el estudio, mis amores... hasta hoy, la Naturaleza y la ciencia. <stage>(Rosario le sirve café.)</stage> </p>
+              <p><stage>(Tomando asiento.)</stage> Ya lo he dicho: mi deleite es el sosiego del campo, mi sociedad la familia, mi descanso el estudio, mis amores... hasta hoy, la Naturaleza y la ciencia. <stage>(Rosario le sirve café.)</stage></p>
             </sp>
             <sp who="#inoc">
               <speaker>Don Inocencio</speaker>
@@ -659,7 +659,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p>Allá voy, señora. Pues en la región no veo más que pobreza, un atraso que descorazona, ejércitos de mendigos, la agricultura como en tiempos de Adán, la industria rutinaria, grosera, infantil. <stage>(Óyenle todos con disgusto.)</stage> </p>
+              <p>Allá voy, señora. Pues en la región no veo más que pobreza, un atraso que descorazona, ejércitos de mendigos, la agricultura como en tiempos de Adán, la industria rutinaria, grosera, infantil. <stage>(Óyenle todos con disgusto.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -879,7 +879,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p>¡Y dale! Pues yo le digo a usted... <stage>(Conteniéndose.)</stage> </p>
+              <p>¡Y dale! Pues yo le digo a usted... <stage>(Conteniéndose.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -927,11 +927,11 @@
             </sp>
             <sp who="#caye">
               <speaker>Don Cayetano</speaker>
-              <p>¡Ea! basta ya. <stage>(Se levanta, queriendo poner paz.)</stage> </p>
+              <p>¡Ea! basta ya. <stage>(Se levanta, queriendo poner paz.)</stage></p>
             </sp>
             <sp who="#rosa">
               <speaker>Rosario</speaker>
-              <p><stage>(Levantándose.)</stage> No se hable más de cosas tan poco divertidas.<stage>(Pasa al lado de don <rs key="#inoc">Inocencio</rs>.)</stage> </p>
+              <p><stage>(Levantándose.)</stage> No se hable más de cosas tan poco divertidas.<stage>(Pasa al lado de don <rs key="#inoc">Inocencio</rs>.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -959,7 +959,7 @@
             </sp>
             <sp who="#inoc">
               <speaker>Don Inocencio</speaker>
-              <p>Y los brazos.<stage>(Adelantándose, abraza fríamente a <rs key="#pepe">Pepe Rey</rs>.)</stage> </p>
+              <p>Y los brazos.<stage>(Adelantándose, abraza fríamente a <rs key="#pepe">Pepe Rey</rs>.)</stage></p>
             </sp>
             <sp who="#rosa">
               <speaker>Rosario</speaker>
@@ -983,7 +983,7 @@
             </sp>
             <sp who="#libr">
               <speaker>Librada</speaker>
-              <p><stage>(Entrando por la derecha.)</stage> Señora, las señoras de Cirujeda. <stage>(Vase <rs key="#libr">Librada</rs>.)</stage> </p>
+              <p><stage>(Entrando por la derecha.)</stage> Señora, las señoras de Cirujeda. <stage>(Vase <rs key="#libr">Librada</rs>.)</stage></p>
             </sp>
             <sp who="#caye">
               <speaker>Don Cayetano</speaker>
@@ -1039,7 +1039,8 @@
             <stage>Don <rs key="#inoc">Inocencio</rs>; <rs key="#reme">María Remedios</rs>.</stage>
             <sp who="#inoc">
               <speaker>Don Inocencio</speaker>
-              <p><stage>(Queriendo dormirse.)</stage><seg type="foreign" xml:lang="la">Satis est requiescere lecto, si licet; et solito membra levare thoro</seg>...</p>
+              <p><stage>(Queriendo dormirse.)</stage>
+                <seg type="foreign" xml:lang="la">Satis est requiescere lecto, si licet; et solito membra levare thoro</seg>...</p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -1139,12 +1140,13 @@
             </sp>
             <sp who="#inoc">
               <speaker>Don Inocencio</speaker>
-              <p>Déjala... no le digas nada. Temo tus inconveniencias... A casa. <stage>(A <rs key="#rosa">Rosarito</rs>.)</stage> No entretengas a esta, no le des cuerda, que habla más que una cotorra... Tiene que hacer en casa. <stage>(Vase hacia la huerta.)</stage> </p>
+              <p>Déjala... no le digas nada. Temo tus inconveniencias... A casa. <stage>(A <rs key="#rosa">Rosarito</rs>.)</stage> No entretengas a esta, no le des cuerda, que habla más que una cotorra... Tiene que hacer en casa. <stage>(Vase hacia la huerta.)</stage></p>
             </sp>
           </div>
           <div n="6" type="scene">
             <head>Escena VI</head>
-            <stage><rs key="#rosa">Rosarito</rs>; <rs key="#reme">María Remedios</rs>.</stage>
+            <stage>
+              <rs key="#rosa">Rosarito</rs>; <rs key="#reme">María Remedios</rs>.</stage>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
               <p>Cotorrita, ya oíste lo que dice tu tío.</p>
@@ -1199,12 +1201,14 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>Pues el niño se alegrará... yo también... ¡y le daría yo un abrazo muy apretado, muy apretado!... <stage>(Bruscamente.)</stage> Adiós. <stage>(Se va rápidamente por la izquierda.)</stage> </p>
+              <p>Pues el niño se alegrará... yo también... ¡y le daría yo un abrazo muy apretado, muy apretado!... <stage>(Bruscamente.)</stage> Adiós. <stage>(Se va rápidamente por la izquierda.)</stage></p>
             </sp>
           </div>
           <div n="7" type="scene">
             <head>Escena VII</head>
-            <stage><rs key="#rosa">Rosarito</rs>; <rs key="#pepe">Pepe</rs></stage>
+            <stage>
+              <rs key="#rosa">Rosarito</rs>; <rs key="#pepe">Pepe</rs>
+            </stage>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
               <p><stage>(En la puerta de la biblioteca.)</stage> ¿Qué haré? Me dijo que en la huerta. Pero si allá está mamá con esas viejas charlatanas, insoportables... ¿Subiré a la biblioteca? No, no, me dijo que esperara.</p>
@@ -1359,7 +1363,7 @@
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
-              <p>¡Ja, ja!... ¡qué gracia! <stage>(Por disimular su turbación.)</stage> </p>
+              <p>¡Ja, ja!... ¡qué gracia! <stage>(Por disimular su turbación.)</stage></p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1463,7 +1467,7 @@
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
-              <p><stage>(Vivamente.)</stage> Pero esa carta no me la dio a leer mamá. Y no debía dármela... no, no... era muy pronto. Luego, llegas tú de improviso... <stage>(Aparece doña <rs key="#perf">Perfecta</rs> y don <rs key="#inoc">Inocencio</rs> viniendo de la huerta. Tras ellos <rs key="#jaci">Jacintito</rs>.)</stage> </p>
+              <p><stage>(Vivamente.)</stage> Pero esa carta no me la dio a leer mamá. Y no debía dármela... no, no... era muy pronto. Luego, llegas tú de improviso... <stage>(Aparece doña <rs key="#perf">Perfecta</rs> y don <rs key="#inoc">Inocencio</rs> viniendo de la huerta. Tras ellos <rs key="#jaci">Jacintito</rs>.)</stage></p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1535,7 +1539,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p>No me avergüencen ustedes, digo yo ahora... <stage>(Siguen hablando.)</stage> </p>
+              <p>No me avergüencen ustedes, digo yo ahora... <stage>(Siguen hablando.)</stage></p>
             </sp>
           </div>
           <div n="9" type="scene">
@@ -1548,7 +1552,7 @@
             <sp who="#inoc">
               <speaker>Don Inocencio</speaker>
               <p>Es el célebre <hi rend="italics">Caballuco</hi> de la leyenda...</p>
-              <!--irm: aquí Caballuco no aparece como personaje de la obra, sino como referencia legendaria-->
+<!--irm: aquí Caballuco no aparece como personaje de la obra, sino como referencia legendaria-->
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1696,7 +1700,7 @@
             </sp>
             <sp who="#juan">
               <speaker>Don Juan Tafetán</speaker>
-              <p>¡Bah! No correrá la sangre al río. <stage>(Siguen hablando.)</stage> </p>
+              <p>¡Bah! No correrá la sangre al río. <stage>(Siguen hablando.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -1708,7 +1712,7 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p><stage>(Obsequiando a <rs key="#cris">Caballuco</rs>, que se ha sentado junto a la mesa de la derecha.)</stage> Toma un cigarro. ¿Quieres otra copa? <stage>(Se la sirve.)</stage> </p>
+              <p><stage>(Obsequiando a <rs key="#cris">Caballuco</rs>, que se ha sentado junto a la mesa de la derecha.)</stage> Toma un cigarro. ¿Quieres otra copa? <stage>(Se la sirve.)</stage></p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1728,11 +1732,12 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p><stage>(La acepta.)</stage> Gracias. <stage>(Bebe un poco.)</stage> </p>
+              <p><stage>(La acepta.)</stage> Gracias. <stage>(Bebe un poco.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p><stage>(Ofreciendo a <rs key="#juan">Tafetán</rs>.)</stage><rs key="#juan">Tafetán</rs>, una copita.</p>
+              <p><stage>(Ofreciendo a <rs key="#juan">Tafetán</rs>.)</stage>
+                <rs key="#juan">Tafetán</rs>, una copita.</p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1740,7 +1745,7 @@
             </sp>
             <sp who="#cris">
               <speaker>Caballuco</speaker>
-              <p><stage>(Que no entiende el término.)</stage> ¿Cómo se llama eso? <stage>(Sin moverse de su asiento oye.)</stage> </p>
+              <p><stage>(Que no entiende el término.)</stage> ¿Cómo se llama eso? <stage>(Sin moverse de su asiento oye.)</stage></p>
             </sp>
             <sp who="#juan">
               <speaker>Don Juan Tafetán</speaker>
@@ -1928,7 +1933,7 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>¡Jesús! <stage>(Llevándose las manos a la cabeza. Todos manifiestan asombro y miedo.)</stage> </p>
+              <p>¡Jesús! <stage>(Llevándose las manos a la cabeza. Todos manifiestan asombro y miedo.)</stage></p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
@@ -1978,7 +1983,8 @@
           <stage>Empieza el acto después de anochecer.</stage>
           <div n="1" type="scene">
             <head>Escena I</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>, muy abatido, echado en un sillón; Don <rs key="#caye">Cayetano</rs>, que entra por la derecha.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>, muy abatido, echado en un sillón; Don <rs key="#caye">Cayetano</rs>, que entra por la derecha.</stage>
             <sp who="#caye">
               <speaker>Don Cayetano.-</speaker>
               <p> ¿Pero qué tienes...? ¿Aburridito...?</p>
@@ -2260,7 +2266,8 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey.-</speaker>
-              <p> Ver a <rs key="#rosa">Rosario</rs> <stage> (A Doña <rs key="#perf">Perfecta</rs>.) </stage> ¿Hoy tampoco?</p>
+              <p> Ver a <rs key="#rosa">Rosario</rs>
+                <stage> (A Doña <rs key="#perf">Perfecta</rs>.) </stage> ¿Hoy tampoco?</p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta.-</speaker>
@@ -2397,7 +2404,8 @@
           </div>
           <div n="5" type="scene">
             <head>Escena V</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>; Don <rs key="#juan">Juan Tafetán</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>; Don <rs key="#juan">Juan Tafetán</rs>.</stage>
             <sp who="#juan">
               <speaker>Don Juan Tafetán.-</speaker>
               <p> ¿Nos echamos a la calle?</p>
@@ -2612,7 +2620,8 @@
           </div>
           <div n="6" type="scene">
             <head>Escena VI</head>
-            <stage><rs key="#reme">María Remedios </rs>; Doña <rs key="#perf">Perfecta</rs>.</stage>
+            <stage>
+              <rs key="#reme">María Remedios </rs>; Doña <rs key="#perf">Perfecta</rs>.</stage>
             <sp who="#reme">
               <speaker>María Remedios.-</speaker>
               <p> El uno se queda, el otro se va... ¿Qué tramarán los dos libertinos, los dos escandalizadores del pueblo? ¡Oh, mundo inmoral, mundo de vilipendio...!</p>
@@ -2980,7 +2989,8 @@
           </div>
           <div n="10" type="scene">
             <head>Escena X</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>, Don <rs key="#inoc">Inocencio</rs>, Don <rs key="#caye">Cayetano</rs>, <rs key="#jaci">Jacintito</rs>, después Doña <rs key="#perf">Perfecta</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>, Don <rs key="#inoc">Inocencio</rs>, Don <rs key="#caye">Cayetano</rs>, <rs key="#jaci">Jacintito</rs>, después Doña <rs key="#perf">Perfecta</rs>.</stage>
             <sp who="#caye">
               <speaker>Don Cayetano.-</speaker>
               <p> ¿No saben la gran noticia?</p>
@@ -3101,7 +3111,8 @@
           </div>
           <div n="11" type="scene">
             <head>Escena XI</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>; Doña <rs key="#perf">Perfecta</rs>, después <rs key="#libr">Librada</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>; Doña <rs key="#perf">Perfecta</rs>, después <rs key="#libr">Librada</rs>.</stage>
             <sp who="#perf">
               <speaker>Doña Perfecta.-</speaker>
               <p><stage> (Mirándolo recelosa.) </stage> Mejor es que trabajes en tu cuarto. Llévate esta luz.</p>
@@ -3172,7 +3183,8 @@
           </div>
           <div n="12" type="scene">
             <head>Escena XII</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>, después <rs key="#libr">Librada</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>, después <rs key="#libr">Librada</rs>.</stage>
             <sp who="#pepe">
               <speaker>Pepe Rey.-</speaker>
               <p><stage> (Mirando a la puerta.) </stage> Me causa terror.
@@ -3227,7 +3239,8 @@
           </div>
           <div n="13" type="scene">
             <head>Escena XIII</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>.</stage>
             <sp who="#pepe">
               <speaker>Pepe Rey.-</speaker>
               <p> ¡Dios mío! esa mujer terrible... ¿duerme? Con esa conciencia, ¿es posible en humana vida la paz, el descanso del sueño? No, no creo que duerma. Fatigada, se enroscará como una serpiente, y el oído atento, abiertos los ojos, velará, velará siempre. <stage> (Poniendo atención, junto a la puerta. Vuelve hacia la izquierda.) </stage> Si <rs key="#rosa">Rosario</rs> baja, huiré con ella. Me la llevo, sí, la saco de esta horrenda cárcel. <stage> (Descorazonado.) </stage> ¿Pero cómo? <stage> (Mira por la ventana.) </stage> ¡Qué oscura la noche... los muros de la huerta, qué altos!... Imposible salir de esta morada feudal sin violencia y escándalo. <stage> (Con decisión.) </stage> Pero si es preciso... <stage> (Variando súbitamente de idea.) </stage> No, nada de violencia. La astucia, la malicia solapada es lo que se debe emplear contra ti, mujer insidiosa y resbaladiza. ¡Contra ti, tu sistema!... ¡Vencerte con tus armas, matarte con tu propio veneno!... <stage> (Siente pasos, y con gran ansiedad se aproxima a la puerta.) </stage></p>
@@ -3235,7 +3248,8 @@
           </div>
           <div n="14" type="scene">
             <head>Escena XIV</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>; <rs key="#rosa">Rosarito</rs>, envuelta en un chal de color claro, calzada con chinelas que no hacen ningún ruido. La escena débilmente iluminada por la lámpara que <rs key="#pepe">Pepe Rey</rs> ha llevado a su cuarto. La puerta de este abierta.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>; <rs key="#rosa">Rosarito</rs>, envuelta en un chal de color claro, calzada con chinelas que no hacen ningún ruido. La escena débilmente iluminada por la lámpara que <rs key="#pepe">Pepe Rey</rs> ha llevado a su cuarto. La puerta de este abierta.</stage>
             <sp who="#rosa">
               <speaker>Rosarito.-</speaker>
               <p> Pepe... ¿estás aquí? <stage> (Avanza palpando.) </stage></p>
@@ -3425,7 +3439,8 @@
           </div>
           <div n="16" type="scene">
             <head>Escena XVI</head>
-            <stage><rs key="#pepe">Pepe Rey</rs>; Doña <rs key="#perf">Perfecta</rs>.</stage>
+            <stage>
+              <rs key="#pepe">Pepe Rey</rs>; Doña <rs key="#perf">Perfecta</rs>.</stage>
             <sp who="#perf">
               <speaker>Doña Perfecta.-</speaker>
               <p><stage> (Con gravedad.) </stage> ¡Gracias, sobrino mío, gracias! ¿Merezco yo esa conducta? Rosario no se habría atrevido a bajar aquí, mientras yo dormía, si tú no la hubieras instigado a la liviandad, a la desobediencia.</p>
@@ -3469,7 +3484,8 @@
             <sp who="#perf">
               <speaker>Doña Perfecta.-</speaker>
               <p> ¡Dios mío, Santa Virgen del Socorro!... ¡Ay!... <stage> (Anonadada, cae en un sillón y se cubre el rostro con las manos.) </stage> ¿Es posible que yo merezca tan atroces injurias...?
-								<stage> (Pausa.) </stage> <rs key="#pepe">Pepe</rs>, hijo mío, ¿eres tú el que habla? Si aciertas en tu juicio, en verdad que soy una gran pecadora.</p>
+								<stage> (Pausa.) </stage>
+                <rs key="#pepe">Pepe</rs>, hijo mío, ¿eres tú el que habla? Si aciertas en tu juicio, en verdad que soy una gran pecadora.</p>
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey.-</speaker>
@@ -3710,7 +3726,8 @@
           <stage>Es de día.</stage>
           <div n="1" type="scene">
             <head>Escena I</head>
-            <stage><rs key="#varg">Vargas</rs>, de uniforme, sentado a la mesa, acabando de almorzar; <rs key="#reme">María Remedios</rs>, que le sirve; después un <rs key="#cabo">cabo cartero</rs>.</stage>
+            <stage>
+              <rs key="#varg">Vargas</rs>, de uniforme, sentado a la mesa, acabando de almorzar; <rs key="#reme">María Remedios</rs>, que le sirve; después un <rs key="#cabo">cabo cartero</rs>.</stage>
             <sp who="#varg">
               <speaker>Vargas</speaker>
               <p>Confiéselo usted, señora doña Remedios, mi simpática patrona. Usted nos aborrece. <stage>(Después de esperar la respuesta.)</stage> Digo que usted nos aborrece.</p>
@@ -3729,7 +3746,7 @@
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
-              <p>Señora, no hace usted más que suspirar, y decirnos que si el mundo es amargo, que si es dulce... Yo digo que es riquísimo este Jerez con que me ha obsequiado don <rs key="#inoc">Inocencio</rs>. <stage>(Se sirve y bebe.)</stage> </p>
+              <p>Señora, no hace usted más que suspirar, y decirnos que si el mundo es amargo, que si es dulce... Yo digo que es riquísimo este Jerez con que me ha obsequiado don <rs key="#inoc">Inocencio</rs>. <stage>(Se sirve y bebe.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -3757,16 +3774,16 @@
             </sp>
             <sp who="#cabo">
               <speaker>Cabo</speaker>
-              <p><stage>(Por el foro.)</stage> Mi teniente coronel, el correo. <stage>(Entrega varias cartas y se retira.)</stage> </p>
+              <p><stage>(Por el foro.)</stage> Mi teniente coronel, el correo. <stage>(Entrega varias cartas y se retira.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
               <p>A punto viene la prueba.
-								<stage>(Atisbando, sin acercarse, las cartas que recibe <rs key="#varg">Vargas</rs>.)</stage> </p>
+								<stage>(Atisbando, sin acercarse, las cartas que recibe <rs key="#varg">Vargas</rs>.)</stage></p>
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
-              <p>Con permiso. <stage>(Abre uno de los sobres y saca una carta de varios pliegos, por la cual pasa la vista rápidamente.)</stage> </p>
+              <p>Con permiso. <stage>(Abre uno de los sobres y saca una carta de varios pliegos, por la cual pasa la vista rápidamente.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -3790,7 +3807,7 @@
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
-              <p>Sé que tiene razón, y que su tía no la tiene. <stage>(Acaba de comer y enciende un cigarro.)</stage> </p>
+              <p>Sé que tiene razón, y que su tía no la tiene. <stage>(Acaba de comer y enciende un cigarro.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -3834,7 +3851,7 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>¡Adulón! <stage>(Recogiendo el servicio.)</stage> </p>
+              <p>¡Adulón! <stage>(Recogiendo el servicio.)</stage></p>
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
@@ -3846,7 +3863,7 @@
             </sp>
             <sp who="#juan">
               <speaker>Don Juan Tafetán</speaker>
-              <p>No se fíen, ¡ji, ji!... Yo conozco a mi gente. <stage>(<rs key="#reme">María Remedios</rs>  se aparta y escucha.)</stage> </p>
+              <p>No se fíen, ¡ji, ji!... Yo conozco a mi gente. <stage>(<rs key="#reme">María Remedios</rs>  se aparta y escucha.)</stage></p>
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
@@ -3883,7 +3900,8 @@
           </div>
           <div n="3" type="scene">
             <head>Escena III</head>
-            <stage><rs key="#varg">Vargas</rs>, <rs key="#pinz">Pinzón</rs>, <rs key="#juan">Tafetán</rs>.</stage>
+            <stage>
+              <rs key="#varg">Vargas</rs>, <rs key="#pinz">Pinzón</rs>, <rs key="#juan">Tafetán</rs>.</stage>
             <sp who="#varg">
               <speaker>Vargas</speaker>
               <p><stage>(Con interés.)</stage> ¿Qué dice Pepe?</p>
@@ -3910,7 +3928,7 @@
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
-              <p>Eh... déjate de tonterías. También su padre le aconseja la legalidad. Acabo de recibir esta larga carta... <stage>(Mostrándosela.)</stage> </p>
+              <p>Eh... déjate de tonterías. También su padre le aconseja la legalidad. Acabo de recibir esta larga carta... <stage>(Mostrándosela.)</stage></p>
             </sp>
             <sp who="#pinz">
               <speaker>Pinzón</speaker>
@@ -3994,7 +4012,7 @@
             </sp>
             <sp who="#pinz">
               <speaker>Pinzón</speaker>
-              <p>También habíamos inventado un gracioso ardid... <stage>(Atento a vigilar.)</stage> </p>
+              <p>También habíamos inventado un gracioso ardid... <stage>(Atento a vigilar.)</stage></p>
             </sp>
             <sp who="#juan">
               <speaker>Don Juan Tafetán</speaker>
@@ -4002,7 +4020,7 @@
             </sp>
             <sp who="#pinz">
               <speaker>Pinzón</speaker>
-              <p>Y para... <stage>(Mirando al exterior por el foro.)</stage> </p>
+              <p>Y para... <stage>(Mirando al exterior por el foro.)</stage></p>
             </sp>
             <sp who="#juan">
               <speaker>Don Juan Tafetán</speaker>
@@ -4038,7 +4056,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p>Dame, dame pronto... <stage>(Lee rápidamente.)</stage> </p>
+              <p>Dame, dame pronto... <stage>(Lee rápidamente.)</stage></p>
             </sp>
             <sp who="#pinz">
               <speaker>Pinzón</speaker>
@@ -4050,7 +4068,7 @@
             </sp>
             <sp who="#pinz">
               <speaker>Pinzón</speaker>
-              <p>Su lealtad le perderá. <stage>(Vuelve al foro a hacer la guardia.)</stage> </p>
+              <p>Su lealtad le perderá. <stage>(Vuelve al foro a hacer la guardia.)</stage></p>
             </sp>
             <sp who="#varg">
               <speaker>Vargas</speaker>
@@ -4210,7 +4228,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p><stage>(Con fuero.)</stage> Pues si en la sangre perece el monstruo y se ahoga, que la mía, ¡oh Dios! la mía sea la primera que se derrame... Vámonos de aquí. <stage>(Vase seguido de los militares y de <rs key="#juan">Tafetán</rs>.)</stage> </p>
+              <p><stage>(Con fuero.)</stage> Pues si en la sangre perece el monstruo y se ahoga, que la mía, ¡oh Dios! la mía sea la primera que se derrame... Vámonos de aquí. <stage>(Vase seguido de los militares y de <rs key="#juan">Tafetán</rs>.)</stage></p>
             </sp>
           </div>
           <div n="6" type="scene">
@@ -4310,7 +4328,7 @@
             </sp>
             <sp who="#jaci">
               <speaker>Jacintito</speaker>
-              <p>Voy. <stage>(Vase por el foro.)</stage> </p>
+              <p>Voy. <stage>(Vase por el foro.)</stage></p>
             </sp>
           </div>
           <div n="7" type="scene">
@@ -4442,7 +4460,7 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>Mucho cuidado, hijo. <stage>(Vase <rs key="#jaci">Jacinto</rs>.)</stage> </p>
+              <p>Mucho cuidado, hijo. <stage>(Vase <rs key="#jaci">Jacinto</rs>.)</stage></p>
             </sp>
           </div>
           <div n="9" type="scene">
@@ -4462,7 +4480,7 @@
             </sp>
             <sp who="#licu">
               <speaker>El tío Licurgo</speaker>
-              <p>Aquí está la gente buena. <stage>(Avanzan lentamente, cohibidos y recelosos. Visten de paño pardo o pana; calzan borceguíes con espuelas. Su aspecto es rudo, fiero, sin carecer de nobleza y dignidad.)</stage> </p>
+              <p>Aquí está la gente buena. <stage>(Avanzan lentamente, cohibidos y recelosos. Visten de paño pardo o pana; calzan borceguíes con espuelas. Su aspecto es rudo, fiero, sin carecer de nobleza y dignidad.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4490,7 +4508,7 @@
             </sp>
             <sp who="#cris">
               <speaker>Caballuco</speaker>
-              <p><stage>(Sintiendo el dolor del brazo y soltándose con brusquedad.)</stage> Suéltame, condenada... ¡ay, me has clavado la garra! <stage>(Rascándose.)</stage> </p>
+              <p><stage>(Sintiendo el dolor del brazo y soltándose con brusquedad.)</stage> Suéltame, condenada... ¡ay, me has clavado la garra! <stage>(Rascándose.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -4518,11 +4536,11 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p><stage>(Con autoridad.)</stage> Siéntense, digo. <stage>(Siéntanse <rs key="#paso">Pasolargo</rs> y <rs key="#este">Romero</rs> junto a la mesa. <rs key="#cris">Caballuco</rs> en el centro de la escena. Entre este y doña <rs key="#perf">Perfecta</rs>, que está a la derecha, alguna distancia. <rs key="#licu">Licurgo</rs>  permanece en pie detrás del sillón que ocupa doña <rs key="#perf">Perfecta</rs>.)</stage> </p>
+              <p><stage>(Con autoridad.)</stage> Siéntense, digo. <stage>(Siéntanse <rs key="#paso">Pasolargo</rs> y <rs key="#este">Romero</rs> junto a la mesa. <rs key="#cris">Caballuco</rs> en el centro de la escena. Entre este y doña <rs key="#perf">Perfecta</rs>, que está a la derecha, alguna distancia. <rs key="#licu">Licurgo</rs>  permanece en pie detrás del sillón que ocupa doña <rs key="#perf">Perfecta</rs>.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>¿Querrán tomar alguna cosa? <stage>(A una seña de doña <rs key="#perf">Perfecta</rs> se va <rs key="#reme">Remedios</rs>, y vuelve al poco rato con botellas, copas y azucarillos.)</stage> </p>
+              <p>¿Querrán tomar alguna cosa? <stage>(A una seña de doña <rs key="#perf">Perfecta</rs> se va <rs key="#reme">Remedios</rs>, y vuelve al poco rato con botellas, copas y azucarillos.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4578,7 +4596,8 @@
             </sp>
             <sp who="#este">
               <speaker>Esteban Romero</speaker>
-              <p><stage>(Vivamente.)</stage> ¡El Gobernador! No hay en toda la tierra tunante que más merezca un tiro. Gobernante y Gobierno, todos son unos. Por esta, <stage>(Besándose los dedos.)</stage> yo, <stage>(Se levanta.)</stage> <rs key="#este">Esteban Romero</rs>, a quien llaman las historias <hi rend="italics">el Terror de Villajuán</hi>, digo que no iré nunca con los Aceros: soy yo más. Con <rs key="#cris">Cristóbal</rs> sí, con <rs key="#cris">Cristóbal</rs> al fin del mundo. Que diga este media palabra, y hoy como ayer, aquí está <rs key="#este">Romero</rs>. He dicho. <stage>(Se sienta.)</stage> </p>
+              <p><stage>(Vivamente.)</stage> ¡El Gobernador! No hay en toda la tierra tunante que más merezca un tiro. Gobernante y Gobierno, todos son unos. Por esta, <stage>(Besándose los dedos.)</stage> yo, <stage>(Se levanta.)</stage>
+                <rs key="#este">Esteban Romero</rs>, a quien llaman las historias <hi rend="italics">el Terror de Villajuán</hi>, digo que no iré nunca con los Aceros: soy yo más. Con <rs key="#cris">Cristóbal</rs> sí, con <rs key="#cris">Cristóbal</rs> al fin del mundo. Que diga este media palabra, y hoy como ayer, aquí está <rs key="#este">Romero</rs>. He dicho. <stage>(Se sienta.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4702,7 +4721,8 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>Di vivir y triunfar. <stage>(Levántase y le pone la mano en el hombro.)</stage> <rs key="#cris">Cristóbal</rs>, eres grande.</p>
+              <p>Di vivir y triunfar. <stage>(Levántase y le pone la mano en el hombro.)</stage>
+                <rs key="#cris">Cristóbal</rs>, eres grande.</p>
             </sp>
             <sp who="#cris">
               <speaker>Caballuco</speaker>
@@ -4710,7 +4730,7 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>¡Viva Orbajosa y muera la nación! <stage>(Todos en pie vociferan.)</stage> </p>
+              <p>¡Viva Orbajosa y muera la nación! <stage>(Todos en pie vociferan.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4754,7 +4774,7 @@
             </sp>
             <sp who="#cris">
               <speaker>Caballuco</speaker>
-              <p>Cuando arregle a mi gente de aquí. Mañana. <stage>(Siguen hablando.)</stage> </p>
+              <p>Cuando arregle a mi gente de aquí. Mañana. <stage>(Siguen hablando.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -4806,11 +4826,11 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>No, no... <stage>(Mandando callar y denegando con el brazo.)</stage> </p>
+              <p>No, no... <stage>(Mandando callar y denegando con el brazo.)</stage></p>
             </sp>
             <sp who="#este">
               <speaker>Esteban Romero</speaker>
-              <p>¡Que viva! <stage>(No pudiendo gritar, agitan los brazos y se retiran lentamente.)</stage> </p>
+              <p>¡Que viva! <stage>(No pudiendo gritar, agitan los brazos y se retiran lentamente.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4818,7 +4838,7 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>Que vivan ellos, ¿verdad? <stage>(Quiere gritar.)</stage> </p>
+              <p>Que vivan ellos, ¿verdad? <stage>(Quiere gritar.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4835,15 +4855,17 @@
           <stage>Es de noche. La escena está alumbrada únicamente por la lámpara colocada ante la Virgen.</stage>
           <div n="1" type="scene">
             <head>Escena I</head>
-            <stage><rs key="#rosa">Rosarito</rs>, acostada en el sofá, durmiendo; envuelta en el mismo chal blanco con que sale en el acto segundo; doña <rs key="#perf">Perfecta</rs>, que aparece por la derecha, con una luz en la mano, y un manojo de llaves.</stage>
+            <stage>
+              <rs key="#rosa">Rosarito</rs>, acostada en el sofá, durmiendo; envuelta en el mismo chal blanco con que sale en el acto segundo; doña <rs key="#perf">Perfecta</rs>, que aparece por la derecha, con una luz en la mano, y un manojo de llaves.</stage>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>¿Duerme o finge dormir? <stage>(Con tristeza.)</stage> ¡Ah...! ese amor absurdo ha enseñado a mi pobre ángel muchas cosas malas, el disimulo, artes de fingimiento malicioso, que en otras circunstancias no serían graves, ahora sí. <stage>(Deja la luz y contempla a su hija más de cerca.)</stage> Duerme de veras. El cansancio, el tedio, el insomnio de anoche, pueden más que su inquietud... Duerme, hija mía, descansa... Yo velo por ti. De esa loca inclinación te curará la ausencia, el olvido, sí... Y volverás a ser dichosa, y comprenderás qué madre tienes, y de qué abismo de perdición ha sabido apartarte... <stage>(Se aproxima al sofá, inclinándose y mirando a su hija con amor.)</stage> Hija querida, ¿dónde está, dónde, aquella conformidad dulcísima entre tus pensamientos y los míos...? <stage>(Se arrodilla ante ella.)</stage> Vuelve a mí, vuelve, paloma extraviada en los aires, vuelve al nido y al seno de tu madre amorosa, que te adora. <stage>(Le toca el rostro suavemente para no despertarla.)</stage> Tu vida y tu amor me son tan necesarios como tu obediencia, porque te he criado para mí, para mirarme en ti, y ahora me miro... y no me veo. <stage>(La besa en la frente, tocándola apenas con sus labios.)</stage> ¡Qué dulce es besarte, y cómo se refresca el alma, abrasada de estos rencores...! Y tus manos qué suaves... <stage>(Se las besa.)</stage> ¡Cuándo volverán a acariciarme...! ¡Que no fueran siempre manos juguetonas... y tú siempre niña, siempre...! <stage>(Creyendo oír ruido en el exterior de la casa, levántase sobresaltada.)</stage> ¡Oh... qué es eso! <stage>(Corre a la ventana.)</stage> Nada... no hay nadie... No tengo miedo, no. No debo tenerlo. <stage>(Infundiéndose valor.)</stage> Pasa pronto, noche de ansiedad... Mañana... estaremos lejos. <stage>(Coge la luz, y haciendo pantalla con su mano, para que la claridad no dé en el rostro de su hija, atraviesa la escena.)</stage> Duerme, amor mío, y que en tu sueño te visiten los ángeles, y te inspiren la obediencia, la santa obediencia. <stage>(Se va lentamente, sin hacer ruido, por la derecha.)</stage> </p>
+              <p>¿Duerme o finge dormir? <stage>(Con tristeza.)</stage> ¡Ah...! ese amor absurdo ha enseñado a mi pobre ángel muchas cosas malas, el disimulo, artes de fingimiento malicioso, que en otras circunstancias no serían graves, ahora sí. <stage>(Deja la luz y contempla a su hija más de cerca.)</stage> Duerme de veras. El cansancio, el tedio, el insomnio de anoche, pueden más que su inquietud... Duerme, hija mía, descansa... Yo velo por ti. De esa loca inclinación te curará la ausencia, el olvido, sí... Y volverás a ser dichosa, y comprenderás qué madre tienes, y de qué abismo de perdición ha sabido apartarte... <stage>(Se aproxima al sofá, inclinándose y mirando a su hija con amor.)</stage> Hija querida, ¿dónde está, dónde, aquella conformidad dulcísima entre tus pensamientos y los míos...? <stage>(Se arrodilla ante ella.)</stage> Vuelve a mí, vuelve, paloma extraviada en los aires, vuelve al nido y al seno de tu madre amorosa, que te adora. <stage>(Le toca el rostro suavemente para no despertarla.)</stage> Tu vida y tu amor me son tan necesarios como tu obediencia, porque te he criado para mí, para mirarme en ti, y ahora me miro... y no me veo. <stage>(La besa en la frente, tocándola apenas con sus labios.)</stage> ¡Qué dulce es besarte, y cómo se refresca el alma, abrasada de estos rencores...! Y tus manos qué suaves... <stage>(Se las besa.)</stage> ¡Cuándo volverán a acariciarme...! ¡Que no fueran siempre manos juguetonas... y tú siempre niña, siempre...! <stage>(Creyendo oír ruido en el exterior de la casa, levántase sobresaltada.)</stage> ¡Oh... qué es eso! <stage>(Corre a la ventana.)</stage> Nada... no hay nadie... No tengo miedo, no. No debo tenerlo. <stage>(Infundiéndose valor.)</stage> Pasa pronto, noche de ansiedad... Mañana... estaremos lejos. <stage>(Coge la luz, y haciendo pantalla con su mano, para que la claridad no dé en el rostro de su hija, atraviesa la escena.)</stage> Duerme, amor mío, y que en tu sueño te visiten los ángeles, y te inspiren la obediencia, la santa obediencia. <stage>(Se va lentamente, sin hacer ruido, por la derecha.)</stage></p>
             </sp>
           </div>
           <div n="2" type="scene">
             <head>Escena II</head>
-            <stage><rs key="#rosa">Rosarito</rs>, que durante la anterior escena fingía dormir, y espía la salida de su madre. Cuando la siente salir, alza la cabeza y escucha.</stage>
+            <stage>
+              <rs key="#rosa">Rosarito</rs>, que durante la anterior escena fingía dormir, y espía la salida de su madre. Cuando la siente salir, alza la cabeza y escucha.</stage>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
               <p>Se fue... sí... la siento en el comedor... ¡Qué miedo tan horrible cuando se arrodilló aquí, y me besó la frente, las manos...! Creí morirme. ¡Qué ansiedad! <stage>(Se va incorporando.)</stage> ¡Si se le ocurre entrar la mano aquí, <stage>(En el seno.)</stage> y quitarme mi libro...! <stage>(Tocándose el pecho con mucha inquietud.)</stage> No, no... aquí está. <stage>(Besa el librito y después lo abre.)</stage> Y la carta... aquí está. Se me ha olvidado la hora. ¿Decía las diez, las once? <stage>(Corre al otro lado y, a la luz de la lámpara, lee:)</stage> «Las doce», dice las doce. Lo demás me lo sé de memoria. <stage>(Repitiendo la carta.)</stage> «Tu madre no cede... Quiere huir contigo... Antes huiremos nosotros de ella... Ten valor... Espérame...». <stage>(Mirando consternada a las puertas y a la ventana.)</stage> ¿Pero cómo saldré, Dios mío...? ¡Imposible...! Mi madre no duerme... <stage>(Escuchando por la derecha.)</stage> Desde aquí la siento echando llaves... llaves... Hasta esta noche, nunca me fijé en el sinnúmero de llaves que tiene esta casa. <stage>(Escuchando otra vez.)</stage> Y cerrojos, y cadenas... Cárcel es esto, panteón, no sé qué... Sospecho que mi madre ha dispuesto partir de Orbajosa... <stage>(Espantada.)</stage> ¡Oh! no, yo no... Con ella no... Aquí le espero... Él sabrá cómo entra, y cómo salimos... <stage>(Con gran confusión y aturdimiento.)</stage> Arde mi cabeza... Me vuelvo loca. <stage>(Tocándose el corazón.)</stage> ¡Qué opresión aquí! Parece que la vida se me acaba... ¡Valor! Hay que tenerlo a todo trance, aunque después me muera. <stage>(Dirígese a la reja de la izquierda.)</stage> Por esta reja he de ver si aún rondan la calle Remedios y <rs key="#cris">Cristóbal</rs>... <stage>(Después de observar un momento.)</stage> No veo nada... En la huerta, todo es tinieblas y un silencio de Camposanto. <stage>(Vuelve al proscenio.)</stage> ¡Oh, Dios mío, no me abandones! <stage>(Dirígese al altarito.)</stage> Y tú, madre mía, ábreme un camino en esta soledad pavorosa, <stage>(Se arrodilla: aparece doña <rs key="#perf">Perfecta</rs> por la derecha y avanza cautelosamente, sin que su hija la vea.)</stage> aliéntame con tu mirada, envuélveme en tu manto... Y vosotros, angelitos que estáis a sus pies, prestadme vuestras alas... <stage>(Siente la proximidad de su madre, y dando un grito de terror, se vuelve hacia ella.)</stage> ¡Ah!</p>
@@ -4922,7 +4944,7 @@
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
-              <p>Sí, sí; otro respeto, otro amor... <stage>(Luchando por buscar la expresión propia.)</stage> </p>
+              <p>Sí, sí; otro respeto, otro amor... <stage>(Luchando por buscar la expresión propia.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -4958,7 +4980,7 @@
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
-              <p>Sí... <stage>(La toca.)</stage> </p>
+              <p>Sí... <stage>(La toca.)</stage></p>
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
@@ -5054,7 +5076,7 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>Aquí... Entramos juntos... Ha pasado a la huerta. <stage>(Las dos en la puerta del foro.)</stage> </p>
+              <p>Aquí... Entramos juntos... Ha pasado a la huerta. <stage>(Las dos en la puerta del foro.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>
@@ -5070,11 +5092,11 @@
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
-              <p>¡Mátale! <stage>(Suena un tiro. Pausa.)</stage> </p>
+              <p>¡Mátale! <stage>(Suena un tiro. Pausa.)</stage></p>
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
-              <p>¡Ah! <stage>(Quédase aterrada y sin movimiento.)</stage> </p>
+              <p>¡Ah! <stage>(Quédase aterrada y sin movimiento.)</stage></p>
             </sp>
             <sp who="#reme">
               <speaker>María Remedios</speaker>
@@ -5106,7 +5128,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p>Sígueme... ven... <stage>(Vacilante.)</stage> </p>
+              <p>Sígueme... ven... <stage>(Vacilante.)</stage></p>
             </sp>
             <sp who="#rosa">
               <speaker>Rosarito</speaker>
@@ -5114,7 +5136,7 @@
             </sp>
             <sp who="#pepe">
               <speaker>Pepe Rey</speaker>
-              <p><stage>(Con voz de moribundo.)</stage> A la... eternidad... <stage>(Cae muerto.)</stage> </p>
+              <p><stage>(Con voz de moribundo.)</stage> A la... eternidad... <stage>(Cae muerto.)</stage></p>
             </sp>
             <sp who="#perf">
               <speaker>Doña Perfecta</speaker>

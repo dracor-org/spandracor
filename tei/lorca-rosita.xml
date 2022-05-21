@@ -751,9 +751,7 @@
           </sp>
           <sp who="#rosi">
             <speaker>Rosita</speaker>
-            <p>
-              <stage>(Igual.)</stage>
-            </p>
+            <p><stage>(Igual.)</stage></p>
             <p>¿Para quién son los suspiros</p>
             <p>de mis tres lindas manolas?</p>
           </sp>
@@ -1023,9 +1021,7 @@
           </sp>
           <sp who="#prim">
             <speaker>Primo</speaker>
-            <p>
-              <stage>(La lleva a un «vis-a-vis» y se sientan.)</stage>
-            </p>
+            <p><stage>(La lleva a un «vis-a-vis» y se sientan.)</stage></p>
             <p>¡Ay, prima, tesoro mío!,</p>
             <p>ruiseñor en la nevada,</p>
             <p>deja tu boca cerrada</p>
@@ -1777,7 +1773,7 @@
           <sp who="#ama">
             <speaker>Ama</speaker>
             <p>La madre y las tres niñas. Lujo por fuera y para la boca unas malas migas de maíz. ¡Qué azotazo en el… les daba…! <stage>(Sale de escena.)</stage>
-							<stage>(Entran las tres cursilonas y su mamá. Las tres solteronas vienen con inmensos sombreros de plumas malas, trajes exageradísimos, guantes hasta el codo con pulseras encima y abanicos pendientes de largas cadenas. La madre viste de negro pardo con un sombrero de viejas cintas moradas.)</stage></p>
+              <stage>(Entran las tres cursilonas y su mamá. Las tres solteronas vienen con inmensos sombreros de plumas malas, trajes exageradísimos, guantes hasta el codo con pulseras encima y abanicos pendientes de largas cadenas. La madre viste de negro pardo con un sombrero de viejas cintas moradas.)</stage></p>
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>
@@ -2288,9 +2284,7 @@
           </sp>
           <sp who="#sol3">
             <speaker>Soltera 3ª</speaker>
-            <p>
-              <stage>(En el piano.)</stage>
-            </p>
+            <p><stage>(En el piano.)</stage></p>
             <p>Madre, llévame a los campos</p>
             <p>con la luz de la mañana</p>
             <p>a ver abrirse las flores</p>
@@ -2392,9 +2386,7 @@
             <p>con la luz de la mañana,</p>
             <p>a ver abrirse las flores</p>
             <p>cuando se mecen las ramas.</p>
-            <p>
-              <stage>(El piano hace la última escala y se para.)</stage>
-            </p>
+            <p><stage>(El piano hace la última escala y se para.)</stage></p>
           </sp>
           <sp who="#tia_">
             <speaker>Tía</speaker>
@@ -2653,9 +2645,7 @@
             <p>de mi ilusión fatal</p>
             <p>a la luz de la luna</p>
             <p>lo viste naufragar.</p>
-            <p>
-              <stage>(La <rs key="#tia_">Tía</rs> y el <rs key="#tio">Tío</rs> bailan. <rs key="#rosi">Rosita</rs> se dirige a la pareja <rs key="#sol2">Soltera 2ª</rs> y <rs key="#ayo2">Ayola 2ª</rs>. Baila con la <rs key="#sol2">Soltera 2ª</rs>. La <rs key="#ayo2">Ayola 2ª</rs> bate palmas al ver a los viejos y el <rs key="#ama">Ama</rs> al entrar hace el mismo juego.)</stage>
-            </p>
+            <p><stage>(La <rs key="#tia_">Tía</rs> y el <rs key="#tio">Tío</rs> bailan. <rs key="#rosi">Rosita</rs> se dirige a la pareja <rs key="#sol2">Soltera 2ª</rs> y <rs key="#ayo2">Ayola 2ª</rs>. Baila con la <rs key="#sol2">Soltera 2ª</rs>. La <rs key="#ayo2">Ayola 2ª</rs> bate palmas al ver a los viejos y el <rs key="#ama">Ama</rs> al entrar hace el mismo juego.)</stage></p>
           </sp>
           <ab>Telón</ab>
         </div>
@@ -3583,9 +3573,7 @@
           </sp>
           <sp who="#rosi">
             <speaker>Rosita</speaker>
-            <p>
-              <stage>(Vacila un poco, se apoya en una silla y cae sostenida por el <rs key="#ama">Ama</rs> y la <rs key="#tia_">Tía</rs>, que impiden su total desmayo.)</stage>
-            </p>
+            <p><stage>(Vacila un poco, se apoya en una silla y cae sostenida por el <rs key="#ama">Ama</rs> y la <rs key="#tia_">Tía</rs>, que impiden su total desmayo.)</stage></p>
             <p>«Y cuando llega la noche</p>
             <p>se comienza a deshojar.»</p>
             <stage>(Salen, y a su mutis queda la escena sola. Se oye golpear la puerta. De pronto se abre un balcón del fondo y las blancas cortinas oscilan con el viento.)</stage>

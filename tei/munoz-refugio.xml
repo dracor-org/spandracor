@@ -80,7 +80,7 @@
         <p>En el acto primero, África, la administradora del Parador o “refugio” construido por el Patronato Nacional del Turismo a pie de Manzanares, aparece en el salón atizando la chimenea y dirigiendo las labores del personal, entre otras las de su hermano Timoteo, cochero; y las de Paco, camarero del refugio. Horacio es un “buscavidas” de unos 45 años recién llegado, que con su astucia consigue quedarse y llenar el parador de clientes, lo que le reporta beneficios económicos. Oculta, no obstante, un secreto personal: tiene hijos en Madrid. África lo descubre cuando le sorprende poniendo una conferencia telefónica para hablar con ellos.</p>
         <p>En el segundo acto, Ramón, hijo de Timoteo, se enfurece contra Horacio porque piensa que le ha robado tres piezas de un coche que acababa de arreglar y cuyo pago le serviría para seguir ayudando económicamente a Maruja, doncella llegada al Parador acompañada de su hermana Consuelo. Ramón confiesa a su tía África que “está en relaciones” con Maruja y Horacio hace lo propio con África, declarándole el amor que siente por ella desde que se interesó por sus hijos y le ofreció sus confidencias y su simpatía. Ella se escandaliza, pero se reconoce a sí misma que a ella también le gustan su frente despejada y sus ojos vivos. El acto termina con el rechazo de Nieves hacia Luis, matrimonio alojado en el Parador.</p>
         <p>En el tercer acto se comenta que Nieves ha dejado a Luis y ha huido con un boxeador peruano. Luis, abatido, desea abandonar el Parador, pero antes habla con Ramón para dejarle al frente de todos sus negocios en España. También desea ser generoso con Horacio. Ramón se lo agradece y le rebela que es sabedor de que Maruja y Consuelo son sus hijas. Ramón hace llamar a sus hijas y Maruja se reconcilia con su padre. Consuelo renuncia a su vocación de religiosa para cuidar de su padre y Horacio llama a Madrid a sus hijos para que hablen con África. Ella les expresa su deseo de que visiten el Parador y les dice que su padre irá a buscarlos mañana mismo para que vengan.</p>
-        <!--SGA: Es un texto con muchos neologismos, con expresiones vulgares y con palabras que representan realidades novedosas de la época o vigentes por algún motivo, como Kodak o nabab-->
+<!--SGA: Es un texto con muchos neologismos, con expresiones vulgares y con palabras que representan realidades novedosas de la época o vigentes por algún motivo, como Kodak o nabab-->
       </abstract>
       <particDesc>
         <listPerson cert="medium">
@@ -925,7 +925,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#hora">
             <speaker>Horacio</speaker>
-            <p>Hombre, me gustaría que pasara alguna señora en meses mayores para que vieran ustedes cómo el bautizo se celebraba aquí. <stage>(Risas. Se van por la derecha <rs key="#hora">Horacio</rs> y <rs key="#timo">Timoteo)</rs></stage>.</p>
+            <p>Hombre, me gustaría que pasara alguna señora en meses mayores para que vieran ustedes cómo el bautizo se celebraba aquí. <stage>(Risas. Se van por la derecha <rs key="#hora">Horacio</rs> y <rs key="#timo">Timoteo)</rs>
+              </stage>.</p>
           </sp>
         </div>
         <div cert="low" resp="#jct" type="scene">
@@ -2495,7 +2496,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#hora">
             <speaker>Horacio</speaker>
-            <p>Lo que tú creas más conveniente. Sí, mujer. Hoy te he mandado otros veinte duros con el conductor del auto-exprés. Pon todos los días, además del cocido, un plato de huevos o unos filetes: lo que prefieran los chiquitos. ¿Eh?… ¿Cómo?… sí; he tenido una suerte muy grande. Lo de menos son ya los trucos; y eso que me siguen dando un gran resultado. <stage>(Riendo)</stage>. Ayer fingí que me atropellaba un autobús cargado de turistas, a la misma puerta del parador, y no tienes idea de la que se armó. Tres desmayadas, dos con ataques, que no había forma de sujetarlas, y ¡qué sé yo! En un momento se sirvieron dieciséis tilas, once <hi rend="italics">whiskys</hi> y nueve coñacs. Pero, en fin, lo importante es lo bien que le he caído a estos americanos, que ya no saben vivir sin mí. Son ricos como nababs <!--SGA: plural que sigue las normas actuales de RAE. En original "nababes"-->. Además, esta buena señora que administra el parador, que es una santa… ¿Eh? No; no quiero prórroga. Adiós, hijita… Muchos besos a todos. <stage>(Deja el aparato y se dispone a encender un cigarrillo, mientras canturrea, con música de <hi rend="italics">La orgía dorada</hi></stage>.</p>
+            <p>Lo que tú creas más conveniente. Sí, mujer. Hoy te he mandado otros veinte duros con el conductor del auto-exprés. Pon todos los días, además del cocido, un plato de huevos o unos filetes: lo que prefieran los chiquitos. ¿Eh?… ¿Cómo?… sí; he tenido una suerte muy grande. Lo de menos son ya los trucos; y eso que me siguen dando un gran resultado. <stage>(Riendo)</stage>. Ayer fingí que me atropellaba un autobús cargado de turistas, a la misma puerta del parador, y no tienes idea de la que se armó. Tres desmayadas, dos con ataques, que no había forma de sujetarlas, y ¡qué sé yo! En un momento se sirvieron dieciséis tilas, once <hi rend="italics">whiskys</hi> y nueve coñacs. Pero, en fin, lo importante es lo bien que le he caído a estos americanos, que ya no saben vivir sin mí. Son ricos como nababs <!--SGA: plural que sigue las normas actuales de RAE. En original "nababes"-->. Además, esta buena señora que administra el parador, que es una santa… ¿Eh? No; no quiero prórroga. Adiós, hijita… Muchos besos a todos. <stage>(Deja el aparato y se dispone a encender un cigarrillo, mientras canturrea, con música de <hi rend="italics">La orgía dorada</hi>
+              </stage>.</p>
             <lg>
               <head>Poema</head>
               <l>Caballero español,</l>
@@ -2949,7 +2951,8 @@
           </sp>
           <sp who="#niev">
             <speaker>Nieves</speaker>
-            <p>(<stage>A <rs key="#ramo">Ramón</rs></stage>). ¿Le falta mucho al coche?</p>
+            <p>(<stage>A <rs key="#ramo">Ramón</rs>
+              </stage>). ¿Le falta mucho al coche?</p>
           </sp>
           <sp who="#ramo">
             <speaker>Ramón</speaker>
@@ -3058,7 +3061,8 @@
               <l>haz que se destrence</l>
               <l>si he de ser la novia.</l>
             </lg>
-            <p>Y no se deshizo. ¡Una pena! (<stage>Ríe <rs key="#niev">Nieves</rs></stage>). No se ría usté. Si se hubiera destrenzao, con él m’hubiera casao.</p>
+            <p>Y no se deshizo. ¡Una pena! (<stage>Ríe <rs key="#niev">Nieves</rs>
+              </stage>). No se ría usté. Si se hubiera destrenzao, con él m’hubiera casao.</p>
           </sp>
           <sp who="#niev">
             <speaker>Nieves</speaker>
@@ -3216,9 +3220,7 @@
           </sp>
           <sp who="#hora">
             <speaker>Horacio</speaker>
-            <p>
-              <stage>(Rendidamente).</stage>
-            </p>
+            <p><stage>(Rendidamente).</stage></p>
             <lg>
               <head>Poema</head>
               <l>De siempre es nueva la nieve,</l>
@@ -3242,7 +3244,8 @@
           </sp>
           <sp who="#hora">
             <speaker>Horacio</speaker>
-            <p>¡Ah! ¡Casi nada! ¡Menudo portento! Una escala extensible y plegable, sistema matasuegras, utilísima para casos de incendios. Plegada ocupa muy poco espacio, pero se estira y… ¡figúrese! Fabricada en serie podría darse a un precio muy arreglado y no habría inquilino que no la comprase. Además, el nombre sería de lo más sugestivo, porque como el inventor se apellida Font, se le podría llamar la escala Font. <stage>(Ríen <rs key="#niev">Nieves</rs> y <rs key="#luis">Luis).</rs></stage></p>
+            <p>¡Ah! ¡Casi nada! ¡Menudo portento! Una escala extensible y plegable, sistema matasuegras, utilísima para casos de incendios. Plegada ocupa muy poco espacio, pero se estira y… ¡figúrese! Fabricada en serie podría darse a un precio muy arreglado y no habría inquilino que no la comprase. Además, el nombre sería de lo más sugestivo, porque como el inventor se apellida Font, se le podría llamar la escala Font. <stage>(Ríen <rs key="#niev">Nieves</rs> y <rs key="#luis">Luis).</rs>
+              </stage></p>
           </sp>
           <sp who="#luis">
             <speaker>Luis</speaker>
@@ -3363,7 +3366,8 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
           </sp>
           <sp who="#niev">
             <speaker>Nieves</speaker>
-            <p><stage>(A <rs key="#hora">Horacio</rs></stage>). Ya sé que este la mira prendado y endevotado…</p>
+            <p><stage>(A <rs key="#hora">Horacio</rs>
+              </stage>). Ya sé que este la mira prendado y endevotado…</p>
           </sp>
           <sp who="#hora">
             <speaker>Horacio</speaker>
@@ -3467,9 +3471,7 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
               <l>mira que te quito al Niño</l>
               <l>y lo zambullo en el pozo.</l>
             </lg>
-            <p>
-              <stage>(Se va con <rs key="#niev">Nieves</rs> por la izquierda).</stage>
-            </p>
+            <p><stage>(Se va con <rs key="#niev">Nieves</rs> por la izquierda).</stage></p>
           </sp>
           <sp who="#ramo">
             <speaker>Ramón</speaker>
@@ -4076,7 +4078,7 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
           </sp>
           <sp who="#paco">
             <speaker>Paco</speaker>
-            <p>(¡Aprieta!). <stage>(Habla aparte con <rs key="#hora">Horacio</rs>).</stage> </p>
+            <p>(¡Aprieta!). <stage>(Habla aparte con <rs key="#hora">Horacio</rs>).</stage></p>
           </sp>
           <sp who="#wist">
             <speaker>Wistremundo</speaker>
@@ -4624,11 +4626,13 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
           </sp>
           <sp who="#beni">
             <speaker>Benita</speaker>
-            <p><stage>(Por la derecha, asustadísima. A <rs key="#timo">Timoteo</rs></stage>). ¡Por Dios, señorito!… ¡Qué el del ojo hinchao está echando sangre, lo mismo que el otro!</p>
+            <p><stage>(Por la derecha, asustadísima. A <rs key="#timo">Timoteo</rs>
+              </stage>). ¡Por Dios, señorito!… ¡Qué el del ojo hinchao está echando sangre, lo mismo que el otro!</p>
           </sp>
           <sp who="#timo">
             <speaker>Timoteo</speaker>
-            <p>(<stage>A <rs key="#hora">Horacio</rs></stage>). ¡Venga usté!</p>
+            <p>(<stage>A <rs key="#hora">Horacio</rs>
+              </stage>). ¡Venga usté!</p>
           </sp>
           <sp who="#hora">
             <speaker>Horacio</speaker>
@@ -4770,7 +4774,8 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
           </sp>
           <sp who="#hora">
             <speaker>Horacio</speaker>
-            <p>Lo sé. La planta, como todo en la vida, primero acogolla y luego pimpollea y, por último, fructifica. <stage>(En un arranque que asusta a <rs key="#afri">África</rs></stage>). ¡¡Y tú, <rs key="#afri">África</rs> de mi vida, estás en flor!!</p>
+            <p>Lo sé. La planta, como todo en la vida, primero acogolla y luego pimpollea y, por último, fructifica. <stage>(En un arranque que asusta a <rs key="#afri">África</rs>
+              </stage>). ¡¡Y tú, <rs key="#afri">África</rs> de mi vida, estás en flor!!</p>
           </sp>
           <sp who="#afri">
             <speaker>África</speaker>
@@ -5167,7 +5172,8 @@ primera edición aparece "posse", imagino que por ser extranjerismo reciente-->E
           </sp>
           <sp who="#afri">
             <speaker>África</speaker>
-            <p><stage>(Por la derecha, seguida de <rs key="#cons">Consuelo</rs> y <rs key="#maru">Maruja</rs>, que traen, la primera las copas para los cocktailes de la <rs key="#cond">Condesa</rs> y <rs key="#vict">Victoriano</rs>, y la segunda un wisky para don <rs key="#cami">Camilo</rs></stage>. ¡Oh! Señora Condesa… ¿Qué tal esa vuelta por la finca?</p>
+            <p><stage>(Por la derecha, seguida de <rs key="#cons">Consuelo</rs> y <rs key="#maru">Maruja</rs>, que traen, la primera las copas para los cocktailes de la <rs key="#cond">Condesa</rs> y <rs key="#vict">Victoriano</rs>, y la segunda un wisky para don <rs key="#cami">Camilo</rs>
+              </stage>. ¡Oh! Señora Condesa… ¿Qué tal esa vuelta por la finca?</p>
           </sp>
           <sp who="#cond">
             <speaker>Condesa</speaker>

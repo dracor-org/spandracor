@@ -473,7 +473,8 @@
             <speaker>Otra Voz</speaker>
             <p>¡Alumbra el camino del camposanto, pecador!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> siente el escalofrío de la muerte, viendo en su mano oscilar la llama de un cirio. La procesión de las ánimas le rodea, y un aire frío, aliento de sepultura, le arrastra en el giro de los blancos fantasmas que marchan al son de cadenas y salmodian en latín.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> siente el escalofrío de la muerte, viendo en su mano oscilar la llama de un cirio. La procesión de las ánimas le rodea, y un aire frío, aliento de sepultura, le arrastra en el giro de los blancos fantasmas que marchan al son de cadenas y salmodian en latín.</stage>
           <sp who="#unav">
             <speaker>Una Voz</speaker>
             <p>¡Reza con los muertos por los que van a morir! ¡Reza, pecador!</p>
@@ -498,7 +499,8 @@
             <speaker>Muchas Voces</speaker>
             <p>…¡La madre coja, coja y bisoja, que rompe los pucheros! ¡La madre morueca, que hila en su rueca los cordones de los frailes putañeros, y la cuerda del ajusticiado que nació de un bandullo embrujado! ¡La madre bisoja, bisoja corneja, que se espioja con los dientes de una vieja! ¡La madre tiñosa, tiñosa raposa, que se mea en la hoguera y guarda el cuerno del carnero en la faltriquera, y del cuerno hizo un alfiletero! ¡Madre bruja, que con la aguja que lleva en el cuerno, cose los virgos en el Infierno y los calzones de los maridos cabrones!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> siente que una ráfaga le arrebata de la silla, y ve desaparecer a su caballo en una carrera infernal. Mira temblar la luz del cirio sobre su puño cerrado, y advierte con espanto que sólo oprime un hueso de muerto. Cierra los ojos, y la tierra le falta bajo el pie y se siente llevado por los aires. Cuando de nuevo se atreve a mirar, la procesión se detiene a la orilla de un río donde <rs key="#bruj">las brujas</rs> departen sentadas en rueda. Por la otra orilla va un entierro. Canta un gallo.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> siente que una ráfaga le arrebata de la silla, y ve desaparecer a su caballo en una carrera infernal. Mira temblar la luz del cirio sobre su puño cerrado, y advierte con espanto que sólo oprime un hueso de muerto. Cierra los ojos, y la tierra le falta bajo el pie y se siente llevado por los aires. Cuando de nuevo se atreve a mirar, la procesión se detiene a la orilla de un río donde <rs key="#bruj">las brujas</rs> departen sentadas en rueda. Por la otra orilla va un entierro. Canta un gallo.</stage>
           <sp who="#bruj">
             <speaker>Las Brujas</speaker>
             <p>¡Cantó el gallo blanco, pico al canto!</p>
@@ -517,7 +519,8 @@
         </div>
         <div n="2" type="scene">
           <head>ESCENA SEGUNDA</head>
-          <stage><rs key="#caba">DON JUAN MANUEL MONTENEGRO</rs>, llama con grandes voces ante el portón de su casa. Ladran los perros atados en el huerto, bajo la parra. Una ventana se abre en lo alto de la torre, sobre la cabeza del <rs key="#caba">hidalgo</rs>, y asoma la figura grotesca de una <rs key="#roja">vieja</rs> en camisa, con un candil en la mano.</stage>
+          <stage>
+            <rs key="#caba">DON JUAN MANUEL MONTENEGRO</rs>, llama con grandes voces ante el portón de su casa. Ladran los perros atados en el huerto, bajo la parra. Una ventana se abre en lo alto de la torre, sobre la cabeza del <rs key="#caba">hidalgo</rs>, y asoma la figura grotesca de una <rs key="#roja">vieja</rs> en camisa, con un candil en la mano.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>Apaga esa luz…</p>
@@ -530,7 +533,8 @@
             <speaker>El Caballero</speaker>
             <p>Apaga esa luz…</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se ha cubierto los ojos con la mano, y de esta suerte espera a que <rs key="#roja">la vieja</rs> se retire de la ventana. El caballo piafa ante el portón, y <rs key="#caba">DON JUAN MANUEL</rs> no descabalga hasta que siente rechinar el cerrojo. La <rs key="#roja">vieja</rs> criada aparece con el candil.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se ha cubierto los ojos con la mano, y de esta suerte espera a que <rs key="#roja">la vieja</rs> se retire de la ventana. El caballo piafa ante el portón, y <rs key="#caba">DON JUAN MANUEL</rs> no descabalga hasta que siente rechinar el cerrojo. La <rs key="#roja">vieja</rs> criada aparece con el candil.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Sopla esa luz, grandísima <rs key="#roja">bruja</rs>!</p>
@@ -630,7 +634,8 @@
             <speaker>La Roja</speaker>
             <p>¡Ave María!</p>
           </sp>
-          <stage>Sale la <rs key="#roja">vieja</rs> andando a tientas. Canta un gallo, y el <rs key="#caba">hidalgo</rs>, hundido en su sillón de la antesala, espera con la mano sobre los ojos. De pronto se estremece. Ha creído oír un grito, uno de esos gritos de la noche, inarticulados y por demás medrosos. En actitud de incorporarse, escucha. El viento se retuerce en el hueco de las ventanas, la lluvia azota los cristales, las puertas cerradas tiemblan en sus goznes. ¡Toc-toc!… ¡Toc-toc!… Aquellas puertas de vieja tracería y floreado cerrojo, sienten en la oscuridad manos invisibles que las empujan. ¡Toc-toc!… ¡Toc-toc!… De pronto pasa una ráfaga de silencio y la casa es como un sepulcro. Después, pisadas y rosmar de voces en el corredor: Llegan rifando la <rs key="#roja">vieja</rs> criada y <rs key="#gala">DON GALÁN.</rs></stage>
+          <stage>Sale la <rs key="#roja">vieja</rs> andando a tientas. Canta un gallo, y el <rs key="#caba">hidalgo</rs>, hundido en su sillón de la antesala, espera con la mano sobre los ojos. De pronto se estremece. Ha creído oír un grito, uno de esos gritos de la noche, inarticulados y por demás medrosos. En actitud de incorporarse, escucha. El viento se retuerce en el hueco de las ventanas, la lluvia azota los cristales, las puertas cerradas tiemblan en sus goznes. ¡Toc-toc!… ¡Toc-toc!… Aquellas puertas de vieja tracería y floreado cerrojo, sienten en la oscuridad manos invisibles que las empujan. ¡Toc-toc!… ¡Toc-toc!… De pronto pasa una ráfaga de silencio y la casa es como un sepulcro. Después, pisadas y rosmar de voces en el corredor: Llegan rifando la <rs key="#roja">vieja</rs> criada y <rs key="#gala">DON GALÁN.</rs>
+          </stage>
           <sp who="#roja">
             <speaker>La Roja</speaker>
             <p>Ya dejamos al caballo en su cuadra. ¡Qué noche Madre Santísima!</p>
@@ -983,7 +988,8 @@
             <speaker>Don Pedrito</speaker>
             <p>¡Y tú un hijo de puta!</p>
           </sp>
-          <stage><rs key="#pedr">DON PEDRITO</rs> y <rs key="#rose">DON ROSENDO</rs> se abalanzan y se agarran. Los otros <rs key="#maur #gonz #farr">hermanos</rs>  se interponen con gran vocerío. <rs key="#cape">EL CAPELLÁN</rs> asoma en la puerta: Es un viejo seco, membrudo de cuerpo y velludo de manos, vestido con una sotana verdeante que se le enreda en los calcañares.</stage>
+          <stage>
+            <rs key="#pedr">DON PEDRITO</rs> y <rs key="#rose">DON ROSENDO</rs> se abalanzan y se agarran. Los otros <rs key="#maur #gonz #farr">hermanos</rs>  se interponen con gran vocerío. <rs key="#cape">EL CAPELLÁN</rs> asoma en la puerta: Es un viejo seco, membrudo de cuerpo y velludo de manos, vestido con una sotana verdeante que se le enreda en los calcañares.</stage>
           <sp who="#cape">
             <speaker>El Capellán</speaker>
             <p>¡Aún está caliente el cuerpo de vuestra <rs key="#mari">madre</rs>, y ya peleáis como Caínes! ¡Respetad el sueño de la muerte, sacrílegos! Esperad a que llegue vuestro <rs key="#caba">padre</rs>, y él dará a cada uno lo que en herencia le corresponda. No seáis como los cuervos, que caen en bandada sobre los muertos para comérselos. ¡Cuervos! ¡Caínes!</p>
@@ -1061,7 +1067,8 @@
             <speaker>El Capellán</speaker>
             <p>¡Tú eres el peor de todos!… Ya tendréis el castigo, si no en esta vida, en la otra… Os dejo, os dejo entregados a este latrocinio impío… ¿Oís esa campana? Llama por mí y llama también por vosotros… Voy a decir la primera misa por el descanso de nuestra madre, mi protectora, mi madre. Vosotros, <rs key="#pedr #rose #maur #gonz #farr">Caínes</rs>, bien hacéis en no oírla. ¡Sería un escarnio! Sois como los perros, que no pueden entrar en la casa de Dios.</p>
           </sp>
-          <stage><rs key="#cape">EL CAPELLÁN</rs> sale, y el doble de la campana que resuena en la sala desmantelada, detiene por un momento aquel expolio a que se entregan desde el comienzo de la noche los cinco <rs key="#pedr #rose #maur #gonz #farr">bigardos</rs>.</stage>
+          <stage>
+            <rs key="#cape">EL CAPELLÁN</rs> sale, y el doble de la campana que resuena en la sala desmantelada, detiene por un momento aquel expolio a que se entregan desde el comienzo de la noche los cinco <rs key="#pedr #rose #maur #gonz #farr">bigardos</rs>.</stage>
         </div>
         <div n="5" type="scene">
           <head>ESCENA QUINTA</head>
@@ -1078,7 +1085,8 @@
             <speaker>Benita La Costurera</speaker>
             <p>Mírelo aquí… No le rematé los hilos de las costuras, porque, mi verdad, una mortaja tampoco requiere aquel cuidado que una falda para ir al baile. ¡<rs key="#monc">Doña Monchiña</rs> de mi vida, mire qué guapa le va esta esterilla dorada!</p>
           </sp>
-          <stage><rs key="#monc">DOÑA MONCHA</rs> aprueba con un gesto. <rs key="#beni">BENITA LA COSTURERA</rs> dobla la mortaja y espabila los cirios con las tijeras que lleva pendientes de la cintura, y se balancean al extremo de una cinta azul que llaman hospiciana.</stage>
+          <stage>
+            <rs key="#monc">DOÑA MONCHA</rs> aprueba con un gesto. <rs key="#beni">BENITA LA COSTURERA</rs> dobla la mortaja y espabila los cirios con las tijeras que lleva pendientes de la cintura, y se balancean al extremo de una cinta azul que llaman hospiciana.</stage>
           <sp who="#monc">
             <speaker>Doña Moncha</speaker>
             <p>¡Pobre <rs key="#mari">tía</rs>, parece que se ha dormido!</p>
@@ -1148,7 +1156,8 @@
             <speaker>Benita La Costurera</speaker>
             <p>¡Jesús, qué Caínes!</p>
           </sp>
-          <stage><rs key="#beni">BENITA LA COSTURERA</rs> moja una toalla en la jofaina que trajo llena de agua caliente, y comienza a lavar el rostro de la <rs key="#mari">muerta</rs>. Entre los labios azulencos, renace siempre una saliva ensangrentada bajo la toalla con que los refriegan aquellas manos irreverentes, picoteadas de la aguja, y la cabeza lívida rueda en el hoyo de la almohada.</stage>
+          <stage>
+            <rs key="#beni">BENITA LA COSTURERA</rs> moja una toalla en la jofaina que trajo llena de agua caliente, y comienza a lavar el rostro de la <rs key="#mari">muerta</rs>. Entre los labios azulencos, renace siempre una saliva ensangrentada bajo la toalla con que los refriegan aquellas manos irreverentes, picoteadas de la aguja, y la cabeza lívida rueda en el hoyo de la almohada.</stage>
           <sp who="#beni">
             <speaker>Benita La Costurera</speaker>
             <p>Ya empieza a hincharse… ¿<rs key="#monc">Doña Moncha</rs>, no tiene un pañuelo que le atemos a la cara para sujetarle la barbeta, que mire cómo se le cae desencajada? ¡Jesús, si parece que nos hace una mueca!</p>
@@ -1210,7 +1219,8 @@
             <speaker>Benita La Costurera</speaker>
             <p>A su gusto. ¡Lástima de tiempo y de puntadas!</p>
           </sp>
-          <stage><rs key="#beni">BENITA LA COSTURERA</rs> obedece con un gesto compungido, y después, graves y silenciosas, las dos <rs key="#monc #beni">mujeres</rs> amortajan el cuerpo de <rs key="#mari">DOÑA MARÍA</rs>.</stage>
+          <stage>
+            <rs key="#beni">BENITA LA COSTURERA</rs> obedece con un gesto compungido, y después, graves y silenciosas, las dos <rs key="#monc #beni">mujeres</rs> amortajan el cuerpo de <rs key="#mari">DOÑA MARÍA</rs>.</stage>
         </div>
         <div n="6" type="scene">
           <head>ESCENA SEXTA</head>
@@ -1334,7 +1344,8 @@
             <speaker>Una Voz</speaker>
             <p>La campana choca de András.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se guarece con aquellos <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> que van en caravana a una romería. Racimo de gusanos que se arrastra por el polvo de los caminos y se desgrana en los mercados y feriales de las villas, salmodiando cuitas y padrenuestros. En todos los casales los conocen, y ellos conocen todas las puertas de caridad: Son siempre los mismos: <rs key="#mago">EL MANCO DE GONDAR</rs>; <rs key="#tull">EL TULLIDO DE CÉLTIGOS</rs>; <rs key="#paul">PAULA LA REINA</rs>, que da de mamar a un niño; <rs key="#anso">ANDREÍÑA LA SORDA</rs>; <rs key="#domi">DOMINGA DE GÓMEZ</rs>; <rs key="#male">EL MANCO LEONÉS</rs>; el Señor <rs key="#morc">CIDRÁN EL MORCEGO</rs>, y <rs key="#coim">LA MUJER DEL MORCEGO</rs>. Se oye muy lejos otra campana.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se guarece con aquellos <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> que van en caravana a una romería. Racimo de gusanos que se arrastra por el polvo de los caminos y se desgrana en los mercados y feriales de las villas, salmodiando cuitas y padrenuestros. En todos los casales los conocen, y ellos conocen todas las puertas de caridad: Son siempre los mismos: <rs key="#mago">EL MANCO DE GONDAR</rs>; <rs key="#tull">EL TULLIDO DE CÉLTIGOS</rs>; <rs key="#paul">PAULA LA REINA</rs>, que da de mamar a un niño; <rs key="#anso">ANDREÍÑA LA SORDA</rs>; <rs key="#domi">DOMINGA DE GÓMEZ</rs>; <rs key="#male">EL MANCO LEONÉS</rs>; el Señor <rs key="#morc">CIDRÁN EL MORCEGO</rs>, y <rs key="#coim">LA MUJER DEL MORCEGO</rs>. Se oye muy lejos otra campana.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>Parece la Monja de Belvis.</p>
@@ -1452,7 +1463,8 @@
             <speaker>El Pobre De San Lázaro</speaker>
             <p>Dios Nuestro Señor nos dará en el Cielo su recompensa a todos los que aquí pasamos trabajos. Es su ley que unos sean pobres y otros ricos. Dios Nuestro Señor a los pobres nos manda tener paciencia para pedir la limosna, y a los ricos les manda tener caridad, y el rico que parte su pan trigo con el pobre, tiene el Cielo más ganado que el pobre que lo recibe y no lo agradece. ¡Es la ley de Nuestro Señor!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se estremece. Hasta su rostro llega el aliento podre de aquella voz gangosa, y apenas puede dominar el impulso de apartarse. A la lívida claridad del amanecer, la figura gigantesca del <rs key="#pobr">mendigo</rs> leproso, se destaca en la oquedad de las canteras. El <rs key="#caba">caballero</rs> siente una emoción cristiana.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se estremece. Hasta su rostro llega el aliento podre de aquella voz gangosa, y apenas puede dominar el impulso de apartarse. A la lívida claridad del amanecer, la figura gigantesca del <rs key="#pobr">mendigo</rs> leproso, se destaca en la oquedad de las canteras. El <rs key="#caba">caballero</rs> siente una emoción cristiana.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¿Eres el <rs key="#pobr">pobre</rs> de San Lázaro?</p>
@@ -1662,7 +1674,8 @@
             <speaker>Don Pedrito</speaker>
             <p>¡Alabado seas!</p>
           </sp>
-          <stage><rs key="#farr">DON FARRUQUIÑO</rs> se encarama en el retablo y despoja de su espada de plata al tutelar de la capilla. Los ojos del tiñoso Satanás ríen encarnizados bajo las plantas del Arcángel.</stage>
+          <stage>
+            <rs key="#farr">DON FARRUQUIÑO</rs> se encarama en el retablo y despoja de su espada de plata al tutelar de la capilla. Los ojos del tiñoso Satanás ríen encarnizados bajo las plantas del Arcángel.</stage>
           <sp who="#farr">
             <speaker>Don Farruquiño</speaker>
             <p>¡Dispensa, pero para eso estás encima, Glorioso San Miguel!</p>
@@ -1692,7 +1705,8 @@
             <speaker>Don Farruquiño</speaker>
             <p>¡No grites, <rs key="#pedr">ladrón</rs>! El otro se lo dejo para que se defienda, ya que cayó debajo.</p>
           </sp>
-          <stage><rs key="#farr">Salta</rs> al presbiterio desde la mesa del altar, y otra vez <rs key="#pedr">su hermano</rs> se alza despavorido, y otra vez grita echando el cuerpo fuera de la tribuna, con los ojos ardidos y visionarios.</stage>
+          <stage>
+            <rs key="#farr">Salta</rs> al presbiterio desde la mesa del altar, y otra vez <rs key="#pedr">su hermano</rs> se alza despavorido, y otra vez grita echando el cuerpo fuera de la tribuna, con los ojos ardidos y visionarios.</stage>
           <sp who="#pedr">
             <speaker>Don Pedrito</speaker>
             <p>¡No pises sobre la sepultura!… ¡Que se levanta!… ¡Que se levanta!…</p>
@@ -1749,7 +1763,8 @@
             <speaker>Don Farruquiño</speaker>
             <p>¡Tú quieres asustarme, y voy a abrirte la cabeza, <rs key="#pedr">ladrón</rs>!</p>
           </sp>
-          <stage><rs key="#farr">Se vuelve</rs> buscando en la sombra del retablo algo que arrojar a su <rs key="#pedr">hermano</rs> para ahuyentarle de la tribuna, y alcanza el perro clavado en las andas de San Roque. <rs key="#pedr">DON PEDRITO</rs> recibe el golpe en mitad de la frente, y con el rostro atravesado por un hilo de sangre se pone en pie, pálido y sereno.</stage>
+          <stage>
+            <rs key="#farr">Se vuelve</rs> buscando en la sombra del retablo algo que arrojar a su <rs key="#pedr">hermano</rs> para ahuyentarle de la tribuna, y alcanza el perro clavado en las andas de San Roque. <rs key="#pedr">DON PEDRITO</rs> recibe el golpe en mitad de la frente, y con el rostro atravesado por un hilo de sangre se pone en pie, pálido y sereno.</stage>
           <sp who="#pedr">
             <speaker>Don Pedrito</speaker>
             <p>¡<rs key="#farr">Hermano</rs>, yo nada quiero de toda esa plata! Llega, te daré los brazos para que subas. Pero vuelve a encender la lámpara y déjalo todo como estaba. A San Miguel dale la espada y su cuerno a Satanás.</p>
@@ -1795,7 +1810,8 @@
             <speaker>El Caballero</speaker>
             <p>La verdad es que una maldición no mata ni espanta.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se coge la barba estremecida por la risa, una risa extraña, de viejo loco, desengañado y burlón. <rs key="#pedr">DON PEDRITO</rs> requiere las riendas.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se coge la barba estremecida por la risa, una risa extraña, de viejo loco, desengañado y burlón. <rs key="#pedr">DON PEDRITO</rs> requiere las riendas.</stage>
           <sp who="#pedr">
             <speaker>Don Pedrito</speaker>
             <p>¡Déjeme pasar, <rs key="#caba">padre</rs>!</p>
@@ -1824,7 +1840,8 @@
             <speaker>Don Pedrito</speaker>
             <p>Yo no soy su hijo, <rs key="#caba">Don Juan Manuel</rs>.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> aferra con una mano las riendas, mientras con la otra enarbola el bastón. El <rs key="#pedr">primogénito</rs>, doblándose sobre el borrén y corriendo espuelas encabrita el caballo, y el <rs key="#caba">padre</rs>, sin soltar el rendaje, le apalea.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> aferra con una mano las riendas, mientras con la otra enarbola el bastón. El <rs key="#pedr">primogénito</rs>, doblándose sobre el borrén y corriendo espuelas encabrita el caballo, y el <rs key="#caba">padre</rs>, sin soltar el rendaje, le apalea.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>A un hijo tan bandido se le abre la cabeza. ¡Se le mata! ¡Se le entierra!</p>
@@ -1866,7 +1883,8 @@
             <speaker>Dominga De Gómez</speaker>
             <p>Quisiera yo, cuitada de mí, ver alzarse a mi padre de la cueva, aunque fuera para arrastrarme de los cabellos, que no tengo.</p>
           </sp>
-          <stage><rs key="#pedr">DON PEDRITO</rs> queda un momento suspenso en medio del camino, y siempre trémulo, mira cómo su caballo se huye al galope por una siembra, pisándose las bridas.</stage>
+          <stage>
+            <rs key="#pedr">DON PEDRITO</rs> queda un momento suspenso en medio del camino, y siempre trémulo, mira cómo su caballo se huye al galope por una siembra, pisándose las bridas.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¿Por qué te detienes, <rs key="#pedr">mal hijo</rs>?</p>
@@ -1883,7 +1901,8 @@
             <speaker>Don Pedrito</speaker>
             <p>Lobo seré si <rs key="#caba">mi padre</rs> vuelve a levantar su brazo sobre mi cabeza.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> siente la amenaza y adelanta hacia su <rs key="#pedr">primogénito</rs>. <rs key="#pedr">DON PEDRITO</rs> ceja, se recoge, y con un salto impensado, arranca su bordón al <rs key="#pobr">leproso</rs>. Armado y, apercibido, hace con él un circulo en el aire que tiene un terrible zumbar. Cuando el <rs key="#caba">padre</rs> y el <rs key="#pedr">hijo</rs> van a encontrarse, se interpone entre ellos la figura gigante y trágica del <rs key="#pobr">POBRE DE SAN LÁZARO</rs>.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> siente la amenaza y adelanta hacia su <rs key="#pedr">primogénito</rs>. <rs key="#pedr">DON PEDRITO</rs> ceja, se recoge, y con un salto impensado, arranca su bordón al <rs key="#pobr">leproso</rs>. Armado y, apercibido, hace con él un circulo en el aire que tiene un terrible zumbar. Cuando el <rs key="#caba">padre</rs> y el <rs key="#pedr">hijo</rs> van a encontrarse, se interpone entre ellos la figura gigante y trágica del <rs key="#pobr">POBRE DE SAN LÁZARO</rs>.</stage>
           <sp who="#pobr">
             <speaker>El Pobre De San Lázaro</speaker>
             <p>El palo que a mí me sostiene por los caminos no ha de alzarlo contra su <rs key="#caba">padre</rs>. Diómelo como una cruz Nuestro Señor Jesucristo.</p>
@@ -1998,7 +2017,8 @@
             <speaker>Andreíña</speaker>
             <p>Mismo está llegando el señor mi <rs key="#caba">amo</rs>.</p>
           </sp>
-          <stage><rs key="#maur">DON MAURO</rs> apura un vaso que, al terminar de beber, estrella en las losas de la cocina, y volviéndose a la <rs key="#andr">vieja criada</rs>, con una mano la suspende del cuello y con la otra desnuda un puñal. <rs key="#andr">Andreíña</rs> clama despavorida.</stage>
+          <stage>
+            <rs key="#maur">DON MAURO</rs> apura un vaso que, al terminar de beber, estrella en las losas de la cocina, y volviéndose a la <rs key="#andr">vieja criada</rs>, con una mano la suspende del cuello y con la otra desnuda un puñal. <rs key="#andr">Andreíña</rs> clama despavorida.</stage>
           <sp who="#maur">
             <speaker>Don Mauro</speaker>
             <p>He de segarte la lengua si dices una sola palabra a mis hermanos. Como lleguen a desaparecer las alhajas de la capilla ya puedes confesarte. Te desuello, y clavo en la puerta de mi casa tu piel de bruja.</p>
@@ -2118,7 +2138,8 @@
             <speaker>Andreíña</speaker>
             <p>¡Murióse aquella <rs key="#mari">santa</rs>, que si ella no se muriese no recibiera yo este trato! ¡Bruja! Nadie en el mundo me dijo ese texto, que vengo de muy buenos padres, y no habrá cristiano que me haya visto escupir en la puerta de la iglesia, ni hacer los cuernos en la misa mayor. ¡Ay, muerte negra, que te llevas a los mejores y dejas a los más ruines!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se sienta solo en un banco que hay frontero al hogar, y permanece abatido y sombrío, con los ojos en la hoguera de sarmientos que levanta sus lenguas de oro hacia el fondo negro y brujo de la chimenea, donde resuenan las risas del viento. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> se agrupan al otro lado, y hablan en voz baja.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se sienta solo en un banco que hay frontero al hogar, y permanece abatido y sombrío, con los ojos en la hoguera de sarmientos que levanta sus lenguas de oro hacia el fondo negro y brujo de la chimenea, donde resuenan las risas del viento. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> se agrupan al otro lado, y hablan en voz baja.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>Calentaos, ya que sólo puedo ofreceros el techo y la lumbre. <rs key="#caba">Don Juan Manuel Montenegro</rs> hoy es tan pobre como vosotros.</p>
@@ -2172,7 +2193,8 @@
             <speaker>Dominga De Gómez</speaker>
             <p>La pena que le cubre el corazón hácele decir esos textos.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> guarda silencio. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> se agrupan en torno del fuego, y con los brazos apretados sobre sus harapos se estremecen, con ese estremecimiento feliz de los vagabundos que saben del albergue y del fuego. Entra <rs key="#cape">EL CAPELLÁN</rs>.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> guarda silencio. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> se agrupan en torno del fuego, y con los brazos apretados sobre sus harapos se estremecen, con ese estremecimiento feliz de los vagabundos que saben del albergue y del fuego. Entra <rs key="#cape">EL CAPELLÁN</rs>.</stage>
           <sp who="#cape">
             <speaker>El Capellán</speaker>
             <p>¡Un resucitado!… ¡Le veo y no me parece <rs key="#caba">Don Juan Manuel</rs>! ¡Vengo de la playa, de esperar la barca de ese infeliz <rs key="#patr">Abelardo</rs>!</p>
@@ -2385,7 +2407,8 @@
             <speaker>Andreíña</speaker>
             <p>Agora mismo voy ver…</p>
           </sp>
-          <stage><rs key="#andr">Andreíña</rs> sale de la cocina, y el <rs key="#cieg">ciego</rs>, tentando con el palo, se acerca al hogar, guiado por las voces de los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> que ahora comentan el naufragio de la barca de <rs key="#patr">Abelardo</rs>.</stage>
+          <stage>
+            <rs key="#andr">Andreíña</rs> sale de la cocina, y el <rs key="#cieg">ciego</rs>, tentando con el palo, se acerca al hogar, guiado por las voces de los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> que ahora comentan el naufragio de la barca de <rs key="#patr">Abelardo</rs>.</stage>
           <sp who="#cieg">
             <speaker>El Ciego De Gondar</speaker>
             <p>¿Habláis de esos cinco mozos ahogados?</p>
@@ -2499,7 +2522,8 @@
             <speaker>Benita La Costurera</speaker>
             <p>Lo mismo tiene que seas tú. En un vuelo vas al horno de la Curuja… Es mandato del <rs key="#caba">Señor Don Juan Manuel</rs>. Te llegas, y dices que toda la hornada la traiga a la casona, que es para repartir entre los pobres… A luego, subiráse vino de la bodega y mataránse doce palomas en el palomar.</p>
           </sp>
-          <stage><rs key="#beni">BENITA LA COSTURERA</rs> se limpia los ojos enfermos con un trapo de hilo que trasciende a estoraque, y sale de la cocina. La <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">hueste mendicante</rs> tiene un murmullo de gracias, en unas bocas triste, y en otras bocas jocundo. Como un rezo en la boca llagada del <rs key="#pobr">leproso</rs>.</stage>
+          <stage>
+            <rs key="#beni">BENITA LA COSTURERA</rs> se limpia los ojos enfermos con un trapo de hilo que trasciende a estoraque, y sale de la cocina. La <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">hueste mendicante</rs> tiene un murmullo de gracias, en unas bocas triste, y en otras bocas jocundo. Como un rezo en la boca llagada del <rs key="#pobr">leproso</rs>.</stage>
         </div>
         <div n="4" type="scene">
           <head>ESCENA CUARTA</head>
@@ -2598,7 +2622,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Piedra, piedra, levántate!</p>
           </sp>
-          <stage><rs key="#caba">Don Juan Manuel</rs> se arrodilla ante la sepultura, y entenebrecido, y suspirante, reza en voz baja. <rs key="#cape">EL CAPELLÁN</rs>, en tanto, escudriña en la sombra con recelosa previsión. De pronto da una gran voz, grande y estentórea.</stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel</rs> se arrodilla ante la sepultura, y entenebrecido, y suspirante, reza en voz baja. <rs key="#cape">EL CAPELLÁN</rs>, en tanto, escudriña en la sombra con recelosa previsión. De pronto da una gran voz, grande y estentórea.</stage>
           <sp who="#cape">
             <speaker>El Capellán</speaker>
             <p>¡Falta la lámpara!</p>
@@ -2748,7 +2773,8 @@
             <speaker>El Capellán</speaker>
             <p>¡No mientas, <rs key="#farr">perverso</rs>!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> desciende las gradas del presbiterio y avanza algunos pasos en la oscuridad de la capilla. La prócer figura, que tiene la vaguedad de un fantasma, parece crecer bajo la nave, y su voz resuena impregnada de grave tristeza, de una tristeza de patriarca y de guerrero. Los dos <rs key="#farr #cape">clérigos</rs> callan.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> desciende las gradas del presbiterio y avanza algunos pasos en la oscuridad de la capilla. La prócer figura, que tiene la vaguedad de un fantasma, parece crecer bajo la nave, y su voz resuena impregnada de grave tristeza, de una tristeza de patriarca y de guerrero. Los dos <rs key="#farr #cape">clérigos</rs> callan.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¿Por qué te escondes, <rs key="#farr">mal hijo?</rs></p>
@@ -2818,12 +2844,14 @@
             <speaker>El Caballero</speaker>
             <p>¡Quiero ver su rostro por última vez!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> levanta la tapa del féretro y en la oscuridad de la cueva albean las tocas del sudario y destella la cruz colocada sobre el pecho, entre las manos yertas. <rs key="#caba">EL CABALLERO</rs> se inclina, y un aire de húmeda pestilencia, que le hace sentir todo el horror de la muerte, pone frío en su rostro.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> levanta la tapa del féretro y en la oscuridad de la cueva albean las tocas del sudario y destella la cruz colocada sobre el pecho, entre las manos yertas. <rs key="#caba">EL CABALLERO</rs> se inclina, y un aire de húmeda pestilencia, que le hace sentir todo el horror de la muerte, pone frío en su rostro.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡<rs key="#mari">María Soledad</rs>, espérame!… Tienes los ojos abiertos y siento que me miras… Ahora me voy, pero vendré pronto y para siempre a tu lado… ¡Dios!… ¡Dios!… ¡Cativo Dios, por qué me llevaste a la <rs key="#mari">Rusa</rs>!…</p>
           </sp>
-          <stage><rs key="#cape">EL CAPELLÁN</rs> acude, y levanta el desfallecido cuerpo de <rs key="#caba">EL CABALLERO</rs>. El <rs key="#farr">hijo</rs>, más tardo por miedo o desamor, se acerca también y le ayuda. Casi en brazos le sacan de la capilla. <rs key="#caba">Don Juan Manuel</rs>, en la puerta los hace detener y se arrodilla.</stage>
+          <stage>
+            <rs key="#cape">EL CAPELLÁN</rs> acude, y levanta el desfallecido cuerpo de <rs key="#caba">EL CABALLERO</rs>. El <rs key="#farr">hijo</rs>, más tardo por miedo o desamor, se acerca también y le ayuda. Casi en brazos le sacan de la capilla. <rs key="#caba">Don Juan Manuel</rs>, en la puerta los hace detener y se arrodilla.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Abierta queda mi sepultura!… ¡Maldito quien intente poner la losa antes de haber bajado yo a la cueva! ¡<rs key="#mari">María Soledad</rs>, espérame!</p>
@@ -2852,7 +2880,8 @@
             <speaker>El Caballero</speaker>
             <p>No tengo más que uno… ¡Uno solo que llena toda mi vida!… Haré confesión pública… Llamad a los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs>… Que acudan todos… ¡Criados de mi casa!… ¡Hermanos que llegasteis aquí conmigo!… ¿Dónde estáis? ¡Quiere hacer confesión ante vosotros <rs key="#caba">Don Juan Manuel Montenegro</rs>! ¿Dónde estáis? ¡Llegad todos!</p>
           </sp>
-          <stage><rs key="#farr">El hijo</rs> y <rs key="#cape">EL CAPELLÁN</rs> se interrogan con una mirada. En sus ojos asoma el mismo pensamiento, y se dicen si no ha pasado sobre ellos, en aquellas palabras, una ráfaga de locura. Los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> y los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> van llegando de la cocina con un rumor lento, ojos de susto, gesto de misterio, y se detienen sobre el umbral de la puerta.</stage>
+          <stage>
+            <rs key="#farr">El hijo</rs> y <rs key="#cape">EL CAPELLÁN</rs> se interrogan con una mirada. En sus ojos asoma el mismo pensamiento, y se dicen si no ha pasado sobre ellos, en aquellas palabras, una ráfaga de locura. Los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> y los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> van llegando de la cocina con un rumor lento, ojos de susto, gesto de misterio, y se detienen sobre el umbral de la puerta.</stage>
           <sp who="#much">
             <speaker>Algunes Voces</speaker>
             <p>¡Ave María Purísima!</p>
@@ -2861,7 +2890,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Cavada tengo la sepultura! He visto en mi camino a la muerte y están marcadas mis horas… Cuando echéis el cuerpo a la tierra, volved a poner la losa que han alzado mis manos, pero antes no. ¡Maldito sea quien lo intente!… Tú, mal <rs key="#farr">hijo</rs>, no finjas dolor… Lleva a los <rs key="#pedr #rose #maur #gonz">otros</rs>la noticia, y celebradla juntos en la cueva de los ladrones, en el cubil de un lobo, donde nadie os vea. Cuanto era mío, mañana será vuestro, y el cuerpo que será de los gusanos, tendrá más noble destino… No lloréis vosotros, <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> y hermanos míos, que estas puertas las hallaréis siempre francas, y, aunque fría, siempre sentiréis mi mano tendida hacia vosotros. ¡No dejo otra manda para que mis crímenes me sean perdonados, y he de alzarme de la sepultura si no fuese cumplida! No lloréis, y haced silencio, que quiero confesar mis pecados al señor <rs key="#cape">capellán</rs> de mi casa. No tengo más que un pecado… ¡Uno sólo que llena toda mi vida!… He sido el verdugo de aquella <rs key="#mari">santa</rs> con la impiedad, con la crueldad de un centurión romano en los tiempos del emperador Nerón… Un pecado de todos los días, de todas las horas, de todos los momentos… No tengo otro pecado que confesar… La afición a las mujeres y al vino, y al juego, eso nace con el hombre… Pecado grande es haber sido verdugo de un alma y haber puesto en ella garfios encendidos en las hogueras del Infierno. ¡Los garfios que en las carnes de los condenados clava Satanás!… Y ahora me arrodillo para recibir la absolución… Señor <rs key="#cape">capellán</rs>, la absolución, y la tuya también, mal <rs key="#farr">hijo</rs>, ya que tienen esa gracia tus manos impuras. Absolvedme y después clavad esa ventana, clavad esa puerta, dejadme aquí como en un pozo, solo, para morir.</p>
           </sp>
-          <stage><rs key="#cape">EL CAPELLÁN</rs> traza una cruz con su diestra sobre la cabeza del <rs key="#caba">viejo linajudo</rs>, y el murmullo de los rostros aldeanos y mendigos, resplandeciente de fe, se eleva en una grave onda.</stage>
+          <stage>
+            <rs key="#cape">EL CAPELLÁN</rs> traza una cruz con su diestra sobre la cabeza del <rs key="#caba">viejo linajudo</rs>, y el murmullo de los rostros aldeanos y mendigos, resplandeciente de fe, se eleva en una grave onda.</stage>
         </div>
         <div n="6" type="scene">
           <head>ESCENA SEXTA</head>
@@ -2995,7 +3025,8 @@
             <speaker>Oliveros</speaker>
             <p>¡Mírenlos!</p>
           </sp>
-          <stage><rs key="#oliv">Oliveros</rs> muestra los dientes albos, jóvenes, fuertes, con un gesto lleno de violencia, que recoge los labios y los estremece con sanguinaria y primitiva fiereza.</stage>
+          <stage>
+            <rs key="#oliv">Oliveros</rs> muestra los dientes albos, jóvenes, fuertes, con un gesto lleno de violencia, que recoge los labios y los estremece con sanguinaria y primitiva fiereza.</stage>
           <sp who="#maur">
             <speaker>Don Mauro</speaker>
             <p>¡Dientes de hambre, no asustan!</p>
@@ -3257,7 +3288,8 @@
             <speaker>Sabelita</speaker>
             <p>¡Temo el pecado!…</p>
           </sp>
-          <stage><rs key="#sabe">Sabelita</rs> se santigua, y la rosa marchita de su boca se estremece con el murmullo de un rezo. Sus ojos se clavan en el altar, y las dos velas que lloran sin consuelo sobre las arandelas de cristal, al alma llena de supersticiones milenarias le fingen dos mujeres desnudas que se consumen en llamas, no sabe si las del pecado, si las del infierno. Un viejo de guedejas blancas cruza la iglesia agitando algunas llaves en manojo.</stage>
+          <stage>
+            <rs key="#sabe">Sabelita</rs> se santigua, y la rosa marchita de su boca se estremece con el murmullo de un rezo. Sus ojos se clavan en el altar, y las dos velas que lloran sin consuelo sobre las arandelas de cristal, al alma llena de supersticiones milenarias le fingen dos mujeres desnudas que se consumen en llamas, no sabe si las del pecado, si las del infierno. Un viejo de guedejas blancas cruza la iglesia agitando algunas llaves en manojo.</stage>
           <sp who="#roja">
             <speaker>La Roja</speaker>
             <p>Vámonos, <rs key="#sabe">cordera</rs>, que ya San Pedro anda tocando los fierros.</p>
@@ -3371,7 +3403,8 @@
             <speaker>Andreíña</speaker>
             <p>¡Gran maricallo!</p>
           </sp>
-          <stage><rs key="#monc">DOÑA MONCHA</rs> entra en la antesala, y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> al verla, callan, aparecen graves, con algo de sombras en la vastedad de aquella antesala oscura. No se distinguen los rostros, son los ademanes de una rara lentitud y las figuras parecen vestir túnicas de niebla.</stage>
+          <stage>
+            <rs key="#monc">DOÑA MONCHA</rs> entra en la antesala, y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> al verla, callan, aparecen graves, con algo de sombras en la vastedad de aquella antesala oscura. No se distinguen los rostros, son los ademanes de una rara lentitud y las figuras parecen vestir túnicas de niebla.</stage>
           <sp who="#monc">
             <speaker>Doña Moncha</speaker>
             <p>¿Se oyen sus pasos?</p>
@@ -3442,7 +3475,8 @@
             <speaker>Andreíña</speaker>
             <p>¡Como si estuviera ya difunto, cómele, cómele!…</p>
           </sp>
-          <stage><rs key="#cape">EL CAPELLÁN</rs> se acerca a la puerta y pulsa con los artejos. Espera un momento, y como ninguna voz responde, vuelve a pulsar. Los pasos vienen y van.</stage>
+          <stage>
+            <rs key="#cape">EL CAPELLÁN</rs> se acerca a la puerta y pulsa con los artejos. Espera un momento, y como ninguna voz responde, vuelve a pulsar. Los pasos vienen y van.</stage>
           <sp who="#cape">
             <speaker>El Capellán</speaker>
             <p>¡Señor <rs key="#caba">Don Juan Manuel</rs>!… ¡Señor Don Juan Manuel!… ¡Dios nos manda tener valor! Debemos conservar la existencia como un don precioso, y amarla a pesar de sus espinas…</p>
@@ -3561,7 +3595,8 @@
             <speaker>Doña Moncha</speaker>
             <p>Háblale tú a ver si te responde. ¡Yo tiemblo de acercarme a esa puerta!</p>
           </sp>
-          <stage><rs key="#arte">Artemisa</rs> la del Casal, se acerca a la puerta con el <rs key="#flor">niño</rs> de la mano. En la alcoba los pasos vienen y van obstinados y extraños como el pensamiento de los locos. <rs key="#arte">Artemisa</rs> atiende algunos momentos.</stage>
+          <stage>
+            <rs key="#arte">Artemisa</rs> la del Casal, se acerca a la puerta con el <rs key="#flor">niño</rs> de la mano. En la alcoba los pasos vienen y van obstinados y extraños como el pensamiento de los locos. <rs key="#arte">Artemisa</rs> atiende algunos momentos.</stage>
           <sp who="#arte">
             <speaker>Artemisa</speaker>
             <p>¡Pasea en la oscuridad!</p>
@@ -3612,7 +3647,8 @@
             <speaker>El Capellán</speaker>
             <p>¡No acosemos al <rs key="#caba">león</rs>!… Si nuestros ojos no pueden seguirle, que le sigan nuestras oraciones.</p>
           </sp>
-          <stage><rs key="#cape">EL CAPELLÁN</rs> pasea la estancia de uno a otro testero, con un murmullo de rezo, y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs>, reunidos a la redonda de la cesta colmada de mazorcas, hablan en voz baja. De pronto se oyen pisadas de caballos refrenados ante el portón.</stage>
+          <stage>
+            <rs key="#cape">EL CAPELLÁN</rs> pasea la estancia de uno a otro testero, con un murmullo de rezo, y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs>, reunidos a la redonda de la cesta colmada de mazorcas, hablan en voz baja. De pronto se oyen pisadas de caballos refrenados ante el portón.</stage>
           <sp who="#monc">
             <speaker>Doña Moncha</speaker>
             <p>¿Qué será en tal hora?</p>
@@ -3640,12 +3676,14 @@
         </div>
         <div n="3" type="scene">
           <head>ESCENA TERCERA</head>
-          <stage><rs key="#caba">Don Juan Manuel Montenegro</rs> cruza una y otra calle, calles angostas asombradas por altas tapias, sobre las cuales ya se derrama una higuera, ya descuella un ciprés. ¡Viejas calles de una vieja villa feudal, con iglesias, con caserones, con huertos conventuales! De los negruzcos aleros gotea la lluvia, y en las angostas ventanas que se abren debajo asoma el contorno de un gato, alguna rara vez.</stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel Montenegro</rs> cruza una y otra calle, calles angostas asombradas por altas tapias, sobre las cuales ya se derrama una higuera, ya descuella un ciprés. ¡Viejas calles de una vieja villa feudal, con iglesias, con caserones, con huertos conventuales! De los negruzcos aleros gotea la lluvia, y en las angostas ventanas que se abren debajo asoma el contorno de un gato, alguna rara vez.</stage>
           <sp who="#caba">
             <speaker>EL CABALLERO</speaker>
             <p>¿Dónde esperar la muerte sin que me acosen con sus voces?… ¿En qué oscura cueva de lobo o de león iré a esconderme?… ¡No hallo paz en la vida! ¡Fui pastor de lobos y ahora mis ganados me comen! ¡Engendré monstruos y estoy maldito! ¿Por qué de aquel vientre de mujer santa salieron demonios en vez de ángeles con alas? ¡Estaba maldito el sembrador! ¡Estaba maldita la simiente! ¡Muerte, no tardes! ¡Sácame de este pozo de sierpes y dame a tus gusanos!… ¡Que me coman tus hijos, pero no los míos! ¡Muerte, no tardes! ¡Dios, si por mis pecados no me quieres, deja que me arrebate Satanás!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> cruza ante dos <rs key="#roja #sabe">mujeres</rs> que se asustan del encuentro. Pasa sin verlas y solamente se detiene cuando le llaman con plañideros gritos. Entonces reconoce a la vieja criada y a <rs key="#sabe">Sabelita</rs>.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> cruza ante dos <rs key="#roja #sabe">mujeres</rs> que se asustan del encuentro. Pasa sin verlas y solamente se detiene cuando le llaman con plañideros gritos. Entonces reconoce a la vieja criada y a <rs key="#sabe">Sabelita</rs>.</stage>
           <sp who="#roja">
             <speaker>La Roja</speaker>
             <p>¿Señor mi <rs key="#caba">amo</rs>, adónde camina en esta hora?</p>
@@ -3856,7 +3894,8 @@
             <speaker>El Caballero</speaker>
             <p>No la busco… ¡La espero porque me fue anunciada!… Un gran cirio, todo de luz, se ha encendido dentro de mí y me guía y me alumbra. He visto en abismos donde sólo se ve cuando se tiene cavada la fosa. He aprendido, al final de mis días, que todos debemos traer por lecho de muerte un muladar, y voy a él. La tierra ha de dármelo, mucho antes que el mar, a vosotros, esos tesoros de naufragios que buscáis…</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se aleja lentamente. Los tres mendigos le miran desvanecerse entre los roquedos de la playa. La Luna parece agigantar la figura del viejo hidalgo y poner un nimbo en su cabeza blanca y desnuda.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se aleja lentamente. Los tres mendigos le miran desvanecerse entre los roquedos de la playa. La Luna parece agigantar la figura del viejo hidalgo y poner un nimbo en su cabeza blanca y desnuda.</stage>
         </div>
         <div n="4" type="scene">
           <head>ESCENA CUARTA</head>
@@ -4026,7 +4065,8 @@
             <speaker>Fuso Negro</speaker>
             <p>¡Es la voz de la cueva!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se tiende sobre las algas que sirven de camada a <rs key="#fuso">FUSO NEGRO</rs>. En la concavidad del escabón parece aletear un gran pájaro invisible que acordase su vuelo con la voz del viento y el tumbo de las olas. La cortina cenicienta de la lluvia ondula en el claro de luz que recorta la boca de la cueva. Algunas sombras llegan a cobijarse y se agrupan en el umbral, alentando afanosas de la carrera. Aquellas figuras que huyen del nublado se destacan por oscuro sobre el fondo del mar tendido de espuma. Son cuatro niños descalzos, con los pelos crespos y una <rs key="#viud">mujer</rs> de luto.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se tiende sobre las algas que sirven de camada a <rs key="#fuso">FUSO NEGRO</rs>. En la concavidad del escabón parece aletear un gran pájaro invisible que acordase su vuelo con la voz del viento y el tumbo de las olas. La cortina cenicienta de la lluvia ondula en el claro de luz que recorta la boca de la cueva. Algunas sombras llegan a cobijarse y se agrupan en el umbral, alentando afanosas de la carrera. Aquellas figuras que huyen del nublado se destacan por oscuro sobre el fondo del mar tendido de espuma. Son cuatro niños descalzos, con los pelos crespos y una <rs key="#viud">mujer</rs> de luto.</stage>
           <sp who="#viud">
             <speaker>La Mujer</speaker>
             <p>¡Tiempo de aguas!… ¡Tiempo de tormentas!… ¡Tiempo maldito!… ¡Miseria para los pobres!… ¡Lutos y hambres!… ¡Cúbrese el sol!… ¡Sentarvos en la tierra a descansar, mis hijos!… ¡Aún hemos de ir mucho por este arenal!… ¡Vos dolerán los pies si no descansáis!… ¡Repartirvos ese pan!… ¡Tiempo de tormentas!… ¡Tiempo de dolor!…</p>
@@ -4059,7 +4099,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Calla, mujer, que tus maldiciones ya se cumplen!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> se incorpora en el lecho de algas, y la <rs key="#viud">viuda</rs> y los cuatro niños tiemblan al reconocerle. En la oscuridad de la cueva apenas se distingue la sombra del <rs key="#caba">viejo linajudo</rs>, y su voz tiene una resonancia oscura de caos y tinieblas como si saliese de la oquedad del roquedo.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> se incorpora en el lecho de algas, y la <rs key="#viud">viuda</rs> y los cuatro niños tiemblan al reconocerle. En la oscuridad de la cueva apenas se distingue la sombra del <rs key="#caba">viejo linajudo</rs>, y su voz tiene una resonancia oscura de caos y tinieblas como si saliese de la oquedad del roquedo.</stage>
           <sp who="#viud">
             <speaker>La Mujer</speaker>
             <p>¡Tanta es la dolor de mi alma, que hablo sin sentido!… ¡Por estas cuatro criaturas, no me haga mal, señor <rs key="#caba">Vinculero</rs>!</p>
@@ -4088,7 +4129,8 @@
             <speaker>El Caballero</speaker>
             <p>¡Haré respetar mi voluntad! Los muertos serán sepultos y amparados los vivos. Se cumplirán todas las mandas que ordené. Venid conmigo, y en el umbral de mi casa me veréis pedir una limosna para vosotros. Después, cúmplanse tus maldiciones, y lleven los perros por este arenal mi corazón desesperado.</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs> sale de la cueva. La lluvia moja su cabeza blanca y su barba patriarcal que aborrasca el viento, llevándola de uno al otro hombro. La viuda, el loco y los niños le siguen como sombras de su delirio. Van los niños atenazados a la falda de la madre, y llorando de miedo. Todos parecen perdidos en la vastedad del páramo.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs> sale de la cueva. La lluvia moja su cabeza blanca y su barba patriarcal que aborrasca el viento, llevándola de uno al otro hombro. La viuda, el loco y los niños le siguen como sombras de su delirio. Van los niños atenazados a la falda de la madre, y llorando de miedo. Todos parecen perdidos en la vastedad del páramo.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Desfallezco de hambre!… ¡No veo!… ¡Apenas puedo andar!… Esos niños que me den un poco de su pan.</p>
@@ -4246,7 +4288,8 @@
             <speaker>La Roja</speaker>
             <p>¡Son leones y de mucha nobleza!</p>
           </sp>
-          <stage><rs key="#caba">Don Juan Manuel</rs> llega por aquel camino aldeano, de verdes orillas. El loco, la viuda y los huérfanos le acompañan. <rs key="#caba">EL CABALLERO</rs> camina entre ellos como un viejo patriarca entre su prole: Dolor, Miseria y Locura.</stage>
+          <stage>
+            <rs key="#caba">Don Juan Manuel</rs> llega por aquel camino aldeano, de verdes orillas. El loco, la viuda y los huérfanos le acompañan. <rs key="#caba">EL CABALLERO</rs> camina entre ellos como un viejo patriarca entre su prole: Dolor, Miseria y Locura.</stage>
           <sp who="#gala">
             <speaker>Don Galán</speaker>
             <p>¡Catay, el <rs key="#caba">amo</rs> que torna!</p>
@@ -4271,7 +4314,8 @@
             <speaker>Don Galán</speaker>
             <p>¡No es el pastor, sino el mastín! ¡Veredes qué dientes le muestra a los lobos!</p>
           </sp>
-          <stage><rs key="#caba">EL CABALLERO</rs>, con el andar desfallecido, llega a la puerta y pulsa. Apoyado en la jamba, espera. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> se agrupan detrás, todos en un gran silencio. <rs key="#caba">EL CABALLERO</rs> vuelve a pulsar en la puerta, y acompaña con grandes voces los golpes de su puño cerrado.</stage>
+          <stage>
+            <rs key="#caba">EL CABALLERO</rs>, con el andar desfallecido, llega a la puerta y pulsa. Apoyado en la jamba, espera. Los <rs key="#pobr #domi #male #mago #tull #paul #anso #morc #coim #adeg">mendigos</rs> y los <rs key="#gala #roja #zaga #andr #rebo #reco">criados</rs> se agrupan detrás, todos en un gran silencio. <rs key="#caba">EL CABALLERO</rs> vuelve a pulsar en la puerta, y acompaña con grandes voces los golpes de su puño cerrado.</stage>
           <sp who="#caba">
             <speaker>El Caballero</speaker>
             <p>¡Abrid, <rs key="#pedr #rose #maur #gonz #farr">hijos de Satanás</rs>! ¡Abrid estas puertas que cierra vuestra codicia! ¡Abridlas de par en par, como tenéis abiertas las del Infierno! ¡Abridlas para que entren los que nunca tuvieron casa! ¡Soy yo quien después de habéroslo dado todo, llego a pediros una limosna para ellos! ¡Soy yo, quien pobre y miserable, golpea esta puerta cerrada! ¡Hijos de Satanás, no hagáis que mi cólera la derribe y entre por ella, como quien es, <rs key="#caba">Don Juan Manuel Montenegro</rs>! ¡Abrid, hijos de Satanás!</p>

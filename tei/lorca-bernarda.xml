@@ -420,7 +420,8 @@
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p> Fuera de aquí. ¿Quién os dijo que entraseis? Ya me habéis dejado los pies señalados. (<stage>Se van. Limpia) </stage> Suelos barnizados con aceite, alacenas, pedestales, camas de acero, para que traguemos quina las que vivimos en las chozas de tierra con un plato y una cuchara. ¡Ojalá que un día no quedáramos ni uno para contarlo! <stage> (Vuelven a sonar las campanas) </stage> Sí, sí, ¡vengan clamores!, ¡venga caja con filos dorados y toalla para llevarla!; ¡qué lo mismo estarás tú que estaré yo! Fastídiate, Antonio María Benavides, tieso con tu traje de paño y tus botas enterizas. ¡Fastídiate! ¡Ya no volverás a levantarme las enaguas detrás de la puerta de tu corral! <stage> (Por el fondo, de dos en dos, empiezan a entrar <rs key="muje">mujeres de luto</rs> con pañuelos grandes, faldas y abanicos negros. Entran lentamente hasta llenar la escena) </stage> <stage> (Rompiendo a gritar) </stage> ¡Ay Antonio María Benavides, que ya no verás estas paredes ni comerás el pan de esta casa! Yo fui la que más te quiso de las que te sirvieron. <stage> (Tirándose del cabello) </stage> ¿Y he de vivir yo después de verte marchar? ¿Y he de vivir?</p>
+            <p> Fuera de aquí. ¿Quién os dijo que entraseis? Ya me habéis dejado los pies señalados. (<stage>Se van. Limpia) </stage> Suelos barnizados con aceite, alacenas, pedestales, camas de acero, para que traguemos quina las que vivimos en las chozas de tierra con un plato y una cuchara. ¡Ojalá que un día no quedáramos ni uno para contarlo! <stage> (Vuelven a sonar las campanas) </stage> Sí, sí, ¡vengan clamores!, ¡venga caja con filos dorados y toalla para llevarla!; ¡qué lo mismo estarás tú que estaré yo! Fastídiate, Antonio María Benavides, tieso con tu traje de paño y tus botas enterizas. ¡Fastídiate! ¡Ya no volverás a levantarme las enaguas detrás de la puerta de tu corral! <stage> (Por el fondo, de dos en dos, empiezan a entrar <rs key="muje">mujeres de luto</rs> con pañuelos grandes, faldas y abanicos negros. Entran lentamente hasta llenar la escena) </stage>
+              <stage> (Rompiendo a gritar) </stage> ¡Ay Antonio María Benavides, que ya no verás estas paredes ni comerás el pan de esta casa! Yo fui la que más te quiso de las que te sirvieron. <stage> (Tirándose del cabello) </stage> ¿Y he de vivir yo después de verte marchar? ¿Y he de vivir?</p>
           </sp>
         </div>
         <div cert="low" n="3" resp="#jct" type="scene">
@@ -459,7 +460,8 @@
           </sp>
           <sp who="#bern">
             <speaker>Bernarda</speaker>
-            <p> No he dejado que nadie me dé lecciones. Sentarse. <stage> (Se sientan. Pausa. Fuerte) </stage> <rs key="magd">Magdalena</rs>, no llores. Si quieres llorar te metes debajo de la cama. ¿Me has oído?</p>
+            <p> No he dejado que nadie me dé lecciones. Sentarse. <stage> (Se sientan. Pausa. Fuerte) </stage>
+              <rs key="magd">Magdalena</rs>, no llores. Si quieres llorar te metes debajo de la cama. ¿Me has oído?</p>
           </sp>
           <sp who="#muj2">
             <speaker>Mujer 2</speaker>
@@ -638,10 +640,8 @@
           </sp>
           <sp who="#much">
             <speaker>Muchacha</speaker>
-            <p>
-              <stage> (A <rs key="magd">Magdalena</rs>.)</stage>
-              <rs key="magd">Magdalena...</rs>
-            </p>
+            <p><stage> (A <rs key="magd">Magdalena</rs>.)</stage>
+              <rs key="magd">Magdalena...</rs></p>
           </sp>
           <sp who="#bern">
             <speaker>Bernarda</speaker>
@@ -1326,7 +1326,8 @@
           <stage> (<rs key="adel">Adela</rs> se calma) </stage>
           <sp who="#magd">
             <speaker>Magdalena</speaker>
-            <p> Ha estado a punto de oírte la <rs key="cria">Criada</rs> <stage> (Aparece la <rs key="cria">Criada</rs>)</stage>.</p>
+            <p> Ha estado a punto de oírte la <rs key="cria">Criada</rs>
+              <stage> (Aparece la <rs key="cria">Criada</rs>)</stage>.</p>
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
@@ -1511,7 +1512,8 @@
           </sp>
           <sp who="#magd">
             <speaker>Magdalena</speaker>
-            <p><stage> (A voces) </stage><rs key="adel">Adela</rs>, ¿no vienes?</p>
+            <p><stage> (A voces) </stage>
+              <rs key="adel">Adela</rs>, ¿no vienes?</p>
           </sp>
           <sp who="#amel">
             <speaker>Amelia</speaker>
@@ -1827,7 +1829,8 @@
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p><stage> (Entra) </stage><rs key="#bern">Bernarda</rs> os llama. Está el hombre de los encajes. <stage> (Salen) </stage></p>
+            <p><stage> (Entra) </stage>
+              <rs key="#bern">Bernarda</rs> os llama. Está el hombre de los encajes. <stage> (Salen) </stage></p>
           </sp>
           <stage> (Al salir, <rs key="mart">Martirio</rs> mira fijamente a <rs key="adel">Adela</rs>) </stage>
         </div>
@@ -2631,7 +2634,8 @@
           </sp>
           <sp who="#ponc">
             <speaker>La Poncia</speaker>
-            <p><stage> (Siempre con crueldad) </stage><rs key="#bern">Bernarda</rs>, aquí pasa una cosa muy grande. Yo no te quiero echar la culpa, pero tú no has dejado a tus hijas libres. <rs key="mart">Martirio</rs> es enamoradiza, digas lo que tú quieras. ¿Por qué no la dejaste casar con Enrique Humanes? ¿Por qué el mismo día que iba a venir a la ventana le mandaste recado que no viniera?</p>
+            <p><stage> (Siempre con crueldad) </stage>
+              <rs key="#bern">Bernarda</rs>, aquí pasa una cosa muy grande. Yo no te quiero echar la culpa, pero tú no has dejado a tus hijas libres. <rs key="mart">Martirio</rs> es enamoradiza, digas lo que tú quieras. ¿Por qué no la dejaste casar con Enrique Humanes? ¿Por qué el mismo día que iba a venir a la ventana le mandaste recado que no viniera?</p>
           </sp>
           <sp who="#bern">
             <speaker>Bernarda</speaker>
@@ -3689,9 +3693,11 @@
               <l>vámonos a la orilla del mar.</l>
               <l>La hormiguita estará en su puerta,</l>
               <l>yo te daré la teta y el pan.</l>
-              <l><rs key="#bern">Bernarda</rs>,</l>
+              <l>
+                <rs key="#bern">Bernarda</rs>,</l>
               <l>cara de leoparda.</l>
-              <l><rs key="magd">Magdalena</rs>,</l>
+              <l>
+                <rs key="magd">Magdalena</rs>,</l>
               <l>cara de hiena.</l>
               <l>¡Ovejita!</l>
               <l>Meee, meee.</l>
@@ -3700,9 +3706,11 @@
               <l>La puerta sola se abrirá</l>
               <l>y en la playa nos meteremos</l>
               <l>en una choza de coral.</l>
-              <l><rs key="#bern">Bernarda</rs>,</l>
+              <l>
+                <rs key="#bern">Bernarda</rs>,</l>
               <l>cara de leoparda.</l>
-              <l><rs key="#magd">Magdalena</rs>,</l>
+              <l>
+                <rs key="#magd">Magdalena</rs>,</l>
               <l>cara de hiena.</l>
               <l>¡Ovejita!</l>
               <l>Meee, meee.</l>
@@ -3783,7 +3791,8 @@
           </sp>
           <sp who="#mart">
             <speaker>Martirio</speaker>
-            <p><stage> (En voz baja) </stage><rs key="adel">Adela</rs>. <stage> (Pausa. Avanza hasta la misma puerta. En voz alta) </stage> ¡<rs key="adel">Adela</rs>!</p>
+            <p><stage> (En voz baja) </stage>
+              <rs key="adel">Adela</rs>. <stage> (Pausa. Avanza hasta la misma puerta. En voz alta) </stage> ¡<rs key="adel">Adela</rs>!</p>
           </sp>
         </div>
         <div cert="low" n="10" resp="#jct" type="scene">
@@ -3862,7 +3871,8 @@
           </sp>
           <sp who="#adel">
             <speaker>Adela</speaker>
-            <p><stage> (En un arranque, y abrazándola) </stage><rs key="mart">Martirio</rs>, <rs key="mart">Martirio</rs>, yo no tengo la culpa.</p>
+            <p><stage> (En un arranque, y abrazándola) </stage>
+              <rs key="mart">Martirio</rs>, <rs key="mart">Martirio</rs>, yo no tengo la culpa.</p>
           </sp>
           <sp who="#mart">
             <speaker>Martirio</speaker>

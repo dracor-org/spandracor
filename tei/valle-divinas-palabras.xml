@@ -293,37 +293,37 @@
           </castItem>
           <castItem>
             <role corresp="#cieg">El ciego de Gondar.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#vend">El vendedor de agua de limón.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#pere">Un peregrino.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#par">La pareja de civiles.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#matr">Un matrimonio de labriegos con una hija enferma.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#vent">La ventera</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sere">Serenín de Bretal.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -333,71 +333,71 @@
           </castItem>
           <castItem>
             <role corresp="#muje">Una mujer en preñez.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#veci">Otra vecina.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sold">Un soldado con el canuto de la licencia.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#ludo">Ludovina la tabernera.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#trop">Tropas de rapaces con burlas y canciones.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#beat">Beaterío de viejas y mozas.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
           </castItem>
           <castItem>
             <role corresp="#beni">Benita la costurera.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#quin">Quintín pintado.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#milo">Milón de La Arnoya</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#coim">Coimbra, perro sabio.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#colo">Colorín, pájaro adivino</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#tras">El trasgo cabrío</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sapo">Un sapo anónimo que canta en la noche.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#grit">Final de gritos y aturujos moceriles.</role>
-            <roleDesc>    </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
         </castList>
@@ -413,7 +413,8 @@
             <speaker>Pedro Gailo</speaker>
             <p>… Aquéllos viniéronse a poner en el camino, mirando al altar. Éstos que andan por muchas tierras, torcida gente. La peor ley. Por donde van muestran sus malas artes. ¡Dónde aquéllos viniéronse a poner! ¡Todos de la uña! ¡Gente que no trabaja y corre caminos!…</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs> se pasa la mano por la frente, y los cuatro pelos quédanle de punta. Sus ojos con estrabismo miran hacia la carretera donde hacen huelgo dos farandules, pareja de hombre y mujer con un niño pequeño, flor de su mancebía. Ella, triste y esbelta, la falda corta, un toquillón azul, peines y rizos. El hombre, gorra de visera, la guitarra en la funda, y el perro sabio sujeto de un rojo cordón mugriento. Están sentados en la cuneta, de cara al pórtico de la iglesia. Habla el hombre, y la mujer escucha zarandeando al niño que llora. A esta mujer la conocen con diversos nombres, y, según cambian las tierras, es Julia, Rosina, Matilde, Pepa la Morena. El nombre del farandul es otro enigma, pero la mujer le dice <rs key="#luce">Lucero</rs>. Ella recibe de su coime el dictado de <rs key="#poca">Poca pena</rs>.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs> se pasa la mano por la frente, y los cuatro pelos quédanle de punta. Sus ojos con estrabismo miran hacia la carretera donde hacen huelgo dos farandules, pareja de hombre y mujer con un niño pequeño, flor de su mancebía. Ella, triste y esbelta, la falda corta, un toquillón azul, peines y rizos. El hombre, gorra de visera, la guitarra en la funda, y el perro sabio sujeto de un rojo cordón mugriento. Están sentados en la cuneta, de cara al pórtico de la iglesia. Habla el hombre, y la mujer escucha zarandeando al niño que llora. A esta mujer la conocen con diversos nombres, y, según cambian las tierras, es Julia, Rosina, Matilde, Pepa la Morena. El nombre del farandul es otro enigma, pero la mujer le dice <rs key="#luce">Lucero</rs>. Ella recibe de su coime el dictado de <rs key="#poca">Poca pena</rs>.</stage>
           <sp who="#luce">
             <speaker>Lucero</speaker>
             <p>:Tocante al crío, pasando de noche por alguna villa, convendría soltarlo.</p>
@@ -462,7 +463,8 @@
             <speaker>Poca pena</speaker>
             <p>¡Escapado de un presidio!</p>
           </sp>
-          <stage><rs key="#luce">Lucero</rs>hace un gesto desdeñoso, y con la mano vuelta pega en la boca de la coima, que, gimoteando, se pasa por los labios una punta del pañuelo. Mirando la sangre en el hilado, la coima se ahínca a llorar, y el hombre tose con sorna, al compás que saca chispas del yesquero. <rs key="#pedr">Pedro Gailo</rs>, el sacristán, levanta los brazos entre las columnas del pórtico.</stage>
+          <stage>
+            <rs key="#luce">Lucero</rs>hace un gesto desdeñoso, y con la mano vuelta pega en la boca de la coima, que, gimoteando, se pasa por los labios una punta del pañuelo. Mirando la sangre en el hilado, la coima se ahínca a llorar, y el hombre tose con sorna, al compás que saca chispas del yesquero. <rs key="#pedr">Pedro Gailo</rs>, el sacristán, levanta los brazos entre las columnas del pórtico.</stage>
           <sp who="#pedr">
             <speaker>Pedro Gailo</speaker>
             <p>¡A otro lugar era el iros con vuestros malos ejemplos, y no venir con ellos a delante de Dios!</p>
@@ -544,7 +546,8 @@
             <speaker>La Reina</speaker>
             <p>¡Malpocado!</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs> pone su ojo bizco sobre el enano, que con expresión lela mueve la enorme cabezota. Y la madre le espanta las moscas que acuden a posarse sobre la boca belfa donde el bozo negrea. Tirando del dornajo cruza la quintana y sale a las sombras de la carretera. La perra del farandul, levantada en dos patas, ensaya un paso de danza ante aquella figura triste y color de tierra. Lentamente el animal se dobla, y agacha la cola aullando con el aullido que reservan los canes para el aire de muerto. <rs key="#luce">Lucero</rs> silba, y la perra, otra vez en dos patas, va para su amo que ríe guiñando un ojo.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs> pone su ojo bizco sobre el enano, que con expresión lela mueve la enorme cabezota. Y la madre le espanta las moscas que acuden a posarse sobre la boca belfa donde el bozo negrea. Tirando del dornajo cruza la quintana y sale a las sombras de la carretera. La perra del farandul, levantada en dos patas, ensaya un paso de danza ante aquella figura triste y color de tierra. Lentamente el animal se dobla, y agacha la cola aullando con el aullido que reservan los canes para el aire de muerto. <rs key="#luce">Lucero</rs> silba, y la perra, otra vez en dos patas, va para su amo que ríe guiñando un ojo.</stage>
           <sp who="#luce">
             <speaker>Lucero</speaker>
             <p>Este animal tiene pacto con el compadre Satanás.</p>
@@ -573,12 +576,14 @@
             <speaker>Lucero</speaker>
             <p>¡Ven acá, <rs key="#coim">Coimbra, perro sabio</rs>! Y mira mucho cómo respondes a una pregunta. Mano derecha para el Sí. Mano siniestra para el No. El rabo te queda para El Qué Sé Yo. Y ahora responde sin mentira: A este amigo, ¿su señora le hace Don Cornelio?</p>
           </sp>
-          <stage><rs key="#coim">Coimbra, perro sabio</rs>, siempre en dos pies, reflexiona moviendo la cabeza manchada de negro y azafrán, con cascabeles en la punta de las orejas. Poco a poco, poseída del espíritu profético, queda inmóvil mirando a su dueño, y tras un momento de vacilar, temblantes los cascabeles de las orejas, comienza a mover furiosamente el brazuelo izquierdo.</stage>
+          <stage>
+            <rs key="#coim">Coimbra, perro sabio</rs>, siempre en dos pies, reflexiona moviendo la cabeza manchada de negro y azafrán, con cascabeles en la punta de las orejas. Poco a poco, poseída del espíritu profético, queda inmóvil mirando a su dueño, y tras un momento de vacilar, temblantes los cascabeles de las orejas, comienza a mover furiosamente el brazuelo izquierdo.</stage>
           <sp who="#luce">
             <speaker>Lucero</speaker>
             <p>Amigo, <rs key="#coim">Coimbra, perro sabio</rs> responde que no. Ahora va a decirnos otra cosa: <rs key="#coim">Coimbra, perro sabio</rs>, ¿tendrías ciencia para conocer si este amigo está llamado a ser de la Cofradía de los Coronados? Mano derecha para el Sí. Mano siniestra para el No. El rabo le queda a usted, señorita, para El Qué Sé Yo.</p>
           </sp>
-          <stage><rs key="#coim">Coimbra, perro sabio</rs>, removiendo la cola y ladrando, vuelve a saltar en dos patas, y con leve y alterno temblar en los brazuelos, se avizora mirando al farandul. Los cascabeles de las orejas tienen un largo y sutil temblor. El farandul sonríe siempre guiñando un ojo, y de pronto la perra se decide a levantar el brazuelo derecho.</stage>
+          <stage>
+            <rs key="#coim">Coimbra, perro sabio</rs>, removiendo la cola y ladrando, vuelve a saltar en dos patas, y con leve y alterno temblar en los brazuelos, se avizora mirando al farandul. Los cascabeles de las orejas tienen un largo y sutil temblor. El farandul sonríe siempre guiñando un ojo, y de pronto la perra se decide a levantar el brazuelo derecho.</stage>
           <sp who="#luce">
             <speaker>Lucero</speaker>
             <p>¿No estarás equivocada, <rs key="#coim">Coimbra, perro sabio</rs>? Saluda, Coimbra, y pide perdón a este amigo de haberle calumniado.</p>
@@ -595,7 +600,8 @@
             <speaker>Pedro Gailo</speaker>
             <p>Mucho vas a reír en los Infiernos.</p>
           </sp>
-          <stage><rs key="#poca">Poca pena</rs> tercia el pañolón, recogiendo al niño en sus pliegues, y el farandul se carga a la espalda la jaula del Pájaro Sabio. Caminan.</stage>
+          <stage>
+            <rs key="#poca">Poca pena</rs> tercia el pañolón, recogiendo al niño en sus pliegues, y el farandul se carga a la espalda la jaula del Pájaro Sabio. Caminan.</stage>
           <sp who="#poca">
             <speaker>Poca pena</speaker>
             <p>¡Ten entrañas de padre, <rs key="#luce">Lucero</rs>!</p>
@@ -749,7 +755,8 @@
             <speaker>La Reina</speaker>
             <p>¡Qué estrellón en el Cielo!</p>
           </sp>
-          <stage><rs key="#tatu"> Rosa La Tatula</rs> intenta levantar aquella reliquia doliente, y el cuerpo fácil y deshecho escúrrese alzando los brazos como dos aspas.</stage>
+          <stage>
+            <rs key="#tatu"> Rosa La Tatula</rs> intenta levantar aquella reliquia doliente, y el cuerpo fácil y deshecho escúrrese alzando los brazos como dos aspas.</stage>
           <sp who="#tatu">
             <speaker> La Tatula</speaker>
             <p>¡Ay, qué rajo!</p>
@@ -1028,7 +1035,8 @@
             <speaker>Rezo de las mujeres</speaker>
             <p>Más de lo que sabes, aquí no sabemos.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> deja caer el cántaro, desanuda el pañuelo que lleva a la cabeza, y frente a la hija, que suspira apocada, abre los brazos en ritmos trágicos y antiguos. La fila de cabezas, con un murmullo casi religioso, está vuelta para la plañidera que bajo los sombras de la fuente aldeana resucita una antigua belleza histriónica. Detenida en lo alto del camino, abre la curva cadenciosa de los brazos, con las curvas sensuales de la voz.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> deja caer el cántaro, desanuda el pañuelo que lleva a la cabeza, y frente a la hija, que suspira apocada, abre los brazos en ritmos trágicos y antiguos. La fila de cabezas, con un murmullo casi religioso, está vuelta para la plañidera que bajo los sombras de la fuente aldeana resucita una antigua belleza histriónica. Detenida en lo alto del camino, abre la curva cadenciosa de los brazos, con las curvas sensuales de la voz.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¡Escacha el cántaro, Simoniña! ¡Simoniña, escacha el cántaro! ¡Qué triste sino! ¡Acaba como la hija de un déspota! ¡Nunca jamás querer acogerse al abrigo de su familia! ¡Ay cuñada, no te llamaba la sangre, y te llamó para siempre la tierra, que todos pisan de una vereda! ¡Escacha el cántaro, Simoniña!</p>
@@ -1091,7 +1099,7 @@
           </sp>
           <sp who="#tatu">
             <speaker>La Tatula</speaker>
-            <p>El pleito será entre vosotros y tu cuñada <rs key="#marg">Márica del reino</rs> </p>
+            <p>El pleito será entre vosotros y tu cuñada <rs key="#marg">Márica del reino</rs></p>
           </sp>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
@@ -1198,7 +1206,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Nosotros tampoco lo abandonamos, cuñada.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> tiene el gesto de desenfado y una luz provocativa en los ojos parleros. La otra tuerce la cabeza mostrando desdén.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> tiene el gesto de desenfado y una luz provocativa en los ojos parleros. La otra tuerce la cabeza mostrando desdén.</stage>
           <sp who="#marc">
             <speaker>Marica del Reino</speaker>
             <p>A mi hermano, que lo es, me refería.</p>
@@ -1512,7 +1521,8 @@
             <speaker>La Tatula</speaker>
             <p>Amuéstrale el caneco, que por palabras no saca el sentido.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs>, donairosa y gentil, erguida al pie de la difunta, colma el vaso de las rondas, y respira con delicia el aroma del aguardiente.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs>, donairosa y gentil, erguida al pie de la difunta, colma el vaso de las rondas, y respira con delicia el aroma del aguardiente.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>Bastián<rs key="#peda">El pedáneo</rs>, a ti toca beber el primero, que fallaste el pleito.</p>
@@ -1757,7 +1767,8 @@
             <speaker>La Vecina</speaker>
             <p>Sepulto queda.</p>
           </sp>
-          <stage><rs key="#veci">La vecina</rs> entra en su casa a mirar por la lumbre. Pica en el umbral una clueca con pollos, y tres críos, sucios, que enseñan las carnes, se desayunan sobre una higuera.</stage>
+          <stage>
+            <rs key="#veci">La vecina</rs> entra en su casa a mirar por la lumbre. Pica en el umbral una clueca con pollos, y tres críos, sucios, que enseñan las carnes, se desayunan sobre una higuera.</stage>
         </div>
         <div n="2" type="scene">
           <head>Escena segunda</head>
@@ -1798,7 +1809,8 @@
             <speaker>Miguelín</speaker>
             <p>¡Un condenado!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> arrima el dornajo a la sombra de los castaños y se sienta a la vera, los ojos y los labios alegres de malicias.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> arrima el dornajo a la sombra de los castaños y se sienta a la vera, los ojos y los labios alegres de malicias.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>Me va por la pierna una pulga con zuecos, y voy a ver si la cazo. ¡No mires, Padronés!</p>
@@ -1908,7 +1920,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>¡Ay, tunante! Te das el trato de un Padre Prior.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs>, los brazos desnudos y las trenzas recogidas bajo el pañuelo de flores, enciende unas ramas, y se levantan cantando las lenguas de una hoguera. El humo tiende olores de laurel y sardinas, con el buen recaudo del vino agrio y la borona aceda. Un viejo venerable, que parecía dormido, se incorpora lentamente. Tiene el pecho cubierto de rosarios y la esclavina del peregrino <rs key="#pere">El peregrino</rs> en los hombros.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs>, los brazos desnudos y las trenzas recogidas bajo el pañuelo de flores, enciende unas ramas, y se levantan cantando las lenguas de una hoguera. El humo tiende olores de laurel y sardinas, con el buen recaudo del vino agrio y la borona aceda. Un viejo venerable, que parecía dormido, se incorpora lentamente. Tiene el pecho cubierto de rosarios y la esclavina del peregrino <rs key="#pere">El peregrino</rs> en los hombros.</stage>
           <sp who="#pere">
             <speaker>El peregrino</speaker>
             <p>A fe que siento, cristianos, no tener cosa que ofreceros para ser parte.</p>
@@ -1942,7 +1955,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>¡Alabado sea siempre!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> aparta las sardinas de la lumbre y las pone en una escudilla de peltre. Luego saca el pan y la bota de las alforjas del ciego<rs key="#cieg">El ciego de Gondar</rs>, y hace un lugar al peregrino <rs key="#pere">El peregrino</rs> en torno de la capa remendada, que sirve de mantel. Mientras come la compañía,el ciego <rs key="#cieg">El ciego de Gondar</rs>, con risa socarrona, huele su sardina, puesta sobre una tajada de pan, y alarga la oreja.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> aparta las sardinas de la lumbre y las pone en una escudilla de peltre. Luego saca el pan y la bota de las alforjas del ciego<rs key="#cieg">El ciego de Gondar</rs>, y hace un lugar al peregrino <rs key="#pere">El peregrino</rs> en torno de la capa remendada, que sirve de mantel. Mientras come la compañía,el ciego <rs key="#cieg">El ciego de Gondar</rs>, con risa socarrona, huele su sardina, puesta sobre una tajada de pan, y alarga la oreja.</stage>
           <sp who="#cieg">
             <speaker>El ciego de Gondar</speaker>
             <p>El cabezal lo tiene de piedra, pero las muelas aún le ganan. La penitencia es para el mal dormir, que para el mal comer… ¡Contro con el santo!</p>
@@ -1963,7 +1977,8 @@
             <speaker>El ciego de Gondar</speaker>
             <p>Somos viejos en esos engaños, amigo.</p>
           </sp>
-          <stage><rs key="#pere">El peregrino</rs> acoge tales palabras con gesto seráfico, y el ciego <rs key="#cieg">El ciego de Gondar</rs>, tras de refrescar la boca con el trago, torna a reír. <rs key="#migu">Miguelín El Padronés </rs> , que en las mismas sombras remienda un paraguas, hace un guiño maleante y silba un aire. La pareja de tricornios<rs key="#par">La pareja de civiles</rs>, negra y polvorienta, penetra en las sombras del soto donde sestea la taifa de hampones. Viéndola llegar, todos callan, y la pareja<rs key="#par">La pareja de civiles</rs>, inquisidora, cruza entre unos y otros.</stage>
+          <stage>
+            <rs key="#pere">El peregrino</rs> acoge tales palabras con gesto seráfico, y el ciego <rs key="#cieg">El ciego de Gondar</rs>, tras de refrescar la boca con el trago, torna a reír. <rs key="#migu">Miguelín El Padronés </rs> , que en las mismas sombras remienda un paraguas, hace un guiño maleante y silba un aire. La pareja de tricornios<rs key="#par">La pareja de civiles</rs>, negra y polvorienta, penetra en las sombras del soto donde sestea la taifa de hampones. Viéndola llegar, todos callan, y la pareja<rs key="#par">La pareja de civiles</rs>, inquisidora, cruza entre unos y otros.</stage>
           <sp who="#par">
             <speaker>Un guardia</speaker>
             <p>¿No estuvo aquí uno que hasta hace poco corría las ferias con una mujer de la vida? El Conde Polaco.</p>
@@ -2093,7 +2108,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Mi suerte es desgracia.</p>
           </sp>
-          <stage><rs key="#colo">Colorín, pájaro adivino</rs>, caperuza verde y bragas amarillas, aparece en la puerta de su alcázar, con la suerte en el pico. <rs key="#marg">Mari-Gaila</rs> recoge el billete, y sin desdoblarlo se lo entrega al farandul, que hace la lectura en una rueda de rostros atentos.</stage>
+          <stage>
+            <rs key="#colo">Colorín, pájaro adivino</rs>, caperuza verde y bragas amarillas, aparece en la puerta de su alcázar, con la suerte en el pico. <rs key="#marg">Mari-Gaila</rs> recoge el billete, y sin desdoblarlo se lo entrega al farandul, que hace la lectura en una rueda de rostros atentos.</stage>
           <sp who="#luce">
             <speaker>Lectura del Compadre miau</speaker>
             <p>«Venus y Ceres. En esta conjunción se descorren los velos de tu Destino. Ceres te ofrece frutos. Venus, licencias. Tu destino es el de la mujer hermosa. Tu trono, el de la Primavera».</p>
@@ -2139,7 +2155,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Si usted lo desea.</p>
           </sp>
-          <stage><rs key="#cieg">El ciego de Gondar</rs> , con la montera derribada y una taza de vino entre las manos, asoma en la puerta del mesón. Tiene la risa jocunda del mosto y del yantar.</stage>
+          <stage>
+            <rs key="#cieg">El ciego de Gondar</rs> , con la montera derribada y una taza de vino entre las manos, asoma en la puerta del mesón. Tiene la risa jocunda del mosto y del yantar.</stage>
           <sp who="#cieg">
             <speaker>El ciego de Gondar</speaker>
             <p><rs key="#marg">Mari-Gaila</rs>, ven a echar un trago.</p>
@@ -2152,7 +2169,8 @@
             <speaker>El ciego de Gondar</speaker>
             <p>Bebe para refrescar la voz, <rs key="#marg">Mari-Gaila</rs>. Adentro oí tu copla.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> enjúgase los labios con un pico del pañuelo que lleva a la cabeza, recibe la taza desbordante y roja de manos del ladino viejo y bebe, gorjeando el vino en la garganta.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> enjúgase los labios con un pico del pañuelo que lleva a la cabeza, recibe la taza desbordante y roja de manos del ladino viejo y bebe, gorjeando el vino en la garganta.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¡Es canela!</p>
@@ -2241,7 +2259,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Con este amigo le aguardo, si no se tarda.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> bate en la espalda del viejo ladino y penetra en el mesón tirando del dornajo. Antes de desaparecer en la oscuridad del zaguán, se vuelve, y con un guiño dice abur a los que se quedan.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> bate en la espalda del viejo ladino y penetra en el mesón tirando del dornajo. Antes de desaparecer en la oscuridad del zaguán, se vuelve, y con un guiño dice abur a los que se quedan.</stage>
           <sp who="#luce">
             <speaker>El Compadre Miau</speaker>
             <p>El garbo de esa mujer no es propio de estos pagos. ¡Y el pico!</p>
@@ -2609,7 +2628,8 @@
             <p>¡Le acudió buena tema!</p>
           </sp>
           <stage>El farandul empuja suavemente a la coima, que se resiste, blanda y amorosa, recostándose en el pecho del hombre. Los cohetes abren sus luces de colores y cabrillean sobre el mar. Clamoreo de campanas que tocan a vísperas. En la súbita claridad de los cohetes aparecen las torres de la Colegiata.</stage>
-          <stage><rs key="#marg">Mari-Gaila</rs>, en la puerta de la garita, se agacha y levanta un naipe caído en la arena.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs>, en la puerta de la garita, se agacha y levanta un naipe caído en la arena.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¡Las siete espadas! ¿Cómo se interpreta?</p>
@@ -2634,7 +2654,8 @@
             <speaker>Séptimo miau</speaker>
             <p>No conozco a ese sujeto.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> se detiene resistiéndose a entrar en la garita, entorna los ojos, respira con reír alegre de vino y licencias. Dejándose abrazar del farandul murmura con transporte.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> se detiene resistiéndose a entrar en la garita, entorna los ojos, respira con reír alegre de vino y licencias. Dejándose abrazar del farandul murmura con transporte.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¿Eres el Conde Polaco?</p>
@@ -2905,12 +2926,14 @@
             <speaker>Pedro Gailo</speaker>
             <p>¡Eres canela!</p>
           </sp>
-          <stage><rs key="#simo">Simoniña</rs> conduce al borracho a la yacija, tras el cañizo, y le empuja, sofocada. Cayéndole la camisa por los hombros, y deshecha la trenza, descuelga el candil y sube a dormir en el sobrado. La voz nebulosa, del sacristán <rs key="#pedr">Pedro Gailo</rs>sale del cocho de paja.</stage>
+          <stage>
+            <rs key="#simo">Simoniña</rs> conduce al borracho a la yacija, tras el cañizo, y le empuja, sofocada. Cayéndole la camisa por los hombros, y deshecha la trenza, descuelga el candil y sube a dormir en el sobrado. La voz nebulosa, del sacristán <rs key="#pedr">Pedro Gailo</rs>sale del cocho de paja.</stage>
           <sp who="#pedr">
             <speaker>Pedro Gailo</speaker>
             <p>¡Ven, <rs key="#simo"> Simoniña</rs>! ¡Ven, prenda! Pues que me da corona, vamos nosotros dos a ponerle otra igual en la frente. ¿Dónde estás, que no te palpo? Ahora tú eres mi reina. Si coceas, no lo eres más. Le devolvemos su mala moneda. ¡Cómo ríe aquel demonio colorado! ¡Vino a ponérseme encima del pecho! ¡Tórnamelo, <rs key="#simo">Simoniña</rs>!… ¡Prenda! ¡Espántamelo!</p>
           </sp>
-          <stage><rs key="#simo">Simoniña</rs>, con el candil en la mano, escucha acurrucada en la escalera. El borracho comienza a roncar, y las palabras borrosas que dibujan la línea del sueño se distinguen apenas.</stage>
+          <stage>
+            <rs key="#simo">Simoniña</rs>, con el candil en la mano, escucha acurrucada en la escalera. El borracho comienza a roncar, y las palabras borrosas que dibujan la línea del sueño se distinguen apenas.</stage>
         </div>
         <div n="7" type="scene">
           <head>Escena séptima</head>
@@ -2919,7 +2942,8 @@
             <speaker>La Tatula</speaker>
             <p>¿Es buena esta peseta, <rs key="#ludo">Ludovina</rs>?</p>
           </sp>
-          <stage><rs key="#ludo">Ludovina</rs>, pequeña, pelirroja, encendida, redonda, hace sonar la moneda y la frota entre los dedos, examinándola a la luz cornuda del candil. Vuelve a saltarla sobre el mostrador.</stage>
+          <stage>
+            <rs key="#ludo">Ludovina</rs>, pequeña, pelirroja, encendida, redonda, hace sonar la moneda y la frota entre los dedos, examinándola a la luz cornuda del candil. Vuelve a saltarla sobre el mostrador.</stage>
           <sp who="#ludo">
             <speaker>Ludovina</speaker>
             <p>Parece buena. Mírala tú, Padronés.</p>
@@ -3033,7 +3057,8 @@
             <speaker>Ludovina</speaker>
             <p>¡Viva el rumbo!</p>
           </sp>
-          <stage><rs key="#migu">Miguelín </rs>, la boca rasgada por una mala risa, y la lengua sobre el lunar rizoso del labio, hace beber al enano, que, hundido en las pajas del dornajo, se relame torciendo los ojos. Bajo la campana de la chimenea resuena deformado el grito epiléptico.</stage>
+          <stage>
+            <rs key="#migu">Miguelín </rs>, la boca rasgada por una mala risa, y la lengua sobre el lunar rizoso del labio, hace beber al enano, que, hundido en las pajas del dornajo, se relame torciendo los ojos. Bajo la campana de la chimenea resuena deformado el grito epiléptico.</stage>
           <sp who="#idio">
             <speaker>El idiota</speaker>
             <p>¡Hou! ¡Hou!</p>
@@ -3067,7 +3092,8 @@
             <speaker>La Tatula</speaker>
             <p>Se encandila viendo a  <rs key="#rapa"> La rapaza</rs>. ¡Es muy pícaro!</p>
           </sp>
-          <stage><rs key="#idio">El idiota</rs> agita las manos con temblor de epilepsia, y pone los ojos en blanco. La niña deja sobre el dornajo guindas y roscos, y vuelve a sentarse en medio de los padres, abstraída y extática. Con su hábito morado y sus manos de cera, parece una virgen mártir entre dos viejas figuras de retablo.</stage>
+          <stage>
+            <rs key="#idio">El idiota</rs> agita las manos con temblor de epilepsia, y pone los ojos en blanco. La niña deja sobre el dornajo guindas y roscos, y vuelve a sentarse en medio de los padres, abstraída y extática. Con su hábito morado y sus manos de cera, parece una virgen mártir entre dos viejas figuras de retablo.</stage>
           <sp who="#matr">
             <speaker>La Madre</speaker>
             <p><rs key="#ludo">Ludovina</rs>, no consientas que tanto le den a beber. ¡A pique de que lo maten!</p>
@@ -3076,7 +3102,8 @@
             <speaker>La Tatula</speaker>
             <p>¡Maldita palabra!</p>
           </sp>
-          <stage><rs key="#idio">El idiota</rs>, los ojos vueltos y la lengua muerta entre los labios negruzcos, respiraba con ahogado ronquido. La enorme cabeza, lívida, greñuda, viscosa, rodaba en el hoyo como una cabeza cortada. <rs key="#migu">Miguelín El Padronés</rs>, sesgando la boca sacaba la punta de la lengua y mojaba de salivilla el rizo de su lunar. Las otras sombras se inclinaban sobre el dornajo.</stage>
+          <stage>
+            <rs key="#idio">El idiota</rs>, los ojos vueltos y la lengua muerta entre los labios negruzcos, respiraba con ahogado ronquido. La enorme cabeza, lívida, greñuda, viscosa, rodaba en el hoyo como una cabeza cortada. <rs key="#migu">Miguelín El Padronés</rs>, sesgando la boca sacaba la punta de la lengua y mojaba de salivilla el rizo de su lunar. Las otras sombras se inclinaban sobre el dornajo.</stage>
           <sp who="#ludo">
             <speaker>Ludovina</speaker>
             <p>No le quitéis el aire.</p>
@@ -3250,7 +3277,8 @@
 						¡A las doce, el trueno del Señor revienta en las tripas 
 						[del Diablo Mayor]!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> espera el trueno, y sólo oye la risa del <rs key="#tras">Cabrío</rs>. Otra vez se transmuda el paraje. Hay una iglesia sobre una encrucijada. Las brujas danzan en torno. Por la puerta sale un resplandor rojizo, y pasa el viento cargado de humo, con olor de sardinas asadas. El <rs key="#tras">Cabrío</rs>, sobre la veleta del campanario, lanza su relincho.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> espera el trueno, y sólo oye la risa del <rs key="#tras">Cabrío</rs>. Otra vez se transmuda el paraje. Hay una iglesia sobre una encrucijada. Las brujas danzan en torno. Por la puerta sale un resplandor rojizo, y pasa el viento cargado de humo, con olor de sardinas asadas. El <rs key="#tras">Cabrío</rs>, sobre la veleta del campanario, lanza su relincho.</stage>
           <sp who="#tras">
             <speaker>El Cabrío</speaker>
             <p>¡Jujurujú!</p>
@@ -3299,7 +3327,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>¡Arrédrate, Cabrío, y déjame pasar!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> tira del dornajo sin poder moverlo. Lo siente pesado, como si fuese de piedra. El <rs key="#tras">Cabrío</rs> deja oír su relincho.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> tira del dornajo sin poder moverlo. Lo siente pesado, como si fuese de piedra. El <rs key="#tras">Cabrío</rs> deja oír su relincho.</stage>
           <sp who="#tras">
             <speaker>El Cabrío</speaker>
             <p>¡Jujurujú! En toda la noche no arribas a tu puerta. ¿Quieres mi ayuda?</p>
@@ -3361,11 +3390,13 @@
             <speaker>Mari-Gaila</speaker>
             <p>¡Qué peludo eres!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> se desvanece, y desvanecida se siente llevada por las nubes. Cuando, tras una larga cabalgada por arcos de Luna, abre los ojos, está al pie de su puerta. La Luna grande, redonda y abobada, cae sobre el dornajo donde el enano hace siempre la misma mueca.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> se desvanece, y desvanecida se siente llevada por las nubes. Cuando, tras una larga cabalgada por arcos de Luna, abre los ojos, está al pie de su puerta. La Luna grande, redonda y abobada, cae sobre el dornajo donde el enano hace siempre la misma mueca.</stage>
         </div>
         <div n="9" type="scene">
           <head>Escena novena</head>
-          <stage><rs key="#simo">Simoniña</rs>, en camisa, los pies furtivos y descalzos, desciende la escalera del sobrado. En la cocina, negra y vacía, resuenan los golpes con que llaman a la puerta</stage>
+          <stage>
+            <rs key="#simo">Simoniña</rs>, en camisa, los pies furtivos y descalzos, desciende la escalera del sobrado. En la cocina, negra y vacía, resuenan los golpes con que llaman a la puerta</stage>
           <sp who="#simo">
             <speaker>Simoniña</speaker>
             <p>¡Están a petar, mi padre!</p>
@@ -3495,7 +3526,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Cuatro machacantes junté en este medio tiempo.</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> desanuda con los dientes una punta del pañuelo, y haciéndolas saltar en la mano, muestra las cuatro monedas. <rs key="#simo"> Simoniña</rs>, ante aquellas luces, comienza el planto.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> desanuda con los dientes una punta del pañuelo, y haciéndolas saltar en la mano, muestra las cuatro monedas. <rs key="#simo"> Simoniña</rs>, ante aquellas luces, comienza el planto.</stage>
           <sp who="#simo">
             <speaker>Simoniña</speaker>
             <p>¡Ya se fue el sol de nuestra puerta! ¡Ya se acabó el bien de nuestra casa! ¡Ay, que se fue de este mundo sin mirar por nos!</p>
@@ -3632,7 +3664,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>No te dilates con retóricas, aborrecida.</p>
           </sp>
-          <stage><rs key="#simo"> Simoniña</rs> se ata el refajo con manos temblorosas, échase el mantelo por la cabeza a guisa de capuz, y sale al camino haciéndose cruces y gimoteando. Por el claro de luna tira del negro carretón, donde la enorme cabeza del idiota <rs key="#idio">El idiota</rs>, lívida y greñuda, hace su mueca. Las manos infantiles, enclavijadas sobre la cobija, tienen un destello cirial. <rs key="#pedr">Pedro Gailo</rs>, arrodillado en la puerta, con los brazos abiertos, envía la escolta de sus palabras.</stage>
+          <stage>
+            <rs key="#simo"> Simoniña</rs> se ata el refajo con manos temblorosas, échase el mantelo por la cabeza a guisa de capuz, y sale al camino haciéndose cruces y gimoteando. Por el claro de luna tira del negro carretón, donde la enorme cabeza del idiota <rs key="#idio">El idiota</rs>, lívida y greñuda, hace su mueca. Las manos infantiles, enclavijadas sobre la cobija, tienen un destello cirial. <rs key="#pedr">Pedro Gailo</rs>, arrodillado en la puerta, con los brazos abiertos, envía la escolta de sus palabras.</stage>
           <sp who="#pedr">
             <speaker>Pedro Gailo</speaker>
             <p>¡Sé bien mandada!… ¡Llegas en una carrera!… ¿Óyesme?… ¡No lleves temor!… ¡Tienes luna!… ¿Óyesme?…</p>
@@ -3649,7 +3682,8 @@
             <speaker>Marica del Reino</speaker>
             <p>¡Cache!… ¡Cache!… ¡Cache, grandísimos ladrones!… ¡Nuestro Señor me valga, los bacuriños sobre el carretón! ¡A las calladas me lo trujeron! ¡Las malas almas, ni una voz para advertirme!</p>
           </sp>
-          <stage><rs key="#marg">Marica del Reino</rs>, el refajo mal ceñido, y los pechos de cabra seca fuera del justillo, surge del fondo de la cocina, enarbolando la escoba.</stage>
+          <stage>
+            <rs key="#marg">Marica del Reino</rs>, el refajo mal ceñido, y los pechos de cabra seca fuera del justillo, surge del fondo de la cocina, enarbolando la escoba.</stage>
           <sp who="#marc">
             <speaker>Marica del Reino</speaker>
             <p>¡Cache, ladrones! ¡Cache, empedernidos!… ¡Alma, no te espantes! ¡No te vayas, alma! ¡Ay, que toda la cara le comieron! ¡Devorado! ¡Devorado de los bacuriños! ¡Frío del todo!</p>
@@ -3901,7 +3935,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>Este cuerpo frío a mi puerta no lo dejas.</p>
           </sp>
-          <stage><rs key="#marg">Marica del Reino</rs>, antes de contestar, vuelve la cabeza: Una sombra y una mirada hostil adivina a su espalda. <rs key="#simo"> Simoniña</rs>, que tornaba de la fuente, estaba erguida en medio del camino, las manos firmes en las caderas. En aquella hora tenía un recuerdo de su madre, la <rs key="#marg">Mari-Gaila</rs>.</stage>
+          <stage>
+            <rs key="#marg">Marica del Reino</rs>, antes de contestar, vuelve la cabeza: Una sombra y una mirada hostil adivina a su espalda. <rs key="#simo"> Simoniña</rs>, que tornaba de la fuente, estaba erguida en medio del camino, las manos firmes en las caderas. En aquella hora tenía un recuerdo de su madre, la <rs key="#marg">Mari-Gaila</rs>.</stage>
           <sp who="#simo">
             <speaker>Simoniña</speaker>
             <p>Llévese esa boleta, señora mi tía.</p>
@@ -4065,7 +4100,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena segunda</head>
-          <stage><rs key="#marg">Mari-Gaila</rs> y <rs key="#tatu"> La Tatula</rs> conversan secretamente a espaldas de la casa, bajo la pompa de la higuera donde abre los brazos el espantapájaros: Una sotana hecha jirones, vestida en la cruz de dos escobas.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> y <rs key="#tatu"> La Tatula</rs> conversan secretamente a espaldas de la casa, bajo la pompa de la higuera donde abre los brazos el espantapájaros: Una sotana hecha jirones, vestida en la cruz de dos escobas.</stage>
           <sp who="#tatu">
             <speaker>La Tatula</speaker>
             <p>Ya podemos hablar sin misterio.</p>
@@ -4281,8 +4317,10 @@
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>Si otra te pide, dile que venga por ella.</p>
-            <stage><rs key="#marg">Mari-Gaila</rs> sonríe pensativa, mirando el río, cubierto de reflejos dorados. Por la orilla va una caravana de húngaros con osos y calderos. <rs key="#marg">Mari-Gaila</rs> canta.</stage>
-            <stage>Cantar de <rs key="#marg">Mari-Gaila</rs></stage>
+            <stage>
+              <rs key="#marg">Mari-Gaila</rs> sonríe pensativa, mirando el río, cubierto de reflejos dorados. Por la orilla va una caravana de húngaros con osos y calderos. <rs key="#marg">Mari-Gaila</rs> canta.</stage>
+            <stage>Cantar de <rs key="#marg">Mari-Gaila</rs>
+            </stage>
             <p>: Si mensaje me mandas, 
 						no lo celebro. 
 						Suspiros en el aire 
@@ -4425,7 +4463,8 @@
             <speaker>Simoniña</speaker>
             <p>¡Pues ya no tiene remedio!</p>
           </sp>
-          <stage><rs key="#simo"> Simoniña</rs> suspira, e incorporándose sobre las losas del pórtico, de rodillas a la vera del dornajo, esparce las moscas que comen en la cabeza de cera. Unas beatas<rs key="#beat">Beaterío de viejas y mozas</rs> con olor de incienso en las mantillas salen deshiladas de la iglesia.</stage>
+          <stage>
+            <rs key="#simo"> Simoniña</rs> suspira, e incorporándose sobre las losas del pórtico, de rodillas a la vera del dornajo, esparce las moscas que comen en la cabeza de cera. Unas beatas<rs key="#beat">Beaterío de viejas y mozas</rs> con olor de incienso en las mantillas salen deshiladas de la iglesia.</stage>
           <sp who="#simo">
             <speaker>Simoniña</speaker>
             <p>¡Una limosna para ayuda del entierro!</p>
@@ -4550,7 +4589,8 @@
             <speaker>Simoniña</speaker>
             <p>¡Como no hubiese más caridad que la suya!</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs>, con sotana y roquete, asoma en la puerta de la iglesia. Llega el olor de los cirios que humean apagados en los altares. El arco de la puerta deja entrever reflejos de oro en la penumbra.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs>, con sotana y roquete, asoma en la puerta de la iglesia. Llega el olor de los cirios que humean apagados en los altares. El arco de la puerta deja entrever reflejos de oro en la penumbra.</stage>
           <sp who="#pedr">
             <speaker>Pedro Gailo</speaker>
             <p>¡Puñela! ¡Qué dada eres a picotear!</p>
@@ -4579,7 +4619,8 @@
             <speaker>Simoniña</speaker>
             <p>Guíese otra vez de cuentos.</p>
           </sp>
-          <stage><rs key="#coim">Coimbra, perro sabio</rs> salió en dos patas, y mueve la cola bailando en torno del sacristán<rs key="#pedr">Pedro Gailo</rs>, que la mira con ojos adustos. <rs key="#coim">Coimbra, perro sabio</rs>, irreverente, olfatea la sotana y estornuda, remedando la tos de una vieja.</stage>
+          <stage>
+            <rs key="#coim">Coimbra, perro sabio</rs> salió en dos patas, y mueve la cola bailando en torno del sacristán<rs key="#pedr">Pedro Gailo</rs>, que la mira con ojos adustos. <rs key="#coim">Coimbra, perro sabio</rs>, irreverente, olfatea la sotana y estornuda, remedando la tos de una vieja.</stage>
           <sp who="#luce">
             <speaker>Séptimo miau</speaker>
             <p>Escupe el resfriado, <rs key="#coim">Coimbra, perro sabio</rs>.</p>
@@ -4767,7 +4808,8 @@
             <speaker>Miguelín</speaker>
             <p>Un nido de rulas.</p>
           </sp>
-          <stage><rs key="#sere">Serenín de Bretal</rs> , que como un patriarca hace la siega del trigo con los hijos y los nietos, se ladea la montera con aquel gesto socarrón de viejo leguleyo.</stage>
+          <stage>
+            <rs key="#sere">Serenín de Bretal</rs> , que como un patriarca hace la siega del trigo con los hijos y los nietos, se ladea la montera con aquel gesto socarrón de viejo leguleyo.</stage>
           <sp who="#sere">
             <speaker>Serenín de Bretal</speaker>
             <p>¡Ay, gran pícaro, ya me das luces!… ¡Dos que fornican!</p>
@@ -4862,7 +4904,8 @@
             <speaker>Mari-Gaila</speaker>
             <p>¡Así ceguéis! ¡Cabras! ¡Cabras! ¡Cabras!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs>, seguida de mozos y canes, corre por la ribera, sosteniendo en la cintura la falda desgarrada, que descubre por los jirones la albura de las piernas. <rs key="#milo">Milón de La Arnoya</rs>, un gigante rojo, que va delante de su carro, le corta el camino, y con ruda alegría brama su relincho. <rs key="#marg">Mari-Gaila</rs> se detiene, alzando una piedra.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs>, seguida de mozos y canes, corre por la ribera, sosteniendo en la cintura la falda desgarrada, que descubre por los jirones la albura de las piernas. <rs key="#milo">Milón de La Arnoya</rs>, un gigante rojo, que va delante de su carro, le corta el camino, y con ruda alegría brama su relincho. <rs key="#marg">Mari-Gaila</rs> se detiene, alzando una piedra.</stage>
           <sp who="#milo">
             <speaker>Milón de La Arnoya</speaker>
             <p>¡Jujurujú!</p>
@@ -4928,7 +4971,8 @@
             <speaker>Milón de La Arnoya</speaker>
             <p>¡Vete y confúndete, que ya me dejas la condenación!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> huye de los brazos del gigante, desnudo el pecho y en cabellos. El CORO DE VOCES se desgrana como una cohetada en clamores diversos y gritos encendidos.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> huye de los brazos del gigante, desnudo el pecho y en cabellos. El CORO DE VOCES se desgrana como una cohetada en clamores diversos y gritos encendidos.</stage>
           <sp who="#grit">
             <speaker>grit</speaker>
             <p>¡Que se escapa!</p>
@@ -4946,7 +4990,8 @@
             <p>¡Que te malquiebro!</p>
           </sp>
           <stage>Azuza su galgo y corre por la ribera del río volteando la honda sobre la fugitiva. Rueda por los congostos un tropel de zuecos.</stage>
-          <stage><rs key="#marg">Mari-Gaila</rs> se revuelve acorralada.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> se revuelve acorralada.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¡Almas negras! ¡Salidos de los Infiernos!</p>
@@ -4999,7 +5044,8 @@
             <speaker>Coro De Relinchos</speaker>
             <p>¡Jujurujú!</p>
           </sp>
-          <stage><rs key="#marg">Mari-Gaila</rs> se arranca el justillo, y con la carne temblorosa, sale de entre las sueltas enaguas. De un hombro le corre un hilo de sangre. Rítmica y antigua, adusta y resuelta, levanta su blanca desnudez ante el río cubierto de oros.</stage>
+          <stage>
+            <rs key="#marg">Mari-Gaila</rs> se arranca el justillo, y con la carne temblorosa, sale de entre las sueltas enaguas. De un hombro le corre un hilo de sangre. Rítmica y antigua, adusta y resuelta, levanta su blanca desnudez ante el río cubierto de oros.</stage>
           <sp who="#marg">
             <speaker>Mari-Gaila</speaker>
             <p>¡Conformarse con esto!</p>
@@ -5057,7 +5103,8 @@
             <speaker>Una Voz En Los Maizales</speaker>
             <p>¡<rs key="#pedr">Pedro Gailo</rs>, la mujer te traen desnuda sobre un carro, puesta a la vergüenza!</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs> cae de rodillas, y con la frente golpea las sepulturas del pórtico. Sobre su cabeza, las campanas bailan locas, llegan al atrio los ritmos de la agreste faunalia, y la frente del sacristán <rs key="#pedr">Pedro Gailo</rs>en las losas levanta un eco de tumba.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs> cae de rodillas, y con la frente golpea las sepulturas del pórtico. Sobre su cabeza, las campanas bailan locas, llegan al atrio los ritmos de la agreste faunalia, y la frente del sacristán <rs key="#pedr">Pedro Gailo</rs>en las losas levanta un eco de tumba.</stage>
           <sp who="#marc">
             <speaker>Marica del Reino</speaker>
             <p>¡Vas a dejar ahí las astas!</p>
@@ -5090,7 +5137,8 @@
             <speaker>La Tatula</speaker>
             <p>¡Así es! Casos de conducta no llaman trompetas.</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs> corre pisándose la sotana y se desvanece por la puerta de la iglesia. Sube al campanario, batiendo en la angosta escalera como un vencejo, y sale a mirar por los arcos de las campanas. El carro de la faunalia rueda por el camino, en torno salta la encendida guirnalda de mozos, y en lo alto, toda blanca y desnuda, quiere cubrirse con la yerba <rs key="#marg">Mari-Gaila</rs>. El sacristán<rs key="#pedr">Pedro Gailo</rs>, negro y largo, sale al tejado, quebrando las tejas.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs> corre pisándose la sotana y se desvanece por la puerta de la iglesia. Sube al campanario, batiendo en la angosta escalera como un vencejo, y sale a mirar por los arcos de las campanas. El carro de la faunalia rueda por el camino, en torno salta la encendida guirnalda de mozos, y en lo alto, toda blanca y desnuda, quiere cubrirse con la yerba <rs key="#marg">Mari-Gaila</rs>. El sacristán<rs key="#pedr">Pedro Gailo</rs>, negro y largo, sale al tejado, quebrando las tejas.</stage>
           <sp who="#grit">
             <speaker>Una Voz</speaker>
             <p>¡Castrado!</p>
@@ -5106,7 +5154,8 @@
             <speaker>Pedro Gailo</speaker>
             <p>¡El santo Sacramento me ordena volver por la mujer adúltera ante la propia iglesia donde casamos!</p>
           </sp>
-          <stage><rs key="#pedr">Pedro Gailo</rs>, que era sobre el borde del alero, se tira de cabeza. Cae con negro revuelo y queda aplastado, los brazos abiertos, la sotana desgarrada. Hace semblante de muerte. De pronto se alza renqueando y transpone la puerta de la iglesia.</stage>
+          <stage>
+            <rs key="#pedr">Pedro Gailo</rs>, que era sobre el borde del alero, se tira de cabeza. Cae con negro revuelo y queda aplastado, los brazos abiertos, la sotana desgarrada. Hace semblante de muerte. De pronto se alza renqueando y transpone la puerta de la iglesia.</stage>
           <sp who="#grit">
             <speaker>La Voz De Los Maizales</speaker>
             <p>¡Te creí difunto!</p>

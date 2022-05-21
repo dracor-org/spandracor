@@ -256,11 +256,13 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         <stage>Cuídese mucho de todo lo referente al servicio del vino, enjuague de las copas y demás detalles que se irán marcando en el curso de la representación.</stage>
         <stage>La escena, lo mismo que el escaparate y la habitación reservada, cuando de ella se haga uso, estarán alumbradas por mecheros de gas.</stage>
         <stage>Al levantarse el telón, aparecen en escena cuatro bebedores jugando a las cartas en un velador de segundo término. En un taburete colocado al lado de los jugadores, habrá una bandeja con varias copas de vino a medio apurar. El <rs key="#tabe">Tabernero</rs> al lado de los jugadores, mirando el juego.</stage>
-        <stage><rs key="#igna">Ignacio</rs> y <rs key="#peri">Perico</rs> sentados frente al velador de la izquierda. Encima de este velador habrá una botella y dos vasos. <rs key="#peri">Perico</rs> tiene un periódico en la mano.</stage>
+        <stage>
+          <rs key="#igna">Ignacio</rs> y <rs key="#peri">Perico</rs> sentados frente al velador de la izquierda. Encima de este velador habrá una botella y dos vasos. <rs key="#peri">Perico</rs> tiene un periódico en la mano.</stage>
         <stage>El <rs key="#mozo">Mozo</rs> estará en pie detrás del mostrador.</stage>
         <div n="1" type="scene">
           <head>Escena Primera</head>
-          <stage><rs key="#igna">Ignacio</rs>,<rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs>, el <rs key="#mozo">Mozo</rs>, <rs key="#beb1">Bebedor 1.º</rs>, <rs key="#beb2">Bebedor 2.º</rs> y dos bebedores; al final, <rs key="#andr">Andrés</rs>.</stage>
+          <stage>
+            <rs key="#igna">Ignacio</rs>,<rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs>, el <rs key="#mozo">Mozo</rs>, <rs key="#beb1">Bebedor 1.º</rs>, <rs key="#beb2">Bebedor 2.º</rs> y dos bebedores; al final, <rs key="#andr">Andrés</rs>.</stage>
           <sp who="#beb1">
             <speaker>Bebedor 1º.</speaker>
             <p>¡Envido!</p>
@@ -308,10 +310,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#peri">
             <speaker>Perico.</speaker>
-            <p>
-              <stage>(Con tono de sorpresa.)</stage>
-              <hi rend="italics">¡Primaa!</hi>
-            </p>
+            <p><stage>(Con tono de sorpresa.)</stage>
+              <hi rend="italics">¡Primaa!</hi></p>
           </sp>
           <sp who="#igna">
             <speaker>Ignacio.</speaker>
@@ -366,7 +366,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
             <speaker>Perico.</speaker>
             <p><stage>(Llena un vaso y se lo ofrece a <rs key="#andr">Andrés</rs>.)</stage> Bebe.</p>
           </sp>
-          <stage><rs key="#andr">Andrés</rs> apura el vaso. Los jugadores se levantan y se dirigen al mostrador.)</stage>
+          <stage>
+            <rs key="#andr">Andrés</rs> apura el vaso. Los jugadores se levantan y se dirigen al mostrador.)</stage>
           <sp who="#beb1">
             <speaker>Bebedor 1º.</speaker>
             <p><stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage>¿Se debe algo?</p>
@@ -392,7 +393,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#andr">Andrés</rs>,<rs key="#igna">Ignacio</rs>, <rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
+          <stage>
+            <rs key="#andr">Andrés</rs>,<rs key="#igna">Ignacio</rs>, <rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
           <sp who="#igna">
             <speaker>Ignacio.</speaker>
             <p><stage>(A <rs key="#andr">Andrés</rs>.)</stage> A ti, en diciendo que tienes vino, no te hace falta <hi rend="italics">naa</hi>.</p>
@@ -576,7 +578,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p>Y si te digo quién trastea a <rs key="#rosa">Rosa</rs> de parte suya, verás que el caso no es de los buenos <hi rend="italics">pa</hi> <rs key="#juan">Juan José</rs>.</p>
+            <p>Y si te digo quién trastea a <rs key="#rosa">Rosa</rs> de parte suya, verás que el caso no es de los buenos <hi rend="italics">pa</hi>
+              <rs key="#juan">Juan José</rs>.</p>
           </sp>
           <sp who="#peri">
             <speaker>Perico.</speaker>
@@ -595,7 +598,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs>, <rs key="#igna">Ignacio</rs>, <rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
+          <stage>
+            <rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs>, <rs key="#igna">Ignacio</rs>, <rs key="#peri">Perico</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
             <p>¡Buenas noches!</p>
@@ -606,8 +610,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
-            <p>Lo que hay cuando se trabaja desde las siete de la mañana hasta <hi rend="italics">anochecío</hi>: mucho cansancio y mucho sueño. <stage>(Se deja caer en uno de los taburetes que hay junto al velador.)</stage>
-						</p>
+            <p>Lo que hay cuando se trabaja desde las siete de la mañana hasta <hi rend="italics">anochecío</hi>: mucho cansancio y mucho sueño. <stage>(Se deja caer en uno de los taburetes que hay junto al velador.)</stage></p>
           </sp>
           <sp who="#peri">
             <speaker>Perico.</speaker>
@@ -642,16 +645,15 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>.</stage>
+          <stage>
+            <rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>.</stage>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p><stage>(A <rs key="#juan">Juan José</rs>.)</stage> Bebe. <stage>(Alargándole una media copa.)</stage>
-						</p>
+            <p><stage>(A <rs key="#juan">Juan José</rs>.)</stage> Bebe. <stage>(Alargándole una media copa.)</stage></p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
-            <p><stage>(Rechazándola con la mano.)</stage> No tengo sed. <stage>(Queda en silencio, con la cabeza apoyada en la mano.)</stage>
-						</p>
+            <p><stage>(Rechazándola con la mano.)</stage> No tengo sed. <stage>(Queda en silencio, con la cabeza apoyada en la mano.)</stage></p>
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
@@ -791,8 +793,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p>¡Sí, es desgracia!<stage>(Con tristeza.)</stage>
-						</p>
+            <p>¡Sí, es desgracia!<stage>(Con tristeza.)</stage></p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
@@ -812,8 +813,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
-            <p>¡Dejarme ella a mí!... No, <rs key="#andr">Andrés</rs>, ¡que no lo haga, que no lo intente!... ¡Si se atreviera a hacerlo!... <stage>(Con tono de amenaza.)</stage>
-						</p>
+            <p>¡Dejarme ella a mí!... No, <rs key="#andr">Andrés</rs>, ¡que no lo haga, que no lo intente!... ¡Si se atreviera a hacerlo!... <stage>(Con tono de amenaza.)</stage></p>
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
@@ -825,8 +825,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p>Déjate de tontunas, que por la presente no tienen fundamento, y bébete esa media copa. <stage>(Alargando la que habrá quedado llena sobre el velador.)</stage>
-						</p>
+            <p>Déjate de tontunas, que por la presente no tienen fundamento, y bébete esa media copa. <stage>(Alargando la que habrá quedado llena sobre el velador.)</stage></p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
@@ -836,17 +835,16 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#juan">Juan José</rs>,<rs key="#andr">Andrés</rs>,<rs key="#isid">Isidra</rs> y el <rs key="#tabe">Tabernero</rs>.</stage>
+          <stage>
+            <rs key="#juan">Juan José</rs>,<rs key="#andr">Andrés</rs>,<rs key="#isid">Isidra</rs> y el <rs key="#tabe">Tabernero</rs>.</stage>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
-            <p><stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage> Dame una de <hi rend="italics">tiple</hi>
-						</p>
+            <p><stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage> Dame una de <hi rend="italics">tiple</hi></p>
           </sp>
           <stage>(El <rs key="#tabe">Tabernero</rs> sirve la copa a <rs key="#isid">Isidra</rs>; esta la apura a sorbos junto al mostrador.)</stage>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p>La <rs key="#isid">Isidra</rs>.<stage>(A <rs key="#juan">Juan José</rs>, que se habrá vuelto al oír la voz de <rs key="#isid">Isidra</rs>.)</stage>
-						</p>
+            <p>La <rs key="#isid">Isidra</rs>.<stage>(A <rs key="#juan">Juan José</rs>, que se habrá vuelto al oír la voz de <rs key="#isid">Isidra</rs>.)</stage></p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
@@ -858,8 +856,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
-            <p><hi rend="italics">Señora</hi>, haga <hi rend="italics">usté</hi> el favor de no faltar, que nadie se ha metido con <hi rend="italics">usté.</hi>
-						</p>
+            <p><hi rend="italics">Señora</hi>, haga <hi rend="italics">usté</hi> el favor de no faltar, que nadie se ha metido con <hi rend="italics">usté.</hi></p>
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
@@ -887,8 +884,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
-            <p>¿A mí? <stage>(Como sorprendida.)</stage>
-						</p>
+            <p>¿A mí? <stage>(Como sorprendida.)</stage></p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
@@ -908,8 +904,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
-            <p>Lo que he dicho, y con ello basta. <stage>(A <rs key="#andr">Andrés</rs>.)</stage> Vamos en busca de Antonio, que ya es hora. <stage>(Levantándose.)</stage>
-						</p>
+            <p>Lo que he dicho, y con ello basta. <stage>(A <rs key="#andr">Andrés</rs>.)</stage> Vamos en busca de Antonio, que ya es hora. <stage>(Levantándose.)</stage></p>
           </sp>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
@@ -931,13 +926,13 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           <stage>El <rs key="#tabe">Tabernero</rs> e <rs key="#isid">Isidra</rs>.</stage>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
-            <p><stage>(Por <rs key="#juan">Juan José</rs> y <rs key="#andr">Andrés</rs>.)</stage><hi rend="italics">¡Condenaos!</hi>... Y no es más que porque <rs key="#juan">Juan José</rs> se ha <hi rend="italics">pensao</hi> que yo aconsejo mal a <rs key="#rosa">Rosa</rs> <stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage>
-						</p>
+            <p><stage>(Por <rs key="#juan">Juan José</rs> y <rs key="#andr">Andrés</rs>.)</stage>
+              <hi rend="italics">¡Condenaos!</hi>... Y no es más que porque <rs key="#juan">Juan José</rs> se ha <hi rend="italics">pensao</hi> que yo aconsejo mal a <rs key="#rosa">Rosa</rs>
+              <stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage></p>
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p>¿No lo hace usté? <stage>(Con sorna.)</stage>
-						</p>
+            <p>¿No lo hace usté? <stage>(Con sorna.)</stage></p>
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
@@ -953,7 +948,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p>Oígame usté, <hi rend="italics">señá</hi> <rs key="#isid">Isidra</rs>. Yo no me meto en los asuntos de mi parroquia porque no debo, y porque todo el que entra en mi casa a dejar un duro, o una peseta, o una <hi rend="italics">perra chica</hi>, es <hi rend="italics">sagrao pa</hi> mí. Yo sé oír, y ver, y callar, y respetar a cada uno <hi rend="italics">su marcha</hi>, que ese es mi oficio y mi negocio, pero no me venga usté con pamplinas. Aquí no <hi rend="italics">cuelan</hi>.</p>
+            <p>Oígame usté, <hi rend="italics">señá</hi>
+              <rs key="#isid">Isidra</rs>. Yo no me meto en los asuntos de mi parroquia porque no debo, y porque todo el que entra en mi casa a dejar un duro, o una peseta, o una <hi rend="italics">perra chica</hi>, es <hi rend="italics">sagrao pa</hi> mí. Yo sé oír, y ver, y callar, y respetar a cada uno <hi rend="italics">su marcha</hi>, que ese es mi oficio y mi negocio, pero no me venga usté con pamplinas. Aquí no <hi rend="italics">cuelan</hi>.</p>
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
@@ -992,7 +988,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#isid">Isidra</rs>, <rs key="#paco">Paco</rs> el <rs key="#tabe">Tabernero</rs>, dos mujeres y dos hombres; luego, el <rs key="#mozo">Mozo</rs>.</stage>
+          <stage>
+            <rs key="#isid">Isidra</rs>, <rs key="#paco">Paco</rs> el <rs key="#tabe">Tabernero</rs>, dos mujeres y dos hombres; luego, el <rs key="#mozo">Mozo</rs>.</stage>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
             <p><stage>(Dirigiéndose a <rs key="#paco">Paco</rs> con la oficiosidad propia a un tabernero cuando entra un buen parroquiano en su casa.)</stage> ¡Señor <rs key="#paco">Paco</rs>!...</p>
@@ -1037,7 +1034,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p><stage>(Con afán de agradar.)</stage><hi rend="italics">Pa</hi> usté se buscaría aunque no la hubiera. Ahí dentro <stage>(Por el cuarto de la derecha.)</stage> encontrarán ustedes una, y es de primera.</p>
+            <p><stage>(Con afán de agradar.)</stage>
+              <hi rend="italics">Pa</hi> usté se buscaría aunque no la hubiera. Ahí dentro <stage>(Por el cuarto de la derecha.)</stage> encontrarán ustedes una, y es de primera.</p>
           </sp>
           <sp who="#paco">
             <speaker>Paco.</speaker>
@@ -1045,8 +1043,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#muj1">
             <speaker>Mujer 1ª.</speaker>
-            <p>¡Digo!... <stage>(Apurando la copa.)</stage>
-						</p>
+            <p>¡Digo!... <stage>(Apurando la copa.)</stage></p>
           </sp>
           <sp who="#paco">
             <speaker>Paco.</speaker>
@@ -1107,8 +1104,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p><stage>(A <rs key="#paco">Paco</rs>.)</stage> Cuando <hi rend="italics">ustees</hi> quieran; eso está listo. <stage>(Por la habitación de la derecha.)</stage>
-						</p>
+            <p><stage>(A <rs key="#paco">Paco</rs>.)</stage> Cuando <hi rend="italics">ustees</hi> quieran; eso está listo. <stage>(Por la habitación de la derecha.)</stage></p>
           </sp>
           <sp who="#paco">
             <speaker>Paco.</speaker>
@@ -1116,8 +1112,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p><stage>(Abriendo de par en par la puerta de la derecha.)</stage> Pasen <hi rend="italics">ustees.</hi>
-						</p>
+            <p><stage>(Abriendo de par en par la puerta de la derecha.)</stage> Pasen <hi rend="italics">ustees.</hi></p>
           </sp>
           <stage>(Entran los dos hombres y las dos mujeres en la habitación de la derecha.)</stage>
           <sp who="#paco">
@@ -1128,7 +1123,9 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#isid">Isidra</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>; luego, <rs key="#rosa">Rosa</rs>y<rs key="#tonu">Toñuela</rs></stage>
+          <stage>
+            <rs key="#isid">Isidra</rs>, el <rs key="#tabe">Tabernero</rs> y el <rs key="#mozo">Mozo</rs>; luego, <rs key="#rosa">Rosa</rs>y<rs key="#tonu">Toñuela</rs>
+          </stage>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
             <p><stage>(Al <rs key="#tabe">Tabernero</rs>.)</stage> ¡Es un chorro de oro este <rs key="#paco">Paco</rs>!</p>
@@ -1145,7 +1142,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
             <speaker>Tabernero.</speaker>
             <p><stage>(Al <rs key="#mozo">Mozo</rs>.)</stage> Lleva esto.<stage>(El <rs key="#tabe">Tabernero</rs> entrega al chico la bandeja de copas y el plato de aceitunas; el chico las entra en la habitación de la derecha, de la que sale breves momentos después de entrar. A <rs key="#isid">Isidra</rs>.)</stage>¡En fin, allá usté! A mí no ha de dolerme.</p>
           </sp>
-          <!--#jct:JMG Se mantiene la intervención del personaje tal como aparece en la Virtual Cervantes porque no tiene sentido que intervenga dos veces seguidas el mismo personaje para referirse a dos personas diferentes-->
+<!--#jct:JMG Se mantiene la intervención del personaje tal como aparece en la Virtual Cervantes porque no tiene sentido que intervenga dos veces seguidas el mismo personaje para referirse a dos personas diferentes-->
           <stage>(Se abre la puerta del fondo y entran por ella <rs key="#rosa">Rosa</rs> y <rs key="#tonu">Toñuela</rs> en traje de obreras: mantón de lana, delantal azul, falda corta, pañuelo a la cabeza y manguitos azules en los brazos.)</stage>
           <sp who="#tonu">
             <speaker>Toñuela.</speaker>
@@ -1171,7 +1168,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#rosa">Rosa</rs>,<rs key="#isid">Isidra</rs>,<rs key="#tonu">Toñuela</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>,<rs key="#isid">Isidra</rs>,<rs key="#tonu">Toñuela</rs> y el <rs key="#mozo">Mozo</rs>.</stage>
           <sp who="#tonu">
             <speaker>Toñuela.</speaker>
             <p><stage> (A <rs key="#rosa">Rosa</rs>.) </stage> ¡De bonito
@@ -1267,7 +1265,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
-            <p><stage> (A <rs key="#tonu">Toñuela</rs>.) </stage> En eso tiene razón la <hi rend="italics">seña</hi> <rs key="#isid">Isidra</rs>. Te afanas por un hombre, pasas con él tu juventud, te aperreas por él, y el día menos <hi rend="italics">pensao</hi> se cansa de ti, te pone <hi rend="italics">en la del rey</hi>, y si te he visto no me acuerdo. Ahí está lo que ocurre.</p>
+            <p><stage> (A <rs key="#tonu">Toñuela</rs>.) </stage> En eso tiene razón la <hi rend="italics">seña</hi>
+              <rs key="#isid">Isidra</rs>. Te afanas por un hombre, pasas con él tu juventud, te aperreas por él, y el día menos <hi rend="italics">pensao</hi> se cansa de ti, te pone <hi rend="italics">en la del rey</hi>, y si te he visto no me acuerdo. Ahí está lo que ocurre.</p>
           </sp>
           <sp who="#tonu">
             <speaker>Toñuela.</speaker>
@@ -1297,7 +1296,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#rosa">Rosa</rs>, <rs key="#isid">Isidra</rs> y el <rs key="#mozo">Mozo</rs>; al final, <rs key="#paco">Paco</rs> y sus compañeros, dentro.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>, <rs key="#isid">Isidra</rs> y el <rs key="#mozo">Mozo</rs>; al final, <rs key="#paco">Paco</rs> y sus compañeros, dentro.</stage>
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
             <p><stage> (A <rs key="#isid">Isidra</rs>, por <rs key="#tonu">Toñuela</rs>, y con acento de despecho.) </stage> Ahí la tiene usté, tan satisfecha y tan alegre... Parece que le ha <hi rend="italics">tocao</hi> el premio gordo con su <rs key="#andr">Andrés</rs>. ¿Cómo podrá estar alegre con la vida que lleva?</p>
@@ -1308,7 +1308,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
-            <p><stage> (Con tristeza.) </stage>¡Sí lo pago, sí!...<stage> (Con despecho.) </stage> ¡Encontrarme como me encuentro!... ¡Ay, <hi rend="italics">señá</hi> <rs key="#isid">Isidra</rs>, cada día me acostumbro menos a estas miserias!...</p>
+            <p><stage> (Con tristeza.) </stage>¡Sí lo pago, sí!...<stage> (Con despecho.) </stage> ¡Encontrarme como me encuentro!... ¡Ay, <hi rend="italics">señá</hi>
+              <rs key="#isid">Isidra</rs>, cada día me acostumbro menos a estas miserias!...</p>
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
@@ -1364,7 +1365,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
-            <p><hi rend="italics">Señá</hi><rs key="#isid">Isidra</rs>, ¿qué voy a hacer sino lo que hago? ¿Cómo le dejo, si no me da motivo, y se muere por mí, y me considera, y dos que gane, míos son? No tengo más remedio que agradecérselo y aguantarme.</p>
+            <p><hi rend="italics">Señá</hi>
+              <rs key="#isid">Isidra</rs>, ¿qué voy a hacer sino lo que hago? ¿Cómo le dejo, si no me da motivo, y se muere por mí, y me considera, y dos que gane, míos son? No tengo más remedio que agradecérselo y aguantarme.</p>
           </sp>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
@@ -1418,8 +1420,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#homb">
             <speaker>UNA VOZ DE HOMBRE.</speaker>
-            <p>
-              <stage> (Dentro y cantando acompañado por la guitarra.) </stage>
+            <p><stage> (Dentro y cantando acompañado por la guitarra.) </stage>
               <lg>
                 <l>
                   <hi rend="italics">Vivir sin ti, no es vivir,</hi>
@@ -1436,8 +1437,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
                 <l>
                   <hi rend="italics">hoy aquí, mañana allí.</hi>
                 </l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#voce">
             <speaker> VOCES.</speaker>
@@ -1500,7 +1500,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="11" type="scene">
           <head>Escena XI</head>
-          <stage><rs key="#rosa">Rosa</rs>, <rs key="#isid">Isidra</rs> y <rs key="#paco">Paco</rs>; luego, el <rs key="#mozo">Mozo</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>, <rs key="#isid">Isidra</rs> y <rs key="#paco">Paco</rs>; luego, el <rs key="#mozo">Mozo</rs>.</stage>
           <sp who="#paco">
             <speaker>Paco.</speaker>
             <p><stage> (A <rs key="#rosa">Rosa</rs>.) </stage> ¿Me deja usté que la convide?</p>
@@ -1630,7 +1631,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
             <speaker>Isidra.</speaker>
             <p>No hay motivo <hi rend="italics">pa</hi> que <rs key="#juan">Juan José</rs> se incomode; entre amigos un <hi rend="italics">osequio</hi> se acepta, que no somos salvajes <hi rend="italics">pa</hi> desairar a las <hi rend="italics">presonas</hi>.</p>
           </sp>
-          <!--#jct: Se conserva osequio y no obsequio porque la edición lo marca en cursiva como si fuera un vulgarismo. Igual presonas-->
+<!--#jct: Se conserva osequio y no obsequio porque la edición lo marca en cursiva como si fuera un vulgarismo. Igual presonas-->
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
             <p>Yo...</p>
@@ -1659,7 +1660,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="12" type="scene">
           <head>Escena XII</head>
-          <stage><rs key="#isid">Isidra</rs> y el <rs key="#mozo">Mozo</rs>; a seguida, el <rs key="#tabe">Tabernero</rs>; luego, <rs key="#juan">Juan José</rs> y <rs key="#andr">Andrés</rs>.</stage>
+          <stage>
+            <rs key="#isid">Isidra</rs> y el <rs key="#mozo">Mozo</rs>; a seguida, el <rs key="#tabe">Tabernero</rs>; luego, <rs key="#juan">Juan José</rs> y <rs key="#andr">Andrés</rs>.</stage>
           <sp who="#isid">
             <speaker>Isidra.</speaker>
             <p><stage> (Al <rs key="#mozo">Mozo</rs>.) </stage> Dame otra copita, que quiero coger el sueño a gusto. <stage> (Sale el <rs key="#tabe">Tabernero</rs> por la izquierda y oye a <rs key="#isid">Isidra</rs>.) </stage></p>
@@ -1697,14 +1699,16 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="13" type="scene">
           <head>Escena XIII</head>
-          <stage><rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>; al final, <rs key="#tonu">Toñuela</rs>.</stage>
+          <stage>
+            <rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>; al final, <rs key="#tonu">Toñuela</rs>.</stage>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
             <p><stage> (Al <rs key="#tabe">Tabernero</rs>.) </stage> ¿Y esas? ¿No han venido?</p>
           </sp>
           <sp who="#tabe">
             <speaker>Tabernero.</speaker>
-            <p>Hace tiempo. Aquí las dejé con la <hi rend="italics">señá</hi> <rs key="#isid">Isidra</rs>, cuando entré en la cocina.</p>
+            <p>Hace tiempo. Aquí las dejé con la <hi rend="italics">señá</hi>
+              <rs key="#isid">Isidra</rs>, cuando entré en la cocina.</p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José.</speaker>
@@ -1733,7 +1737,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="14" type="scene">
           <head>Escena XIV</head>
-          <stage><rs key="#tonu">Toñuela</rs>, <rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>; dentro, <rs key="#paco">Paco</rs>, <rs key="#rosa">Rosa</rs>, los dos hombres y las dos mujeres.</stage>
+          <stage>
+            <rs key="#tonu">Toñuela</rs>, <rs key="#juan">Juan José</rs>, <rs key="#andr">Andrés</rs> y el <rs key="#tabe">Tabernero</rs>; dentro, <rs key="#paco">Paco</rs>, <rs key="#rosa">Rosa</rs>, los dos hombres y las dos mujeres.</stage>
           <sp who="#andr">
             <speaker>Andrés.</speaker>
             <p>¡Qué vas a tardar, si eres un <hi rend="italics">conómetro pa</hi> eso de quitarme el beber! ¡Solo que hoy te has <hi rend="italics">retrasao</hi>, prenda! Llevo <hi rend="italics">soplaas</hi> unas pocas.</p>
@@ -1778,8 +1783,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#rosa">
             <speaker>Rosa.</speaker>
-            <p>
-              <stage>  (Dentro. Cantando.) </stage>
+            <p><stage>  (Dentro. Cantando.) </stage>
               <lg>
                 <l>
                   <hi rend="italics">¡Compañero de mi alma</hi>
@@ -1793,8 +1797,7 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
                 <l>
                   <hi rend="italics">la gente anda murmurando.</hi>
                 </l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#voce">
             <speaker>VOCES.</speaker>
@@ -1838,7 +1841,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
         </div>
         <div n="15" type="scene">
           <head>Escena XV</head>
-          <stage><rs key="#rosa">Rosa</rs>, <rs key="#tonu">Toñuela</rs>, <rs key="#juan">Juan José</rs>, <rs key="#paco">Paco</rs>, <rs key="#andr">Andrés</rs>, el <rs key="#tabe">Tabernero</rs>, los dos hombres y las dos mujeres.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>, <rs key="#tonu">Toñuela</rs>, <rs key="#juan">Juan José</rs>, <rs key="#paco">Paco</rs>, <rs key="#andr">Andrés</rs>, el <rs key="#tabe">Tabernero</rs>, los dos hombres y las dos mujeres.</stage>
           <sp who="#paco">
             <speaker>Paco.</speaker>
             <p><stage> (Dirigiéndose a <rs key="#juan">Juan José</rs>.) </stage> ¿Qué es esto, <rs key="#juan">Juan José</rs>?</p>
@@ -1958,7 +1962,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#paco">
             <speaker>Paco.</speaker>
-            <p><stage> (Con ira.) </stage><hi rend="italics">Tentao</hi> estoy de responderte que tienes razón, que la quiero, y que he de poder poco si no te la quito, aunque sea delante de tus ojos.</p>
+            <p><stage> (Con ira.) </stage>
+              <hi rend="italics">Tentao</hi> estoy de responderte que tienes razón, que la quiero, y que he de poder poco si no te la quito, aunque sea delante de tus ojos.</p>
           </sp>
           <stage>(Trata de avanzar hacia <rs key="#juan">Juan José</rs>; los que van con él le detienen.)</stage>
           <sp who="#juan">
@@ -2678,7 +2683,8 @@ encargados de conceder o negar el permiso de representación y del cobro de los 
           </sp>
           <sp who="#rosa">
             <speaker>Rosa. </speaker>
-            <p><stage> (Con sequedad.) </stage><hi rend="italics">Demasiao</hi>, sí.</p>
+            <p><stage> (Con sequedad.) </stage>
+              <hi rend="italics">Demasiao</hi>, sí.</p>
           </sp>
           <sp who="#juan">
             <speaker>Juan José. </speaker>
@@ -3079,7 +3085,8 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
             </sp>
             <sp who="#pres">
               <speaker>PRESIDIARIO. </speaker>
-              <p><stage> (Con tono sumiso.) </stage> ¡Bueno, hombre! <stage> (Mirando hacia la derecha.) </stage> <hi rend="italics">Mia</hi> por <hi rend="italics">aonde</hi> viene. Sin fijarse en <hi rend="italics">na</hi>, con los ojos <hi rend="italics">clavaos</hi> en las baldosas y los brazos <hi rend="italics">cruzaos</hi>. Se encamina <hi rend="italics">pa</hi> aquí.</p>
+              <p><stage> (Con tono sumiso.) </stage> ¡Bueno, hombre! <stage> (Mirando hacia la derecha.) </stage>
+                <hi rend="italics">Mia</hi> por <hi rend="italics">aonde</hi> viene. Sin fijarse en <hi rend="italics">na</hi>, con los ojos <hi rend="italics">clavaos</hi> en las baldosas y los brazos <hi rend="italics">cruzaos</hi>. Se encamina <hi rend="italics">pa</hi> aquí.</p>
             </sp>
             <sp who="#cano">
               <speaker>CANO. </speaker>
@@ -3089,7 +3096,8 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
           </div>
           <div n="2" type="scene">
             <head>ESCENA II</head>
-            <stage><rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>.</stage>
+            <stage>
+              <rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>.</stage>
             <sp who="#cano">
               <speaker>CANO. </speaker>
               <p><stage> (Deteniendo a <rs key="#juan">Juan José</rs> por el brazo cuando este llega al lado suyo.) </stage> ¿Qué hay, <rs key="#juan">Juan José</rs>?</p>
@@ -3338,7 +3346,8 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
           </div>
           <div n="3" type="escene">
             <head>ESCENA III</head>
-            <stage><rs key="#juan">Juan José</rs>, EL <rs key="#cano">CANO</rs> y UN <rs key="#pres">PRESIDIARIO</rs>.</stage>
+            <stage>
+              <rs key="#juan">Juan José</rs>, EL <rs key="#cano">CANO</rs> y UN <rs key="#pres">PRESIDIARIO</rs>.</stage>
             <sp who="#pres">
               <speaker>PRESIDIARIO. </speaker>
               <p> ¿<rs key="#juan">Juan José</rs>?...</p>
@@ -3384,7 +3393,8 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
           </div>
           <div n="4" type="scene">
             <head>ESCENA IV</head>
-            <stage><rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>; al final, EL <rs key="#pres">PRESIDIARIO</rs>.</stage>
+            <stage>
+              <rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>; al final, EL <rs key="#pres">PRESIDIARIO</rs>.</stage>
             <sp who="#cano">
               <speaker>CANO. </speaker>
               <p><stage> (Leyendo.) </stage> «Madrid, quince...»</p>
@@ -3494,16 +3504,19 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
           </div>
           <div n="5" type="scene">
             <head>ESCENA V</head>
-            <stage><rs key="#juan">Juan José</rs>, sólo.</stage>
+            <stage>
+              <rs key="#juan">Juan José</rs>, sólo.</stage>
             <sp who="#juan">
               <speaker>Juan José. </speaker>
-              <p><stage> (Con desesperación.) </stage> ¡Con <rs key="#paco">Paco</rs>!... ¡Y no hay duda!... No la puede haber. Tengo la prueba ¡y está escrita!... La tengo aquí, ¡aquí!... <stage> (Mirando la carta que conserva en la mano. Desdobla la carta.) </stage> ¡Aquí es donde pone: <rs key="#rosa">Rosa</rs> vive con <rs key="#paco">Paco</rs>!... <stage> (Recorre la carta con los ojos.) </stage> Lo pone, sí; pero, ¿dónde lo pone?... ¿En qué cara?... ¿En qué sitio?... <stage> (Revolviendo la carta en todos sentidos.) </stage> ¿Será en éste?... ¿Será más arriba?... <stage> (Con amargura desesperada.) </stage> ¡No sé! <stage> (Con sarcasmo doloroso.) </stage> Parece que estos garrapatos malditos juegan al esconder con mi pesadumbre y me dicen: Aquí está eso de que <rs key="#paco">Paco</rs> vive con <rs key="#rosa">Rosa</rs>; pero, ¿a qué no sabes en dónde está?... ¿A qué no lo encuentras?... <stage> (Con angustia y cólera.) </stage> ¡Y no lo encuentro! <stage> (Con profunda amargura.) </stage> ¡Dios mío, qué desgracia tan grande la de los que nacen como yo!... ¡Ni a leer aprenden! No les enseñan; y cuando llega un instante así, en que con cuatro rayas de tinta le tiran a uno el mundo sobre la cabeza, se ve uno <hi rend="italics">privao</hi> hasta del último consuelo, del único que le queda ya: ¡Buscar esos renglones y tragárselos con los ojos, y apretujarlos con los <hi rend="italics">deos</hi>, y atravesarlos con los dientes!... ¡Con qué placer retorcería yo, y mordería yo esas cuatro palabras: «¡<rs key="#rosa">Rosa</rs> vive con <rs key="#paco">Paco</rs>!» ¡Nada más que esas! ¡Esas solas!... ¡Y no puedo! ¡No puedo! ¡No puedo más que estrujar la carta al tun tun, como si todo fuera igual, el cariño de <rs key="#andr">Andrés</rs> y la infamia de <rs key="#rosa">Rosa</rs>; la firma del amigo y la traición de la mujer!... ¡No es eso; no es eso lo que deseo yo!... ¡Es un renglón sólo el que necesito, el que quiero estrujar y morder, y romper en tantos pedazos, como pedazos me ha hecho el alma!... ¡Y no sé cuál es; no lo sé; no sé dónde está!... <stage> (Después de una pausa.) </stage> ¡Ella con <rs key="#paco">Paco</rs>!... ¡<rs key="#rosa">Rosa</rs>, <hi rend="italics">mi</hi> <rs key="#rosa">Rosa</rs>, de otro! ¡del hombre a quien aborrezco más en el mundo!... <stage> (Con profunda pena, y rompiendo en sollozos. Con ira.) </stage> ¡Y lloro!... Los hombres no lloran, se desquitan. <stage> (Con energía rencorosa. Con sarcasmo.) </stage> Ellos dirán: «Tiene <hi rend="italics">pa</hi> mucho tiempo; <hi rend="italics">pa</hi> ocho años; después, veremos. ¡A gozar, mientras él padece!» ¡Cómo se reirán de mí!... <stage> (Con expresión de odio y acento de venganza.) </stage> ¡No se reirán mucho; lo juro por todo el odio que les tengo!... El <rs key="#cano">Cano</rs> me ha dicho que esta noche podemos escaparnos... ¡Conformes! Esta noche o caeré muerto en la carretera de un tiro o estaré libre; y si estoy libre, reímos todos... <stage> (Con acento sombrío.) </stage> ¡Todos!... ¡Ellos y yo!...</p>
+              <p><stage> (Con desesperación.) </stage> ¡Con <rs key="#paco">Paco</rs>!... ¡Y no hay duda!... No la puede haber. Tengo la prueba ¡y está escrita!... La tengo aquí, ¡aquí!... <stage> (Mirando la carta que conserva en la mano. Desdobla la carta.) </stage> ¡Aquí es donde pone: <rs key="#rosa">Rosa</rs> vive con <rs key="#paco">Paco</rs>!... <stage> (Recorre la carta con los ojos.) </stage> Lo pone, sí; pero, ¿dónde lo pone?... ¿En qué cara?... ¿En qué sitio?... <stage> (Revolviendo la carta en todos sentidos.) </stage> ¿Será en éste?... ¿Será más arriba?... <stage> (Con amargura desesperada.) </stage> ¡No sé! <stage> (Con sarcasmo doloroso.) </stage> Parece que estos garrapatos malditos juegan al esconder con mi pesadumbre y me dicen: Aquí está eso de que <rs key="#paco">Paco</rs> vive con <rs key="#rosa">Rosa</rs>; pero, ¿a qué no sabes en dónde está?... ¿A qué no lo encuentras?... <stage> (Con angustia y cólera.) </stage> ¡Y no lo encuentro! <stage> (Con profunda amargura.) </stage> ¡Dios mío, qué desgracia tan grande la de los que nacen como yo!... ¡Ni a leer aprenden! No les enseñan; y cuando llega un instante así, en que con cuatro rayas de tinta le tiran a uno el mundo sobre la cabeza, se ve uno <hi rend="italics">privao</hi> hasta del último consuelo, del único que le queda ya: ¡Buscar esos renglones y tragárselos con los ojos, y apretujarlos con los <hi rend="italics">deos</hi>, y atravesarlos con los dientes!... ¡Con qué placer retorcería yo, y mordería yo esas cuatro palabras: «¡<rs key="#rosa">Rosa</rs> vive con <rs key="#paco">Paco</rs>!» ¡Nada más que esas! ¡Esas solas!... ¡Y no puedo! ¡No puedo! ¡No puedo más que estrujar la carta al tun tun, como si todo fuera igual, el cariño de <rs key="#andr">Andrés</rs> y la infamia de <rs key="#rosa">Rosa</rs>; la firma del amigo y la traición de la mujer!... ¡No es eso; no es eso lo que deseo yo!... ¡Es un renglón sólo el que necesito, el que quiero estrujar y morder, y romper en tantos pedazos, como pedazos me ha hecho el alma!... ¡Y no sé cuál es; no lo sé; no sé dónde está!... <stage> (Después de una pausa.) </stage> ¡Ella con <rs key="#paco">Paco</rs>!... ¡<rs key="#rosa">Rosa</rs>, <hi rend="italics">mi</hi>
+                <rs key="#rosa">Rosa</rs>, de otro! ¡del hombre a quien aborrezco más en el mundo!... <stage> (Con profunda pena, y rompiendo en sollozos. Con ira.) </stage> ¡Y lloro!... Los hombres no lloran, se desquitan. <stage> (Con energía rencorosa. Con sarcasmo.) </stage> Ellos dirán: «Tiene <hi rend="italics">pa</hi> mucho tiempo; <hi rend="italics">pa</hi> ocho años; después, veremos. ¡A gozar, mientras él padece!» ¡Cómo se reirán de mí!... <stage> (Con expresión de odio y acento de venganza.) </stage> ¡No se reirán mucho; lo juro por todo el odio que les tengo!... El <rs key="#cano">Cano</rs> me ha dicho que esta noche podemos escaparnos... ¡Conformes! Esta noche o caeré muerto en la carretera de un tiro o estaré libre; y si estoy libre, reímos todos... <stage> (Con acento sombrío.) </stage> ¡Todos!... ¡Ellos y yo!...</p>
             </sp>
             <stage>(Entra el <rs key="#cano">CANO</rs> por la derecha.)</stage>
           </div>
           <div n="6" type="scene">
             <head>ESCENA VI </head>
-            <stage><rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>.</stage>
+            <stage>
+              <rs key="#juan">Juan José</rs> y EL <rs key="#cano">CANO</rs>.</stage>
             <sp who="#cano">
               <speaker>CANO. </speaker>
               <p> Ya estoy aquí de vuelta.</p>
@@ -3538,7 +3551,8 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
             </sp>
             <sp who="#cano">
               <speaker>CANO. </speaker>
-              <p> Pues hasta luego, y <hi rend="italics">sonsi</hi> <stage> (Tendiéndole la mano.) </stage></p>
+              <p> Pues hasta luego, y <hi rend="italics">sonsi</hi>
+                <stage> (Tendiéndole la mano.) </stage></p>
             </sp>
             <sp who="#juan">
               <speaker>Juan José. </speaker>
@@ -3553,12 +3567,13 @@ Una rompiente a la derecha y otra a la izquierda. En primer término, a la derec
 						<rs key="#rosa">Rosa</rs> y <rs key="#paco">Paco</rs>.
 Al fondo, una puerta grande de dos hojas, que estará abierta de par en par, permitiendo ver un pasillo largo que hace recodo, y supone dar salida a la calle. Este pasillo estará alumbrado. Una puerta a la derecha; otra a la izquierda; a la izquierda, un balcón cerrado.En primer término, a la derecha, y en posición conveniente para que se refleje en ella la puerta del fondo, un armario de luna. A la izquierda,entre la puerta y el balcón, un tocador de madera chapeada, con tabla de mármol, espejo y servicio completo; de uno de los lados del espejo, arranca un brazo de hierro sosteniendo una lámpara de pared, que estará encendida.En el fondo, a la derecha, una cómoda, encima de la cual habrá una lámpara apagada y varias baratijas de mal gusto; a la izquierda, un armario de dos puertas, practicable y lleno de vestidos y ropas de mujer. 
 Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería fina de Vitoria. En primer término, a la izquierda, una <hi rend="italics">marquesita.</hi> Al comenzar la escena, aparecen en ella: <rs key="#isid">Isidra</rs> arrellenada <!--#mgs:en el original el autor utiliza el término arrellanada--> en la <hi rend="italics">marquesita</hi>,y <rs key="#rosa">Rosa</rs> delante del tocador en chambra, con las mangas de ésta levantadas y los brazos desnudos; llevará una falda oscura por vestido.
-						<rs key="#rosa">Rosa</rs> tendrá en las manos una toalla.<!--#mgs:en el original el autor utiliza el término tohalla--> 
-					</stage>
+						<rs key="#rosa">Rosa</rs> tendrá en las manos una toalla.<!--#mgs:en el original el autor utiliza el término tohalla-->
+          </stage>
         </div>
         <div n="1" type="scene">
           <head>Escena primera </head>
-          <stage><rs key="#rosa">Rosa</rs> e <rs key="#isid">Isidra</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs> e <rs key="#isid">Isidra</rs>.</stage>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage> (Como si acabara de secarse las manos y colgando la toalla en un travesaño que tendrá el tocador. A <rs key="#isid">Isidra</rs>)</stage> 
@@ -3572,7 +3587,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
             <speaker> Rosa.- </speaker>
             <p><hi rend="italics">Es rematao.</hi> Tráigame usté mañana una caja del otro; aquel blanco que huele tan bien. ¿Y mis sortijas?... ¡Aquí están! 
 							<stage> (Sacando tres o cuatro sortijas de un joyero que habrá encima del velador.) </stage> Voy a decirle a <rs key="#paco">Paco</rs> que me compre un ajustador, 
-					porque ésta me viene ancha. <stage> (Una de las sortijas, las cuales se habrá ido poniendo mientras habla.) </stage> </p>
+					porque ésta me viene ancha. <stage> (Una de las sortijas, las cuales se habrá ido poniendo mientras habla.) </stage></p>
           </sp>
           <sp who="#isid">
             <speaker> Isidra.- </speaker>
@@ -3618,9 +3633,10 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
-            <p><hi rend="italics">¡Verdá!</hi><stage> (Después de una pausa, cogiendo un peine del tocador y dirigiéndose al armario de luna, cuyas velas enciende.) </stage> 
-					Voy a arreglarme un poco el pelo. <stage> (Empezando a soltarse el pelo.) </stage>  
-							<rs key="#paco">Paco</rs> me ha dicho que saldremos juntos esta noche. <stage>  (Peinándose.) </stage> </p>
+            <p><hi rend="italics">¡Verdá!</hi>
+              <stage> (Después de una pausa, cogiendo un peine del tocador y dirigiéndose al armario de luna, cuyas velas enciende.) </stage> 
+					Voy a arreglarme un poco el pelo. <stage> (Empezando a soltarse el pelo.) </stage>
+              <rs key="#paco">Paco</rs> me ha dicho que saldremos juntos esta noche. <stage>  (Peinándose.) </stage></p>
           </sp>
           <sp who="#isid">
             <speaker> Isidra.- </speaker>
@@ -3638,7 +3654,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#rosa">Rosa</rs> , <rs key="#isid">Isidra</rs> y <rs key="#paco">Paco</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs> , <rs key="#isid">Isidra</rs> y <rs key="#paco">Paco</rs>.</stage>
           <sp who="#paco">
             <speaker> Paco.- </speaker>
             <p><stage> (Desde la puerta de la izquierda. A <rs key="#rosa">Rosa</rs>, en tono de broma y con cariño.)  </stage> 
@@ -3662,7 +3679,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#paco">
             <speaker> Paco.- </speaker>
             <p><stage> (Mirando a <rs key="#rosa">Rosa</rs> con pasión. A <rs key="#isid">Isidra</rs>.) </stage>  
-					¿Lo ve usté, <hi rend="italics">señá</hi> <rs key="#isid">Isidra</rs>? ¡Hay que comérsela!... <stage> (A <rs key="#rosa">Rosa</rs>.) </stage>  
+					¿Lo ve usté, <hi rend="italics">señá</hi>
+              <rs key="#isid">Isidra</rs>? ¡Hay que comérsela!... <stage> (A <rs key="#rosa">Rosa</rs>.) </stage>  
 					¿Tardarás mucho en aviarte?</p>
           </sp>
           <sp who="#rosa">
@@ -3697,7 +3715,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="3" type="escene">
           <head>Escena III</head>
-          <stage><rs key="#rosa">Rosa</rs> e <rs key="#isid">Isidra</rs>. </stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs> e <rs key="#isid">Isidra</rs>. </stage>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage> (Volviéndose hacia la <rs key="#isid">Isidra</rs>.) </stage> Ya me peiné.</p>
@@ -3717,7 +3736,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage>  (Que mientras habla ha estado en el tocador, pasándose una borla de polvos por la cara.) </stage> ¡Ya!... ¡Ya!... 
-							<stage> (Contemplándose en el espejo del tocador.) </stage> </p>
+							<stage> (Contemplándose en el espejo del tocador.) </stage></p>
           </sp>
           <sp who="#isid">
             <speaker> Isidra.- </speaker>
@@ -3727,7 +3746,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
             <speaker> Rosa.- </speaker>
             <p> Esta misma falda y la blusa <hi rend="italics">encarnaa</hi>. Allí la tengo, en aquel cuarto. <stage>  (El de la derecha.) </stage>  Voy a buscarla.
 							<stage>  (Entra en el cuarto de la derecha.) </stage>  En seguida vuelvo.</p>
-            <!--#mgs: Al finalizar este párrafo el autor repite la misma acotación (Entra en la habitación de la derecha.) La hemos omitido pues parece no tener sentido esa repetición.-->
+<!--#mgs: Al finalizar este párrafo el autor repite la misma acotación (Entra en la habitación de la derecha.) La hemos omitido pues parece no tener sentido esa repetición.-->
           </sp>
           <sp who="#isid">
             <speaker> Isidra.- </speaker>
@@ -3776,7 +3795,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#rosa">Rosa</rs>; al final, <rs key="#juan">Juan José</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>; al final, <rs key="#juan">Juan José</rs>.</stage>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage> (Acabando de abrocharse la blusa delante del espejo.) </stage> Ya está. Ahora, un pañuelillo de seda al cuello. <stage> 
@@ -3785,7 +3805,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
 					¿Con qué lo sujeto?... Con el alfiler de oro. 
 							<stage> (Coge un alfiler de oro del joyero y se dirige al armario de luna, donde acaba de arreglarse el pañuelo.) </stage> 
 					Con esto, sobra <hi rend="italics">pa</hi> que rabien de envidia la Indalecia y la Antonia. ¡La <hi rend="italics">verda</hi> es que no hay dos como <rs key="#paco">Paco</rs>! <stage> (Con alegría.) </stage> 
-					¡Esto es vivir a gusto! <stage> (Entra por la puerta del fondo <rs key="#juan">Juan José</rs>.) </stage> </p>
+					¡Esto es vivir a gusto! <stage> (Entra por la puerta del fondo <rs key="#juan">Juan José</rs>.) </stage></p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
@@ -3808,15 +3828,16 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#rosa">Rosa</rs> y <rs key="#juan">Juan José</rs>. </stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs> y <rs key="#juan">Juan José</rs>. </stage>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
             <p><stage> (Luego de hacer la pausa que indica la acotación anterior, avanza algunos pasos hacia <rs key="#rosa">Rosa</rs> y se detiene, sin apartar los ojos de ella.) </stage> ¡Con qué lujo vives!... ¡Y qué bien <hi rend="italics">trajea</hi> estás!... ¡Vaya que no te has vendido por cualquier cosa! 
-							<stage> (Con sarcasmo y dolor.) </stage> </p>
+							<stage> (Con sarcasmo y dolor.) </stage></p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
-            <p> ¡Dios mío!... <stage> (Sin atreverse a cambiar de actitud.) </stage> </p>
+            <p> ¡Dios mío!... <stage> (Sin atreverse a cambiar de actitud.) </stage></p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
@@ -3885,9 +3906,13 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
             <p><stage> (Con odio y asombro.) </stage> 
-					¡<hi rend="italics">Tu</hi> <rs key="#paco">Paco</rs>!... ¿Has dicho <hi rend="italics">tu</hi> <rs key="#paco">Paco</rs>?... 
+					¡<hi rend="italics">Tu</hi>
+              <rs key="#paco">Paco</rs>!... ¿Has dicho <hi rend="italics">tu</hi>
+              <rs key="#paco">Paco</rs>?... 
 					¡Y lo dices delante de mí! 	<stage> (Con ira y amargura profundas.) </stage> 
-					¿Pero te has <hi rend="italics">olvidao</hi> de que primero que él fuese <hi rend="italics">tu</hi> <rs key="#paco">Paco</rs> he sido yo <hi rend="italics">tu</hi> <rs key="#juan">Juan José</rs>?</p>
+					¿Pero te has <hi rend="italics">olvidao</hi> de que primero que él fuese <hi rend="italics">tu</hi>
+              <rs key="#paco">Paco</rs> he sido yo <hi rend="italics">tu</hi>
+              <rs key="#juan">Juan José</rs>?</p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
@@ -3896,7 +3921,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
             <p>  Eso aguardo, que venga. ¿No ves que de ti no he <hi rend="italics">hablao entoavía</hi>?... ¡Que no te digo aún lo que de ti deseo!... 
-					Pues es por eso; porque le espero a él, a <rs key="#paco">Paco</rs>, ¡a <hi rend="italics">tu</hi> <rs key="#paco">Paco</rs>! </p>
+					Pues es por eso; porque le espero a él, a <rs key="#paco">Paco</rs>, ¡a <hi rend="italics">tu</hi>
+              <rs key="#paco">Paco</rs>! </p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
@@ -3948,12 +3974,12 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage> (Poniendo tambien atención.) </stage> ¡Sí! <stage> (Con angustia.) </stage> ¡Es él!... 
-					¡Son sus pasos! <stage> (Con terror.) </stage>      </p>
+					¡Son sus pasos! <stage> (Con terror.) </stage></p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
             <p> ¡Sus pasos!... <stage> (Con amargura e ira.) </stage> ¡Conoces sus pasos!... Nunca has conocido los míos. 
-							<stage> (Con desesperación.) </stage>  ¡Te juro que no volverás a oír los de él! <stage> (Se dirige al fondo.) </stage>  </p>
+							<stage> (Con desesperación.) </stage>  ¡Te juro que no volverás a oír los de él! <stage> (Se dirige al fondo.) </stage></p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
@@ -3968,7 +3994,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#rosa">Rosa</rs>; luego <rs key="#juan">Juan José</rs>.</stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs>; luego <rs key="#juan">Juan José</rs>.</stage>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p> Rosa.- ¡No! <stage> (Levantándose.)</stage> ¡Imposible!... ¡No! <stage> (Se dirige hacia la puerta del fondo y la empuja.) </stage> 
@@ -3979,7 +4006,8 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#rosa">Rosa</rs> y <rs key="#juan">Juan José</rs>; <rs key="#paco">Paco</rs>, muerto. </stage>
+          <stage>
+            <rs key="#rosa">Rosa</rs> y <rs key="#juan">Juan José</rs>; <rs key="#paco">Paco</rs>, muerto. </stage>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
             <p><stage> (A <rs key="#juan">Juan José</rs>, con espanto.) </stage> ¡Tú! ¿Y <rs key="#paco">Paco</rs>?... ¿Qué has hecho de <rs key="#paco">Paco</rs>? </p>
@@ -4013,19 +4041,20 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
             <p> Y lo he <hi rend="italics">matao</hi> porque ningún hombre, ninguno, te <hi rend="italics">poseerá</hi> mientras yo viva, sin que yo lo mate como a ése. 
-							<stage>  (Cogiendo a <rs key="#rosa">Rosa</rs>por el brazo.) </stage>   </p>
+							<stage>  (Cogiendo a <rs key="#rosa">Rosa</rs>por el brazo.) </stage></p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
-            <p><stage>  (En un arranque de energía.) </stage> ¿Y de qué te sirve haberle <hi rend="italics">matao</hi> si era a él, a <hi rend="italics">mi</hi> <rs key="#paco">Paco</rs>, a quien yo quería?...</p>
+            <p><stage>  (En un arranque de energía.) </stage> ¿Y de qué te sirve haberle <hi rend="italics">matao</hi> si era a él, a <hi rend="italics">mi</hi>
+              <rs key="#paco">Paco</rs>, a quien yo quería?...</p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
-            <p><stage>   (Con estupor.) </stage> ¡A él!... <stage>  (Suelta el brazo de <rs key="#rosa">Rosa</rs>.) </stage>  </p>
+            <p><stage>   (Con estupor.) </stage> ¡A él!... <stage>  (Suelta el brazo de <rs key="#rosa">Rosa</rs>.) </stage></p>
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
-            <p>¡A él!... ¡Y le vengaré!... <stage>(Aprovechando el estupor de <rs key="#juan">Juan José</rs>, se dirige al balcón y lo abre.) ¡Socorro!... </stage> </p>
+            <p>¡A él!... ¡Y le vengaré!... <stage>(Aprovechando el estupor de <rs key="#juan">Juan José</rs>, se dirige al balcón y lo abre.) ¡Socorro!... </stage></p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
@@ -4042,7 +4071,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
           </sp>
           <sp who="#rosa">
             <speaker> Rosa.- </speaker>
-            <p>¡Soco...! <stage>  (Haciendo esfuerzos para gritar y desasirse.) </stage>   </p>
+            <p>¡Soco...! <stage>  (Haciendo esfuerzos para gritar y desasirse.) </stage></p>
           </sp>
           <sp who="#juan">
             <speaker> Juan José.- </speaker>
@@ -4052,7 +4081,7 @@ Colgadas de la pared, tres ó cuatro oleografías con mareos dorados. Sillería 
 					¡Calla, sí!... <stage> (Acercándose a <rs key="#rosa">Rosa</rs>.) </stage>    
 					Pero, ¿qué silencio es el suyo?... <stage> (Tocando a <rs key="#rosa">Rosa</rs>, con angustia.) </stage> ¿Qué es esto?
 							<stage> (Con espanto.)</stage> ¡Esto es la muerte!... <stage> (Con desesperación.)</stage>¿Y he sido yo?... ¡Yo!
-							<stage> (Entra <rs key="#andr">Andrés</rs> por el fondo.) </stage> </p>
+							<stage> (Entra <rs key="#andr">Andrés</rs> por el fondo.) </stage></p>
           </sp>
         </div>
         <div n="8" type="scene">

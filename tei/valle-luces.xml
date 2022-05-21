@@ -306,7 +306,7 @@
           <head>Dramatis personae</head>
           <castItem>
             <role corresp="#max">Max Estrella</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -736,7 +736,8 @@
             <speaker>La voz de Claudinita</speaker>
             <p>¡Ya se siente el olor del aguardiente!</p>
           </sp>
-          <stage><rs key="#max">Máximo Estrella</rs> se incorpora con un gesto animoso, esparcida sobre el pecho la hermosa barba con mechones de canas. Su cabeza rizada y ciega, de un gran carácter clásico-arcaico, recuerda los Hermes.</stage>
+          <stage>
+            <rs key="#max">Máximo Estrella</rs> se incorpora con un gesto animoso, esparcida sobre el pecho la hermosa barba con mechones de canas. Su cabeza rizada y ciega, de un gran carácter clásico-arcaico, recuerda los Hermes.</stage>
           <sp who="#max">
             <speaker>Max</speaker>
             <p>¡Espera, <rs key="#coll"> Collet</rs>! ¡He recobrado la vista! ¡Veo! ¡Oh, cómo veo! ¡Magníficamente! ¡Está hermosa la Moncloa! ¡El único rincón francés en este páramo madrileño! ¡Hay que volver a París, <rs key="#coll"> Collet</rs>! ¡Hay que volver allá, <rs key="#coll">Collet</rs>! ¡Hay que renovar aquellos tiempos!</p>
@@ -942,7 +943,8 @@
             <speaker>Don Latino</speaker>
             <p>¡Todo en tu boca es canción,<rs key="#clau">Claudinita</rs>!</p>
           </sp>
-          <stage><rs key="#max">Máximo Estrella</rs> sale apoyado en el hombro de <rs key="#lati">Don Latino</rs>. <rs key="#coll">Madame Collet</rs> suspira apocada, y la hija, toda nervios, comienza a quitarse las horquillas del pelo.</stage>
+          <stage>
+            <rs key="#max">Máximo Estrella</rs> sale apoyado en el hombro de <rs key="#lati">Don Latino</rs>. <rs key="#coll">Madame Collet</rs> suspira apocada, y la hija, toda nervios, comienza a quitarse las horquillas del pelo.</stage>
           <sp who="#clau">
             <speaker>Claudinita</speaker>
             <p>¿Sabes cómo acaba todo esto? ¡En la taberna de <rs key="#pica">Pica lagartos</rs>!</p>
@@ -992,7 +994,8 @@
             <speaker>Zaratustra</speaker>
             <p>¿Y ese sujeto de qué se queja? ¿Era mala la moneda?</p>
           </sp>
-          <stage><rs key="#lati">Don Latino de Hispalis</rs> interviene con ese matiz del perro cobarde, que da su ladrido entre las piernas del dueño.</stage>
+          <stage>
+            <rs key="#lati">Don Latino de Hispalis</rs> interviene con ese matiz del perro cobarde, que da su ladrido entre las piernas del dueño.</stage>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
             <p>El maestro no está conforme con la tasa, y deshace el trato.</p>
@@ -1083,7 +1086,8 @@
             <speaker>Max</speaker>
             <p>Sí, <rs key="#gay">Don Gay</rs>.</p>
           </sp>
-          <stage><rs key="#zara">Zaratustra</rs>, entra y sale en la trastienda, con una vela encendida. La palmatoria pringosa tiembla en la mano del fantoche. Camina sin ruido, con andar entrapado. La mano, calzada con mitón negro, pasea la luz por los estantes de libros. Media cara en reflejo y media en sombra. Parece que la nariz se le dobla sobre una oreja. El loro ha puesto el pico bajo el ala. Un retén de polizontes pasa con un hombre maniatado. Sale alborotando el barrio un chico pelón montado en una caña, con una bandera.</stage>
+          <stage>
+            <rs key="#zara">Zaratustra</rs>, entra y sale en la trastienda, con una vela encendida. La palmatoria pringosa tiembla en la mano del fantoche. Camina sin ruido, con andar entrapado. La mano, calzada con mitón negro, pasea la luz por los estantes de libros. Media cara en reflejo y media en sombra. Parece que la nariz se le dobla sobre una oreja. El loro ha puesto el pico bajo el ala. Un retén de polizontes pasa con un hombre maniatado. Sale alborotando el barrio un chico pelón montado en una caña, con una bandera.</stage>
           <sp who="#pelo">
             <speaker>El Pelón</speaker>
             <p>¡Vi-va-Es-pa-ña!</p>
@@ -1267,7 +1271,8 @@
             <speaker>El chico de la taberna</speaker>
             <p>Entró, miró, preguntó y se fue rebotada, torciendo la gaita. ¡Ya la tiene usted en la puerta!</p>
           </sp>
-          <stage><rs key="#pisa">Enriqueta la pisa bien</rs>, una mozuela golfa, revenida de un ojo, periodista y florista, levantaba el cortinillo de verde sarga, sobre su endrina cabeza, adornada de peines gitanos.</stage>
+          <stage>
+            <rs key="#pisa">Enriqueta la pisa bien</rs>, una mozuela golfa, revenida de un ojo, periodista y florista, levantaba el cortinillo de verde sarga, sobre su endrina cabeza, adornada de peines gitanos.</stage>
           <sp who="#pisa">
             <speaker>Enriqueta la pisa bien</speaker>
             <p>¡La vara de nardos! ¡La vara de nardos! <rs key="#max">Don Max</rs>, traigo para usted un memorial de mi mamá: Está enferma y necesita la luz del décimo que le ha fiado.</p>
@@ -1567,7 +1572,8 @@
             <speaker>Enriqueta la pisa bien</speaker>
             <p>No introduzcas tú la pata, pelmazo.</p>
           </sp>
-          <stage><rs key="#chic">El chico de la taberna</rs> entra con azorado sofoco, atado a la frente un pañuelo con roeles de sangre. Una ráfaga de emoción mueve caras y actitudes; todas la figuras, en su diversidad, pautan una misma norma.</stage>
+          <stage>
+            <rs key="#chic">El chico de la taberna</rs> entra con azorado sofoco, atado a la frente un pañuelo con roeles de sangre. Una ráfaga de emoción mueve caras y actitudes; todas la figuras, en su diversidad, pautan una misma norma.</stage>
           <sp who="#chic">
             <speaker>El chico de la taberna</speaker>
             <p>¡Hay carreras por las calles!</p>
@@ -1718,7 +1724,8 @@
             <speaker>Don Latino</speaker>
             <p>Aquí hacemos la captura de <rs key="#pisa">la niña pisa bien</rs>.</p>
           </sp>
-          <stage><rs key="#pisa">la niña pisa bien</rs>, despintada, pingona, marchita, se materializa bajo un farol con su pregón de golfa madrileña.</stage>
+          <stage>
+            <rs key="#pisa">la niña pisa bien</rs>, despintada, pingona, marchita, se materializa bajo un farol con su pregón de golfa madrileña.</stage>
           <sp who="#pisa">
             <speaker>Enriqueta la pisa bien</speaker>
             <p>¡5775! ¡El número de la suerte! ¡Mañana sale! ¡Lo vendo! ¡Lo vendo! ¡5775!</p>
@@ -1908,7 +1915,8 @@
             <speaker>Don Latino</speaker>
             <p>¿Y qué hace un clásico en el tropel de ruiseñores modernistas? Niños, ¡a ello!</p>
           </sp>
-          <stage><rs key="#dori">Dorio de Gadex</rs>, feo, burlesco y chepudo, abre los brazos, que son como alones sin plumas, en el claro lunero.</stage>
+          <stage>
+            <rs key="#dori">Dorio de Gadex</rs>, feo, burlesco y chepudo, abre los brazos, que son como alones sin plumas, en el claro lunero.</stage>
           <sp who="#dori">
             <speaker>Dorio de Gadex</speaker>
             <p>El Enano de la Venta.</p>
@@ -2993,7 +3001,8 @@
             <p>...............................</p>
             <p>¡De nada! ¡De nada!</p>
           </sp>
-          <stage><rs key="#max">Max Estrella</rs> aparece en la puerta, pálido, arañado, la corbata torcida, la expresión altanera y alocada. Detrás, abotonándose los calzones, aparece el ujier.</stage>
+          <stage>
+            <rs key="#max">Max Estrella</rs> aparece en la puerta, pálido, arañado, la corbata torcida, la expresión altanera y alocada. Detrás, abotonándose los calzones, aparece el ujier.</stage>
           <sp who="#ujie">
             <speaker>El ujier</speaker>
             <p>Deténgase usted, caballero.</p>
@@ -3282,7 +3291,8 @@
             <speaker>Max</speaker>
             <p>Conste que he venido a pedir un desagravio para mi dignidad, y un castigo para unos canallas. Conste que no alcanzo ninguna de las dos cosas, y que me das dinero, y que lo acepto porque soy un canalla. No me estaba permitido irme del mundo sin haber tocado alguna vez el fondo de los reptiles. ¡Me he ganado los brazos de su excelencia!</p>
           </sp>
-          <stage><rs key="#max">Máximo Estrella</rs>, con los brazos abiertos en cruz, la cabeza erguida, los ojos parados, trágicos en su ciega quietud, avanza como un fantasma. Su excelencia, tripudo, repintado, mantecoso, responde con un arranque de cómico viejo, en el buen melodrama francés. Se abrazan los dos. Su excelencia, al separarse, tiene una lágrima detenida en los párpados. Estrecha la mano del bohemio, y deja en ella algunos billetes.</stage>
+          <stage>
+            <rs key="#max">Máximo Estrella</rs>, con los brazos abiertos en cruz, la cabeza erguida, los ojos parados, trágicos en su ciega quietud, avanza como un fantasma. Su excelencia, tripudo, repintado, mantecoso, responde con un arranque de cómico viejo, en el buen melodrama francés. Se abrazan los dos. Su excelencia, al separarse, tiene una lágrima detenida en los párpados. Estrecha la mano del bohemio, y deja en ella algunos billetes.</stage>
           <sp who="#mini">
             <speaker>El Ministro</speaker>
             <p>¡Adiós! ¡Adiós! Créeme que no olvidaré este momento.</p>
@@ -3308,7 +3318,8 @@
             <speaker>Max</speaker>
             <p><rs key="#lati">Don Latino de Hispalis</rs>: Mi perro.</p>
           </sp>
-          <stage><rs key="#ujie">El ujier</rs> toma de la manga al bohemio. Con aire torpón le saca del despacho, y guipa al soslayo el gesto de su excelencia. Aquel gesto manido de actor de carácter en la gran escena del reconocimiento.</stage>
+          <stage>
+            <rs key="#ujie">El ujier</rs> toma de la manga al bohemio. Con aire torpón le saca del despacho, y guipa al soslayo el gesto de su excelencia. Aquel gesto manido de actor de carácter en la gran escena del reconocimiento.</stage>
           <sp who="#mini">
             <speaker>El Ministro</speaker>
             <p>¡Querido<rs key="#dieg">Dieguito</rs>, ahí tiene usted un hombre a quien le ha faltado el resorte de la voluntad! Lo tuvo todo, figura, palabra, gracejo. Su charla cambiaba de colores como las llamas de un ponche.</p>
@@ -3615,7 +3626,8 @@
             <speaker>Max</speaker>
             <p><rs key="#rube">Rubén</rs>, acuérdate de esta cena. Y ahora, mezclemos el vino con las rosas de tus versos. Te escuchamos.</p>
           </sp>
-          <stage><rs key="#rube">Rubén</rs> se recoge estremecido, el gesto de ídolo, evocador de terrores y misterios.<rs key="#max">Max Estrella</rs>, un poco enfático, le alarga la mano. Llena los vasos <rs key="#lati">Don Latino</rs>. <rs key="#rube">Rubén</rs> sale de su meditación con la tristeza vasta y enorme esculpida en los ídolos aztecas.</stage>
+          <stage>
+            <rs key="#rube">Rubén</rs> se recoge estremecido, el gesto de ídolo, evocador de terrores y misterios.<rs key="#max">Max Estrella</rs>, un poco enfático, le alarga la mano. Llena los vasos <rs key="#lati">Don Latino</rs>. <rs key="#rube">Rubén</rs> sale de su meditación con la tristeza vasta y enorme esculpida en los ídolos aztecas.</stage>
           <sp who="#rube">
             <speaker>Rubén</speaker>
             <p>Veré si recuerdo una peregrinación a Compostela… Son mis últimos versos.</p>
@@ -3665,7 +3677,8 @@
             <speaker>El joven</speaker>
             <p>¿Se acuerda usted, maestro?</p>
           </sp>
-          <stage><rs key="#rube">Rubén</rs>asiente con un gesto sacerdotal, y tras de humedecer los labios en la copa, recita lento y cadencioso, como en sopor, y destaca su esfuerzo por distinguir de eses y cedas.</stage>
+          <stage>
+            <rs key="#rube">Rubén</rs>asiente con un gesto sacerdotal, y tras de humedecer los labios en la copa, recita lento y cadencioso, como en sopor, y destaca su esfuerzo por distinguir de eses y cedas.</stage>
           <sp who="#rube">
             <speaker>Rubén</speaker>
             <p>¡¡¡La ruta tocaba a su fin.</p>
@@ -3958,7 +3971,8 @@
             <speaker>La lunares</speaker>
             <p>Con pagar la cama concluyes. Si quedas contento y quieres convidarme a un café con churros, tampoco me niego.</p>
           </sp>
-          <stage><rs key="#max">Máximo EStrella</rs>, con tacto de ciego, le pasa la mano por el óvalo del rostro, la garganta y los hombros. La pindonga ríe con dejo sensual de cosquillas. Quítase del moño un peinecillo gitano, y con él peinando los tufos, redobla la risa y se desmadeja.</stage>
+          <stage>
+            <rs key="#max">Máximo EStrella</rs>, con tacto de ciego, le pasa la mano por el óvalo del rostro, la garganta y los hombros. La pindonga ríe con dejo sensual de cosquillas. Quítase del moño un peinecillo gitano, y con él peinando los tufos, redobla la risa y se desmadeja.</stage>
           <sp who="#luna">
             <speaker>La lunares</speaker>
             <p>¿Quieres saber cómo soy? ¡Soy muy negra y muy fea!</p>
@@ -4418,12 +4432,11 @@
             <speaker>Max</speaker>
             <p>Llama.</p>
           </sp>
-          <stage><rs key="#lati">Don Latino de Hispalis</rs>, volviéndose de espaldas, comienza a cocear en la puerta. El eco de los golpes tolondrea por el ámbito lívido de la costanilla, y como en respuesta a una provocación, el reloj de la iglesia da cinco campanadas bajo el gallo de la veleta.</stage>
+          <stage>
+            <rs key="#lati">Don Latino de Hispalis</rs>, volviéndose de espaldas, comienza a cocear en la puerta. El eco de los golpes tolondrea por el ámbito lívido de la costanilla, y como en respuesta a una provocación, el reloj de la iglesia da cinco campanadas bajo el gallo de la veleta.</stage>
           <sp who="#max">
             <speaker>Max</speaker>
-            <p>
-              <rs key="#lati">¡Latino!</rs>
-            </p>
+            <p><rs key="#lati">¡Latino!</rs></p>
           </sp>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
@@ -4481,7 +4494,8 @@
             <speaker>Max</speaker>
             <p>Voy a complacerte. Para quitarte el miedo del augurio, me acuesto a la espera. ¡Yo soy el muerto! ¿Qué dirá mañana esa canalla de los periódicos?, se preguntaba el paria catalán.</p>
           </sp>
-          <stage><rs key="#max">Máximo Estrella</rs> se tiende en el umbral de su puerta. Cruza la costanilla un perro golfo que corre en zigzag. En el centro, encoge la pata y se orina. El ojo legañoso, como un poeta, levantado al azul de la última estrella.</stage>
+          <stage>
+            <rs key="#max">Máximo Estrella</rs> se tiende en el umbral de su puerta. Cruza la costanilla un perro golfo que corre en zigzag. En el centro, encoge la pata y se orina. El ojo legañoso, como un poeta, levantado al azul de la última estrella.</stage>
           <sp who="#max">
             <speaker>Max</speaker>
             <p><rs key="#lati">Latino</rs>, entona el gori-gori.</p>
@@ -4518,7 +4532,8 @@
             <speaker>Max</speaker>
             <p>¡Buenas noches!</p>
           </sp>
-          <stage><rs key="#lati">Don Latino de Hispalis</rs> se sopla los dedos arrecidos y camina unos pasos encorvándose bajo su carrik pingón, orlado de cascarrias. Con una tos gruñona retorna al lado de <rs key="#max">Max Estrella</rs>. Procura incorporarle hablándole a la oreja.</stage>
+          <stage>
+            <rs key="#lati">Don Latino de Hispalis</rs> se sopla los dedos arrecidos y camina unos pasos encorvándose bajo su carrik pingón, orlado de cascarrias. Con una tos gruñona retorna al lado de <rs key="#max">Max Estrella</rs>. Procura incorporarle hablándole a la oreja.</stage>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
             <p><rs key="#max">Max</rs>, estás completamente borracho y sería un crimen dejarte la cartera encima, para que te la roben. <rs key="#max">Max</rs>, me llevo tu cartera y te la devolveré mañana.</p>
@@ -4705,7 +4720,8 @@
             <speaker>Dorio de Gadex</speaker>
             <p>Pues no la prolonguemos.</p>
           </sp>
-          <stage><rs key="#dori">Dorio de Gadex</rs> empuja al encurdado vejete y le va llevando hacia la puerta. El perrillo salta por encima de la caja y los sigue, dejando en el salto torcida una vela. En la fila de fantoches pegados a la pared queda un hueco lleno de sugestiones.</stage>
+          <stage>
+            <rs key="#dori">Dorio de Gadex</rs> empuja al encurdado vejete y le va llevando hacia la puerta. El perrillo salta por encima de la caja y los sigue, dejando en el salto torcida una vela. En la fila de fantoches pegados a la pared queda un hueco lleno de sugestiones.</stage>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
             <p>Te convido a unas tintas. ¿Qué dices?</p>
@@ -4882,7 +4898,8 @@
             <speaker>El cochero</speaker>
             <p>Póngale usted un mixto encendido en el dedo pulgar de la mano. Si se consume hasta el final, está tan fiambre como mi abuelo. ¡Y perdonen ustedes si he faltado!</p>
           </sp>
-          <stage><rs key="#coch">El cochero</rs> fúnebre arrima la fusta a la pared y rasca una cerilla. Acucándose ante el ataúd, desenlaza las manos del muerto y una vuelve por la palma amarillenta. En la yema del pulgar le pone la cerilla luciente, que sigue ardiendo y agonizando. <rs key="#clau">Claudinita</rs>, con un grito estridente, tuerce los ojos y comienza a batir la cabeza contra el suelo.</stage>
+          <stage>
+            <rs key="#coch">El cochero</rs> fúnebre arrima la fusta a la pared y rasca una cerilla. Acucándose ante el ataúd, desenlaza las manos del muerto y una vuelve por la palma amarillenta. En la yema del pulgar le pone la cerilla luciente, que sigue ardiendo y agonizando. <rs key="#clau">Claudinita</rs>, con un grito estridente, tuerce los ojos y comienza a batir la cabeza contra el suelo.</stage>
           <sp who="#clau">
             <speaker>Claudinita</speaker>
             <p>¡Mi padre! ¡Mi padre! ¡Mi padre querido!</p>
@@ -5276,7 +5293,8 @@
             <speaker>Don Latino</speaker>
             <p>Confía en mi generosidad ilimitada.</p>
           </sp>
-          <stage><rs key="#chic">El chico de la taberna</rs> se desliza tras el patrón, y a hurto, con una seña disimulada, le tira del mandil. <rs key="#pica">Pica lagartos</rs> echa la llave al cajón y se junta con el chaval en la oscuridad donde están amontonadas las corambres. Hablan expresivos y secretos, pero atentos al mostrador con el ojo y la oreja. <rs key="#pisa">Enriqueta la pisa bien</rs> le guiña a <rs key="#lati">Don Latino</rs>.</stage>
+          <stage>
+            <rs key="#chic">El chico de la taberna</rs> se desliza tras el patrón, y a hurto, con una seña disimulada, le tira del mandil. <rs key="#pica">Pica lagartos</rs> echa la llave al cajón y se junta con el chaval en la oscuridad donde están amontonadas las corambres. Hablan expresivos y secretos, pero atentos al mostrador con el ojo y la oreja. <rs key="#pisa">Enriqueta la pisa bien</rs> le guiña a <rs key="#lati">Don Latino</rs>.</stage>
           <sp who="#pisa">
             <speaker>Enriqueta la pisa bien</speaker>
             <p><rs key="#lati">Don Latí</rs>, ¡me dotará usted con esas diez mil del ala!</p>
@@ -5357,7 +5375,8 @@
             <speaker>Enriqueta la pisa bien</speaker>
             <p><rs key="#lati">Don Latí</rs>, soy una mujer celosa. Yo le acompaño.</p>
           </sp>
-          <stage><rs key="#pica">Pica lagartos</rs> deja los secretos con el chaval, y en dos trancos cruza el vano de la tasca. Por el cuello del carrik detiene al curda en el umbral de la puerta. <rs key="#lati">Don Latino</rs> guiña el ojo, tuerce la jeta, y desmaya los brazos haciendo el pelele.</stage>
+          <stage>
+            <rs key="#pica">Pica lagartos</rs> deja los secretos con el chaval, y en dos trancos cruza el vano de la tasca. Por el cuello del carrik detiene al curda en el umbral de la puerta. <rs key="#lati">Don Latino</rs> guiña el ojo, tuerce la jeta, y desmaya los brazos haciendo el pelele.</stage>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
             <p>¡No seas vándalo!</p>
@@ -5374,7 +5393,8 @@
             <speaker>Pica lagartos</speaker>
             <p>Porque es usted un vivales, y no hablemos más.</p>
           </sp>
-          <stage><rs key="#poll">El pollo del pay-pay</rs> se acerca ondulante. A intento deja ver que está empalmado, tose y se rasca ladeando la gorra. <rs key="#pisa">Enriqueta</rs> tercia el mantón y ocultamente abre una navajilla.</stage>
+          <stage>
+            <rs key="#poll">El pollo del pay-pay</rs> se acerca ondulante. A intento deja ver que está empalmado, tose y se rasca ladeando la gorra. <rs key="#pisa">Enriqueta</rs> tercia el mantón y ocultamente abre una navajilla.</stage>
           <sp who="#poll">
             <speaker>El Pollo</speaker>
             <p>Aquí todos estamos con la pupila dilatada, y tenemos opción a darle un vistazo a ese kilo de billetaje.</p>
@@ -5415,12 +5435,14 @@
             <speaker>El Pollo</speaker>
             <p>¡Miau!</p>
           </sp>
-          <stage><rs key="#peri">Pacona</rs>, una vieja que hace celestinazgo y vende periódicos, entra en la taberna con su hatillo de papel impreso, y deja sobre el mostrador un número de El Heraldo. Sale como entró, fisgona y callada. Solamente en la puerta, mirando a las estrellas, vuelve a gritar su pregón.</stage>
+          <stage>
+            <rs key="#peri">Pacona</rs>, una vieja que hace celestinazgo y vende periódicos, entra en la taberna con su hatillo de papel impreso, y deja sobre el mostrador un número de El Heraldo. Sale como entró, fisgona y callada. Solamente en la puerta, mirando a las estrellas, vuelve a gritar su pregón.</stage>
           <sp who="#peri">
             <speaker>La periodista</speaker>
             <p>¡Heraldo de Madrid! ¡Corres! ¡Heraldo! ¡Muerte misteriosa de dos señoras en la calle de Bastardillos! ¡Corres! ¡Heraldo!</p>
           </sp>
-          <stage><rs key="#lati">Don Latino</rs> rompe el grupo y se acerca al mostrador, huraño y enigmático. En el círculo luminoso de la lámpara, con el periódico abierto a dos manos, tartamudea la lectura de los títulos con que adereza el reportero el suceso de la calle de Bastardillos. Y le miran los otros con extrañeza burlona, como a un viejo chiflado.</stage>
+          <stage>
+            <rs key="#lati">Don Latino</rs> rompe el grupo y se acerca al mostrador, huraño y enigmático. En el círculo luminoso de la lámpara, con el periódico abierto a dos manos, tartamudea la lectura de los títulos con que adereza el reportero el suceso de la calle de Bastardillos. Y le miran los otros con extrañeza burlona, como a un viejo chiflado.</stage>
           <sp who="#lati">
             <speaker>Don Latino</speaker>
             <p><stage>(Lee)</stage>El tufo de un brasero. Dos señoras asfixiadas. Lo que dice una vecina. Doña Vicenta no sabe nada. ¿Crimen o suicidio? ¡Misterio!</p>

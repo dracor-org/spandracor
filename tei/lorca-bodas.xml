@@ -737,9 +737,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Bajo).</stage>
-            </p>
+            <p><stage>(Bajo).</stage></p>
             <lg>
               <l>Duérmete, clavel,</l>
               <l>que el caballo no quiere beber.</l>
@@ -853,9 +851,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Mirando)</stage>
-            </p>
+            <p><stage>(Mirando)</stage></p>
             <lg>
               <l>Mi niño se duerme</l>
             </lg>
@@ -868,9 +864,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Bajito)</stage>
-            </p>
+            <p><stage>(Bajito)</stage></p>
             <lg>
               <l>Duérmete, clavel,</l>
               <l>que el caballo no quiere beber</l>
@@ -878,16 +872,12 @@
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
-            <p>
-              <stage>(Levantándose y muy bajito)</stage>
-            </p>
+            <p><stage>(Levantándose y muy bajito)</stage></p>
             <lg>
               <l>Duérmete, rosal,</l>
               <l>que el caballo se pone a llorar</l>
             </lg>
-            <p>
-              <stage>(Entran al niño. Entra <rs key="#leon">Leonardo</rs>)</stage>
-            </p>
+            <p><stage>(Entran al niño. Entra <rs key="#leon">Leonardo</rs>)</stage></p>
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
@@ -1154,7 +1144,7 @@
 											¡Cállate! <stage>(Sale <rs key="#leon">Leonardo</rs>).</stage> ¡El niño!</p>
           </sp>
           <stage>(Entra y vuelve a salir con él en brazos. La <rs key="#muje">Mujer</rs> ha permanecido de pie, inmóvil).</stage>
-          <!--sga ¿quién dice esto, la suegra? Cf. 1ª edición-->
+<!--sga ¿quién dice esto, la suegra? Cf. 1ª edición-->
           <sp who="#sueg">
             <speaker>Suegra</speaker>
             <lg>
@@ -1170,13 +1160,11 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Volviéndose lentamente y como soñando).</stage>
+            <p><stage>(Volviéndose lentamente y como soñando).</stage>
               <lg>
                 <l>Duérmete, clavel</l>
                 <l>que el caballo se pone a beber.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
@@ -1200,34 +1188,28 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Dramática).</stage>
+            <p><stage>(Dramática).</stage>
               <lg>
                 <l>¡No vengas, no entres!</l>
                 <l>¡Vete a la montaña!</l>
                 <l>¡Ay, dolor de nieve,</l>
-                <!--sga Me he perdido, comprobar primera edición-->
+<!--sga Me he perdido, comprobar primera edición-->
                 <l>caballo del alba!</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
-            <p>
-              <stage>(Llorando)</stage>
+            <p><stage>(Llorando)</stage>
               <lg>
                 <l>Mi niño se duerme…</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Llorando y acercándose lentamente)</stage>
+            <p><stage>(Llorando y acercándose lentamente)</stage>
               <lg>
                 <l>Mi niño descansa…</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
@@ -1238,9 +1220,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Llorando y apoyándose sobre la mesa).</stage>
-            </p>
+            <p><stage>(Llorando y apoyándose sobre la mesa).</stage></p>
             <lg>
               <l>Duérmete, rosal,</l>
               <l>que el caballo se pone a llorar.</l>
@@ -1872,8 +1852,12 @@
           <sp who="#cria">
             <speaker>Criada</speaker>
             <p>Cinco leguas por el arroyo, que por el camino hay el doble.<stage>(La <rs key="#nova">novia</rs> se levanta y la <rs key="#cria">criada</rs> se entusiasma al verla).</stage>
-							<lg><l>Despierte la novia</l><l>la mañana de la boda.</l><l>¡Que los ríos del mundo</l><l>lleven tu corona!</l></lg>
-						</p>
+              <lg>
+                <l>Despierte la novia</l>
+                <l>la mañana de la boda.</l>
+                <l>¡Que los ríos del mundo</l>
+                <l>lleven tu corona!</l>
+              </lg></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -1881,8 +1865,7 @@
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p>
-              <stage>(La besa entusiasmada y baila alrededor).</stage>
+            <p><stage>(La besa entusiasmada y baila alrededor).</stage>
               <lg>
                 <l>Que despierte con el ramo verde</l>
                 <l>del laurel florido.</l>
@@ -1890,8 +1873,7 @@
                 <l>por el tronco y la rama</l>
                 <l>de los laureles!</l>
               </lg>
-              <stage>(Se oyen unos aldabonazos).</stage>
-            </p>
+              <stage>(Se oyen unos aldabonazos).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -2103,7 +2085,7 @@
           <sp who="#nova">
             <speaker>Novia</speaker>
             <p>Y sé que estoy loca y sé que tengo el pecho podrido de aguantar, y aquí estoy quieta por oírlo, por verlo menear los brazos.</p>
-            <!--sga ¿No falta nada?-->
+<!--sga ¿No falta nada?-->
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
@@ -2115,13 +2097,11 @@
           </sp>
           <sp who="#voce">
             <speaker>Voces</speaker>
-            <p>
-              <stage>(Cantando más cerca).</stage>
+            <p><stage>(Cantando más cerca).</stage>
               <lg>
                 <l>Despierte la novia</l>
                 <l>la mañana de la boda.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -2137,9 +2117,7 @@
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
-            <p>
-              <stage>(Entrando).</stage>
-            </p>
+            <p><stage>(Entrando).</stage></p>
             <lg>
               <l>Despierte la novia</l>
               <l>la mañana de la boda;</l>
@@ -2153,9 +2131,7 @@
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p>
-              <stage>(Moviendo algazara).</stage>
-            </p>
+            <p><stage>(Moviendo algazara).</stage></p>
             <lg>
               <l>Que despierte</l>
               <l>con el ramo verde</l>
@@ -2167,9 +2143,7 @@
           </sp>
           <sp who="#muc2">
             <speaker>Muchacha 2</speaker>
-            <p>
-              <stage>(Entrando).</stage>
-            </p>
+            <p><stage>(Entrando).</stage></p>
             <lg>
               <l>Que despierte</l>
               <l>con el largo pelo,</l>
@@ -2194,14 +2168,12 @@
           </sp>
           <sp who="#moz1">
             <speaker>Mozo 1</speaker>
-            <p>
-              <stage>(Entrando con el sombrero en alto).</stage>
-            </p>
+            <p><stage>(Entrando con el sombrero en alto).</stage></p>
             <lg>
               <l>Despierte la novia</l>
               <l>que por los campos viene</l>
               <l>rodando la boda,</l>
-              <!--sga: ¿rodando-->
+<!--sga: ¿rodando-->
               <l>con bandeja de dalias</l>
               <l>y panes de gloria.</l>
             </lg>
@@ -2228,14 +2200,12 @@
           </sp>
           <sp who="#muc3">
             <speaker>Muchacha 3</speaker>
-            <p>
-              <stage>(Entrando).</stage>
+            <p><stage>(Entrando).</stage>
               <lg>
                 <l>Por el naranjel</l>
                 <l>el novio le ofrece cuchara y mantel.</l>
               </lg>
-              <stage>(Entran tres convidados).</stage>
-            </p>
+              <stage>(Entran tres convidados).</stage></p>
           </sp>
           <sp who="#moz1">
             <speaker>Mozo 1</speaker>
@@ -2302,14 +2272,12 @@
           </sp>
           <sp who="#padr">
             <speaker>Padre</speaker>
-            <p>
-              <stage>(Entrando).</stage>
+            <p><stage>(Entrando).</stage>
               <lg>
                 <l>La mujer de un capitán</l>
                 <l>se lleva el novio.</l>
                 <l>¡Ya viene con sus bueyes por el tesoro!</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muc3">
             <speaker>Muchacha 3</speaker>
@@ -2384,13 +2352,11 @@
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
-            <p>
-              <stage>(Poniéndole una flor en la oreja).</stage>
+            <p><stage>(Poniéndole una flor en la oreja).</stage>
               <lg>
                 <l>El novio</l>
                 <l>parece la flor del oro.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muc2">
             <speaker>Muchacha 2</speaker>
@@ -2415,17 +2381,15 @@
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p>
-              <stage>(Entrando como quien cumple un deber).</stage>
+            <p><stage>(Entrando como quien cumple un deber).</stage>
               <lg>
                 <l>La mañana de casada</l>
                 <l>la corona te ponemos.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <!--sga: Es la mujer de Leonardo, no?-->
+<!--sga: Es la mujer de Leonardo, no?-->
             <lg>
               <l>¡Para que el campo se alegre</l>
               <l>con el agua de tu pelo!</l>
@@ -2483,25 +2447,21 @@
           <stage>(Se abre el gran portón del fondo. Empiezan a salir).</stage>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p>
-              <stage>(Llorando).</stage>
+            <p><stage>(Llorando).</stage>
               <lg>
                 <l>Al salir de tu casa,</l>
                 <l>blanca doncella,</l>
                 <l>acuérdate que sales</l>
                 <l>como una estrella…</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Limpia de cuerpo y ropa</l>
                 <l>al salir de tu casa para la boda.</l>
               </lg>
-              <stage>(Van saliendo).</stage>
-            </p>
+              <stage>(Van saliendo).</stage></p>
           </sp>
           <sp who="#muc2">
             <speaker>Muchacha 2</speaker>
@@ -2523,13 +2483,11 @@
           </sp>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Aire oscuro el encaje</l>
                 <l>de su mantilla.</l>
               </lg>
-              <stage>(Salen. Se oyen guitarras, palillos y panderetas. Quedan solos <rs key="#leon">Leonardo</rs> y su <rs key="#muje">mujer</rs>).</stage>
-            </p>
+              <stage>(Salen. Se oyen guitarras, palillos y panderetas. Quedan solos <rs key="#leon">Leonardo</rs> y su <rs key="#muje">mujer</rs>).</stage></p>
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
@@ -2586,7 +2544,11 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p><stage>(Llorando).</stage><lg><l>¡Acuérdate que sales</l><l>como una estrella!</l></lg>
+            <p><stage>(Llorando).</stage>
+              <lg>
+                <l>¡Acuérdate que sales</l>
+                <l>como una estrella!</l>
+              </lg>
 															Así salí yo de mi casa también. Que me cabía todo el campo en la boca.</p>
           </sp>
           <sp who="#leon">
@@ -2616,15 +2578,49 @@
           <stage>Exterior de la cueva de la novia. Entonación en blancos grises y azules fríos. Grandes chumberas. Tonos sombríos y plateados. Panoramas de mesetas color barquillo, todo endurecido como paisaje de cerámica popular.</stage>
           <sp who="#cria">
             <speaker>Criada</speaker>
-            <p><stage>(Arreglando en una mesa copas y bandejas).</stage><lg><l>Giraba,</l><l>giraba la rueda</l><l>y el agua pasaba.</l><l>Porque llega la boda</l><l>que se aparten las ramas</l><l>y la luna se adorne</l><l>por su blanca baranda.</l></lg><stage>(En voz alta).</stage>
+            <p><stage>(Arreglando en una mesa copas y bandejas).</stage>
+              <lg>
+                <l>Giraba,</l>
+                <l>giraba la rueda</l>
+                <l>y el agua pasaba.</l>
+                <l>Porque llega la boda</l>
+                <l>que se aparten las ramas</l>
+                <l>y la luna se adorne</l>
+                <l>por su blanca baranda.</l>
+              </lg>
+              <stage>(En voz alta).</stage>
 																	¡Pon los manteles!
 							<stage>(En voz patética).</stage>
-							<lg><l>Cantaban,</l><l>cantaban los novios</l><l>y el agua pasaba.</l><l>Porque llega la boda</l><l>que relumbre la escarcha</l><l>y se llenen de miel</l><l>las almendras amargas.</l></lg>
-							<stage>(En voz alta).</stage>
+              <lg>
+                <l>Cantaban,</l>
+                <l>cantaban los novios</l>
+                <l>y el agua pasaba.</l>
+                <l>Porque llega la boda</l>
+                <l>que relumbre la escarcha</l>
+                <l>y se llenen de miel</l>
+                <l>las almendras amargas.</l>
+              </lg>
+              <stage>(En voz alta).</stage>
 																	¡Prepara el vino!
 							<stage>(En voz poética).</stage>
-							<lg><l>Galana.</l><l>Galana de la tierra,</l><l>mira cómo el agua pasa.</l><l>Porque llega tu boda</l><l>recógete las faldas</l><l>y bajo el ala del novio</l><l>nunca salgas de tu casa.</l><l>Porque el novio es un palomo</l><l>con todo el pecho de brasa</l><l>y espera el campo el rumor</l><l>de la sangre derramada.</l><l>Giraba,</l><l>giraba la rueda</l><l>y el agua pasaba.</l><l>¡Porque llega tu boda,</l><l>deja que relumbre el agua!</l></lg>
-						</p>
+              <lg>
+                <l>Galana.</l>
+                <l>Galana de la tierra,</l>
+                <l>mira cómo el agua pasa.</l>
+                <l>Porque llega tu boda</l>
+                <l>recógete las faldas</l>
+                <l>y bajo el ala del novio</l>
+                <l>nunca salgas de tu casa.</l>
+                <l>Porque el novio es un palomo</l>
+                <l>con todo el pecho de brasa</l>
+                <l>y espera el campo el rumor</l>
+                <l>de la sangre derramada.</l>
+                <l>Giraba,</l>
+                <l>giraba la rueda</l>
+                <l>y el agua pasaba.</l>
+                <l>¡Porque llega tu boda,</l>
+                <l>deja que relumbre el agua!</l>
+              </lg></p>
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>
@@ -3041,7 +3037,7 @@
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
             <p>Ahora que una se casa antes que otra.</p>
-            <!--sga: no se entiende-->
+<!--sga: no se entiende-->
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -3057,7 +3053,8 @@
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
-            <p>Pues… <stage>(Abrazando a la  <rs key="muc2">segunda</rs>)</stage><stage>)(Echan a correr las dos. Llega el <rs key="novo">novio</rs> y muy despacio abraza a la <rs key="nova">novia</rs> por detrás).</stage></p>
+            <p>Pues… <stage>(Abrazando a la  <rs key="muc2">segunda</rs>)</stage>
+              <stage>)(Echan a correr las dos. Llega el <rs key="novo">novio</rs> y muy despacio abraza a la <rs key="nova">novia</rs> por detrás).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -3285,7 +3282,8 @@
           </sp>
           <sp who="#novo">
             <speaker>Novio</speaker>
-            <p>¡Voy a ver! <stage>(Entra)</stage> <stage>(Se oye algazara y guitarras).</stage></p>
+            <p>¡Voy a ver! <stage>(Entra)</stage>
+              <stage>(Se oye algazara y guitarras).</stage></p>
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
@@ -3562,13 +3560,11 @@
           </sp>
           <sp who="#len1">
             <speaker>Leñador 1</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>¡Ay triste luna!</l>
                 <l>¡Deja para el amor la rama oscura</l>
               </lg>
-              <stage>(Salen. Por la claridad de la izquierda aparece la luna. La luna es un leñador joven con la cara blanca. La escena adquiere un vivo resplandor azul).</stage>
-            </p>
+              <stage>(Salen. Por la claridad de la izquierda aparece la luna. La luna es un leñador joven con la cara blanca. La escena adquiere un vivo resplandor azul).</stage></p>
           </sp>
           <sp who="#luna">
             <speaker>Luna</speaker>
@@ -3627,13 +3623,31 @@
           <stage>(Desaparece entre los troncos, y vuelve la escena a su luz oscura. Sale una <rs key="#muer">anciana</rs> totalmente cubierta por tenues paños verdeoscuro. Lleva los pies descalzos. Apenas si se le verá el rostro entre los pliegues. Este personaje no figura en el reparto<!--sga: Curioso, ¿no? ¿Se respeta?-->).</stage>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
-            <p><lg><l>Esa luna se va, y ellos se acercan</l><l>De aquí no pasan. El rumor del río</l><l>apagará con el rumor de troncos</l><l>el desgarrado vuelo de los gritos.</l><l>Aquí ha de ser, y pronto. Estoy cansada.</l><l>Abren los cofres, y los blancos hilos</l><l>aguardan por el suelo de la alcoba</l><l>cuerpos pesados con el cuello herido.</l><l>No se despierte un pájaro y la brisa,</l><l>recogiendo en su falda los gemidos,</l><l>huya con ellos por las negras copas</l><l>o los entierre por el blando limo.</l><l>¡Esa luna, esa luna!</l></lg><stage>(Impaciente).</stage>
+            <p><lg>
+                <l>Esa luna se va, y ellos se acercan</l>
+                <l>De aquí no pasan. El rumor del río</l>
+                <l>apagará con el rumor de troncos</l>
+                <l>el desgarrado vuelo de los gritos.</l>
+                <l>Aquí ha de ser, y pronto. Estoy cansada.</l>
+                <l>Abren los cofres, y los blancos hilos</l>
+                <l>aguardan por el suelo de la alcoba</l>
+                <l>cuerpos pesados con el cuello herido.</l>
+                <l>No se despierte un pájaro y la brisa,</l>
+                <l>recogiendo en su falda los gemidos,</l>
+                <l>huya con ellos por las negras copas</l>
+                <l>o los entierre por el blando limo.</l>
+                <l>¡Esa luna, esa luna!</l>
+              </lg>
+              <stage>(Impaciente).</stage>
 																								¡Esa luna, esa luna!</p>
           </sp>
           <stage>(Aparece la <rs key="#luna">luna</rs>. Vuelve la luz azul intensa).</stage>
           <sp who="#luna">
             <speaker>Luna</speaker>
-            <p><lg><l>Ya se acercan</l><l>Unos por la cañada y el otro por el río. </l></lg>
+            <p><lg>
+                <l>Ya se acercan</l>
+                <l>Unos por la cañada y el otro por el río. </l>
+              </lg>
 																								Voy a alumbrar las piedras. ¿Qué necesitas?</p>
           </sp>
           <sp who="#muer">
@@ -3653,15 +3667,13 @@
           </sp>
           <sp who="#luna">
             <speaker>Luna</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Pero que tarden mucho en morir</l>
                 <l>Que la sangre</l>
                 <l>me ponga entre los dedos su delicado silbo.</l>
                 <l>¡Mira que ya mis valles de ceniza despiertan</l>
                 <l>en ansia de esta fuente de chorro estremecido!</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
@@ -3836,7 +3848,7 @@
           <sp who="#len3">
             <speaker>Leñador 3</speaker>
             <p>¡No cubras de flores la boda!</p>
-            <!--sga: verso o prosa? Confirmar con edición -->
+<!--sga: verso o prosa? Confirmar con edición -->
           </sp>
           <sp who="#len2">
             <speaker>Leñador 2</speaker>
@@ -3860,7 +3872,7 @@
           <sp who="#nova">
             <speaker>Novia</speaker>
             <lg>
-              <!-->sga: ¿es un poema? Comprobar con la primera edición-->
+<!-->sga: ¿es un poema? Comprobar con la primera edición-->
               <l>Desde aquí yo me iré sola</l>
               <l>¡Vete! Quiero que te vuelvas.</l>
             </lg>
@@ -3987,8 +3999,7 @@
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Pájaros de la mañana</l>
                 <l>por los árboles se quiebran.</l>
                 <l>La noche se está muriendo</l>
@@ -3998,8 +4009,7 @@
                 <l>que no me importa la gente,</l>
                 <l>ni el veneno que nos echa.</l>
               </lg>
-              <stage>(La abraza fuertemente).</stage>
-            </p>
+              <stage>(La abraza fuertemente).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -4017,9 +4027,12 @@
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p><lg><l>Se abrasa lumbre con lumbre</l><l>La misma llama pequeña</l><l>mata dos espigas juntas.</l></lg>
-																								¡Vamos!<stage>(La arrastra).</stage>
-						</p>
+            <p><lg>
+                <l>Se abrasa lumbre con lumbre</l>
+                <l>La misma llama pequeña</l>
+                <l>mata dos espigas juntas.</l>
+              </lg>
+																								¡Vamos!<stage>(La arrastra).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -4035,21 +4048,18 @@
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
-            <p>
-              <stage>(Sarcástica).</stage>
+            <p><stage>(Sarcástica).</stage>
               <lg>
                 <l>Llévame de feria en feria,</l>
                 <l>dolor de mujer honrada,</l>
                 <l>a que las gentes me vean</l>
                 <l>con las sábanas de boda</l>
                 <l>al aire, como banderas.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>También yo quiero dejarte</l>
                 <l>si pienso como se piensa.</l>
                 <l>Pero voy donde tú vas.</l>
@@ -4057,8 +4067,7 @@
                 <l>Clavos de luna nos funden</l>
                 <l>mi cintura y tus caderas.</l>
               </lg>
-              <stage>(Toda esta escena es violenta, llena de gran sensualidad).</stage>
-            </p>
+              <stage>(Toda esta escena es violenta, llena de gran sensualidad).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -4089,14 +4098,12 @@
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p>
-              <lg>
-                <!--sga: ¿poema?-->
+            <p><lg>
+<!--sga: ¿poema?-->
                 <l>Silencio. Que no nos sientan</l>
                 <l>Tú delante. ¡Vamos, digo!</l>
               </lg>
-              <stage>(Vacila la <rs key="nova">novia</rs>).</stage>
-            </p>
+              <stage>(Vacila la <rs key="nova">novia</rs>).</stage></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -4104,15 +4111,13 @@
           </sp>
           <sp who="#leon">
             <speaker>Leonardo</speaker>
-            <p>
-              <stage>(Abrazándola).</stage>
+            <p><stage>(Abrazándola).</stage>
               <lg>
-                <!--sga: ¿poema?-->
+<!--sga: ¿poema?-->
                 <l>¡Como quieras!</l>
                 <l>Si nos separan,</l>
                 <l>será porque esté muerto.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#nova">
             <speaker>Novia</speaker>
@@ -4193,8 +4198,7 @@
           </sp>
           <sp who="#nina">
             <speaker>Niña</speaker>
-            <p>
-              <stage>(En la puerta).</stage>
+            <p><stage>(En la puerta).</stage>
               <lg>
                 <l>El hilo tropieza</l>
                 <l>con el pedernal.</l>
@@ -4205,8 +4209,7 @@
                 <l>a poner cuchillo</l>
                 <l>y a quitar el pan.</l>
               </lg>
-              <stage>(Se va).</stage>
-            </p>
+              <stage>(Se va).</stage></p>
           </sp>
           <sp who="#muc2">
             <speaker>Muchacha 2</speaker>
@@ -4217,20 +4220,17 @@
           </sp>
           <sp who="#much">
             <speaker>Muchacha 1</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Amante sin habla</l>
                 <l>Novio carmesí.</l>
                 <l>Por la orilla muda</l>
                 <l>tendidos los vi.</l>
               </lg>
-              <stage>(Se detiene mirando la madeja).</stage>
-            </p>
+              <stage>(Se detiene mirando la madeja).</stage></p>
           </sp>
           <sp who="#nina">
             <speaker>Niña</speaker>
-            <p>
-              <stage>(Asomándose a la puerta).</stage>
+            <p><stage>(Asomándose a la puerta).</stage>
               <lg>
                 <l>Corre, corre, corre</l>
                 <l>el hilo hasta aquí.</l>
@@ -4240,8 +4240,7 @@
                 <l>paños de marfil!</l>
               </lg>
               <stage>(Se va).</stage>
-              <stage>(Aparecen la <rs key="#muje">Mujer</rs> y la <rs key="#sueg">Suegra</rs> de Leonardo. Llegan angustiadas).</stage>
-            </p>
+              <stage>(Aparecen la <rs key="#muje">Mujer</rs> y la <rs key="#sueg">Suegra</rs> de Leonardo. Llegan angustiadas).</stage></p>
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
@@ -4270,8 +4269,7 @@
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
-            <p>
-              <stage>(Enérgica).</stage>
+            <p><stage>(Enérgica).</stage>
               <lg>
                 <l>Tú, a tu casa.</l>
                 <l>Valiente y sola en tu casa.</l>
@@ -4281,8 +4279,7 @@
                 <l>Clavaremos las ventanas.</l>
                 <l>Y vengan lluvias y noches</l>
                 <l>sobre las hierbas amargas.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
@@ -4290,18 +4287,16 @@
           </sp>
           <sp who="#sueg">
             <speaker>Suegra</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>No importa.</l>
-                <!--sga: ¿acaba aquí el verso?-->
+<!--sga: ¿acaba aquí el verso?-->
                 <l>Échate un velo en la cara.</l>
                 <l>Tus hijos son hijos tuyos</l>
                 <l>nada más. Sobre la cama</l>
                 <l>pon una cruz de ceniza</l>
                 <l>donde estuvo su almohada.</l>
               </lg>
-              <stage>(Salen).</stage>
-            </p>
+              <stage>(Salen).</stage></p>
           </sp>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
@@ -4311,8 +4306,7 @@
           <sp who="#nina">
             <speaker>Niña</speaker>
             <p>¡Vete!
-							<stage>(Las muchachas se agrupan).</stage>
-						</p>
+							<stage>(Las muchachas se agrupan).</stage></p>
           </sp>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
@@ -4353,7 +4347,13 @@
           </sp>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
-            <p><lg><l>Yo los vi; pronto llegan: dos torrentes</l><l>quietos al fin entre las piedras grandes,</l><l>dos hombres en las patas del caballo.</l><l>Muertos en la hermosura de la noche.</l></lg><stage>(Con delectación).</stage> Muertos, sí, muertos.</p>
+            <p><lg>
+                <l>Yo los vi; pronto llegan: dos torrentes</l>
+                <l>quietos al fin entre las piedras grandes,</l>
+                <l>dos hombres en las patas del caballo.</l>
+                <l>Muertos en la hermosura de la noche.</l>
+              </lg>
+              <stage>(Con delectación).</stage> Muertos, sí, muertos.</p>
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
@@ -4361,8 +4361,7 @@
           </sp>
           <sp who="#muer">
             <speaker>Mendiga</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Flores rotas los ojos, y sus dientes</l>
                 <l>dos puñados de nieve endurecida.</l>
                 <l>Los dos cayeron, y la novia vuelve</l>
@@ -4372,8 +4371,7 @@
                 <l>Así fue; nada más. Era lo justo.</l>
                 <l>Sobre la flor del oro, sucia arena.</l>
               </lg>
-              <stage>(Se va. Las muchachas inclinan las cabezas y rítmicamente van saliendo).</stage>
-            </p>
+              <stage>(Se va. Las muchachas inclinan las cabezas y rítmicamente van saliendo).</stage></p>
           </sp>
           <sp who="#muc1">
             <speaker>Muchacha 1</speaker>
@@ -4385,8 +4383,7 @@
           </sp>
           <sp who="#nina">
             <speaker>Niña</speaker>
-            <p>
-              <lg>
+            <p><lg>
                 <l>Sobre la flor del oro</l>
                 <l>traen a los muertos del arroyo.</l>
                 <l>Morenito el uno,</l>
@@ -4394,8 +4391,7 @@
                 <l>¡Qué ruiseñor de sombra vuela y gime</l>
                 <l>sobre la flor del oro!</l>
               </lg>
-              <stage>(Se va. Queda la escena sola. Aparece la <rs key="madr">madre</rs> con una <rs key="veci">vecina</rs>. La <rs key="veci">vecina</rs> viene llorando).</stage>
-            </p>
+              <stage>(Se va. Queda la escena sola. Aparece la <rs key="madr">madre</rs> con una <rs key="veci">vecina</rs>. La <rs key="veci">vecina</rs> viene llorando).</stage></p>
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>
@@ -4425,8 +4421,7 @@
             <speaker>Madre</speaker>
             <p><stage>(Echándose el pelo hacia atrás)</stage>
 																						He de estar serena. <stage>(Se sienta).</stage> Porque vendrán las vecinas y no quiero que me vean tan pobre. ¡Tan pobre! Una mujer que no tiene un hijo siquiera que poderse llevar a los labios.
-							<stage>(Aparece la <rs key="nova">Novia</rs>. Viene sin azahar y con un manto negro).</stage>
-						</p>
+							<stage>(Aparece la <rs key="nova">Novia</rs>. Viene sin azahar y con un manto negro).</stage></p>
           </sp>
           <sp who="#veci">
             <speaker>Vecina</speaker>
@@ -4490,8 +4485,7 @@
           </sp>
           <sp who="#muje">
             <speaker>Mujer</speaker>
-            <p>
-              <stage>(Entrando y dirigiéndose a la izquierda).</stage>
+            <p><stage>(Entrando y dirigiéndose a la izquierda).</stage>
               <lg>
                 <l>Era hermoso jinete,</l>
                 <l>y ahora montón de nieve.</l>
@@ -4499,8 +4493,7 @@
                 <l>y brazos de mujeres.</l>
                 <l>Ahora, musgo de noche</l>
                 <l>le corona la frente.</l>
-              </lg>
-            </p>
+              </lg></p>
           </sp>
           <sp who="#madr">
             <speaker>Madre</speaker>

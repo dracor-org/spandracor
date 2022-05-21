@@ -183,7 +183,7 @@
           <castItem>
             <role corresp="#elvi">Elvira</role>
             <roleDesc>Elegantísima y guapísima muchacha como de veinticinco años.</roleDesc>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#miss">Miss Plain</role>
@@ -192,22 +192,22 @@
           </castItem>
           <castItem>
             <role corresp="#urra">Urraca</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#bere">Berenguela</role>
-            <roleDesc> </roleDesc>
-            <actor> </actor>
+            <roleDesc></roleDesc>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#chic">Chicharita</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#bern">Bernarda</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -217,22 +217,22 @@
           </castItem>
           <castItem>
             <role corresp="#conc">Concha</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#mano">Manolita</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#rina">Rafaelina</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#emil">Emilita</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -252,22 +252,22 @@
           </castItem>
           <castItem>
             <role corresp="#nuno">Nuño</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#lain">Laín</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#jaim">Jaime</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#antu">Antúnez</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -277,17 +277,17 @@
           </castItem>
           <castItem>
             <role corresp="#cosm">Don Cosme</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#domi">Domingo</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#illo">Faelillo</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
@@ -297,17 +297,17 @@
           </castItem>
           <castItem>
             <role corresp="#lito">Faelito</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#reve">Revenga</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#pepi">Pepito</role>
-            <roleDesc> </roleDesc>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
         </castList>
@@ -322,7 +322,8 @@
         <div cert="low" resp="#jct" type="scene">
           <stage>Hall de la linda casa de campo que habitan los condes de Pola del Clavijo en su hacienda de «Los Algarrobos». En chaflán a la derecha, la puerta que conduce a la carretera. En el foro un gran mirador de cristalería. En el lateral izquierda una puerta y el arranque de una escalera que se pierde en el lateral. El hall estará ricamente amueblado, no con muebles modernos, sino del más serio estilo español. Una gran araña de madera y en las paredes algún escudo de armas y alguna panoplia con gumías y espingardas.</stage>
           <stage>Es un día de mayo, a las cuatro de la tarde. «Los Algarrobos» están en Almodóvar, pueblo cercano a Córdoba. Corre el año 1918.</stage>
-          <stage>Están en escena<rs key="#miss">Miss Plain</rs>,<rs key="#rela">Rafaela</rs>, <rs key="#rlon">Rafaelón</rs>, <rs key="#rita">Rafaelita</rs> y <rs key="#rafa">Rafael.</rs> <rs key="#miss">Miss Plain</rs> es una inglesa como de treinta y cinco años, de aspecto varonil. Viste con cierta elegancia masculina y habla con acento británico. <rs key="#rela">Rafaela</rs> es una hortelana de cuarenta y cinco años; <rs key="#rlon">Rafaelón</rs>, su marido, ha cumplido ya los cuarenta y nueve y <rs key="#rita">Rafaelita</rs> y <rs key="#rafa">Rafael</rs>, hijos de ambos, frisan en los dieciséis y los veinte abriles, respectivamente. Los cuatro visten con el traje de faena y se expresan con un marcado acento cordobés. Al levantarse el telón, <rs key="#rafa">Rafael</rs>, de pie y apoyado en cualquier mueble, está ensimismado, preocupadísimo. Los demás, bajo la dirección de <rs key="#miss">Miss Plain</rs>, adornan el hall colocando aquí y allá unas cuantas macetas que hay en un carro de mano colocado en el centro.</stage>
+          <stage>Están en escena<rs key="#miss">Miss Plain</rs>,<rs key="#rela">Rafaela</rs>, <rs key="#rlon">Rafaelón</rs>, <rs key="#rita">Rafaelita</rs> y <rs key="#rafa">Rafael.</rs>
+            <rs key="#miss">Miss Plain</rs> es una inglesa como de treinta y cinco años, de aspecto varonil. Viste con cierta elegancia masculina y habla con acento británico. <rs key="#rela">Rafaela</rs> es una hortelana de cuarenta y cinco años; <rs key="#rlon">Rafaelón</rs>, su marido, ha cumplido ya los cuarenta y nueve y <rs key="#rita">Rafaelita</rs> y <rs key="#rafa">Rafael</rs>, hijos de ambos, frisan en los dieciséis y los veinte abriles, respectivamente. Los cuatro visten con el traje de faena y se expresan con un marcado acento cordobés. Al levantarse el telón, <rs key="#rafa">Rafael</rs>, de pie y apoyado en cualquier mueble, está ensimismado, preocupadísimo. Los demás, bajo la dirección de <rs key="#miss">Miss Plain</rs>, adornan el hall colocando aquí y allá unas cuantas macetas que hay en un carro de mano colocado en el centro.</stage>
           <sp who="#miss">
             <speaker>Miss Plain</speaker>
             <stage>(A <rs key="#rita">Rafaelita</rs>.)</stage>
@@ -916,7 +917,8 @@
           </sp>
           <sp who="#urra">
             <speaker>Urraca</speaker>
-            <p>¡Ah! Sí. <stage>(Llamando.)</stage> <rs key="#rela">¡Rafaela!</rs>… <rs key="#rela">¡Rafaela!</rs>…</p>
+            <p>¡Ah! Sí. <stage>(Llamando.)</stage>
+              <rs key="#rela">¡Rafaela!</rs>… <rs key="#rela">¡Rafaela!</rs>…</p>
           </sp>
           <sp who="#rela">
             <speaker>Rafaela</speaker>
@@ -6220,7 +6222,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#elvi">
             <speaker>Elvira</speaker>
-            <stage>(Haciendo mutis con <rs key="#gonz">Gonzalo</rs></stage>
+            <stage>(Haciendo mutis con <rs key="#gonz">Gonzalo</rs>
+            </stage>
             <p>(¡<rs key="#gonz">Gonzalo</rs> de mi alma! ¡Melitona!…).</p>
           </sp>
         </div>

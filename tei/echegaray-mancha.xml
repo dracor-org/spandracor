@@ -433,7 +433,7 @@
           </sp>
           <sp who="#lore">
             <speaker>Don Lorenzo</speaker>
-            <p> De <rs key="#mati">Matilde</rs>, de <rs key="#enri">Enriqueta</rs>, de <rs key="#juli">Julio</rs> y de su hijo de usted: de <rs key="#fern">Fernando</rs>. <stage> (Con intención.) </stage> </p>
+            <p> De <rs key="#mati">Matilde</rs>, de <rs key="#enri">Enriqueta</rs>, de <rs key="#juli">Julio</rs> y de su hijo de usted: de <rs key="#fern">Fernando</rs>. <stage> (Con intención.) </stage></p>
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
@@ -1024,7 +1024,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>. <rs key="#mati">Matilde</rs>, en primer término, se sienta y sin reparar en don <rs key="#just">Justo</rs>,se queda pensativa.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>. <rs key="#mati">Matilde</rs>, en primer término, se sienta y sin reparar en don <rs key="#just">Justo</rs>,se queda pensativa.</stage>
           <sp who="#just">
             <speaker>Don Justo</speaker>
             <p> ¿En qué piensas? <stage>(Acercándose.)</stage></p>
@@ -1353,7 +1354,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#mati">Matilde</rs>, don <rs key="#just">Justo</rs>, doña <rs key="#conc">Concepción</rs>, <rs key="#enri">Enriqueta</rs>, <rs key="#fern">Fernando</rs>, <rs key="#juli">Julio</rs> y don <rs key="#lore">Lorenzo</rs>.Vienen por la izquierda de la galería, en dos grupos. Delante, doña <rs key="#conc">Concepción</rs> con don <rs key="#lore">Lorenzo</rs> y su hijo; detrás, <rs key="#enri">Enriqueta</rs> y <rs key="#juli">Julio</rs>. En primer término, <rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, don <rs key="#just">Justo</rs>, doña <rs key="#conc">Concepción</rs>, <rs key="#enri">Enriqueta</rs>, <rs key="#fern">Fernando</rs>, <rs key="#juli">Julio</rs> y don <rs key="#lore">Lorenzo</rs>.Vienen por la izquierda de la galería, en dos grupos. Delante, doña <rs key="#conc">Concepción</rs> con don <rs key="#lore">Lorenzo</rs> y su hijo; detrás, <rs key="#enri">Enriqueta</rs> y <rs key="#juli">Julio</rs>. En primer término, <rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>.</stage>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
             <p>En el jardín hace ya fresco: vengan ustedes a tomar el té en la galería</p>
@@ -1521,7 +1523,8 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¿Que no te quise? ¿Que no me sacrifiqué por ti? ¡Déjame, déjame! Harás que llore: lo conocerá doña <rs key="#conc">Concepción</rs> y tendré que decir <hi rend="italics">que me hizo llorar <rs key="#mati">Matilde</rs></hi>.</p>
+            <p> ¿Que no te quise? ¿Que no me sacrifiqué por ti? ¡Déjame, déjame! Harás que llore: lo conocerá doña <rs key="#conc">Concepción</rs> y tendré que decir <hi rend="italics">que me hizo llorar <rs key="#mati">Matilde</rs>
+              </hi>.</p>
           </sp>
           <sp who="#juli">
             <speaker>Julio</speaker>
@@ -1529,7 +1532,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¡Por Dios, <rs key="#juli">Julio</rs>!, ¡por la Virgen Santísima, ten juicio!... ¡me das miedo!...<stage> (Mirando si vienen.) </stage> </p>
+            <p> ¡Por Dios, <rs key="#juli">Julio</rs>!, ¡por la Virgen Santísima, ten juicio!... ¡me das miedo!...<stage> (Mirando si vienen.) </stage></p>
           </sp>
           <sp who="#juli">
             <speaker>Julio</speaker>
@@ -1649,7 +1652,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> Te lo juro. <stage> (Con aparente solemnidad.) </stage> Pero sigamos fingiendo: nos importa mucho. Y fingiendo bien, porque <rs key="#mati">Matilde</rs> está sobre aviso. Te escribí esta mañana una carta por si no venías, diciéndote que pensaba ir esta noche a donde tú sabes...<stage> (Mirando alrededor y en voz baja.) </stage> </p>
+            <p> Te lo juro. <stage> (Con aparente solemnidad.) </stage> Pero sigamos fingiendo: nos importa mucho. Y fingiendo bien, porque <rs key="#mati">Matilde</rs> está sobre aviso. Te escribí esta mañana una carta por si no venías, diciéndote que pensaba ir esta noche a donde tú sabes...<stage> (Mirando alrededor y en voz baja.) </stage></p>
           </sp>
           <sp who="#juli">
             <speaker>Julio</speaker>
@@ -1726,7 +1729,7 @@
           </sp>
           <sp who="#juli">
             <speaker>Julio</speaker>
-            <p> Que cumplirás tu promesa. Que irás esta noche.<stage> (En voz baja.) </stage> </p>
+            <p> Que cumplirás tu promesa. Que irás esta noche.<stage> (En voz baja.) </stage></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -1746,7 +1749,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> Sí..., sí... iré. ¿Quieres más? Te lo juro.<stage> (Mirando siempre con inquietud.) </stage> </p>
+            <p> Sí..., sí... iré. ¿Quieres más? Te lo juro.<stage> (Mirando siempre con inquietud.) </stage></p>
           </sp>
           <sp who="#juli">
             <speaker>Julio</speaker>
@@ -1754,12 +1757,13 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¡Qué hombre, Dios mío! ¡Me quiere mucho, pero es muy imprudente! No... si <rs key="#juli">Julio</rs> no fuese tan débil, sería muy peligroso. Lo siento; pero es preciso que se marche de Madrid por dos o tres meses a donde nadie sepa; cuando vuelva, tendrá que resignarse. No: si yo no dejaré de amarle. Es lo mejor: que me pierda de vista por algún tiempo. Trabajo me costará convencerle..., pero le convenceré. Al pronto, ¡qué furores, qué amenazas! Luego, ¡qué súplicas!... ¡Pobre <rs key="#juli">Julio</rs>! Y concluirá, como siempre, por obedecerme.<stage> (Sonriendo con malicia.) </stage> </p>
+            <p> ¡Qué hombre, Dios mío! ¡Me quiere mucho, pero es muy imprudente! No... si <rs key="#juli">Julio</rs> no fuese tan débil, sería muy peligroso. Lo siento; pero es preciso que se marche de Madrid por dos o tres meses a donde nadie sepa; cuando vuelva, tendrá que resignarse. No: si yo no dejaré de amarle. Es lo mejor: que me pierda de vista por algún tiempo. Trabajo me costará convencerle..., pero le convenceré. Al pronto, ¡qué furores, qué amenazas! Luego, ¡qué súplicas!... ¡Pobre <rs key="#juli">Julio</rs>! Y concluirá, como siempre, por obedecerme.<stage> (Sonriendo con malicia.) </stage></p>
           </sp>
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#enri">Enriqueta</rs>, doña <rs key="#conc">Concepción</rs>, don <rs key="#lore">Lorenzo</rs> y don <rs key="#just">Justo</rs>. <rs key="#enri">Enriqueta</rs> se deja caer en la silla y se queda humilde y pensativa. Los demás vienen por la derecha.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs>, doña <rs key="#conc">Concepción</rs>, don <rs key="#lore">Lorenzo</rs> y don <rs key="#just">Justo</rs>. <rs key="#enri">Enriqueta</rs> se deja caer en la silla y se queda humilde y pensativa. Los demás vienen por la derecha.</stage>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
             <p><rs key="#enri">Enriqueta</rs>, hija mía, ¿qué haces ahí solita?</p>
@@ -1822,7 +1826,7 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p> Pálida.<stage> (Terminando la frase.) </stage> </p>
+            <p> Pálida.<stage> (Terminando la frase.) </stage></p>
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
@@ -1850,7 +1854,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> Si es por ellos, bueno. <stage> (Levantándose para irse.) </stage> Esperaba aquí por si venía <rs key="#fern">Fernando</rs>... y no venía.<stage> (Con tristeza.) </stage> </p>
+            <p> Si es por ellos, bueno. <stage> (Levantándose para irse.) </stage> Esperaba aquí por si venía <rs key="#fern">Fernando</rs>... y no venía.<stage> (Con tristeza.) </stage></p>
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
@@ -1891,7 +1895,7 @@
           </sp>
           <sp who="#lore">
             <speaker>Don Lorenzo</speaker>
-            <p> ¿Si padezco reuma? ¡Qué no padeceré yo! Tuve un ataque el año...<stage> (Preparándose a contar una historia.) </stage> </p>
+            <p> ¿Si padezco reuma? ¡Qué no padeceré yo! Tuve un ataque el año...<stage> (Preparándose a contar una historia.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -2075,7 +2079,8 @@
           </sp>
           <sp who="#lore">
             <speaker>Don Lorenzo</speaker>
-            <p> Yo me bajé, despedí el coche, y muy embozado en mi capa y ojo avizor, pasé junto al coche de ellas y ya no estaba más que una, miss Fanny. <hi rend="italic">La otra había entrado en casa de <rs key="#juli">Julio</rs></hi>.</p>
+            <p> Yo me bajé, despedí el coche, y muy embozado en mi capa y ojo avizor, pasé junto al coche de ellas y ya no estaba más que una, miss Fanny. <hi rend="italic">La otra había entrado en casa de <rs key="#juli">Julio</rs>
+              </hi>.</p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -2228,7 +2233,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p>¡<rs key="#mati">Matilde</rs>!<stage> (Acercándose a ella.) </stage> </p>
+            <p>¡<rs key="#mati">Matilde</rs>!<stage> (Acercándose a ella.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -2362,7 +2367,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> Está en obedecer a su madre, en casarse con <rs key="#enri">Enriqueta</rs>, en olvidarme a mí... ¡No, olvidarme a mí, no!<stage> (Con grito de pasión.) </stage> </p>
+            <p> Está en obedecer a su madre, en casarse con <rs key="#enri">Enriqueta</rs>, en olvidarme a mí... ¡No, olvidarme a mí, no!<stage> (Con grito de pasión.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -2378,7 +2383,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> No es eso. Iba a decir: <hi rend="italic">si</hi> no existiese nada de lo que hoy existe, ni <rs key="#enri">Enriqueta</rs>, ni su madre de usted, ni mis deberes, ni los de usted; <hi rend="italic">si</hi> nada de lo que es fuese lo que es... entonces... entonces... Pero esto es disparatar, porque entonces..., ¡qué sé yo lo que sucedería! ¡Quizás le quisiera yo a usted con amor frenético y usted me odiase! ¡Déjeme usted, por la Virgen Santísima!<stage> (Quiere irse y <rs key="#fern">Fernando</rs> vuelve a detenerla.) </stage> </p>
+            <p> No es eso. Iba a decir: <hi rend="italic">si</hi> no existiese nada de lo que hoy existe, ni <rs key="#enri">Enriqueta</rs>, ni su madre de usted, ni mis deberes, ni los de usted; <hi rend="italic">si</hi> nada de lo que es fuese lo que es... entonces... entonces... Pero esto es disparatar, porque entonces..., ¡qué sé yo lo que sucedería! ¡Quizás le quisiera yo a usted con amor frenético y usted me odiase! ¡Déjeme usted, por la Virgen Santísima!<stage> (Quiere irse y <rs key="#fern">Fernando</rs> vuelve a detenerla.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -2394,7 +2399,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p>¡Por salvarle a usted, porque sea usted feliz, soy capaz de todo y lo doy todo: mi vida, mi alma! ¡Si ese caso llega, entonces verá usted de lo que es capaz <rs key="#mati">Matilde</rs>! ¡<rs key="#fern">Fernando</rs>, por usted! ¡Por usted!...<stage> (Con arranque insensato de pasión.) </stage> </p>
+            <p>¡Por salvarle a usted, porque sea usted feliz, soy capaz de todo y lo doy todo: mi vida, mi alma! ¡Si ese caso llega, entonces verá usted de lo que es capaz <rs key="#mati">Matilde</rs>! ¡<rs key="#fern">Fernando</rs>, por usted! ¡Por usted!...<stage> (Con arranque insensato de pasión.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -2415,7 +2420,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#mati">Matilde</rs>, <rs key="#fern">Fernando</rs> y don <rs key="#just">Justo</rs>. Ha oscurecido ya por completo.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, <rs key="#fern">Fernando</rs> y don <rs key="#just">Justo</rs>. Ha oscurecido ya por completo.</stage>
           <sp who="#just">
             <speaker>Don Justo</speaker>
             <p> ¡Aquí, pronto! <stage> (Con voz colérica y tocando el timbre.) </stage></p>
@@ -2483,7 +2489,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>.</stage>
           <sp who="#just">
             <speaker>Don Justo</speaker>
             <p><stage> (Acercándose a <rs key="#mati">Matilde</rs>, cogiéndole las manos y mirándola fijamente.) </stage> Mírame bien... </p>
@@ -2502,7 +2509,7 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p>Ni más ni menos. Mira tú. Con mis años, con mi malicia, con mi experiencia, con mis estudios, yo debía leer como en un libro abierto en la frente de una joven, ¿no es verdad? Pues no sé leer o leo mal o leo al revés.<stage> (Mirándola siempre y de cerca.) </stage> </p>
+            <p>Ni más ni menos. Mira tú. Con mis años, con mi malicia, con mi experiencia, con mis estudios, yo debía leer como en un libro abierto en la frente de una joven, ¿no es verdad? Pues no sé leer o leo mal o leo al revés.<stage> (Mirándola siempre y de cerca.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -2562,11 +2569,11 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p><stage> (Con ira y desesperación crecientes.) </stage> ¡No: no estoy pagada! ¡<hi rend="italics">Por ellos</hi> mi madre murió sin darme un beso! ¡<hi rend="italics">Por ellos</hi> la hija vivía en el lujo y la madre en la miseria! ¡<hi rend="italics">Por ellos</hi> me llevaban en el tren mientras que una mujer quedaba en los andenes mirando, pero sin ver, a la hija que se va para siempre! ¡<hi rend="italics">Por ellos</hi> aquella hija no está en los brazos de aquella madre, ni le separa la mano, ni le besa los ojos, ni se los besó a la hora de la muerte; ni sabe en qué pedazo de tierra se deshace su cuerpo, ni puede decir siquiera cómo era su madre, porque el pañuelo de la cabeza la tapaba y sus puntas le cubrían la cara, mientras con ellas se secaba las lágrimas! ¡No, pagada, no! ¡Por algo, señor, por algo odiaba yo a <rs key="#enri">Enriqueta</rs>! <stage> (Pausa. Cae en el sofá abrumada por el exceso de pasión.) </stage> </p>
+            <p><stage> (Con ira y desesperación crecientes.) </stage> ¡No: no estoy pagada! ¡<hi rend="italics">Por ellos</hi> mi madre murió sin darme un beso! ¡<hi rend="italics">Por ellos</hi> la hija vivía en el lujo y la madre en la miseria! ¡<hi rend="italics">Por ellos</hi> me llevaban en el tren mientras que una mujer quedaba en los andenes mirando, pero sin ver, a la hija que se va para siempre! ¡<hi rend="italics">Por ellos</hi> aquella hija no está en los brazos de aquella madre, ni le separa la mano, ni le besa los ojos, ni se los besó a la hora de la muerte; ni sabe en qué pedazo de tierra se deshace su cuerpo, ni puede decir siquiera cómo era su madre, porque el pañuelo de la cabeza la tapaba y sus puntas le cubrían la cara, mientras con ellas se secaba las lágrimas! ¡No, pagada, no! ¡Por algo, señor, por algo odiaba yo a <rs key="#enri">Enriqueta</rs>! <stage> (Pausa. Cae en el sofá abrumada por el exceso de pasión.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p>Ya no dejarás de defenderte ni por deber ni por sacrificio; ya estáis iguales <rs key="#enri">Enriqueta</rs> y tú. Ahora, caiga la que deba caer y alce su frente la que deba alzarla. <stage> (Pausa.) </stage> </p>
+            <p>Ya no dejarás de defenderte ni por deber ni por sacrificio; ya estáis iguales <rs key="#enri">Enriqueta</rs> y tú. Ahora, caiga la que deba caer y alce su frente la que deba alzarla. <stage> (Pausa.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -2574,7 +2581,7 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p>Todo eso pasó. Vamos a lo que importa.¡Ea, a lo que importa! ¡Deja la muerte! <hi rend="italics">¡La vida llama!</hi> ¡La lucha empieza! ¡Ea, atiende! <stage> (Sacudiéndola para que atienda.)</stage> </p>
+            <p>Todo eso pasó. Vamos a lo que importa.¡Ea, a lo que importa! ¡Deja la muerte! <hi rend="italics">¡La vida llama!</hi> ¡La lucha empieza! ¡Ea, atiende! <stage> (Sacudiéndola para que atienda.)</stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -2714,7 +2721,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> ¡Yo! ¡Cómo!... ¿Qué está usted diciendo?... ¡Ah!... ¡No: basta, basta! ¡No tanto, no tanto; yo no oigo eso! <stage> (Quiere marcharse y don <rs key="#just">Justo</rs> la detiene.) </stage> </p>
+            <p> ¡Yo! ¡Cómo!... ¿Qué está usted diciendo?... ¡Ah!... ¡No: basta, basta! ¡No tanto, no tanto; yo no oigo eso! <stage> (Quiere marcharse y don <rs key="#just">Justo</rs> la detiene.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -2755,7 +2762,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#mati">Matilde</rs>, don <rs key="#just">Justo</rs> y <rs key="#enri">Enriqueta</rs>; después <rs key="#fern">Fernando</rs> y don <rs key="#lore">Lorenzo</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, don <rs key="#just">Justo</rs> y <rs key="#enri">Enriqueta</rs>; después <rs key="#fern">Fernando</rs> y don <rs key="#lore">Lorenzo</rs>.</stage>
           <sp who="#mati">
             <speaker>Matilde</speaker>
             <p> ¡Pero, y si fuese verdad! ¡Duda maldita! ¡Ah! Yo lo sabré esta misma noche. ¡<rs key="#enri">Enriqueta</rs>! ¡<rs key="#enri">Enriqueta</rs>! ¡No!... ¡Fuera ideas infames! ¡Fuera odios mezquinos!
@@ -2763,7 +2771,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p>¿Qué tienes?<stage> (Sorprendida y recelosa.) </stage> </p>
+            <p>¿Qué tienes?<stage> (Sorprendida y recelosa.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -2803,9 +2811,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p>
-              <hi rend="italics">¡Qué grupo tan encantador!</hi>
-            </p>
+            <p><hi rend="italics">¡Qué grupo tan encantador!</hi></p>
           </sp>
           <stage>FIN DEL ACTO SEGUNDO</stage>
         </div>
@@ -2918,7 +2924,8 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p><stage> (Abrumado.) </stage><rs key="#mati">Matilde</rs>, es verdad.</p>
+            <p><stage> (Abrumado.) </stage>
+              <rs key="#mati">Matilde</rs>, es verdad.</p>
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
@@ -2994,7 +3001,7 @@
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
-            <p> No siga usted, ¡porque vamos a acabar para siempre!<stage> (Muy irritada.) </stage> </p>
+            <p> No siga usted, ¡porque vamos a acabar para siempre!<stage> (Muy irritada.) </stage></p>
           </sp>
         </div>
         <div n="2" type="scene">
@@ -3205,7 +3212,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#enri">Enriqueta</rs> y don <rs key="#just">Justo</rs>.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs> y don <rs key="#just">Justo</rs>.</stage>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
             <p><stage> (Pausa.) </stage> Está usted pensativo, don <rs key="#just">Justo</rs>.</p>
@@ -3265,7 +3273,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#enri">Enriqueta</rs> y <rs key="#mati">Matilde</rs>.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs> y <rs key="#mati">Matilde</rs>.</stage>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
             <p> ¡Me da miedo! ¿Lo sabrá todo? ¿Pero cómo? ¡Calma! ¡Calma! Si no me defiendo yo, no ha de defenderme nadie.</p>
@@ -3372,7 +3381,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¡Cómo penetras el porvenir!<stage> (Con ironía dulce.) </stage> </p>
+            <p> ¡Cómo penetras el porvenir!<stage> (Con ironía dulce.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -3429,7 +3438,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¿Por qué no te acercaste a mí y entonces no hubiera podido negar?<stage> (Mezcla de osadía, desafío y tono de inocencia.) </stage> </p>
+            <p> ¿Por qué no te acercaste a mí y entonces no hubiera podido negar?<stage> (Mezcla de osadía, desafío y tono de inocencia.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -3476,7 +3485,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>.</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> ¿Pero qué es eso? ¿Estáis riñendo?</p>
@@ -3525,12 +3535,14 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> ¡Otra vez! Perdona, <rs key="#fern">Fernando</rs>, voy con tu madre: tu madre no me maltrata, me acaricia; <hi rend="italics">cree todo lo que le digo</hi> <stage> (Con intención.) </stage> Adiós, <rs key="#mati">Matilde</rs>: no te guardo rencor. <stage> (Con dulzura. Aparte, a <rs key="#mati">Matilde</rs>.) </stage> (No tengas miedo: si te arrepientes, no le contaré nada. Y si es preciso, <hi rend="italics">intercederé por ti.</hi> Dices bien, <rs key="#fern">Fernando</rs>: ya pasó. Ya sequé mis lágrimas. Soy una niña, ¿verdad?	<stage> (Sale.) </stage></p>
+            <p> ¡Otra vez! Perdona, <rs key="#fern">Fernando</rs>, voy con tu madre: tu madre no me maltrata, me acaricia; <hi rend="italics">cree todo lo que le digo</hi>
+              <stage> (Con intención.) </stage> Adiós, <rs key="#mati">Matilde</rs>: no te guardo rencor. <stage> (Con dulzura. Aparte, a <rs key="#mati">Matilde</rs>.) </stage> (No tengas miedo: si te arrepientes, no le contaré nada. Y si es preciso, <hi rend="italics">intercederé por ti.</hi> Dices bien, <rs key="#fern">Fernando</rs>: ya pasó. Ya sequé mis lágrimas. Soy una niña, ¿verdad?	<stage> (Sale.) </stage></p>
           </sp>
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#mati">Matilde</rs> y <rs key="#fern">Fernando</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs> y <rs key="#fern">Fernando</rs>.</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> Una niña; ¡pero qué buena!</p>
@@ -3561,7 +3573,8 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> Suponga usted que lo sean<stage> (Procurando sonreír.) </stage> Suponga usted que le pido, por lo que más ame en el mundo, por su madre de usted, por su honra de caballero, por la simpatía que yo pueda inspirarle, <hi rend="italics">que no se case usted con <rs key="#enri">Enriqueta</rs></hi>. ¿Atenderá usted a mi ruego? Mire usted que se lo suplico con la suprema angustia de la desesperación.</p>
+            <p> Suponga usted que lo sean<stage> (Procurando sonreír.) </stage> Suponga usted que le pido, por lo que más ame en el mundo, por su madre de usted, por su honra de caballero, por la simpatía que yo pueda inspirarle, <hi rend="italics">que no se case usted con <rs key="#enri">Enriqueta</rs>
+              </hi>. ¿Atenderá usted a mi ruego? Mire usted que se lo suplico con la suprema angustia de la desesperación.</p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -3701,14 +3714,15 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#mati">Matilde</rs>, <rs key="#fern">Fernando</rs> y don <rs key="#just">Justo</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, <rs key="#fern">Fernando</rs> y don <rs key="#just">Justo</rs>.</stage>
           <sp who="#just">
             <speaker>Don Justo</speaker>
             <p> ¡Ah! ¿Dices?... ¿<hi rend="italics">de vuestra boda</hi>?... ¿De qué boda?</p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> De la nuestra.<stage> (Señalando a <rs key="#mati">Matilde</rs>.) </stage> </p>
+            <p> De la nuestra.<stage> (Señalando a <rs key="#mati">Matilde</rs>.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -3821,7 +3835,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>. Pausa prolongada, en que se miran los dos. Esta primera escena muda queda encomendada a los actores.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs> y don <rs key="#just">Justo</rs>. Pausa prolongada, en que se miran los dos. Esta primera escena muda queda encomendada a los actores.</stage>
           <sp who="#mati">
             <speaker>Matilde</speaker>
             <p> ¿Me mira usted con enojo, don <rs key="#just">Justo</rs>?</p>
@@ -3993,7 +4008,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#mati">Matilde</rs>,don <rs key="#just">Justo</rs>, <rs key="#fern">Fernando</rs>, doña <rs key="#conc"> Concepción</rs> y don <rs key="#lore">Lorenzo</rs>. 
+          <stage>
+            <rs key="#mati">Matilde</rs>,don <rs key="#just">Justo</rs>, <rs key="#fern">Fernando</rs>, doña <rs key="#conc"> Concepción</rs> y don <rs key="#lore">Lorenzo</rs>. 
 						<rs key="#fern">Fernando</rs>, como loco, trae a su madre. Don <rs key="#lore">Lorenzo</rs> les sigue.</stage>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -4169,7 +4185,7 @@
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
-            <p> ¿Y aún dudas?<stage> (A <rs key="#fern">Fernando</rs>.) </stage> </p>
+            <p> ¿Y aún dudas?<stage> (A <rs key="#fern">Fernando</rs>.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -4177,7 +4193,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> ¿Sería preciso? ¿Qué?<stage> (Con ira y acercándose amenazador.) </stage> </p>
+            <p> ¿Sería preciso? ¿Qué?<stage> (Con ira y acercándose amenazador.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -4299,10 +4315,11 @@
         <stage>La escena puede ser la misma de los actos anteriores, es decir, un salón de mucho lujo en casa de doña <rs key="#conc">Concepción</rs>. Rompimiento en el fondo de tres claros muy grandes. Más allá, se ve otro pequeño salón, también muy elegante. De frente, y en el centro de este último salón, un gran sofá o diván, y detrás algo que adorne el muro o un balcón: este diván corresponde a la puerta del centro. Sobre el diván y las mesas, telas, encajes, estuches, jarrones, pequeños cuadros y otros objetos artísticos. Son regalos de boda. Se supone que la <hi rend="italics">izquierda</hi> de <hi rend="italics">este segundo salón</hi> comunica con las habitaciones de <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>, y que comunica la <hi rend="italics">derecha</hi> con las demás habitaciones de la casa. En el <hi rend="italics">primer salón</hi>, dos <hi rend="italics">puertas</hi> con colgaduras. La de la izquierda, da a un gabinete, sin otra salida. La de la derecha, a los salones principales. Además, a la izquierda, hay una pequeña puerta de servicio. Mesas elegantes, espejos, araña en el centro, tapices, etc. En primer término, donde convenga para el juego de la escena, una mesita y un sofá. Por todas partes regalos de boda, como en el segundo salón. Es de noche: los dos salones profusamente iluminados.</stage>
         <div n="1" type="scene">
           <head>Escena Primera</head>
-          <stage><rs key="#enri">Enriqueta</rs>, dos o tres amigas y uno o dos caballeros, en el segundo salón. <rs key="#enri">Enriqueta</rs> les enseña los regalos: a veces, se les oye confusamente hablar y reír; doña <rs key="#conc"> Concepción</rs> y don <rs key="#just">Justo</rs>, en primer término.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs>, dos o tres amigas y uno o dos caballeros, en el segundo salón. <rs key="#enri">Enriqueta</rs> les enseña los regalos: a veces, se les oye confusamente hablar y reír; doña <rs key="#conc"> Concepción</rs> y don <rs key="#just">Justo</rs>, en primer término.</stage>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
-            <p> Mire usted... mire usted... <stage>(Señalando al grupo de <rs key="#enri">Enriqueta</rs>.)</stage> Les está enseñando los regalos. ¡Qué día tan feliz para mi <rs key="#enri">Enriqueta</rs>! Con muchas lágrimas se lo ha ganado. ¡Pobre niña mía! <stage>(Estremeciéndose.)</stage> </p>
+            <p> Mire usted... mire usted... <stage>(Señalando al grupo de <rs key="#enri">Enriqueta</rs>.)</stage> Les está enseñando los regalos. ¡Qué día tan feliz para mi <rs key="#enri">Enriqueta</rs>! Con muchas lágrimas se lo ha ganado. ¡Pobre niña mía! <stage>(Estremeciéndose.)</stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -4355,7 +4372,9 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p> Es muy modesta; muy modesta. Ella no quiere meter ruido.  <hi rend="italics">Casarse, y nada más.</hi> Y en seguida, al extranjero. <stage> (Con cierta ironía. Se ve que no cree en la modestia de <rs key="#enri">Enriqueta</rs>.) </stage> <hi rend="italics">Ya cogí marido y me lo llevo.</hi><stage> (En tono de broma, pero con intención.) </stage></p>
+            <p> Es muy modesta; muy modesta. Ella no quiere meter ruido.  <hi rend="italics">Casarse, y nada más.</hi> Y en seguida, al extranjero. <stage> (Con cierta ironía. Se ve que no cree en la modestia de <rs key="#enri">Enriqueta</rs>.) </stage>
+              <hi rend="italics">Ya cogí marido y me lo llevo.</hi>
+              <stage> (En tono de broma, pero con intención.) </stage></p>
           </sp>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
@@ -4434,7 +4453,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#enri">Enriqueta</rs> y don <rs key="#just">Justo</rs>.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs> y don <rs key="#just">Justo</rs>.</stage>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
             <p> ¿Y qué me regala don <rs key="#lore">Lorenzo</rs>?</p>
@@ -4474,9 +4494,7 @@
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
-            <p>
-              <hi rend="italics">Una mosquita muerta.</hi>
-            </p>
+            <p><hi rend="italics">Una mosquita muerta.</hi></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -4576,7 +4594,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> No hablemos de <rs key="#mati">Matilde</rs>: me da mucha pena. ¿Dónde estará la pobre? ¿Lo sabe usted? ¿Dónde estará? No se atreverá a venir, ¿no es cierto? <stage> (Se ve que tiene miedo.) </stage> </p>
+            <p> No hablemos de <rs key="#mati">Matilde</rs>: me da mucha pena. ¿Dónde estará la pobre? ¿Lo sabe usted? ¿Dónde estará? No se atreverá a venir, ¿no es cierto? <stage> (Se ve que tiene miedo.) </stage></p>
           </sp>
           <sp who="#just">
             <speaker>Don Justo</speaker>
@@ -4744,7 +4762,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#enri">Enriqueta</rs>; después, <rs key="#mati">Matilde</rs>, entra a su tiempo por la puerta de escape, la cierra y guarda la llave.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs>; después, <rs key="#mati">Matilde</rs>, entra a su tiempo por la puerta de escape, la cierra y guarda la llave.</stage>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
             <p> ¡Es de <rs key="#juli">Julio</rs>! ¡De <rs key="#juli">Julio</rs>! ¡Habrá sabido por ese periódico imprudente mi boda!... ¡Dios mío!... ¡Llegar al fin y no alcanzarlo!... ¡Unos minutos no más! ¡Y soy su mujer!... ¡Si lo soy,... yo haré que me quiera! Y entonces, ¡qué porvenir!... ¡Cuánta luz!... ¡Ya no tendré que fingir ni que humillarme!... ¡Pero esa carta!... ¡Y don <rs key="#just">Justo</rs> me odia!... ¡Allá, allá!... ¡No debo perderle de vista!... ¡Lucharé, lucharé! <stage> (Se dirige hacia la derecha. Suenan unos golpes en la puerta de escape.) </stage> ¿Quién llama? ¡Ah! Será <rs key="#dolo">Dolores</rs>, mi doncella. <stage> (Se dirige a la puerta y la abre. Se presenta <rs key="#mati">Matilde</rs>.)</stage> ¡<rs key="#mati">Matilde</rs>!...</p>
@@ -4855,7 +4874,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> ¡Cómo finges! ¡Es mentira; sí, eres más fuerte que yo! ¡Pero yo estoy más desesperada! Te llevo esa ventaja. ¿De mí, qué han hecho? ¡Me hicieron dudar de mi padre; mi madre me la quitaron! ¡Doña <rs key="#conc">Concepción</rs>, a fuerza de humillaciones y de alfilerazos, mató todas mis ternuras! Me rocé contigo, que fue rozarme con la deshonra y la impureza y, al seguirte por la calle, al fango de la calle fui dejando caer todos mis pudores divinos de mujer. Al acabar mi espionaje y salir de aquella casa, casi salía tan impura como tú. Y después me insultan, me escarnecen y me echan fuera... todos... todos, ¡hasta <rs key="#fern">Fernando</rs>! ¡Ah! De aquella niña cariñosa, de aquella joven tímida y honesta, de aquella mujer noble, ¡porque lo era!, ¿qué habéis hecho? ¡Un andrajo que se arroja! ¡Carne humana que se aplasta! ¡Un desperdicio que se tira! ¡Solo que este andrajo, que este desperdicio, que este mísero ser, se levanta hoy y viene a buscaros! ¡Y viene más fuerte que todos vosotros!¡Y viene a imponer su voluntad! <stage> (Riendo con algo de delirio, de desafío supremo, de desesperación.) </stage> </p>
+            <p> ¡Cómo finges! ¡Es mentira; sí, eres más fuerte que yo! ¡Pero yo estoy más desesperada! Te llevo esa ventaja. ¿De mí, qué han hecho? ¡Me hicieron dudar de mi padre; mi madre me la quitaron! ¡Doña <rs key="#conc">Concepción</rs>, a fuerza de humillaciones y de alfilerazos, mató todas mis ternuras! Me rocé contigo, que fue rozarme con la deshonra y la impureza y, al seguirte por la calle, al fango de la calle fui dejando caer todos mis pudores divinos de mujer. Al acabar mi espionaje y salir de aquella casa, casi salía tan impura como tú. Y después me insultan, me escarnecen y me echan fuera... todos... todos, ¡hasta <rs key="#fern">Fernando</rs>! ¡Ah! De aquella niña cariñosa, de aquella joven tímida y honesta, de aquella mujer noble, ¡porque lo era!, ¿qué habéis hecho? ¡Un andrajo que se arroja! ¡Carne humana que se aplasta! ¡Un desperdicio que se tira! ¡Solo que este andrajo, que este desperdicio, que este mísero ser, se levanta hoy y viene a buscaros! ¡Y viene más fuerte que todos vosotros!¡Y viene a imponer su voluntad! <stage> (Riendo con algo de delirio, de desafío supremo, de desesperación.) </stage></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -4867,7 +4886,7 @@
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
-            <p> Yo renunciaría; pero si se empeña doña <rs key="#conc">Concepción</rs>...<stage> (Aterrada, por ganar tiempo.) </stage> </p>
+            <p> Yo renunciaría; pero si se empeña doña <rs key="#conc">Concepción</rs>...<stage> (Aterrada, por ganar tiempo.) </stage></p>
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
@@ -4965,7 +4984,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>.</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> ¿Me llamabas, <rs key="#enri">Enriqueta</rs>? ¡<rs key="#mati">Matilde</rs>! ¡Tú... <rs key="#mati">Matilde</rs>!</p>
@@ -4984,7 +5004,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> ¿Y tú me lo preguntas, <rs key="#fern">Fernando</rs>? <stage> (Tímida y angustiada.)  </stage> </p>
+            <p> ¿Y tú me lo preguntas, <rs key="#fern">Fernando</rs>? <stage> (Tímida y angustiada.)  </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -5077,7 +5097,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> ¡Cálmate! ¡Ya no sale! ¡No tengas miedo! <stage>(Con la respiración anhelosa por su lucha con <rs key="#mati">Matilde</rs>.) </stage> </p>
+            <p> ¡Cálmate! ¡Ya no sale! ¡No tengas miedo! <stage>(Con la respiración anhelosa por su lucha con <rs key="#mati">Matilde</rs>.) </stage></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -5098,7 +5118,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>; don <rs key="#just">Justo</rs> que, al salir ellos, les cierra el paso.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>; don <rs key="#just">Justo</rs> que, al salir ellos, les cierra el paso.</stage>
           <sp who="#just">
             <speaker>Don Justo</speaker>
             <p><stage> (Cerrándoles el paso.) </stage> Un momento. Perdona, Enriquetita. Tengo que hablar con <rs key="#fern">Fernando</rs>.</p>
@@ -5121,7 +5142,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> ¿Qué tienes?<stage> (A <rs key="#enri">Enriqueta</rs>.) </stage> </p>
+            <p> ¿Qué tienes?<stage> (A <rs key="#enri">Enriqueta</rs>.) </stage></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -5174,7 +5195,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>. En el momento en que don <rs key="#just">Justo</rs> le da la carta, <rs key="#enri">Enriqueta</rs> se acerca a él cariñosa y pone su mano sobre la mano en que él tiene la carta.</stage>
+          <stage>
+            <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>. En el momento en que don <rs key="#just">Justo</rs> le da la carta, <rs key="#enri">Enriqueta</rs> se acerca a él cariñosa y pone su mano sobre la mano en que él tiene la carta.</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> ¿De quién es? ¿Lo sospechas?<stage> (Mirándola fijamente.)  </stage></p>
@@ -5201,7 +5223,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p>Pero ¿qué puede decir? <stage>(Con ira reconcentrada.)</stage> </p>
+            <p>Pero ¿qué puede decir? <stage>(Con ira reconcentrada.)</stage></p>
           </sp>
           <sp who="#enri">
             <speaker>Enriqueta</speaker>
@@ -5296,7 +5318,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#mati">Matilde</rs> quiere seguirle, pero se detiene.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs> quiere seguirle, pero se detiene.</stage>
           <sp who="#mati">
             <speaker>Matilde</speaker>
             <p> ¡Ah!... ¡No!... ¡Me deja! ¡Será suyo!... <stage> (Se precipita hacia la derecha.) </stage> ¡Mi <rs key="#fern">Fernando</rs>!... ¡Dios mío!... ¡Dios mío!... <stage> (Se detiene, retrocede y cae llorando en el sofá.) </stage> ¡Eso es un sueño, una pesadilla!... ¡No!... ¡Están allá! <rs key="#enri">Enriqueta</rs> dirá: «Sí», y <rs key="#fern">Fernando</rs> dirá «Sí». ¡Y ya para siempre! ¡Y yo antes me sentía con tanto valor, con tanta fiereza! ¡Mi sangre era fuego! ¡Yo era capaz de todo! Pero le vi y me miró colérico. ¡Dijo que me odiaba, que me despreciaba y se me heló la sangre! Y aquí estoy y no me atrevo a moverme. Yo quisiera morirme: morirme ahora mismo para que, cuando volviese, me encontrase muerta. No: yo debo hacer algo; pero no sé qué. <stage> (Se pasea como loca por la habitación.)  </stage> ¡Si no puedo pensar! ¡Si no puedo pararme a pensar! ¡Las ideas dan vueltas y vueltas... y muchas vueltas! ¡Y quiero cogerlas y no puedo!... ¡Ahora pasa <rs key="#enri">Enriqueta</rs>!... ¡Ahora <rs key="#fern">Fernando</rs>!... ¡Ahora un altar con luces!... ¡Ahora yo corriendo detrás de todos! ¡No, Dios mío, no: me volvería loca! <stage> (Se sienta y se tapa los ojos.) </stage> ¡No pensar! ¡Qué consuelo!... ¡Nada! ¡Nada!... ¡Sombra!... ¡Silencio!... ¡Nada!</p>
@@ -5304,7 +5327,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#mati">Matilde</rs>; <rs key="#dolo">Dolores</rs>, la doncella.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>; <rs key="#dolo">Dolores</rs>, la doncella.</stage>
           <sp who="#dolo">
             <speaker>Dolores</speaker>
             <p> ¡Señorita!</p>
@@ -5415,7 +5439,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> ¡<rs key="#fern">Fernando</rs>!<stage> (Con cierto misterio.) </stage> </p>
+            <p> ¡<rs key="#fern">Fernando</rs>!<stage> (Con cierto misterio.) </stage></p>
           </sp>
           <sp who="#dolo">
             <speaker>Dolores</speaker>
@@ -5484,7 +5508,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>. <rs key="#mati">Matilde</rs>, en el centro, pálida, descompuesta, trágica: con la carta en la mano y apretando maquinalmente el cuchillo o plegadera.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, <rs key="#enri">Enriqueta</rs> y <rs key="#fern">Fernando</rs>. <rs key="#mati">Matilde</rs>, en el centro, pálida, descompuesta, trágica: con la carta en la mano y apretando maquinalmente el cuchillo o plegadera.</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> ¡<rs key="#mati">Matilde</rs>!</p>
@@ -5612,7 +5637,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#mati">Matilde</rs>, en el sillón doblando el cuerpo sobre la mesa; <rs key="#enri">Enriqueta</rs>, en el sofá, muerta; <rs key="#fern">Fernando</rs>, en pie, con el cuchillo en la mano y la carta de <rs key="#juli">Julio</rs>. Por el segundo salón derecha, entran don <rs key="#lore">Lorenzo</rs>, doña <rs key="#conc"> Concepción</rs> y <rs key="#dolo">Dolores</rs>, que rodean a <rs key="#enri">Enriqueta</rs>. Por la derecha, primer término, don <rs key="#just">Justo</rs>, que se precipita a <rs key="#mati">Matilde</rs>.</stage>
+          <stage>
+            <rs key="#mati">Matilde</rs>, en el sillón doblando el cuerpo sobre la mesa; <rs key="#enri">Enriqueta</rs>, en el sofá, muerta; <rs key="#fern">Fernando</rs>, en pie, con el cuchillo en la mano y la carta de <rs key="#juli">Julio</rs>. Por el segundo salón derecha, entran don <rs key="#lore">Lorenzo</rs>, doña <rs key="#conc"> Concepción</rs> y <rs key="#dolo">Dolores</rs>, que rodean a <rs key="#enri">Enriqueta</rs>. Por la derecha, primer término, don <rs key="#just">Justo</rs>, que se precipita a <rs key="#mati">Matilde</rs>.</stage>
           <sp who="#conc">
             <speaker>Doña Concepción</speaker>
             <p> ¡<rs key="#enri">Enriqueta</rs>! ¡<rs key="#enri">Enriqueta</rs>!</p>
@@ -5655,7 +5681,7 @@
           </sp>
           <sp who="#mati">
             <speaker>Matilde</speaker>
-            <p> ¡No!<stage> (Queriendo levantarse.) </stage> </p>
+            <p> ¡No!<stage> (Queriendo levantarse.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>

@@ -342,7 +342,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#proc">Proclo</rs> y <rs key="#eumo">Eumorfo</rs>, a quien <rs key="#mari">Marino</rs> acompaña, yéndose luego.</stage>
+          <stage>
+            <rs key="#proc">Proclo</rs> y <rs key="#eumo">Eumorfo</rs>, a quien <rs key="#mari">Marino</rs> acompaña, yéndose luego.</stage>
           <sp who="#eumo">
             <speaker>Eumorfo</speaker>
             <p> Abismo del saber, lucero de la filosofía, archivo de todas las noticias divinas y humanas...</p>
@@ -374,7 +375,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage>Dichos, <rs key="#mari">Marino</rs></stage>
+          <stage>Dichos, <rs key="#mari">Marino</rs>
+          </stage>
           <sp who="#mari">
             <speaker>Marino</speaker>
             <p>Una dama que, si bien envuelta en velo argentino, deja traslucir que está dotada de majestuosa hermosura; una dama, cuyo traje de seda y cuyas joyas riquísimas manifiestan lo elevado de su clase, acaba de bajar de una silla de manos y se halla en la antesala aguardando que la recibas. Parece una diosa por el ritmo y la nobleza de su andar entonado y por el olor de ambrosía con que satura en torno el ambiente. ¿Le digo que aguarde?</p>

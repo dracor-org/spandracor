@@ -142,7 +142,8 @@
         </quote>
         <quote>
           <p>To die, to sleep...; to sleep... perchance to dream!</p>
-          <ab><hi rend="italic">(Hamlet)</hi>.</ab>
+          <ab>
+            <hi rend="italic">(Hamlet)</hi>.</ab>
         </quote>
         <quote>
           <sp who="#joaq">
@@ -157,17 +158,18 @@
             <speaker>Joaquín</speaker>
             <p>¡Para dárselo!</p>
           </sp>
-          <ab><stage>(<hi rend="italic">La Esfinge</hi>. Acto II, escena IX)</stage>.</ab>
+          <ab>
+            <stage>(<hi rend="italic">La Esfinge</hi>. Acto II, escena IX)</stage>.</ab>
         </quote>
       </div>
-      <div>
-			</div>
+      <div></div>
       <div>
         <head>DRAMATIS PERSONAE</head>
         <castList>
           <castItem>
             <role corresp="#ange">Ángel</role>
-            <roleDesc>, <hi rend="italic">jefe revolucionario</hi></roleDesc>
+            <roleDesc>, <hi rend="italic">jefe revolucionario</hi>
+            </roleDesc>
           </castItem>
           <castItem>
             <role corresp="#eufe">Eufemia</role>
@@ -196,13 +198,16 @@
           </castItem>
           <castItem>
             <role corresp="#mart">Martina</role>
-            <roleDesc>, <hi rend="italic">criada</hi></roleDesc>
+            <roleDesc>, <hi rend="italic">criada</hi>
+            </roleDesc>
           </castItem>
           <castItem>
-            <role corresp="#hima">El Hijo mayor <hi rend="italic">de Felipe</hi></role>
+            <role corresp="#hima">El Hijo mayor <hi rend="italic">de Felipe</hi>
+            </role>
           </castItem>
           <castItem>
-            <role corresp="#hime">El Hijo menor <hi rend="italic">de Felipe</hi></role>
+            <role corresp="#hime">El Hijo menor <hi rend="italic">de Felipe</hi>
+            </role>
           </castItem>
         </castList>
         <p>La acción, en España, en la época actual.</p>
@@ -214,10 +219,13 @@
         <stage>Ocurre la acción en él representada en el aposento de una casa de familia regularmente acomodada, donde se hallan reunidas varias personas que han festejado con un refresco cierto fausto acontecimiento. En una mesa se ve el servicio de café y los restos del refresco. Hay a un lado un armario de luna entera.</stage>
         <div n="1" type="scene">
           <head>ESCENA PRIMERA</head>
-          <stage><rs key="#eufe">Eufemia</rs>, <rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#euse">Eusebio</rs>, <rs key="#teod">Teodoro</rs>, <rs key="#pepe">Pepe</rs> y <rs key="#nico">Nicolás</rs></stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs>, <rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#euse">Eusebio</rs>, <rs key="#teod">Teodoro</rs>, <rs key="#pepe">Pepe</rs> y <rs key="#nico">Nicolás</rs>
+          </stage>
           <sp who="#joaq">
             <speaker>Joaquín</speaker>
-            <p><stage>(Dirigiéndose a</stage><rs key="#ange">Ángel</rs>.) Ahora sí que nadie se atreverá a disputarte la jefatura. Te la has ganado por aclamación popular.</p>
+            <p><stage>(Dirigiéndose a</stage>
+              <rs key="#ange">Ángel</rs>.) Ahora sí que nadie se atreverá a disputarte la jefatura. Te la has ganado por aclamación popular.</p>
           </sp>
           <sp who="#euse">
             <speaker>Eusebio</speaker>
@@ -383,7 +391,9 @@
             <speaker>Ángel</speaker>
             <p>Tú, <rs key="#pepe">Pepe</rs>, espera, y tú también... Venid a mi despacho. Tú <stage>(Dirigiéndose a <rs key="#euse">Eusebio</rs>)</stage> ponme, en tanto, esa receta.</p>
           </sp>
-          <stage>(Se van <rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#teod">Teodoro</rs>, <rs key="#pepe">Pepe</rs> y <rs key="#nico">Nicolás</rs>, después de despedirse estos cuatro de <rs key="#eufe">Eufemia</rs> <hi rend="italic">y</hi> <rs key="#euse">Eusebio</rs>.)</stage>
+          <stage>(Se van <rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#teod">Teodoro</rs>, <rs key="#pepe">Pepe</rs> y <rs key="#nico">Nicolás</rs>, después de despedirse estos cuatro de <rs key="#eufe">Eufemia</rs>
+            <hi rend="italic">y</hi>
+            <rs key="#euse">Eusebio</rs>.)</stage>
           <sp who="#teod">
             <speaker>Teodoro</speaker>
             <p><stage>(Aparte, al irse.)</stage> Se queda este lagarto... ¡Intimidades!</p>
@@ -391,7 +401,8 @@
         </div>
         <div n="2" type="scene">
           <head>ESCENA II</head>
-          <stage><rs key="#euse">Eusebio</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
+          <stage>
+            <rs key="#euse">Eusebio</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
           <sp who="#euse">
             <speaker>Eusebio</speaker>
             <p>No descuides a tu marido; me parece que emociones como la de anoche le perjudican.</p>
@@ -540,7 +551,8 @@
         </div>
         <div n="4" type="scene">
           <head>ESCENA IV</head>
-          <stage><rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¡Pobrecillo!</p>
@@ -637,7 +649,8 @@
         </div>
         <div n="6" type="scene">
           <head>ESCENA VI</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#feli">Felipe</rs>; al final, <rs key="#eufe">Eufemia</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#feli">Felipe</rs>; al final, <rs key="#eufe">Eufemia</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¡Gracias a Dios! ¡Solo! ¡Es como mejor se está!</p>
@@ -817,7 +830,8 @@
         </div>
         <div n="7" type="scene">
           <head>ESCENA VII</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>. La Tía <rs key="#ramo">Ramona</rs>, luego.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>. La Tía <rs key="#ramo">Ramona</rs>, luego.</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p>¿Qué?</p>
@@ -833,7 +847,8 @@
           <stage>(Óyese un golpecito en la puerta y una voz que dice: “¿Se puede?”)</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
-            <p>¡Adelante! <stage>(Entra la Tía <rs key="#ramo">Ramona</rs>, <hi rend="italic">y al verla hace</hi> <rs key="#ange">Ángel</rs> un gesto de impaciencia.)</stage> ¿Qué ocurre, tía?</p>
+            <p>¡Adelante! <stage>(Entra la Tía <rs key="#ramo">Ramona</rs>, <hi rend="italic">y al verla hace</hi>
+                <rs key="#ange">Ángel</rs> un gesto de impaciencia.)</stage> ¿Qué ocurre, tía?</p>
           </sp>
           <sp who="#ramo">
             <speaker>Tía Ramona</speaker>
@@ -926,7 +941,8 @@
         </div>
         <div n="8" type="scene">
           <head>ESCENA VIII</head>
-          <stage><rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p>Pero, <rs key="#ange">Ángel</rs>, que no hayas de corregirte nunca...</p>
@@ -1136,7 +1152,8 @@
         </div>
         <div n="9" type="scene">
           <head>ESCENA IX</head>
-          <stage><rs key="ange">Ángel</rs>, Solo. </stage>
+          <stage>
+            <rs key="ange">Ángel</rs>, Solo. </stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¡Bruto! ¡Bruto! ¡Sí, bruto! Es mi animalidad la que así se agarra a la vida. Dios mío, ¿por qué mi alma no te crea en fuerza de fe? Quiero humillarme, ser como los sencillos, rezar como de niño, maquinalmente, por rutina... ¡Dame fuerzas, Dios mío, para que crea en Ti! ¡Dame fuerzas para que renunciando a mí mismo me encuentre al cabo en paz! Dame fuerzas para que humillándome doble mis rodillas y brote de mis labios la plegaria de la infancia... <stage>(Mira a todas partes como por si le observasen y va a arrodillarse, pero al ir a hacerlo se levanta sobresaltado y se acerca a la puerta, como quien ha oído algún ruido.)</stage> No, no tengo valor para confesarte... No me rechaces por ello... ¿No ha de ser el consuelo verdad? ¡Humíllate, <rs key="#ange">Ángel</rs>, humíllate! <stage>(Vuelve a intentar arrodillarse y hasta llega a hacerlo, pero con disimulo, como por coger algo del suelo.)</stage> ¡Padre...! <stage>(Se levanta y va hacia la puerta.)</stage> Esto es terrible; voy creyendo que no estoy sano... <stage>(Pone una silla junto a la mesa, al lado opuesto de la puerta, y se arrodilla.)</stage> ¡Con qué sencillez lo hacía de niño! Padre nuestro, que estás...</p>
@@ -1145,7 +1162,8 @@
         </div>
         <div n="10" type="scene">
           <head>ESCENA X</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#mart">Martina</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#mart">Martina</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¡Espera! <stage>(Repasa la carta con la vista.)</stage> Dime: ¿cómo rezas?</p>
@@ -1234,15 +1252,18 @@
         </div>
         <div n="11" type="scene">
           <head>ESCENA XI</head>
-          <stage><rs key="ange">Ángel</rs>, solo.</stage>
+          <stage>
+            <rs key="ange">Ángel</rs>, solo.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
-            <p><stage>(Repasando la carta.)</stage> No debo acudir a la cita. Renunciaré de una vez para siempre a esa vida que se me convierte en muerte. Daré un adiós definitivo al mundo, quemando mis naves. ¡La renuncia! <stage>(Se sienta en la mesilla-escritorio, disponiéndose a escribir.)</stage> Una renuncia irrevocable; un acto, un verdadero acto, como dicen ellos; algo que me incapacite para volver a la vida pública, donde se tolera todo menos la confesión de culpas... <stage>(Se pone a escribir. Vuelve a ponerse a escribir cuando llaman a la puerta.)</stage> ¡Adelante! <stage>(Entra <rs key="#joaq">Joaquín</rs>, <hi rend="italic">y</hi> <rs key="#ange">Ángel</rs>, sin dejar de escribir, le saluda diciéndole:)</stage> ¡Otra vez tú por aquí! ¡Espera un poco!</p>
+            <p><stage>(Repasando la carta.)</stage> No debo acudir a la cita. Renunciaré de una vez para siempre a esa vida que se me convierte en muerte. Daré un adiós definitivo al mundo, quemando mis naves. ¡La renuncia! <stage>(Se sienta en la mesilla-escritorio, disponiéndose a escribir.)</stage> Una renuncia irrevocable; un acto, un verdadero acto, como dicen ellos; algo que me incapacite para volver a la vida pública, donde se tolera todo menos la confesión de culpas... <stage>(Se pone a escribir. Vuelve a ponerse a escribir cuando llaman a la puerta.)</stage> ¡Adelante! <stage>(Entra <rs key="#joaq">Joaquín</rs>, <hi rend="italic">y</hi>
+                <rs key="#ange">Ángel</rs>, sin dejar de escribir, le saluda diciéndole:)</stage> ¡Otra vez tú por aquí! ¡Espera un poco!</p>
           </sp>
         </div>
         <div n="12" type="scene">
           <head>ESCENA XII</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#joaq">Joaquín</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#joaq">Joaquín</rs>.</stage>
           <sp who="#joaq">
             <speaker>Joaquín</speaker>
             <p><stage>(Aparte.)</stage> No se puede abandonar el campo a la gente de Moreno; sería la demagogia. Si éste fuera otro... Pero...</p>
@@ -1425,7 +1446,8 @@
         </div>
         <div n="13" type="scene">
           <head>ESCENA XIII</head>
-          <stage><rs key="#ange">Ángel</rs>, solo; después, <rs key="#mart">Martina</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs>, solo; después, <rs key="#mart">Martina</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¡No quiero, no, no quiero! <stage>(Llamando.)</stage> ¡Cuanto antes, en caliente! ¡Que no vuelva a apoderarse de mí el demonio! <stage>(Entra <rs key="#mart">Martina</rs>.,)</stage> ¡Ven acá, <rs key="#mart">Martina</rs>! Toma esta carta y llévala a casa de Moreno; ya sabes dónde vive.</p>
@@ -1458,7 +1480,8 @@
         <stage>En otra estancia de la casa de <rs key="#ange">Ángel</rs>. Un retrato de mujer.</stage>
         <div n="1" type="scene">
           <head>ESCENA PRIMERA</head>
-          <stage><rs key="#eufe">Eufemia</rs>, bordando; la <rs key="#ramo">Tía Ramona</rs>, <rs key="#ange">Ángel</rs>, luego.</stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs>, bordando; la <rs key="#ramo">Tía Ramona</rs>, <rs key="#ange">Ángel</rs>, luego.</stage>
           <sp who="#ramo">
             <speaker>Tía Ramona</speaker>
             <p>Hoy parece más calmado, pero sigo creyendo que tu marido no anda bien de la cabeza. ¡Claro! Ha querido meter tantas cosas en ella... Leer, leer y más leer... ¡Eso vuelve loco a cualquiera!</p>
@@ -1534,7 +1557,8 @@
         </div>
         <div n="2" type="scene">
           <head>ESCENA II</head>
-          <stage><rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs> y <rs key="#ange">Ángel</rs>.</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p>Lo que has hecho, <rs key="#ange">Ángel</rs>, créemelo, no tiene nombre. No tienes ambición; ¡no eres hombre!</p>
@@ -1585,7 +1609,8 @@
           </sp>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
-            <p><stage>(Que al oír lo de “tu <rs key="#euse">Eusebio</rs>” se ha levantado, indignada.)</stage><rs key="#ange">Ángel</rs>, te dejo. Te haces el loco para mortificarme con el desdén que siempre me has profesado por ser yo mujer y nada más que por eso. La esposa del genio debe ser una muñeca, ¿no es eso? Desahogas en mí tu soberbia herida... Represento a tus ojos la concesión que al instinto animal puede hacer tu espíritu privilegiado... Así sois los hombres...</p>
+            <p><stage>(Que al oír lo de “tu <rs key="#euse">Eusebio</rs>” se ha levantado, indignada.)</stage>
+              <rs key="#ange">Ángel</rs>, te dejo. Te haces el loco para mortificarme con el desdén que siempre me has profesado por ser yo mujer y nada más que por eso. La esposa del genio debe ser una muñeca, ¿no es eso? Desahogas en mí tu soberbia herida... Represento a tus ojos la concesión que al instinto animal puede hacer tu espíritu privilegiado... Así sois los hombres...</p>
           </sp>
           <sp who="#ange">
             <speaker>Ángel</speaker>
@@ -1907,7 +1932,8 @@
         </div>
         <div n="5" type="scene">
           <head>ESCENA V</head>
-          <stage><rs key="#eufe">Eufemia</rs>, sola.</stage>
+          <stage>
+            <rs key="#eufe">Eufemia</rs>, sola.</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p>¿Equivoqué mi senda? Realiza ensueños y sueña las realidades. Si pudiese hacerle otro... Soy para él un instrumento, y nada más... ¡No..., no...; me quiere, sí, me quiere! ¡Qué alma tiene! Hay algo en él que fascina; es un misterio vivo. He de intentar el último esfuerzo para salvarle; ¡es mi obra! ¡Pobrecillo! Ahí viene...</p>
@@ -1915,7 +1941,8 @@
         </div>
         <div n="6" type="scene">
           <head>ESCENA VI</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p><stage>(Entrando.)</stage> ¿Concluisteis ya de arreglar vuestras cuentas? Todo claro; es como me gusta. Ahora es preciso que las arreglemos nosotros, porque esto no puede seguir así, <rs key="#eufe">Eufemia</rs>.</p>
@@ -2023,7 +2050,8 @@
         </div>
         <div n="7" type="scene">
           <head>ESCENA VII</head>
-          <stage><rs key="#ange">Ángel</rs>, solo, mirando al retrato, y luego, <rs key="#mart">Martina</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs>, solo, mirando al retrato, y luego, <rs key="#mart">Martina</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¿Qué hay más allá, pobre madre? Esa mirada me persigue; es la mirada del misterio... Mejor será quitar de ahí cuanto antes esa imagen, ya que me basta con la que llevo siempre en el corazón. <stage>(Llama.)</stage> ¡Quién pudiese vivir vida de idiota, reír al sol, y morirse sin saberlo! ¡Oh sencillez, sencillez, cuanto más me esfuerzo por conseguirte, menos sencillo soy! </p>
@@ -2075,7 +2103,8 @@
         </div>
         <div n="8" type="scene">
           <head>ESCENA VIII</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#eufe">Eufemia</rs>.</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p>¡Bien, <rs key="#ange">Ángel</rs>, bien! ¡Tú <stage>(A <rs key="#mart">Martina</rs>)</stage>, vete! </p>
@@ -2149,7 +2178,8 @@
         </div>
         <div n="9" type="scene">
           <head>ESCENA IX</head>
-          <stage><rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#nico">Nicolás</rs> y <rs key="#teod">Teodoro</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs>, <rs key="#joaq">Joaquín</rs>, <rs key="#nico">Nicolás</rs> y <rs key="#teod">Teodoro</rs>.</stage>
           <sp who="#joaq">
             <speaker>Joaquín</speaker>
             <p><stage>(Entrando.)</stage> ¡<rs key="#ange">Ángel</rs>!</p>
@@ -2639,13 +2669,15 @@
           </sp>
           <sp who="#ange">
             <speaker>Ángel</speaker>
-            <p><stage>(Abre la carta y lee.)</stage> “No debo retardar un momento más mi marcha, porque temo nuestras entrevistas. Has logrado tu objeto. Me voy dejándote libre, con esa libertad por la que tanto suspiras. Sé que perturbo el sosiego de que necesitas. Resuelve tu problema, mientras yo intentaré resolver el mío. Me voy a casa de tía Teresa, donde sé que no irás a molestarme. No somos el uno para el otro. Sigue tú tu camino, y el mío yo. No sé si en él te encontrarás con la que ha sido tu <hi rend="italic"><rs key="#eufe">Eufemia</rs>.” (Aplanado.)</hi> Ha sido..., ha sido..., ha sido... <stage>(Volviendo a leer.)</stage> “Te dejo libre, con esa libertad por la que tanto suspiras...; yo intentaré resolver el mío.” ¡Su problema! Luego ella también lo tiene... ¡Sí, tiene su alma, como yo! ¡Libertad..., libertad..., libertad...! Solo..., solo..., solo... <stage>(Se sienta, apoya la cabeza en las manos, y tras una pausa, extendiendo los brazos.)</stage> Sociedad..., naturaleza..., tierra..., cielos..., mundos... ¡Qué grande todo! ¡Qué grande! ¡Qué inmensidad! Y yo perdido como una gota en este océano sin riberas... que me absorbe y anula... ¡Qué inmenso todo! Y yo solo..., solo..., sin poder arrancarme a mí mismo... ¡Hay que acabar de una vez! <stage>(Va a un cajón, del que saca una caja de pistolas, y cuando toma una de éstas, se detiene al oír el piano del vecino que toca el "Pietá, Signore", de Stradella.) </stage>¡Oh, qué oleadas levantó en un tiempo en mi corazón ese canto! ¡Cómo se henchía a sus acentos! ¡Piedad, Señor!</p>
+            <p><stage>(Abre la carta y lee.)</stage> “No debo retardar un momento más mi marcha, porque temo nuestras entrevistas. Has logrado tu objeto. Me voy dejándote libre, con esa libertad por la que tanto suspiras. Sé que perturbo el sosiego de que necesitas. Resuelve tu problema, mientras yo intentaré resolver el mío. Me voy a casa de tía Teresa, donde sé que no irás a molestarme. No somos el uno para el otro. Sigue tú tu camino, y el mío yo. No sé si en él te encontrarás con la que ha sido tu <hi rend="italic">
+                <rs key="#eufe">Eufemia</rs>.” (Aplanado.)</hi> Ha sido..., ha sido..., ha sido... <stage>(Volviendo a leer.)</stage> “Te dejo libre, con esa libertad por la que tanto suspiras...; yo intentaré resolver el mío.” ¡Su problema! Luego ella también lo tiene... ¡Sí, tiene su alma, como yo! ¡Libertad..., libertad..., libertad...! Solo..., solo..., solo... <stage>(Se sienta, apoya la cabeza en las manos, y tras una pausa, extendiendo los brazos.)</stage> Sociedad..., naturaleza..., tierra..., cielos..., mundos... ¡Qué grande todo! ¡Qué grande! ¡Qué inmensidad! Y yo perdido como una gota en este océano sin riberas... que me absorbe y anula... ¡Qué inmenso todo! Y yo solo..., solo..., sin poder arrancarme a mí mismo... ¡Hay que acabar de una vez! <stage>(Va a un cajón, del que saca una caja de pistolas, y cuando toma una de éstas, se detiene al oír el piano del vecino que toca el "Pietá, Signore", de Stradella.) </stage>¡Oh, qué oleadas levantó en un tiempo en mi corazón ese canto! ¡Cómo se henchía a sus acentos! ¡Piedad, Señor!</p>
           </sp>
           <stage>(Cuando va a arrodillarse, entra <rs key="#mart">Martina</rs>.)</stage>
         </div>
         <div n="11" type="scene">
           <head>ESCENA XI</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#pepe">Pepe</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#pepe">Pepe</rs>.</stage>
           <sp who="#mart">
             <speaker>Martina</speaker>
             <p>El señorito don <rs key="#pepe">José</rs>...</p>
@@ -2755,7 +2787,8 @@
         <stage>Estancia de casa modesta. A un lado, un balcón o ventana que da a la calle, y en otro, un sofá. En la pared, un cristo.</stage>
         <div n="1" type="scene">
           <head>ESCENA PRIMERA</head>
-          <stage><rs key="#feli">Felipe</rs> y sus dos hijos, de seis y nueve años.</stage>
+          <stage>
+            <rs key="#feli">Felipe</rs> y sus dos hijos, de seis y nueve años.</stage>
           <sp who="#feli">
             <speaker>Felipe</speaker>
             <p>Y Dios les puso en aquel jardín hermosísimo para que lo cuidasen y trabajasen y se pasaran la vida bendiciendo al Señor. Sólo les prohibió que tocasen a un árbol: el árbol de la ciencia del bien y del mal...</p>
@@ -2886,7 +2919,8 @@
         </div>
         <div n="3" type="scene">
           <head>ESCENA III</head>
-          <stage><rs key="#ange">Ángel</rs> y <rs key="#feli">Felipe</rs>.</stage>
+          <stage>
+            <rs key="#ange">Ángel</rs> y <rs key="#feli">Felipe</rs>.</stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p><stage>(Sentándose.)</stage> Sí, <rs key="#feli">Felipe</rs>; quiso el hombre ser dios, conocedor de la ciencia del bien y del mal, y así que la hubo probado, conoció, ante todo, su propia desnudez y se vio sujeto al trabajo y al progreso...</p>
@@ -3238,7 +3272,8 @@
             <speaker>Ángel</speaker>
             <p>¿Esconderme? ¿Como Adán cuando le llamó Dios? No siento vergüenza de presentarme desnudo al pueblo.</p>
           </sp>
-          <stage>(Se levanta, se sienta, vuelve a levantarse <hi rend="italic">y acciona solo mientras los otros hablan.</hi> <rs key="#nico">Nicolás</rs> se asoma de cuando en cuando a la ventana.)</stage>
+          <stage>(Se levanta, se sienta, vuelve a levantarse <hi rend="italic">y acciona solo mientras los otros hablan.</hi>
+            <rs key="#nico">Nicolás</rs> se asoma de cuando en cuando a la ventana.)</stage>
           <sp who="#joaq">
             <speaker>Joaquín</speaker>
             <p>¡<rs key="#ange">Ángel</rs>! Aún tienes tiempo...; el último momento..., el que no vuelve... ¡Aprovéchalo! Vuelve en ti; sé una vez siquiera hombre natural..., humano... Arroja de ti esa egoísta voluptuosidad de la tristeza... La acción...</p>
@@ -3428,12 +3463,16 @@
             <speaker>Joaquín</speaker>
             <p>¿Y ahora?</p>
           </sp>
-          <stage>(<rs key="#feli">Felipe</rs> <hi rend="italic">va a abrir y se precipitan</hi> <rs key="#eufe">Eufemia</rs> y <rs key="#euse">Eusebio</rs>.)</stage>
+          <stage>(<rs key="#feli">Felipe</rs>
+            <hi rend="italic">va a abrir y se precipitan</hi>
+            <rs key="#eufe">Eufemia</rs> y <rs key="#euse">Eusebio</rs>.)</stage>
           <sp who="#eufe">
             <speaker>Eufemia</speaker>
             <p><stage>(Registra con la mirada toda la estancia y al ver a <rs key="#ange">Ángel</rs> tendido en el sofá corre a él, gritando:)</stage> ¡<rs key="#ange">Ángel</rs>, <rs key="#ange">Ángel</rs> mío!</p>
           </sp>
-          <stage>(<rs key="#euse">Eusebio</rs> <hi rend="italic">se queda atrás.)</hi></stage>
+          <stage>(<rs key="#euse">Eusebio</rs>
+            <hi rend="italic">se queda atrás.)</hi>
+          </stage>
           <sp who="#ange">
             <speaker>Ángel</speaker>
             <p>¿Tú..., tú...; tú aquí...?</p>

@@ -211,7 +211,7 @@
           </sp>
           <sp who="#palm">
             <speaker>Pamira</speaker>
-            <p>Sí.<stage>(Dejándose besar.) </stage> </p>
+            <p>Sí.<stage>(Dejándose besar.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -279,20 +279,21 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> Es una marmota.<stage> (Reparándola.)</stage> No; es un ángel, pero un ángel enfermizo. ¡Oh, qué cansancio el suyo! <stage>(Le toma el pulso y le toca la frente.)</stage>¡Infeliz criatura! Agobiada por el trabajo; mal alimentada, de fijo... ¿Quién será? ¿Estará enferma? <stage>(Le quita yerbas pegadas a la frente.)</stage> ¡Enferma, pero trabaja! <stage>(Repara que <rs key="#palm">Palmira</rs> corre por la carretera, hacia el foro, gritando.) </stage>  </p>
+            <p> Es una marmota.<stage> (Reparándola.)</stage> No; es un ángel, pero un ángel enfermizo. ¡Oh, qué cansancio el suyo! <stage>(Le toma el pulso y le toca la frente.)</stage>¡Infeliz criatura! Agobiada por el trabajo; mal alimentada, de fijo... ¿Quién será? ¿Estará enferma? <stage>(Le quita yerbas pegadas a la frente.)</stage> ¡Enferma, pero trabaja! <stage>(Repara que <rs key="#palm">Palmira</rs> corre por la carretera, hacia el foro, gritando.) </stage></p>
           </sp>
           <sp who="#palm">
             <speaker>Pamira</speaker>
-            <p> ¡Madre, madre! <stage>(Desaparece por el último término izquierda.) </stage> </p>
+            <p> ¡Madre, madre! <stage>(Desaparece por el último término izquierda.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> Por allí viene gente: un grupo. Serán mineros. Sí: <rs key="#roqu">Roque</rs>... y <rs key="#tere">Teresa</rs>... y más serán. No quiero que me vean. Ahora no. La niña diría lo de la peseta; y ese <rs key="#roqu">Roque</rs> es altivo, creo. No querrá limosnas, de fijo. Además, le he visto mirarme con malos ojos. Tal vez sospecha. Pero yo he de verla, he de hablar con ella otra vez. Mañana, al ser de día, sale el tren, y he de marchar; no hay remedio. Sí: hablaré a <rs key="#tere">Teresa</rs> esta noche. Si puedo, aquí, a solas, cuando él salga, pues sé que sale: va a perorar a la taberna. Y si no, con un pretexto, entraré luego ahí, aunque esté <rs key="#roqu">Roque</rs>. Se acercan. Ahora, a mi escondite, ahí, en la Foz, entre los árboles, donde la contemplé esta tarde... ¡tan triste, tan pobre, tan dulce en su miseria...! Perdida la lozanía... y más hermosa. ¡Mi pobre ilusión del amor humilde, puro, respetuoso... no desvanecida, no, transformada; deshecha en humo, no: convertida en olorosa nube de ideal incienso, de impasible abnegación, de tristeza inexorable. ¡Oh, realidad, maestra de la vida y de la muerte! ¡Poética en tus desengaños, como este crepúsculo en la aldea! <stage>(Se oye a lo lejos rumor de voces en disputa áspera, sorda, lenta: otras veces la voz de <rs key="#palm">Palmira</rs> que llama a su madre; y por fin, la gaita o caramillo, muy lejos, perdiéndose en la distancia. <rs key="#fern">Fernando</rs> sale de la escena por el primer término izquierda: al sentir acercarse por la carretera un grupo de mineras.)  </stage>  </p>
+            <p> Por allí viene gente: un grupo. Serán mineros. Sí: <rs key="#roqu">Roque</rs>... y <rs key="#tere">Teresa</rs>... y más serán. No quiero que me vean. Ahora no. La niña diría lo de la peseta; y ese <rs key="#roqu">Roque</rs> es altivo, creo. No querrá limosnas, de fijo. Además, le he visto mirarme con malos ojos. Tal vez sospecha. Pero yo he de verla, he de hablar con ella otra vez. Mañana, al ser de día, sale el tren, y he de marchar; no hay remedio. Sí: hablaré a <rs key="#tere">Teresa</rs> esta noche. Si puedo, aquí, a solas, cuando él salga, pues sé que sale: va a perorar a la taberna. Y si no, con un pretexto, entraré luego ahí, aunque esté <rs key="#roqu">Roque</rs>. Se acercan. Ahora, a mi escondite, ahí, en la Foz, entre los árboles, donde la contemplé esta tarde... ¡tan triste, tan pobre, tan dulce en su miseria...! Perdida la lozanía... y más hermosa. ¡Mi pobre ilusión del amor humilde, puro, respetuoso... no desvanecida, no, transformada; deshecha en humo, no: convertida en olorosa nube de ideal incienso, de impasible abnegación, de tristeza inexorable. ¡Oh, realidad, maestra de la vida y de la muerte! ¡Poética en tus desengaños, como este crepúsculo en la aldea! <stage>(Se oye a lo lejos rumor de voces en disputa áspera, sorda, lenta: otras veces la voz de <rs key="#palm">Palmira</rs> que llama a su madre; y por fin, la gaita o caramillo, muy lejos, perdiéndose en la distancia. <rs key="#fern">Fernando</rs> sale de la escena por el primer término izquierda: al sentir acercarse por la carretera un grupo de mineras.)  </stage></p>
           </sp>
         </div>
         <div n="2" type="scene">
           <head>Escena Segunda</head>
-          <stage><rs key="#rita">Rita</rs>; <rs key="#roqu">Roque</rs> y varios mineros.Llega al primer término de la izquierda un grupo de mineros, entre ellos <rs key="#roqu">Roque</rs>, el cual manifiesta al andar que tiene un pie herido: el zapato de este pie, roto por delante.</stage>
+          <stage>
+            <rs key="#rita">Rita</rs>; <rs key="#roqu">Roque</rs> y varios mineros.Llega al primer término de la izquierda un grupo de mineros, entre ellos <rs key="#roqu">Roque</rs>, el cual manifiesta al andar que tiene un pie herido: el zapato de este pie, roto por delante.</stage>
           <sp who="#min2">
             <speaker>Minero 2º</speaker>
             <p> ¡Con Dios, <rs key="#roqu">Roque</rs>; y por la fresca, arriba; y otra vez al pozo! </p>
@@ -319,7 +320,7 @@
           </sp>
           <sp who="#min2">
             <speaker>Minero 2º</speaker>
-            <p> Vaya, con Dios. Ya empieza el predicador... ¡Lilailas! El pobre siempre sudará mucho para comer poco... Los papeles... la taberna... los sermones. ¡Lilailas! Siempre fue lo mismo. Vaya; buenas noches. <rs key="#roqu">Roque</rs>, cena, si hay qué; y a la cama. <stage>(Sale por la izquierda a paso lento bostezando.) </stage> </p>
+            <p> Vaya, con Dios. Ya empieza el predicador... ¡Lilailas! El pobre siempre sudará mucho para comer poco... Los papeles... la taberna... los sermones. ¡Lilailas! Siempre fue lo mismo. Vaya; buenas noches. <rs key="#roqu">Roque</rs>, cena, si hay qué; y a la cama. <stage>(Sale por la izquierda a paso lento bostezando.) </stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -347,7 +348,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p> Sí; toda la que habéis dejado segada.   <stage> (Soñolienta y otra vez quitándose de la garganta y del pecho briznas del heno pegado a la piel.) </stage> </p>
+            <p> Sí; toda la que habéis dejado segada.   <stage> (Soñolienta y otra vez quitándose de la garganta y del pecho briznas del heno pegado a la piel.) </stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -359,7 +360,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p>¿Calor?  <stage>(Le pasa la mano por la frente y las muñecas.)</stage>  </p>
+            <p>¿Calor?  <stage>(Le pasa la mano por la frente y las muñecas.)</stage></p>
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
@@ -379,7 +380,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p>  Hay patatas. <stage>(Gesto de repugnancia.)</stage> </p>
+            <p>  Hay patatas. <stage>(Gesto de repugnancia.)</stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -423,7 +424,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p>Te arde el pellejo. <stage>(Vuelve a tocarle las muñecas.)</stage> </p>
+            <p>Te arde el pellejo. <stage>(Vuelve a tocarle las muñecas.)</stage></p>
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
@@ -463,7 +464,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p>  ¿Qué hay, pulga?  <stage>(Coge en brazos a <rs key="#palm">Palmira</rs> que le enseña las manos vacías.) </stage> </p>
+            <p>  ¿Qué hay, pulga?  <stage>(Coge en brazos a <rs key="#palm">Palmira</rs> que le enseña las manos vacías.) </stage></p>
           </sp>
           <sp who="#palm">
             <speaker>Palmira</speaker>
@@ -511,7 +512,7 @@
           </sp>
           <sp who="#palm">
             <speaker>Pamira</speaker>
-            <p>¡Es mía! ¡Es mía! <stage>(Llorando.)</stage>  </p>
+            <p>¡Es mía! ¡Es mía! <stage>(Llorando.)</stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -543,12 +544,13 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p> Que no hay justicia en la tierra; ya lo sé. A eso vamos; a buscarla. ¡Adelante, adelante! <stage> (Sale por la izquierda con los demás mineros.) </stage>  </p>
+            <p> Que no hay justicia en la tierra; ya lo sé. A eso vamos; a buscarla. ¡Adelante, adelante! <stage> (Sale por la izquierda con los demás mineros.) </stage></p>
           </sp>
         </div>
         <div n="4" type="scene">
           <head>Escena Cuarta</head>
-          <stage><rs key="#tere">Teresa</rs>, <rs key="#rita">Rita</rs> y <rs key="#palm">Palmira</rs>.Mientras hablan <rs key="#tere">Teresa</rs> y <rs key="#rita">Rita</rs>, <rs key="#palm">Palmira</rs> entra sollozando en la casa; se sube sobre un banco de madera; busca en el cajón de la mesa; saca un pedazo de pan, y llorando y comiendo, se queda dormida en el suelo, junto a la mesa.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs>, <rs key="#rita">Rita</rs> y <rs key="#palm">Palmira</rs>.Mientras hablan <rs key="#tere">Teresa</rs> y <rs key="#rita">Rita</rs>, <rs key="#palm">Palmira</rs> entra sollozando en la casa; se sube sobre un banco de madera; busca en el cajón de la mesa; saca un pedazo de pan, y llorando y comiendo, se queda dormida en el suelo, junto a la mesa.</stage>
           <sp who="#tere">
             <speaker>Teresa</speaker>
             <p>No hay justicia... ni hay caldo. ¡Pobre <rs key="#rita">Rita</rs>! <stage> (Mirándola y sonriendo con tristeza.) </stage> Tú bien lo sabes, no hay tal chocolate. <stage>(<rs key="#rita">Rita</rs> hace un gesto de resignación casi indiferente: extiende los brazos en cruz; hace un esfuerzo para andar, y acercándose a <rs key="#tere">Teresa</rs>, le echa un brazo alrededor del cuello.)</stage></p>
@@ -563,7 +565,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p> ¿Y si llueve?  <stage> (Habla con dificultad, soñolienta, con voz débil.)  </stage>  </p>
+            <p> ¿Y si llueve?  <stage> (Habla con dificultad, soñolienta, con voz débil.)  </stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -571,7 +573,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p> Sí, tú; todo tú. Ni tú ni él podéis con tanto. La mina, el ganado, el maíz, la colada, la ropa al río... <rs key="#palm">Palmira</rs>, yo... cargas y más cargas.  <stage>(Se levanta del montón de grava, donde habrá vuelto a sentarse. Procura seguir a <rs key="#tere">Teresa</rs> que habrá entrado en la casa, recogiendo antes la herrada.) </stage> Dejadme ayudar; ayudar, o morir. <stage>(<rs key="#tere">Teresa</rs> habrá dejado la herrada pendiente de un gancho, cerca del hogar. Sin ver a <rs key="#palm">Palmira</rs>, enciende un quinqué pobre, colgado cerca del hogar también, y vuelve a salir de la casa.) </stage>¡Dios mío; este sueño; este cansancio; esta cabeza! ¡Ah! La Gallarda no sé qué tiene; todo el día anduvo echándose por tierra. ¡Pobre vaca! Como yo; quiere y no puede... Pero ella es vieja; ya sirvió; ya trabajó... y yo... yo... <stage>(Muestra gran debilidad, y se deja caer otra vez en el banco de la ventana.)</stage> </p>
+            <p> Sí, tú; todo tú. Ni tú ni él podéis con tanto. La mina, el ganado, el maíz, la colada, la ropa al río... <rs key="#palm">Palmira</rs>, yo... cargas y más cargas.  <stage>(Se levanta del montón de grava, donde habrá vuelto a sentarse. Procura seguir a <rs key="#tere">Teresa</rs> que habrá entrado en la casa, recogiendo antes la herrada.) </stage> Dejadme ayudar; ayudar, o morir. <stage>(<rs key="#tere">Teresa</rs> habrá dejado la herrada pendiente de un gancho, cerca del hogar. Sin ver a <rs key="#palm">Palmira</rs>, enciende un quinqué pobre, colgado cerca del hogar también, y vuelve a salir de la casa.) </stage>¡Dios mío; este sueño; este cansancio; esta cabeza! ¡Ah! La Gallarda no sé qué tiene; todo el día anduvo echándose por tierra. ¡Pobre vaca! Como yo; quiere y no puede... Pero ella es vieja; ya sirvió; ya trabajó... y yo... yo... <stage>(Muestra gran debilidad, y se deja caer otra vez en el banco de la ventana.)</stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -579,7 +581,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p>¡Hambre... puaf!  <stage> (Repugnancia.)   </stage>  </p>
+            <p>¡Hambre... puaf!  <stage> (Repugnancia.)   </stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -595,7 +597,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p><stage> (Avergonzada.)</stage> Sí; ya sé... Cuando esos malditos le sublevan... le emborrachan... ¡Esa Eulalia... con su taberna que Dios confunda! Él es el que paga, para que le oigan leer los papeles, y decir aquello de que él se debe a sus ideas... ¡Oh, pues yo a las mías no les debo nada bueno!  <stage>(Sombría.)</stage> ¡Porque... aquí... entre sueños... entre dormida y loca... tengo unas ideas!... Pero... puede más la fatiga que ellas. <stage>(Se levanta.)</stage> </p>
+            <p><stage> (Avergonzada.)</stage> Sí; ya sé... Cuando esos malditos le sublevan... le emborrachan... ¡Esa Eulalia... con su taberna que Dios confunda! Él es el que paga, para que le oigan leer los papeles, y decir aquello de que él se debe a sus ideas... ¡Oh, pues yo a las mías no les debo nada bueno!  <stage>(Sombría.)</stage> ¡Porque... aquí... entre sueños... entre dormida y loca... tengo unas ideas!... Pero... puede más la fatiga que ellas. <stage>(Se levanta.)</stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -655,7 +657,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> Todo es cruz. <stage>(<rs key="#rita">Rita</rs> se deja caer otra vez sobre el banco.) </stage> </p>
+            <p> Todo es cruz. <stage>(<rs key="#rita">Rita</rs> se deja caer otra vez sobre el banco.) </stage></p>
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
@@ -683,7 +685,7 @@
           </sp>
           <sp who="#rita">
             <speaker>Rita</speaker>
-            <p><stage>(Que se va quedando dormida.) </stage>Allá dentro. <stage>(<rs key="#tere">Teresa</rs> entra en la casa. La niña ya está dormida. La coge en brazos después de quitarle el pan que le sobre y guardarlo en la mesa. Lleva a <rs key="#palm">Palmira</rs> por la primera puerta de la derecha, y muy pronto vuelve y sale de la casa.) </stage>  </p>
+            <p><stage>(Que se va quedando dormida.) </stage>Allá dentro. <stage>(<rs key="#tere">Teresa</rs> entra en la casa. La niña ya está dormida. La coge en brazos después de quitarle el pan que le sobre y guardarlo en la mesa. Lleva a <rs key="#palm">Palmira</rs> por la primera puerta de la derecha, y muy pronto vuelve y sale de la casa.) </stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -692,10 +694,11 @@
         </div>
         <div n="5" type="scene">
           <head>Escena Quinta</head>
-          <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>; <rs key="#rita">Rita</rs>, que no habla más.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>; <rs key="#rita">Rita</rs>, que no habla más.</stage>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> ¡Buenas noches, señorito! <stage>(Al tratar de incorporarse <rs key="#rita">Rita</rs>, se le cae la carga hacia un lado, <rs key="#fern">Fernando</rs> la sujeta y entre ambos la sostienen.) </stage> </p>
+            <p> ¡Buenas noches, señorito! <stage>(Al tratar de incorporarse <rs key="#rita">Rita</rs>, se le cae la carga hacia un lado, <rs key="#fern">Fernando</rs> la sujeta y entre ambos la sostienen.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -719,12 +722,13 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> No, señor. ¡Qué criada! No. Es hermana de <rs key="#roqu">Roque</rs>. No tiene padre ni madre. Es <rs key="#rita">Rita</rs>; nuestra <rs key="#rita">Rita</rs>. <stage>(Salen de la escena por la primera puerta de la derecha y vuelven a poco.) </stage> </p>
+            <p> No, señor. ¡Qué criada! No. Es hermana de <rs key="#roqu">Roque</rs>. No tiene padre ni madre. Es <rs key="#rita">Rita</rs>; nuestra <rs key="#rita">Rita</rs>. <stage>(Salen de la escena por la primera puerta de la derecha y vuelven a poco.) </stage></p>
           </sp>
         </div>
         <div n="6" type="scene">
           <head>Escena Sexta</head>
-          <stage><rs key="#fern">Fernando</rs>, detrás; y a poco <rs key="#tere">Teresa</rs>.-</stage>
+          <stage>
+            <rs key="#fern">Fernando</rs>, detrás; y a poco <rs key="#tere">Teresa</rs>.-</stage>
           <sp who="#fern">
             <speaker>Fernando</speaker>
             <p> Parece que duerme profundamente.</p>
@@ -763,7 +767,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> Murió en mis brazos. ¡Pobre señorita <rs key="#palm">Palmira</rs>! Claro; mi hija como ella. A la señora no la vi morir. Ya estaba yo aquí en el valle. Me casé aquel año. Yo me casé en febrero y la señora murió en marzo. <stage>(Pausa. <rs key="#tere">Teresa</rs> nota que <rs key="#fern">Fernando</rs> la mira fijamente, y se impacienta, va y viene como desconcertada de la puerta de la calle al hogar.) </stage> </p>
+            <p> Murió en mis brazos. ¡Pobre señorita <rs key="#palm">Palmira</rs>! Claro; mi hija como ella. A la señora no la vi morir. Ya estaba yo aquí en el valle. Me casé aquel año. Yo me casé en febrero y la señora murió en marzo. <stage>(Pausa. <rs key="#tere">Teresa</rs> nota que <rs key="#fern">Fernando</rs> la mira fijamente, y se impacienta, va y viene como desconcertada de la puerta de la calle al hogar.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -803,7 +807,8 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p><stage>(Impaciente.)</stage><rs key="#roqu">Roque</rs> trabaja como un león. </p>
+            <p><stage>(Impaciente.)</stage>
+              <rs key="#roqu">Roque</rs> trabaja como un león. </p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -819,7 +824,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> Esperar... no sé. Ni sí, ni no. Hace mucho tiempo que no espero nada bueno... ni desespero. Todo puede venir.<stage> (Silencio.) </stage> </p>
+            <p> Esperar... no sé. Ni sí, ni no. Hace mucho tiempo que no espero nada bueno... ni desespero. Todo puede venir.<stage> (Silencio.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -843,7 +848,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> Es que... es muy largo de explicar... <rs key="#roqu">Roque</rs>, mi <rs key="#roqu">Roque</rs>... vale más que esos que dicen... ¡yo no me quejo! ¡Nadie sabe nada! Ellos son los que mienten. <stage>(Exaltada.) </stage>  </p>
+            <p> Es que... es muy largo de explicar... <rs key="#roqu">Roque</rs>, mi <rs key="#roqu">Roque</rs>... vale más que esos que dicen... ¡yo no me quejo! ¡Nadie sabe nada! Ellos son los que mienten. <stage>(Exaltada.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -851,7 +856,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p>  ¡Claro! <stage>(Tono especial de convicción; con un timbre como extraño a la voz ordinaria de <rs key="#tere">Teresa</rs>.) </stage> </p>
+            <p>  ¡Claro! <stage>(Tono especial de convicción; con un timbre como extraño a la voz ordinaria de <rs key="#tere">Teresa</rs>.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -919,7 +924,8 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> Sí; pero hay que decirlo todo. Sí, todo, por lo que ya sabes; porque tengo que marcharme... ¡y así no quiero irme! <stage>(Se pone en pie exaltado.) </stage> <rs key="#tere">Teresa</rs>, mi madre quería que el señorito y la criada, se amasen como hermanos; pero si el señorito se hubiese enamorado de la criada, no le hubiese dejado decirle que la quería... casarse con ella. Si un día llegó a temer algo, no se sabe; lo cierto es que la criada salió de casa con un pretexto... y al año se casó; y a poco desapareció del pueblo... y vino a enterrarse en las minas. </p>
+            <p> Sí; pero hay que decirlo todo. Sí, todo, por lo que ya sabes; porque tengo que marcharme... ¡y así no quiero irme! <stage>(Se pone en pie exaltado.) </stage>
+              <rs key="#tere">Teresa</rs>, mi madre quería que el señorito y la criada, se amasen como hermanos; pero si el señorito se hubiese enamorado de la criada, no le hubiese dejado decirle que la quería... casarse con ella. Si un día llegó a temer algo, no se sabe; lo cierto es que la criada salió de casa con un pretexto... y al año se casó; y a poco desapareció del pueblo... y vino a enterrarse en las minas. </p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -1043,7 +1049,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p><stage>(Impaciente.)</stage> Pues es bien claro: que viene <rs key="#roqu">Roque</rs>; que... no vendrá bueno; que no viene solo. Y no ha de verle a usted conmigo; solos aquí, a estas horas. <stage>(Le lleva del brazo hasta la puerta, sin oírle, atenta sólo a los de fuera.) </stage> </p>
+            <p><stage>(Impaciente.)</stage> Pues es bien claro: que viene <rs key="#roqu">Roque</rs>; que... no vendrá bueno; que no viene solo. Y no ha de verle a usted conmigo; solos aquí, a estas horas. <stage>(Le lleva del brazo hasta la puerta, sin oírle, atenta sólo a los de fuera.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -1088,7 +1094,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena Séptima</head>
-          <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs> en la casa; fuera <rs key="#roqu">Roque</rs> y grupo de <rs key="#min1 #min2">Mineros</rs>.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs> en la casa; fuera <rs key="#roqu">Roque</rs> y grupo de <rs key="#min1 #min2">Mineros</rs>.</stage>
           <sp who="#roqu">
             <speaker>Roque</speaker>
             <p> ¡Vaya! ¡Basta! No necesito de nadie. Sé andar solo.  <stage>(Da algunos pasos vacilantes. El pie herido, lo apoya apenas en el suelo; trae destrozado el pantalón por debajo y el zapato con manchas de barro y sangre y medio deshecho.) </stage>¡Ah, rayos! <stage>(Grita así al sentir el dolor del pie, que quiere apoyar en tierra. Se inclina para apoyarse en el montón de grava y no caer. Se le acercan los del grupo, que muestran solicitud y animación de gente que ha bebido demasiado.) </stage></p>
@@ -1176,7 +1183,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena Octava</head>
-          <stage><rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs>; <rs key="#fern">Fernando</rs>, escondido.-</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs>; <rs key="#fern">Fernando</rs>, escondido.-</stage>
           <sp who="#tere">
             <speaker>Teresa</speaker>
             <p> ¿Qué es esto, <rs key="#roqu">Roque</rs>? ¿Por qué vuelves tan pronto? ¿Qué tienes? </p>
@@ -1191,7 +1199,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p> ¡Silencio! ¡Déjame! ¡Maldita casa! ¡Maldita mujer!... ¡Cómo atáis; cómo atáis a la miseria... y al miedo... al miedo de perder el pan... y la honra; ¡oh, yo quería ser libre! ¡Para luchar, para vengarme!... Para no deber a ese miserable, a ese judío... que me insulta, porque me tiene atado... porque... ¡Tú tienes la culpa de todo! <stage>(Airado.) </stage> </p>
+            <p> ¡Silencio! ¡Déjame! ¡Maldita casa! ¡Maldita mujer!... ¡Cómo atáis; cómo atáis a la miseria... y al miedo... al miedo de perder el pan... y la honra; ¡oh, yo quería ser libre! ¡Para luchar, para vengarme!... Para no deber a ese miserable, a ese judío... que me insulta, porque me tiene atado... porque... ¡Tú tienes la culpa de todo! <stage>(Airado.) </stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -1215,7 +1223,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p> ¡No te acerques... o no respondo!...<stage> (Entra él solo en la casa con dificultad; se sienta en el banco junto a la mesa; apoya el pie en ésta, y la cabeza en la mano.)</stage> </p>
+            <p> ¡No te acerques... o no respondo!...<stage> (Entra él solo en la casa con dificultad; se sienta en el banco junto a la mesa; apoya el pie en ésta, y la cabeza en la mano.)</stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -1260,10 +1268,11 @@
         </div>
         <div n="9" type="scene">
           <head>Escena Novena</head>
-          <stage><rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>.<rs key="#tere">Teresa</rs> se deja caer sollozando sobre una silla de paja que hay cerca de la ventana. <rs key="#fern">Fernando</rs> sale de su escondite.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs> y <rs key="#fern">Fernando</rs>.<rs key="#tere">Teresa</rs> se deja caer sollozando sobre una silla de paja que hay cerca de la ventana. <rs key="#fern">Fernando</rs> sale de su escondite.</stage>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> ¡Oh!  <stage>(Levantándose asustada al verle.) </stage> </p>
+            <p> ¡Oh!  <stage>(Levantándose asustada al verle.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -1324,7 +1333,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena Décima</head>
-          <stage><rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs> en la casa; <rs key="#fern">Fernando</rs> fuera.<rs key="#roqu">Roque</rs> aparece en el umbral, donde se detiene, apoyándose en el marco de la puerta. Cada vez anda con más dificultad. Dará muestras de gran fatiga, postración sombría, más furor, pero más ciego, incoherente y de difícil expresión.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs> y <rs key="#roqu">Roque</rs> en la casa; <rs key="#fern">Fernando</rs> fuera.<rs key="#roqu">Roque</rs> aparece en el umbral, donde se detiene, apoyándose en el marco de la puerta. Cada vez anda con más dificultad. Dará muestras de gran fatiga, postración sombría, más furor, pero más ciego, incoherente y de difícil expresión.</stage>
           <sp who="#roqu">
             <speaker>Roque</speaker>
             <p> ¿Con quién hablabas?</p>
@@ -1335,7 +1345,7 @@
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
-            <p> No te entiendo... no veo... Tengo aquí plomo, <stage>(En la cabeza.)</stage>y aquí cien perros de presa. <stage>(En el pie herido.) </stage> </p>
+            <p> No te entiendo... no veo... Tengo aquí plomo, <stage>(En la cabeza.)</stage>y aquí cien perros de presa. <stage>(En el pie herido.) </stage></p>
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
@@ -1355,7 +1365,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> ¡Déjame curarte, <rs key="#roqu">Roque</rs>! ¡Sangras! <stage>(<rs key="#tere">Teresa</rs> se arrodilla con una pierna, y así, avanza hacia <rs key="#roqu">Roque</rs> como pretendiendo cogerle el pie herido. Procura <rs key="#roqu">Roque</rs> retirarlo, retrocediendo algo, y esquiva a <rs key="#tere">Teresa</rs> y llega a amenazarla con la lámpara de minero.)</stage> </p>
+            <p> ¡Déjame curarte, <rs key="#roqu">Roque</rs>! ¡Sangras! <stage>(<rs key="#tere">Teresa</rs> se arrodilla con una pierna, y así, avanza hacia <rs key="#roqu">Roque</rs> como pretendiendo cogerle el pie herido. Procura <rs key="#roqu">Roque</rs> retirarlo, retrocediendo algo, y esquiva a <rs key="#tere">Teresa</rs> y llega a amenazarla con la lámpara de minero.)</stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -1367,7 +1377,7 @@
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
-            <p> ¡Cobarde! ¡Miserable! <stage>(Desde fuera, metiendo los puños crispados entre las rejas de la ventana. <rs key="#tere">Teresa</rs>, que había llevado las manos a la frente, encogida, se yergue, se lanza a la ventana y la cierra de golpe; se coloca de espaldas a ella como antes hizo en la puerta. <rs key="#fern">Fernando</rs> mostrará la ansiedad de su situación, sin osar revelar su presencia; todas sus potencias, en adivinar lo que pasa dentro y no puede ver; pero sin distraer la atención del público, que debe concentrarse en la casa.)</stage> </p>
+            <p> ¡Cobarde! ¡Miserable! <stage>(Desde fuera, metiendo los puños crispados entre las rejas de la ventana. <rs key="#tere">Teresa</rs>, que había llevado las manos a la frente, encogida, se yergue, se lanza a la ventana y la cierra de golpe; se coloca de espaldas a ella como antes hizo en la puerta. <rs key="#fern">Fernando</rs> mostrará la ansiedad de su situación, sin osar revelar su presencia; todas sus potencias, en adivinar lo que pasa dentro y no puede ver; pero sin distraer la atención del público, que debe concentrarse en la casa.)</stage></p>
           </sp>
           <sp who="#roqu">
             <speaker>Roque</speaker>
@@ -1383,7 +1393,7 @@
           </sp>
           <sp who="#tere">
             <speaker>Teresa</speaker>
-            <p> ¡Ah! ¡Don <rs key="#fern">Fernando</rs>! Infeliz; lo que habrá padecido... Sí; le abro... Ahora no importa. ¡Que me ayude primero... y después que marche y que en la vida vuelva!<stage> (Abre a <rs key="#fern">Fernando</rs>.) </stage> </p>
+            <p> ¡Ah! ¡Don <rs key="#fern">Fernando</rs>! Infeliz; lo que habrá padecido... Sí; le abro... Ahora no importa. ¡Que me ayude primero... y después que marche y que en la vida vuelva!<stage> (Abre a <rs key="#fern">Fernando</rs>.) </stage></p>
           </sp>
           <sp who="#fern">
             <speaker>Fernando</speaker>
@@ -1484,7 +1494,8 @@
         </div>
         <div n="11" type="scene">
           <head>Escena Undécima</head>
-          <stage><rs key="#tere">Teresa</rs>; <rs key="#roqu">Roque</rs>, en tierra. Después que pierde el ruido de los pasos de <rs key="#fern">Fernando</rs>, se vuelve, a <rs key="#roqu">Roque</rs>, aletargado.</stage>
+          <stage>
+            <rs key="#tere">Teresa</rs>; <rs key="#roqu">Roque</rs>, en tierra. Después que pierde el ruido de los pasos de <rs key="#fern">Fernando</rs>, se vuelve, a <rs key="#roqu">Roque</rs>, aletargado.</stage>
           <sp who="#tere">
             <speaker>Teresa</speaker>
             <p> ¡Y tú, mi pobre león! ¡Ah, otra vez la sangre! ¡Desatada la venda! <stage>(Corre a él; al inclinarse para atar la herida desatada siente la sangre que le resbala por la frente, y le nubla la vista.) </stage>¿Qué es esto? ¡No veo! <stage> (Lleva los dedos a la frente; ve en ellos la sangre.) </stage> ¡Ah; no es nada! <stage>(Rasga con prisa un pedazo de la venda de <rs key="#roqu">Roque</rs> que había desenvuelto, se lo ata como quiera, con fuerza, alrededor de la frente y sigue ligando el pie de <rs key="#roqu">Roque</rs>, siempre inmóvil, en cruz. Como contestando a su pensamiento.)</stage> ¡Yo aquí!... ¡Siempre aquí!... ¡Junto al hombre de mi cruz...! ¡Al pie de mi cruz... que sangra! <stage>(Telón.)</stage></p>

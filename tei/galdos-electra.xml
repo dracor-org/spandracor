@@ -404,11 +404,15 @@
           </sp>
           <sp who="#urba">
             <speaker>Don Urbano</speaker>
-            <p>Fueron tales, que la familia, dolorida y avergonzada, rompió con ella toda relación. Esta niña, cuyo padre se ignora, se crio junto a su madre hasta los cinco años. Después la llevaron a las Ursulinas de Bayona. Allí, ya fuese por abreviar, ya por embellecer el nombre, dieron en llamarla <hi rend="italics"><rs key="#elec">Electra</rs></hi>, que es gran novedad.</p>
+            <p>Fueron tales, que la familia, dolorida y avergonzada, rompió con ella toda relación. Esta niña, cuyo padre se ignora, se crio junto a su madre hasta los cinco años. Después la llevaron a las Ursulinas de Bayona. Allí, ya fuese por abreviar, ya por embellecer el nombre, dieron en llamarla <hi rend="italics">
+                <rs key="#elec">Electra</rs>
+              </hi>, que es gran novedad.</p>
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
-            <p>Perdone usted, novedad no es; a su desdichada madre, Eleuteria Díaz, los íntimos la llamábamos también <hi rend="italics"><rs key="#elec">Electra</rs></hi>, no solo por abreviar, sino porque a su padre, militar muy valiente, desgraciadísimo en su vida conyugal, le pusieron <hi rend="italics">Agamenón</hi>.</p>
+            <p>Perdone usted, novedad no es; a su desdichada madre, Eleuteria Díaz, los íntimos la llamábamos también <hi rend="italics">
+                <rs key="#elec">Electra</rs>
+              </hi>, no solo por abreviar, sino porque a su padre, militar muy valiente, desgraciadísimo en su vida conyugal, le pusieron <hi rend="italics">Agamenón</hi>.</p>
           </sp>
           <sp who="#urba">
             <speaker>Don Urbano</speaker>
@@ -416,7 +420,8 @@
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
-            <p>Por Dios, mi querido <rs key="#urba">Urbano</rs>, no extreme usted su severidad. Recuerde que Eleuteria, a quien llamaremos <hi rend="italics"><rs key="#elec">Electra</rs> I</hi>, cambió de vida… Ello debió de ser hacia el 88.</p>
+            <p>Por Dios, mi querido <rs key="#urba">Urbano</rs>, no extreme usted su severidad. Recuerde que Eleuteria, a quien llamaremos <hi rend="italics">
+                <rs key="#elec">Electra</rs> I</hi>, cambió de vida… Ello debió de ser hacia el 88.</p>
           </sp>
           <sp who="#urba">
             <speaker>Don Urbano</speaker>
@@ -456,7 +461,8 @@
           <stage>El <rs key="#marq">Marqués</rs>, Don <rs key="#urba">Urbano</rs>; <rs key="#cues">Cuesta</rs>, por el fondo</stage>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
-            <p><stage>(Entra con muestras de cansancio, saca su cartera de negocios y se dirige a la mesa.)</stage><rs key="#marq">Marqués</rs>… ¿tanto bueno por aquí…?</p>
+            <p><stage>(Entra con muestras de cansancio, saca su cartera de negocios y se dirige a la mesa.)</stage>
+              <rs key="#marq">Marqués</rs>… ¿tanto bueno por aquí…?</p>
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
@@ -525,7 +531,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#cues">Cuesta</rs>, <rs key="#patr">Patros</rs>.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>, <rs key="#patr">Patros</rs>.</stage>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
             <p><stage>(Corrigiendo los apuntes.)</stage> ¡Ah! sí, había un error. A los de Yuste corresponden… un millón seiscientas mil pesetas. Al <rs key="#marq">marqués</rs> de Ronda, doscientas veintidós mil. Hay que descontar las doce mil y pico, equivalentes a los nueve mil francos… <stage>(Entra <rs key="#patr">Patros</rs> con vasos de agua, azucarillos, coñac. Aguarda un momento a que <rs key="#cues">Cuesta</rs> termine sus cálculos.)</stage></p>
@@ -585,7 +592,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#cues">Cuesta</rs>; <rs key="#pant">Pantoja</rs>, enteramente vestido de negro. Entra en escena meditabundo, abstraído.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>; <rs key="#pant">Pantoja</rs>, enteramente vestido de negro. Entra en escena meditabundo, abstraído.</stage>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
             <p>Amigo <rs key="#pant">Pantoja</rs>, Dios la guarde. ¿Vamos bien?</p>
@@ -693,7 +701,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#pant">Pantoja</rs>, <rs key="#cues">Cuesta</rs>; <rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, que vienen del jardín.</stage>
+          <stage>
+            <rs key="#pant">Pantoja</rs>, <rs key="#cues">Cuesta</rs>; <rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, que vienen del jardín.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p><stage>(Soltando el brazo del <rs key="#marq">Marqués</rs>.)</stage> Felices, <rs key="#cues">Cuesta</rs>. <rs key="#pant">Pantoja</rs>, ¡cuánto me alegro de verla hoy!… <stage>(<rs key="#cues">Cuesta</rs> y <rs key="#pant">Pantoja</rs> se inclinan y le besan la mano respetuosamente. Siéntase la señora a la derecha; el <rs key="#marq">Marqués</rs>, en pie, a su lado. Los otros tres forman grupo a la izquierda hablando de negocios.)</stage></p>
@@ -880,7 +889,8 @@
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
-            <p>¡Deliciosa infancia! <stage>(Entusiasmada.)</stage> <rs key="#elec">Electra</rs>, niña grande, benditas sean sus travesuras. Conserve usted mientras pueda su preciosa alegría.</p>
+            <p>¡Deliciosa infancia! <stage>(Entusiasmada.)</stage>
+              <rs key="#elec">Electra</rs>, niña grande, benditas sean sus travesuras. Conserve usted mientras pueda su preciosa alegría.</p>
           </sp>
           <sp who="#elec">
             <speaker>Electra</speaker>
@@ -1181,7 +1191,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#pant">Pantoja</rs>, <rs key="#cues">Cuesta</rs>, <rs key="#jose">José</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#pant">Pantoja</rs>, <rs key="#cues">Cuesta</rs>, <rs key="#jose">José</rs>.</stage>
           <sp who="#jose">
             <speaker>José</speaker>
             <p><stage>(Anunciando.)</stage> La señora superiora de San <rs key="#jose">José</rs> de la Penitencia.</p>
@@ -1221,7 +1232,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#elec">Electra</rs>; al poco rato <rs key="#cues">Cuesta</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>; al poco rato <rs key="#cues">Cuesta</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Entonando una salmodia de Iglesia, recoge los dibujos y los ordena.)</stage> Bach… para que me asimile… ¡qué gracia! el estilo religioso. <stage>(Canta.)</stage></p>
@@ -1252,7 +1264,8 @@
           </sp>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
-            <p><stage>(Animándose.)</stage><rs key="#elec">Electra</rs>, yo conocí a su madre de usted.</p>
+            <p><stage>(Animándose.)</stage>
+              <rs key="#elec">Electra</rs>, yo conocí a su madre de usted.</p>
           </sp>
           <sp who="#elec">
             <speaker>Electra</speaker>
@@ -1324,7 +1337,8 @@
           </sp>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
-            <p>Vea usted por qué doy este paso… Aunque no soy muy viejo, no me siento con cuerda vital para mucho tiempo. Viudo hace veinte años, no tengo más familia que mi hija Pilar, ya casada, y ausente. Casi estoy solo en el mundo, con el pie en el estribo para marchará otro… y mi soledad ¡ay! parece como que quiere echarme, más pronto… <stage>(Con gran dificultad de expresión.)</stage> Pero antes de partir… <stage>(Pausa.)</stage> <rs key="#elec">Electra</rs>, he pensado mucho en usted antes que la trajeran a Madrid, y al verla ¡Dios mío! he pensado, he sentido… qué sé yo… un dulce afecto, el más puro de los afectos, mezclado con alaridos de mi conciencia.</p>
+            <p>Vea usted por qué doy este paso… Aunque no soy muy viejo, no me siento con cuerda vital para mucho tiempo. Viudo hace veinte años, no tengo más familia que mi hija Pilar, ya casada, y ausente. Casi estoy solo en el mundo, con el pie en el estribo para marchará otro… y mi soledad ¡ay! parece como que quiere echarme, más pronto… <stage>(Con gran dificultad de expresión.)</stage> Pero antes de partir… <stage>(Pausa.)</stage>
+              <rs key="#elec">Electra</rs>, he pensado mucho en usted antes que la trajeran a Madrid, y al verla ¡Dios mío! he pensado, he sentido… qué sé yo… un dulce afecto, el más puro de los afectos, mezclado con alaridos de mi conciencia.</p>
           </sp>
           <sp who="#elec">
             <speaker>Electra</speaker>
@@ -1409,7 +1423,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Meditabunda.)</stage> Dios mío, ¿qué debo pensar? Sus medias palabras dicen más que si fuesen enteras. ¡Madre del alma! <stage>(El <rs key="#marq">Marqués</rs>, que entra por el jardín, avanza despacio.)</stage> ¡Ah!… Señor <rs key="#marq">Marqués</rs>.</p>
@@ -1581,7 +1596,8 @@
         </div>
         <div n="11" type="scene">
           <head>Escena XI</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>.</stage>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
             <p><stage>(Vivamente.)</stage> ¿Qué decía? ¿Qué contaba ese corruptor de la inocencia?</p>
@@ -1721,7 +1737,8 @@
         </div>
         <div n="12" type="scene">
           <head>Escena XII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>; <rs key="#evar">Evarista</rs> por el foro.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>; <rs key="#evar">Evarista</rs> por el foro.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p>Amigo <rs key="#pant">Pantoja</rs>, la madre Bárbara de la Cruz espera a usted para despedirse y recibir las distintas órdenes.</p>
@@ -1733,7 +1750,8 @@
         </div>
         <div n="13" type="scene">
           <head>Escena XIII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#evar">Evarista</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#maxi">Máximo</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#evar">Evarista</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#maxi">Máximo</rs>.</stage>
           <sp who="#marq">
             <speaker>Marqués</speaker>
             <p>He tardado un poquitín.</p>
@@ -1897,7 +1915,8 @@
         <stage>La misma decoración.</stage>
         <div n="1" type="scene">
           <head>Escena Primera</head>
-          <stage><rs key="#evar">Evarista</rs>, don <rs key="#urba">Urbano</rs>, sentados junto a la mesa despachando asuntos; BALBINA, que sirve a la señora una taza de caldo.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, don <rs key="#urba">Urbano</rs>, sentados junto a la mesa despachando asuntos; BALBINA, que sirve a la señora una taza de caldo.</stage>
           <sp who="#urba">
             <speaker>Don Urbano</speaker>
             <p><stage>(Preparándose a escribir.)</stage> ¿Qué se le dice al señor rector del Patrocinio?</p>
@@ -2073,7 +2092,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>.</stage>
           <sp who="#marq">
             <speaker>Marqués</speaker>
             <p><stage>(Saludando con rendimiento.)</stage> Ilustre amiga… <rs key="#urba">Urbano</rs>. <stage>(A <rs key="#maxi">Máximo</rs>.)</stage> ¿Qué tal? No creía yo encontrar aquí al <hi rend="italics">mágico</hi>.</p>
@@ -2252,7 +2272,8 @@
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
-            <p><stage>(Cariñoso, acudiendo a ella.)</stage><rs key="#elec">Electra</rs>, niña preciosa…</p>
+            <p><stage>(Cariñoso, acudiendo a ella.)</stage>
+              <rs key="#elec">Electra</rs>, niña preciosa…</p>
           </sp>
           <sp who="#elec">
             <speaker>Electra</speaker>
@@ -2361,7 +2382,8 @@
         </div>
         <div n="5" type="scene">
           <head>Escena V</head>
-          <stage><rs key="#evar">Evarista</rs>, <rs key="#elec">Electra</rs>.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, <rs key="#elec">Electra</rs>.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p>Explícame ahora por qué estás tan juguetona y tan dislocada.</p>
@@ -2513,7 +2535,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Mirando a la muñeca.)</stage> ¡Pobre Lulú, cómo cuelga! <stage>(Imitando la postura de la muñeca y tentándose el hombro dolorido.)</stage> ¡Y cómo duele, ay! <stage>(Siéntase meditabunda.)</stage> ¡Y aquél esperándome…! ¡Qué triste fue la separación! Lloraba echándome los brazos… yo le prometí volver.</p>
@@ -2733,7 +2756,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#cues">Cuesta</rs>; <rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>, que asoman por la puerta de la izquierda, como reconociendo el terreno.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>; <rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>, que asoman por la puerta de la izquierda, como reconociendo el terreno.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p>Cuidado, <rs key="#patr">Patros</rs>… Por aquí es difícil que podamos pasarlo.</p>
@@ -2821,7 +2845,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#cues">Cuesta</rs>, <rs key="#elec">Electra</rs>.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>, <rs key="#elec">Electra</rs>.</stage>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
             <p><stage>(Cogiéndole las manos.)</stage> Mujercita juguetona, ven aquí. ¡Qué dicha tan grande verte!</p>
@@ -2913,7 +2938,8 @@
         </div>
         <div n="11" type="scene">
           <head>Escena XI</head>
-          <stage><rs key="#cues">Cuesta</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#evar">Evarista</rs>; después <rs key="#elec">Electra</rs>.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#evar">Evarista</rs>; después <rs key="#elec">Electra</rs>.</stage>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
             <p><stage>(Recogiendo sus papeles.)</stage> ¡Qué felicidad la mía si pudiese quererla públicamente!</p>
@@ -3025,7 +3051,8 @@
         </div>
         <div n="12" type="scene">
           <head>Escena XII</head>
-          <stage><rs key="#cues">Cuesta</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>.</stage>
+          <stage>
+            <rs key="#cues">Cuesta</rs>, Don <rs key="#urba">Urbano</rs>, <rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p><stage>(Con tristeza y desaliento.)</stage> Ya ve usted, <rs key="#cues">Leonardo</rs>…</p>
@@ -3140,7 +3167,8 @@
           </sp>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
-            <p><stage>(Llevándose a don <rs key="#urba">Urbano</rs> hacia la derecha.)</stage><rs key="#cues">Cuesta</rs> se mete demasiado en lo que no le importa.</p>
+            <p><stage>(Llevándose a don <rs key="#urba">Urbano</rs> hacia la derecha.)</stage>
+              <rs key="#cues">Cuesta</rs> se mete demasiado en lo que no le importa.</p>
           </sp>
           <sp who="#cues">
             <speaker>Cuesta</speaker>
@@ -3488,7 +3516,8 @@
         </stage>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#maxi">Máximo</rs>, trabajando en un cálculo, con gran atención en su tarea; <rs key="#elec">Electra</rs> en pie ordenando los múltiples objetos que hay sobre la mesa: libros, cápsulas, tubos de ensayo, etc. Viste con sencillez casera y lleva delantal blanco.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, trabajando en un cálculo, con gran atención en su tarea; <rs key="#elec">Electra</rs> en pie ordenando los múltiples objetos que hay sobre la mesa: libros, cápsulas, tubos de ensayo, etc. Viste con sencillez casera y lleva delantal blanco.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p>Para mí, <rs key="#elec">Electra</rs>, la doble historia que me has contado, esa supuesta potestad de dos caballeros, es un hecho que carece de valor positivo. <stage>(Sin levantar la vista del papel.)</stage></p>
@@ -3764,7 +3793,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; <rs key="#mari">Mariano</rs>, <rs key="#gil_">Gil</rs>: el primero vestido de <rs key="#oper">operario</rs>, con blusa; el segundo con traje usual, manguitos y la pluma en la oreja.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; <rs key="#mari">Mariano</rs>, <rs key="#gil_">Gil</rs>: el primero vestido de <rs key="#oper">operario</rs>, con blusa; el segundo con traje usual, manguitos y la pluma en la oreja.</stage>
           <sp who="#gil_">
             <speaker>Gil</speaker>
             <p><stage>(Mostrándole un cálculo.)</stage> Este es el valor obtenido.</p>
@@ -3912,7 +3942,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#maxi">Máximo</rs>, el Operario.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, el Operario.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p>¿Qué hay?</p>
@@ -3948,7 +3979,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Volviendo de lo interior.)</stage> Dormiditos están como unos ángeles. Allá les dejo media hora más reponiendo en el sueño sus cuerpecitos fatigados.</p>
@@ -3997,7 +4029,8 @@
         <div n="5" type="scene">
           <head>
                     Escena V</head>
-          <stage><rs key="#maxi">Máximo</rs>, <rs key="#gil_">Gil</rs>.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, <rs key="#gil_">Gil</rs>.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p>¡Singular caso! Cada palabra, cada gesto, cada acción de esta preciosa mujercita, en la libertad de que goza, son otros tantos resplandores que arroja su alma inquieta, noblemente ambiciosa, ávida de mostrarse en los afectos grandes y en las virtudes superiores. <stage>(Con ardor.)</stage> ¡Bendita sea ella que trae la alegría, la luz, a este escondrijo de la ciencia, triste, oscuro, y con sus gracias hace de esta aridez un paraíso! ¡Bendita ella que ha venido a sacar de su abstracción a este pobre Fausto, envejecido a los treinta y cinco años, y a decirle: «no se vive solo de verdades…». <stage>(Le interrumpe <rs key="#gil_">Gil</rs> que ha entrado poco antes; se acerca sin ser visto.)</stage></p>
@@ -4045,7 +4078,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Entrando con una cazuela humeante.)</stage> Aquí está lo bueno.</p>
@@ -4273,7 +4307,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; <rs key="#mari">Mariano</rs>, por la izquierda.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; <rs key="#mari">Mariano</rs>, por la izquierda.</stage>
           <sp who="#mari">
             <speaker>Mariano</speaker>
             <p>Señor…</p>
@@ -4309,7 +4344,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; después el Operario.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; después el Operario.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Con tristeza.)</stage> Pronto tendrás que ocuparte de la fusión y yo…</p>
@@ -4377,7 +4413,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#elec">Electra</rs>; al fin de la escena <rs key="#mari">Mariano</rs>.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#elec">Electra</rs>; al fin de la escena <rs key="#mari">Mariano</rs>.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p>Adelante, <rs key="#marq">Marqués</rs>.</p>
@@ -4621,7 +4658,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#pant">Pantoja</rs>.</stage>
+          <stage>
+            <rs key="#maxi">Máximo</rs>, <rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#pant">Pantoja</rs>.</stage>
           <sp who="#marq">
             <speaker>Marqués</speaker>
             <p>¡El enemigo!</p>
@@ -4829,7 +4867,8 @@
         </div>
         <div n="11" type="scene">
           <head>Escena XI</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#mari">Mariano</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#mari">Mariano</rs>.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Aterrada.)</stage> Se fue… ¿Volverá?</p>
@@ -4908,7 +4947,8 @@
         </stage>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>, con una cesta de flores que acaban de coger.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#patr">Patros</rs>, con una cesta de flores que acaban de coger.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Sacando del bolsillo una carta.)</stage> Déjame aquí las flores y toma la carta.</p>
@@ -4992,7 +5032,8 @@
         </div>
         <div n="2" type="scene">
           <head>Escena II</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; después el <rs key="#marq">Marqués</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>; después el <rs key="#marq">Marqués</rs>.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p><stage>(A distancia, abriendo un poco los brazos.)</stage> ¡Niña!</p>
@@ -5108,7 +5149,8 @@
         </div>
         <div n="3" type="scene">
           <head>Escena III</head>
-          <stage><rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, el <rs key="#marq">Marqués</rs>.</stage>
           <sp who="#marq">
             <speaker>Marqués</speaker>
             <p>Bien por el galán científico... ¡Y qué admirable hallazgo para ti! Tu amor juvenil necesita un amor viudo, tu imaginación lozana una razón fría. Al lado de este hombre, será mi niña una gran mujer.</p>
@@ -5276,7 +5318,8 @@
         </div>
         <div n="6" type="scene">
           <head>Escena VI</head>
-          <stage><rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>, que en actitud de gran cansancio y desaliento se arroja en el banco de la izquierda, primer término.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>, que en actitud de gran cansancio y desaliento se arroja en el banco de la izquierda, primer término.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p>¿Pasamos a casa?</p>
@@ -5447,7 +5490,8 @@
           </sp>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
-            <p>No lo sé… No me faltará una idea… Yo veré… <stage>(Resolviéndose.)</stage> <rs key="#evar">Evarista</rs>: me hará usted el favor de escribir una carta a la Superiora de La Penitencia.</p>
+            <p>No lo sé… No me faltará una idea… Yo veré… <stage>(Resolviéndose.)</stage>
+              <rs key="#evar">Evarista</rs>: me hará usted el favor de escribir una carta a la Superiora de La Penitencia.</p>
           </sp>
           <sp who="#evar">
             <speaker>Evarista</speaker>
@@ -5500,7 +5544,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#pant">Pantoja</rs>, oculto; <rs key="#elec">Electra</rs>, don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, que vuelven de misa; <rs key="#patr">Patros</rs>, que sale de la casa.</stage>
+          <stage>
+            <rs key="#pant">Pantoja</rs>, oculto; <rs key="#elec">Electra</rs>, don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, que vuelven de misa; <rs key="#patr">Patros</rs>, que sale de la casa.</stage>
           <sp who="#elec">
             <speaker>Electra</speaker>
             <p><stage>(Adelantándose, coge a <rs key="#patr">Patros</rs> al pie de la escalinata.)</stage> ¿Ha venido?</p>
@@ -5536,7 +5581,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>.</stage>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
             <p>Hija mía, ¿te asustas de mí?</p>
@@ -5844,7 +5890,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#pant">Pantoja</rs>; don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs> por la casa, presurosos. Tras ellos <rs key="#balb">Balbina</rs> y <rs key="#patr">Patros</rs>.</stage>
+          <stage>
+            <rs key="#pant">Pantoja</rs>; don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs> por la casa, presurosos. Tras ellos <rs key="#balb">Balbina</rs> y <rs key="#patr">Patros</rs>.</stage>
           <sp who="#urba">
             <speaker>Don Urbano</speaker>
             <p>¿Qué ocurre?</p>
@@ -5940,7 +5987,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#pant">Pantoja</rs>, <rs key="#maxi">Máximo</rs>.</stage>
+          <stage>
+            <rs key="#pant">Pantoja</rs>, <rs key="#maxi">Máximo</rs>.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p><stage>(Con ardiente palabra en toda la escena.)</stage> Alto… Me dice el <rs key="#marq">Marqués</rs> que de aquí, después da una larga conversación con usted, salió <rs key="#elec">Electra</rs> en ese terrible desvarío.</p>
@@ -6084,7 +6132,8 @@
         </div>
         <div n="12" type="scene">
           <head>Escena XII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, <rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>, Don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#patr">Patros</rs>, la Superiora y Hermanas.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, <rs key="#evar">Evarista</rs>, <rs key="#pant">Pantoja</rs>, Don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#patr">Patros</rs>, la Superiora y Hermanas.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p>Hija mía, ¿qué delirio es ése?</p>
@@ -6180,7 +6229,8 @@
         <stage>Telón corto. Sala locutorio en San <rs key="#jose">José</rs> de la Penitencia. Puertas laterales; al fondo un ventanal, de donde se ve el patio.</stage>
         <div n="1" type="scene">
           <head>Escena I</head>
-          <stage><rs key="#evar">Evarista</rs>, Sor <rs key="#doro">Dorotea</rs>.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, Sor <rs key="#doro">Dorotea</rs>.</stage>
           <sp who="#evar">
             <speaker>Evarista</speaker>
             <p><stage>(Entrando con la monja.)</stage> ¿Don <rs key="#pant">Salvador</rs>…?</p>
@@ -6223,7 +6273,8 @@
           </sp>
           <sp who="#evar">
             <speaker>Evarista</speaker>
-            <p>Ha muerto nuestro gran amigo, don <rs key="#cues">Leonardo</rs> <rs key="#cues">Cuesta</rs>, el agente de Bolsa.</p>
+            <p>Ha muerto nuestro gran amigo, don <rs key="#cues">Leonardo</rs>
+              <rs key="#cues">Cuesta</rs>, el agente de Bolsa.</p>
           </sp>
           <sp who="#doro">
             <speaker>Dorotea</speaker>
@@ -6327,7 +6378,8 @@
           </sp>
           <sp who="#evar">
             <speaker>Evarista</speaker>
-            <p><stage>(Respondiendo al saludo del <rs key="#marq">Marqués</rs>.)</stage><rs key="#marq">Marqués</rs>… ¿Con que al fin hay esperanzas de ganar la batalla?</p>
+            <p><stage>(Respondiendo al saludo del <rs key="#marq">Marqués</rs>.)</stage>
+              <rs key="#marq">Marqués</rs>… ¿Con que al fin hay esperanzas de ganar la batalla?</p>
           </sp>
           <sp who="#marq">
             <speaker>Marqués</speaker>
@@ -6420,7 +6472,8 @@
         </div>
         <div n="4" type="scene">
           <head>Escena IV</head>
-          <stage><rs key="#evar">Evarista</rs>, <rs key="#maxi">Máximo</rs>, don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#pant">Pantoja</rs>.</stage>
+          <stage>
+            <rs key="#evar">Evarista</rs>, <rs key="#maxi">Máximo</rs>, don <rs key="#urba">Urbano</rs>, el <rs key="#marq">Marqués</rs>, <rs key="#pant">Pantoja</rs>.</stage>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
             <p><stage>(Avanzando despacio.)</stage> Señores, perdónenme si les he hecho esperar.</p>
@@ -6716,7 +6769,8 @@
         </div>
         <div n="7" type="scene">
           <head>Escena VII</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>, <rs key="#doro">Dorotea</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#pant">Pantoja</rs>, <rs key="#doro">Dorotea</rs>.</stage>
           <sp who="#pant">
             <speaker>Pantoja</speaker>
             <p>Hija mía, ¿cómo saliste de la iglesia sin que yo te viese?</p>
@@ -6780,7 +6834,8 @@
         </div>
         <div n="8" type="scene">
           <head>Escena VIII</head>
-          <stage><rs key="#elec">Electra</rs>, sor <rs key="#doro">Dorotea</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, sor <rs key="#doro">Dorotea</rs>.</stage>
           <sp who="#doro">
             <speaker>Dorotea</speaker>
             <p>Ven… A la iglesia no.</p>
@@ -6824,7 +6879,8 @@
         </div>
         <div n="9" type="scene">
           <head>Escena IX</head>
-          <stage><rs key="#elec">Electra</rs>, la <rs key="#eleu">sombra de Eleuteria</rs>, que vagamente se destaca en la oscuridad del fondo. <rs key="#elec">Electra</rs> avanza hacia ella. Quedan las figuras una frente a otra, a la menor distancia posible.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, la <rs key="#eleu">sombra de Eleuteria</rs>, que vagamente se destaca en la oscuridad del fondo. <rs key="#elec">Electra</rs> avanza hacia ella. Quedan las figuras una frente a otra, a la menor distancia posible.</stage>
           <sp who="#eleu">
             <speaker>La sombra</speaker>
             <p>Tu madre soy y a calmar vengo las ansias de tu corazón amante. Mi voz devolverá la paz a tu conciencia. Ningún vínculo de naturaleza te une al hombre que te eligió por esposa. Lo que oíste fue una ficción dictada por el cariño para traerte a nuestra compañía y al sosiego de esta santa casa.</p>
@@ -6841,7 +6897,8 @@
         </div>
         <div n="10" type="scene">
           <head>Escena X</head>
-          <stage><rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, sor <rs key="#doro">Dorotea</rs>.</stage>
+          <stage>
+            <rs key="#elec">Electra</rs>, <rs key="#maxi">Máximo</rs>, el <rs key="#marq">Marqués</rs>, sor <rs key="#doro">Dorotea</rs>.</stage>
           <sp who="#maxi">
             <speaker>Máximo</speaker>
             <p><stage>(En la puerta de la izquierda.)</stage> ¡<rs key="#elec">Electra</rs>!</p>

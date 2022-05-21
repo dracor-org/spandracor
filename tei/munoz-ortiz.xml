@@ -794,7 +794,8 @@
           </sp>
           <sp who="#mari">
             <speaker>Mariano</speaker>
-            <p><stage>(Tranquilizándose un poco.)</stage> Tienen ustedes razón: me dejo llevar y… Dispensadme. ¿Ustedes no se conocen? <stage>(Presentando llorosamente.)</stage> <rs key="#vale">Valentina</rs> de Selama… <rs key="#cefe">Ceferino</rs> Bolado.</p>
+            <p><stage>(Tranquilizándose un poco.)</stage> Tienen ustedes razón: me dejo llevar y… Dispensadme. ¿Ustedes no se conocen? <stage>(Presentando llorosamente.)</stage>
+              <rs key="#vale">Valentina</rs> de Selama… <rs key="#cefe">Ceferino</rs> Bolado.</p>
           </sp>
           <sp who="#vale">
             <speaker>Valentina</speaker>
@@ -1312,7 +1313,8 @@
           </sp>
           <sp who="#puli">
             <speaker>Pulido</speaker>
-            <p><stage>(Conciliador.)</stage><rs key="#prod">Prodosia</rs>…</p>
+            <p><stage>(Conciliador.)</stage>
+              <rs key="#prod">Prodosia</rs>…</p>
           </sp>
           <sp who="#prod">
             <speaker>Prodosia</speaker>
@@ -1598,7 +1600,8 @@
           </sp>
           <sp who="#amar">
             <speaker>Amaranto</speaker>
-            <p><stage>(Como si despeinara.)</stage> ¿Es a mí?… ¡Ah!… Sí… <stage>(Acudiendo a ella.)</stage> <rs key="#celc">Celcina</rs>, hija mía, ven… <stage>(Tomándola del talle.)</stage> Estás aterida, pobrecita… Acércate a la lumbre… <stage>(La lleva a la chimenea y la sienta.)</stage> Así… Aguarda… Unas gotas de cognac te reanimarán… <stage>(En medio del estupor de todos, se acerca a un mueble, lo abre, saca una licorera y llena una copa de cognac diciendo.)</stage> El campo era como una inmensa fosa y un frío de tumba hería nuestros rostros. ¡Ah!… <stage>(Llevando a <rs key="#celc">Celcina</rs> la copa.)</stage> ¡Bebe, hija mía!</p>
+            <p><stage>(Como si despeinara.)</stage> ¿Es a mí?… ¡Ah!… Sí… <stage>(Acudiendo a ella.)</stage>
+              <rs key="#celc">Celcina</rs>, hija mía, ven… <stage>(Tomándola del talle.)</stage> Estás aterida, pobrecita… Acércate a la lumbre… <stage>(La lleva a la chimenea y la sienta.)</stage> Así… Aguarda… Unas gotas de cognac te reanimarán… <stage>(En medio del estupor de todos, se acerca a un mueble, lo abre, saca una licorera y llena una copa de cognac diciendo.)</stage> El campo era como una inmensa fosa y un frío de tumba hería nuestros rostros. ¡Ah!… <stage>(Llevando a <rs key="#celc">Celcina</rs> la copa.)</stage> ¡Bebe, hija mía!</p>
           </sp>
           <sp who="#celc">
             <speaker>Celcina</speaker>
@@ -2093,7 +2096,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#prod">
             <speaker>Prodosia</speaker>
-            <p><stage>(Entrando por la puerta de este lateral, vestida de colores muy vivos.)</stage><rs key="#juan">Juan</rs>…</p>
+            <p><stage>(Entrando por la puerta de este lateral, vestida de colores muy vivos.)</stage>
+              <rs key="#juan">Juan</rs>…</p>
           </sp>
           <sp who="#juan">
             <speaker>Juan</speaker>
@@ -2461,7 +2465,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#juan">
             <speaker>Juan</speaker>
-            <p>Sí, señó. ¡Lástima de mechero! Y que le haiga yo puesto er sellito pa esto. Hay quien no respeta… ni las canas. <stage>(Mutis por la izquierda, primer término.)</stage> <stage>(Tras una breve pausa entran en escena por la derecha <rs key="#amil">Amílcar</rs> y <rs key="#celc">Celcina</rs>. <rs key="#celc">Celcina</rs> viste con suma elegancia. <rs key="#amil">Amílcar</rs>, que cojea un poco del pie derecho, se tapa el ojo derecho con las manos.)</stage></p>
+            <p>Sí, señó. ¡Lástima de mechero! Y que le haiga yo puesto er sellito pa esto. Hay quien no respeta… ni las canas. <stage>(Mutis por la izquierda, primer término.)</stage>
+              <stage>(Tras una breve pausa entran en escena por la derecha <rs key="#amil">Amílcar</rs> y <rs key="#celc">Celcina</rs>. <rs key="#celc">Celcina</rs> viste con suma elegancia. <rs key="#amil">Amílcar</rs>, que cojea un poco del pie derecho, se tapa el ojo derecho con las manos.)</stage></p>
           </sp>
           <sp who="#celc">
             <speaker>Celcina</speaker>
@@ -2661,9 +2666,7 @@
           </sp>
           <sp who="#vale">
             <speaker>Valentina</speaker>
-            <p>
-              <stage>(¡Qué cómico tan grande!)</stage>
-            </p>
+            <p><stage>(¡Qué cómico tan grande!)</stage></p>
           </sp>
           <sp who="#amar">
             <speaker>Amaranto</speaker>
@@ -2739,7 +2742,8 @@
           </sp>
           <sp who="#amar">
             <speaker>Amaranto</speaker>
-            <p><stage>(Repitiendo su nombre como un eco.)</stage> ¡Amarantóóóó!… El otro… Sí… Ya sé… Estoy en su cuerpo… El me nutre, él me sustenta, por eso deseo su bien… ¡Este es su cuerpo!… ¡Amarantóóóó!… ¡Cómo me gusta tu cuerpo!… Gracias a ti oigo, veo y palpo… ¡Mi pobre cadáver yace en su tumba!… <stage>(Secándose una lágrima y tomando de un jarrón unas flores.)</stage> <rs key="#vale">Valentina</rs>, llévale unas flores… <stage>(Se las da.)</stage></p>
+            <p><stage>(Repitiendo su nombre como un eco.)</stage> ¡Amarantóóóó!… El otro… Sí… Ya sé… Estoy en su cuerpo… El me nutre, él me sustenta, por eso deseo su bien… ¡Este es su cuerpo!… ¡Amarantóóóó!… ¡Cómo me gusta tu cuerpo!… Gracias a ti oigo, veo y palpo… ¡Mi pobre cadáver yace en su tumba!… <stage>(Secándose una lágrima y tomando de un jarrón unas flores.)</stage>
+              <rs key="#vale">Valentina</rs>, llévale unas flores… <stage>(Se las da.)</stage></p>
           </sp>
         </div>
         <div cert="low" resp="#jct" type="scene">
@@ -3045,10 +3049,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#prod">
             <speaker>Prodosia</speaker>
-            <p>
-              <stage>(¡Qué vergüenza!… ¡Oyó lo de la fuga!… ¿Habrá visto también lo otro?…)</stage>
-              <stage>(Se van por la derecha.)</stage>
-            </p>
+            <p><stage>(¡Qué vergüenza!… ¡Oyó lo de la fuga!… ¿Habrá visto también lo otro?…)</stage>
+              <stage>(Se van por la derecha.)</stage></p>
           </sp>
           <sp who="#casa">
             <speaker>Casado</speaker>
@@ -3318,7 +3320,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#amar">
             <speaker>Amaranto</speaker>
-            <p><stage>(Desde la segunda puerta de la izquierda.)</stage> Yo veré. <stage>(Vase.)</stage> <stage>(Rumor de voces dentro.)</stage></p>
+            <p><stage>(Desde la segunda puerta de la izquierda.)</stage> Yo veré. <stage>(Vase.)</stage>
+              <stage>(Rumor de voces dentro.)</stage></p>
           </sp>
           <sp who="#casa">
             <speaker>Casado</speaker>
@@ -3492,9 +3495,7 @@
           </sp>
           <sp who="#aten">
             <speaker>Ateneo</speaker>
-            <p>
-              <stage>(¡Mare de Deu! ¡Quina plancha! ¡Yo no puedo tirarme esta plancha!)</stage>
-            </p>
+            <p><stage>(¡Mare de Deu! ¡Quina plancha! ¡Yo no puedo tirarme esta plancha!)</stage></p>
           </sp>
           <sp who="#casa">
             <speaker>Casado</speaker>
@@ -3899,7 +3900,8 @@
         <div cert="low" resp="#jct" type="scene">
           <sp who="#juan">
             <speaker>Juan</speaker>
-            <p>Grasias: voy a rematá la faena. Ahora parezco yo también dos personas como ese don… Trapisonda Funguela, que mar tiro le den. <stage>(Dialogando y presentando al público unas veces el perfil teñido y otras el sin teñir.)</stage> <rs key="#juan">Juan</rs> -Qué -Escucha -Di -Préstame diez duros -Que te los preste tu padre, que es padre de tu cuerpo y de tu arma, y mardita sea tu arma y tu cuerpo -¡Ay! -¡Ya! -¡Sí! -¡Voy! -¡Va! -Hasta luego. <stage>(Se estremece y se va por la izquierda, primera puerta.)</stage></p>
+            <p>Grasias: voy a rematá la faena. Ahora parezco yo también dos personas como ese don… Trapisonda Funguela, que mar tiro le den. <stage>(Dialogando y presentando al público unas veces el perfil teñido y otras el sin teñir.)</stage>
+              <rs key="#juan">Juan</rs> -Qué -Escucha -Di -Préstame diez duros -Que te los preste tu padre, que es padre de tu cuerpo y de tu arma, y mardita sea tu arma y tu cuerpo -¡Ay! -¡Ya! -¡Sí! -¡Voy! -¡Va! -Hasta luego. <stage>(Se estremece y se va por la izquierda, primera puerta.)</stage></p>
           </sp>
           <sp who="#eulo">
             <speaker>Eulogia</speaker>
@@ -5247,9 +5249,7 @@
           </sp>
           <sp who="#amar">
             <speaker>Amaranto</speaker>
-            <p>
-              <stage>(Declamando.)</stage>
-            </p>
+            <p><stage>(Declamando.)</stage></p>
             <p>De hoy en ocho!</p>
             <p>¡De hoy en ocho!</p>
             <p>¡De hoy en ocho, <rs key="#cast">Casta</rs> mía!</p>

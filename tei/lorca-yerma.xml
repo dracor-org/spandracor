@@ -150,82 +150,82 @@
           <castItem>
             <role corresp="#cant">Canto de voces</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#juan">Juan</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#yerm">Yerma</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#mari">María</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#vict">Víctor</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#viej">Vieja</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#much">Muchacha</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#lava">Lavandera</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#cuna">Cuñada</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#dolo">Dolores</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#muje">Mujer</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#coro">Coro de mujeres</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#hemb">Hembra</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#homb">Hombre</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#nin">Niño</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
           <castItem>
             <role corresp="#mach">Macho</role>
             <roleDesc/>
-            <actor> </actor>
+            <actor></actor>
           </castItem>
         </castList>
       </div>
@@ -1247,7 +1247,8 @@
           </sp>
           <sp who="#yerm">
             <speaker>Yerma</speaker>
-            <p><stage>(Fuerte.)</stage><rs key="juan">Juan</rs>, ¿qué piensas?</p>
+            <p><stage>(Fuerte.)</stage>
+              <rs key="juan">Juan</rs>, ¿qué piensas?</p>
           </sp>
           <sp who="#juan">
             <speaker>Juan</speaker>
@@ -1940,7 +1941,8 @@
               <l>y nuestro vientre guarda tiernos hijos</l>
               <l>como la nube lleva dulce lluvia.</l>
             </lg>
-            <p><stage>(Mira hacia la puerta.)</stage><rs key="mari">¡María!</rs> ¿Por qué pasas tan de prisa por mi puerta?</p>
+            <p><stage>(Mira hacia la puerta.)</stage>
+              <rs key="mari">¡María!</rs> ¿Por qué pasas tan de prisa por mi puerta?</p>
           </sp>
           <sp who="#mari">
             <speaker>María</speaker>
@@ -2128,7 +2130,8 @@
           </sp>
           <sp who="#yerm">
             <speaker>Yerma</speaker>
-            <p><stage>(Llamando.)¡</stage><rs key="juan">Juan</rs>!</p>
+            <p><stage>(Llamando.)¡</stage>
+              <rs key="juan">Juan</rs>!</p>
           </sp>
           <sp who="#vict">
             <speaker>Víctor</speaker>
@@ -2758,7 +2761,8 @@
               <l>y mojan la cara</l>
               <l>de las estrellas tranquilas.</l>
               <l>Señor, abre tu rosal</l>
-              <l>sobre mi carne marchita. <stage>(Se levantan.)</stage></l>
+              <l>sobre mi carne marchita. <stage>(Se levantan.)</stage>
+              </l>
             </lg>
           </sp>
           <sp who="#muje">
