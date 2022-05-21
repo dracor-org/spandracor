@@ -34,6 +34,37 @@
     <xsl:processing-instruction name="xml-stylesheet">type="text/css" href="css/tei.css"</xsl:processing-instruction>
   </xsl:template>
 
+  <xsl:template match="tei:teiHeader">
+    <xsl:variable name="premiere"
+      select=".//tei:sourceDesc/tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
+    <xsl:variable name="print"
+      select=".//tei:sourceDesc/tei:bibl[@type='first-published']/tei:date/text()"/>
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:apply-templates/>
+    </xsl:copy>
+    <standOff>
+      <link type="wikidata">
+        <xsl:attribute name="target">
+          <xsl:text>http://www.wikidata.org/entity/</xsl:text>
+          <xsl:value-of
+            select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']
+              /tei:idno[@type='wikidata']"/>
+        </xsl:attribute>
+      </link>
+      <xsl:if test="$premiere or $print">
+        <listEvent>
+          <xsl:if test="$print">
+            <event type="print" when="{$print}"><desc/></event>
+          </xsl:if>
+          <xsl:if test="$premiere">
+            <event type="premiere" when="{$premiere}"><desc/></event>
+          </xsl:if>
+        </listEvent>
+      </xsl:if>
+    </standOff>
+  </xsl:template>
+
   <!-- remove xml:id from castList roles -->
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 
@@ -44,9 +75,6 @@
       <xsl:apply-templates/>
       <idno type="dracor" xml:base="https://dracor.org/id/">
         <xsl:value-of select="concat('span000', $idno)"/>
-      </idno>
-      <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">
-        <xsl:value-of select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
       </idno>
     </publicationStmt>
   </xsl:template>
@@ -117,23 +145,6 @@
         <xsl:otherwise><xsl:text>UNKNOWN</xsl:text></xsl:otherwise>
       </xsl:choose>
     </xsl:attribute>
-  </xsl:template>
-
-  <!-- add 'originalSource' dates -->
-  <xsl:template match="tei:sourceDesc">
-    <xsl:variable name="premiere" select="tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
-    <xsl:variable name="print" select="tei:bibl[@type='first-published']/tei:date/text()"/>
-    <sourceDesc>
-      <xsl:apply-templates/>
-      <bibl type="originalSource">
-        <xsl:if test="$print">
-          <date type="print" when="{$print}"/>
-        </xsl:if>
-        <xsl:if test="$premiere">
-          <date type="premiere" when="{$premiere}"/>
-        </xsl:if>
-      </bibl>
-    </sourceDesc>
   </xsl:template>
 
   <!--
