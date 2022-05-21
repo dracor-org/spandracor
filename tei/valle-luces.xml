@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000014</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3312512</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
@@ -62,9 +61,6 @@
         <bibl type="first-performance">
           <date>21 de marzo de 1963</date>
           <pubPlace>Palais de Chaillot de París</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1924"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -296,6 +292,14 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q3312512"/>
+    <listEvent>
+      <event type="print" when="1924">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

@@ -37,7 +37,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000027</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63197188</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-sourced">
@@ -59,10 +58,6 @@
         <bibl type="first-performance">
           <date when="1928">27 de septiembre de 1928</date>
           <pubPlace>Sala Rex de Madrid</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1878"/>
-          <date type="premiere" when="1928"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -113,6 +108,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63197188"/>
+    <listEvent>
+      <event type="print" when="1878">
+        <desc/>
+      </event>
+      <event type="premiere" when="1928">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000004</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q42303072</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-sourced">
@@ -63,10 +62,6 @@
         <bibl type="first-performance">
           <date when="1896">28 de enero de 1896</date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1896"/>
-          <date type="premiere" when="1896"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -150,6 +145,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q42303072"/>
+    <listEvent>
+      <event type="print" when="1896">
+        <desc/>
+      </event>
+      <event type="premiere" when="1896">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <p>Benito Pérez Galdós</p>

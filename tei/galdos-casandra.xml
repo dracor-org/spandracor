@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000005</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q5755730</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="first-published">
@@ -57,9 +56,6 @@
           <publisher>Biblioteca Virtual Miguel de Cervantes</publisher>
           <pubPlace>Alicante</pubPlace>
           <ref target="http://www.cervantesvirtual.com/obra/casandra-drama--0/"/>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1910"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -137,6 +133,14 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q5755730"/>
+    <listEvent>
+      <event type="print" when="1910">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <p>Benito Pérez Galdós</p>

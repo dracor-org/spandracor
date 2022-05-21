@@ -39,7 +39,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000018</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63197172</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="first-published">
@@ -62,10 +61,6 @@
           <date when="1895">20 de marzo de 1895</date>
           <publisher>Teatro Español</publisher>
           <pubPlace>Madrid</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1895"/>
-          <date type="premiere" when="1895"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -121,6 +116,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63197172"/>
+    <listEvent>
+      <event type="print" when="1895">
+        <desc/>
+      </event>
+      <event type="premiere" when="1895">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

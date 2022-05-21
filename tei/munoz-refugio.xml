@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000031</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q63199873</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="first-published">
@@ -62,10 +61,6 @@
           <pubPlace/>
           <ref target="https://www.epublibre.org/libro/detalle/3698"/>
           <date>2013</date>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1933"/>
-          <date type="premiere" when="1933"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -148,6 +143,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q63199873"/>
+    <listEvent>
+      <event type="print" when="1933">
+        <desc/>
+      </event>
+      <event type="premiere" when="1933">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

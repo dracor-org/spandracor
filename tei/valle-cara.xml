@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000045</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q5748755</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
@@ -62,10 +61,6 @@
         <bibl type="first-performance">
           <date when="1967">23/12/1967</date>
           <pubPlace>Teatro Moratín de Barcelona</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1922"/>
-          <date type="premiere" when="1967"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -235,6 +230,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q5748755"/>
+    <listEvent>
+      <event type="print" when="1922">
+        <desc/>
+      </event>
+      <event type="premiere" when="1967">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

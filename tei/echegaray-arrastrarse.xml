@@ -40,7 +40,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000003</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q19410894</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
@@ -63,10 +62,6 @@
         <bibl type="first-performance">
           <date when="1905">7 de febrero de 1905</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1901"/>
-          <date type="premiere" when="1905"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -142,6 +137,17 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q19410894"/>
+    <listEvent>
+      <event type="print" when="1901">
+        <desc/>
+      </event>
+      <event type="premiere" when="1905">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>

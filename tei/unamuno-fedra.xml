@@ -38,7 +38,6 @@
           <idno type="structure">2.0</idno>
         </idno>
         <idno type="dracor" xml:base="https://dracor.org/id/">span000012</idno>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q5857948</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
@@ -60,9 +59,6 @@
         <bibl type="first-performance">
           <date>1918</date>
           <pubPlace>Madrid</pubPlace>
-        </bibl>
-        <bibl type="originalSource">
-          <date type="print" when="1924"/>
         </bibl>
       </sourceDesc>
     </fileDesc>
@@ -110,6 +106,14 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
+  <standOff>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q5857948"/>
+    <listEvent>
+      <event type="print" when="1924">
+        <desc/>
+      </event>
+    </listEvent>
+  </standOff>
   <text>
     <front>
       <div>
