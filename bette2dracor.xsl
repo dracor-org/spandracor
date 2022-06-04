@@ -13,8 +13,16 @@
     indent="no"
   />
 
+  <xsl:variable
+    name="dracor-id"
+    select="
+      concat(
+        'span000',
+        //tei:publicationStmt/tei:idno[1]/tei:idno[@type='number']/text())"
+  />
+
   <xsl:template match="/">
-    <TEI xml:lang="es">
+    <TEI xml:id="{$dracor-id}" xml:lang="es">
       <xsl:apply-templates select="/tei:TEI/*"/>
     </TEI>
   </xsl:template>
@@ -35,6 +43,8 @@
   </xsl:template>
 
   <xsl:template match="tei:teiHeader">
+    <xsl:variable name="wd-id"
+      select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
     <xsl:variable name="premiere"
       select=".//tei:sourceDesc/tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
     <xsl:variable name="print"
@@ -44,14 +54,6 @@
       <xsl:apply-templates/>
     </xsl:copy>
     <standOff>
-      <link type="wikidata">
-        <xsl:attribute name="target">
-          <xsl:text>http://www.wikidata.org/entity/</xsl:text>
-          <xsl:value-of
-            select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']
-              /tei:idno[@type='wikidata']"/>
-        </xsl:attribute>
-      </link>
       <xsl:if test="$premiere or $print">
         <listEvent>
           <xsl:if test="$print">
@@ -62,6 +64,13 @@
           </xsl:if>
         </listEvent>
       </xsl:if>
+      <listRelation>
+        <relation
+          name="wikidata"
+          active="https://dracor.org/entity/{$dracor-id}"
+          passive="http://www.wikidata.org/entity/{$wd-id}"/>
+      </listRelation>
+
     </standOff>
   </xsl:template>
 
@@ -69,7 +78,7 @@
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 
   <!-- add DraCor and Wikidata IDs for play -->
-  <xsl:template match="tei:publicationStmt">
+  <!-- <xsl:template match="tei:publicationStmt">
     <xsl:variable name="idno" select="tei:idno[1]/tei:idno[@type='number']/text()"/>
     <publicationStmt>
       <xsl:apply-templates/>
@@ -77,7 +86,7 @@
         <xsl:value-of select="concat('span000', $idno)"/>
       </idno>
     </publicationStmt>
-  </xsl:template>
+  </xsl:template> -->
 
   <!-- transform tei:name and make sure wikidata idno comes first -->
   <xsl:template match="tei:titleStmt/tei:author">

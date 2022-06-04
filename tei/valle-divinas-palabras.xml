@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="es">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000013" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -39,7 +39,6 @@
           <idno type="text">0.2</idno>
           <idno type="structure">2.0</idno>
         </idno>
-        <idno type="dracor" xml:base="https://dracor.org/id/">span000013</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl type="print-source">
@@ -212,7 +211,6 @@
     </revisionDesc>
   </teiHeader>
   <standOff>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q8561242"/>
     <listEvent>
       <event type="print" when="1920">
         <desc/>
@@ -221,6 +219,9 @@
         <desc/>
       </event>
     </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/span000013" passive="http://www.wikidata.org/entity/Q8561242"/>
+    </listRelation>
   </standOff>
   <text>
     <front>
