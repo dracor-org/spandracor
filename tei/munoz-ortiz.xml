@@ -66,9 +66,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="caricatura"/>
-      </textDesc>
       <abstract>
         <p>Primer acto. La acción transcurre en el gran salón del castillo de Ortiz de Crochino, antigua mansión cerca de Valtablado de Beteta, en Cuenca, en una noche tormentosa del 31 de diciembre de 1926. Casta, la viuda de don Potentino Ortiz, ha convocado a una reunión esa noche, sin explicar los motivos. A la casa van llegando primero los criados: Everilda, la ama de llaves de la familia; Juan, una especie de mayordomo; Eulogia, cocinera, y Casado, el cuidador de la mansión y alcalde del pueblo quienes comentan las cosas extrañas que suceden en la casa, entre ellas, la aparición del espíritu de un fraile. Llegan también doña Valentina Selama y su hijo Amílcar; don Mariano, el hermano del difunto con don Ceferino Bolado, el médico; Prodosia, la hija del difunto, junto a su enamorado y antiguo administrador de la finca, Pulido. Ya reunidos, aparece Casta con su sirvienta Flora y explica que se cumplen dos años del fallecimiento de su marido quien le hizo la promesa de regresar de la muerte para afirmar su amor. Todos quedan asombrados y temblorosos. Al toque de las doce campanadas se oye un aldabonazo y aparecen Amaranto Fungela y su hija Celcina. Nadie los conoce, pero el hombre se comporta y transita por la habitación como si fuera el dueño de la casa. Ante el desconcierto, la hija explica que su padre puso fin a su vida días atrás y que en el hospital revivió y comenzó a comportarse como si fuera otro. La viuda y el hermano lo reconocen como Don Potentino. El hombre se emociona y tambalea. Los espíritus de Amaranto y don Potentino luchan por posesionarse del cuerpo. El hombre parece morir y ante la solicitud de un confesor aparece el espíritu del fraile. Todos salen de la sala despavoridos.</p>
         <p>Segundo acto. En el mismo salón, el 15 de enero, los sirvientes comentan la alegría que hay en la casa a partir del extraño suceso. Algunos miembros de la familia creen ciegamente en el portento; otros desconfían. En esa alternancia de almas que ocurre en el cuerpo de Amaranto, cada una de ellas trata de que priven sus intereses; también los familiares buscan el apoyo de una u otra, según conveniencia. Llega a la casa Ateneo Pingat, un especialista en espíritus reencarnados, contratado por don Mariano con la finalidad de separar las almas en el cuerpo de Amaranto y de que don Potentino enseñe cómo funciona el invento de hacer llover. Mientras el antiguo amo en posesión del cuerpo intenta poner en marcha el artefacto, se descubre que el fraile no era una aparición y que Amaranto Fungela había vivido en la finca. En medio de la confusión que crea la noticia del posible fraude, comienza a llover, pero pronto la lluvia se transforma en una tormenta de gigantescos granizos. Suena una explosión y Amaranto entra a la sala tambaleándose y cae.</p>
@@ -129,6 +126,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--caricatura-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-08-12" who="#irm">Html a tei</change>

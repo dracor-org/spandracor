@@ -69,9 +69,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>En el primer acto, la criada principal de la casa, Poncia, muestra su descontento hacia Bernarda, la señora, por sus exigencias de limpieza en la casa y por ser una madre cruel, que ha obligado a sus hijas a guardar ocho años de luto por la muerte de su segundo esposo, Antonio Mario Benavides. Todas las hijas desean quitarse el luto y casarse, pero Bernarda no las deja salir de casa. Solo permitirá a Angustias, la mayor de las hermanas, casarse con Pepe el Romano, al que todas desean, porque cuenta con el dinero de la herencia de su padre, primer marido de Bernarda. Se anuncia el compromiso de boda entre Angustias y Pepe y todas las hermanas sienten rabia y celos.</p>
         <p>En el segundo acto, la hija menor de Bernarda, Adela, mantiene relaciones con Pepe el Romano. La fotografía que conserva Angustias de Pepe y que desaparece, la encuentra Poncia bajo la almohada de Martirio. Bernarda recrimina el comportamiento de sus hijas y rehúsa escuchar las palabras de Poncia, quien le advierte de la relación que mantiene su hija Adela con Pepe el Romano.</p>
@@ -135,6 +132,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-07-27" who="#rbm">Inclusión de actores en castItem</change>

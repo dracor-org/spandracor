@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="ensayo-dramático"/>
-      </textDesc>
       <abstract>
         <p>Único acto: Fernando, el señorito de la casa en que ha servido Teresa, visita el pueblo minero donde ella vive con su marido, Roque; con Rita, la hermana de este, jovencita frágil y enfermiza; y la pequeña hija de ambos, Palmira. Anima la visita estudiar las condiciones de los trabajadores y, sobre todo, reencontrase con la antigua criada de quien sigue enamorado. La vida de Teresa es dura, llena de penurias y pesadumbre. Roque es un minero, trabajador, rudo, autoritario y machista, que busca promover los ideales socialistas entre sus compañeros y antepone la ideología y solidaridad hacia ellos al afecto filial. En una de sus ausencias, en que ha ido a leer los manifiestos revolucionarios en la taberna, Fernando se acerca a la casa y contempla la precaria situación en que vive Teresa. La conversación entre ellos se llena de recuerdos. Ante la declaración de su amor y la propuesta de irse con él y llevar a su hija, la mujer defiende su matrimonio. El regreso del marido junto a los mineros alerta a la pareja. Teresa esconde a Fernando en un rincón debajo de la escalera. Roque viene borracho y herido tras un altercado con uno de los parroquianos. Increpa y culpa a su mujer de haber sido sirvienta y defender a sus antiguos amos, de atarle y haberle engañado. En medio del altercado, cae insconsciente y su mujer lo atiende y cuida. Teresa ruega a Fernando que se vaya, la olvide y logre hacer vida junto a otra mujer. </p>
       </abstract>
@@ -104,6 +101,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--ensayo-dramático-->
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change when="2016-09-28" who="#jct">De Cervantes Virtual a HTML.</change>

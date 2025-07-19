@@ -65,9 +65,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="tragedia"/>
-      </textDesc>
       <abstract>
         <p>Yerma es una tragedia que se desarrolla en un ambiente rural.</p>
         <p>En el primer acto, Yerma, protagonista de la obra, refleja constantemente sus ganas de tener un hijo. Dicha preocupación le lleva a pedir consejo a Vieja, pensando que la expriencia de esta, le ayudará a resolver su problema.</p>
@@ -126,6 +123,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--tragedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-08-01" who="#msp">Versión inicital TEI.</change>

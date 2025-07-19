@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="comedia-bárbara"/>
-      </textDesc>
       <abstract>
         <p>En la primera jornada de la obra presenciamos la queja de los chalanes por la prohibición impuesta por Montenegro sobre el paso del ganado por el pazo de Lantañón. Además queda reflejada, en esta jornada, la atracción sentimental que siente Cara de Plata por Sabelita, ahijada de su padre; y la enemistad entre Cara de Plata y el Abad, después de impedirle a este, pasar por el pazo, cuando iba a ver a una persona que estaba a punto de morir.</p>
         <p>En la segunda jornada, queda, de nuevo, patente la enemistad/rivalidad entre Cara de Plata y el Abad durante una partida de cartas entre ambos. Además, en esta jornada, se produce el rapto de Sabelita por parte de don Juan Manuel Montenegro.</p>
@@ -220,6 +217,10 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--comedia-bárbara-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="proposed" when="2016-09-04" who="#rvf">Versión XML-TEI</change>

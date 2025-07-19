@@ -64,9 +64,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="diálogo"/>
-      </textDesc>
       <abstract>
         <p>Pieza de un solo acto dividido en doce escenas, este "saitne filosófico" se sitúa en la Constantinopla del siglo V e incluye alusiones a personajes y hechos históricos dentro del tono paródico que Valera da a la quinta y última de las piezas recogidas en el volumen de "Tentativas dramáticas". Proclo, recién llegado a Constantinopla, recibe en su casa a sus dos rivales amorosos y comprueba que Asclepigenia, hija del filósofo Plutarco y amor suyo de juventud, es una mujer inteligente, culta, bella y seductora por la que tres hombres rivalizan: el bello Eumorfo, el rico Crematurgo y el propio filósofo, ya mayor. Cada uno de los tres amantes aporta a la protagonista una dimensión necesaria del amor: la valoración intelectual, el sustento económico y el placer físico, como explica la propia Asclepigenia a través de una parábola sobre la manera de mantener un rosal lo más bello posible. La disputa amorosa se salda a favor de Proclo, quien conjura a los dioses del amor y las riquezas - Apolo y Pluto - para compensar sus carencias y quien acoge el ruego de su amada de bañarse y dejar de oler tan mal. En este sainete se esconde una crítica de Valera a la España de la Restauración y una reflexión sobre la importancia del amor en la vida del ser humano.</p>
       </abstract>
@@ -98,6 +95,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--diálogo-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="proposed" when="2016-09-28" who="#mal">Html a TEI.</change>

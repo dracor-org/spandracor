@@ -64,9 +64,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="leyenda"/>
-      </textDesc>
       <abstract>
         <p>En la Jornada I Laura no quiere al pretendiente, Francisco de Cuéllar, amigo de su hermano4 Bartolomé de Rivera-  y prefiere retirarse a un convento. Ambos jóvenes eran estudiantes en Salamanca, estuvieron al servicio de Pizarro y han regresado recientemente enriquecidos de América.  Rivera intenta sonsacar al padre Antonio y a su tía Brianda si hay un razón para que Laura no quiera casarse.  Rivera le da dos horas a doña Brianda para que le diga de quién se trata. La tía revela solo al confesor de su sobrina que hace varios años un hombre - del que desconoce el nombre – entró en la casa y la sedujo.</p>
         <p>En la Jornada II se nos presenta a doña Irene, en cuya casa se aloja ahora Laura y quien confiesa al padre Antonio que fue su hijo don Fernando, un antiguo comunero proscrito, el seductor y amante de Laura hace tres años. Los antiguos amantes se reencuentran y reafirman su amor, con la bendición de doña Irene.</p>
@@ -112,6 +109,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--leyenda-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2015-08-03" who="#tsm">Versión XML-TEI</change>

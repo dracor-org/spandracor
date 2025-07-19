@@ -66,9 +66,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="comedia"/>
-      </textDesc>
       <abstract>
         <p>CUADRO PRIMERO: Algeciras y Canseco, vienen de noche por la calle del brazo y Algeciras, elegantemente vestido con un frac que le ha dejado su amigo Galindo (hombre culto), muy encogido, procura que un tal Membrives no lo vean ya que lo suscribió ocho meses atrás al diccionario enciclopédico Espasa y le abonó cien pesetas de entrada y todavía no sabe ni cómo está encuadernado. </p>
         <p>Algeciras y Canseco se dirigen a una conferencia que va a dar Algeciras sobre “La mosca, como vehículo de todas las enfermedades” idea de Galindo y por la que le pagan 500 pesetas.</p>
@@ -114,6 +111,10 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--comedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-04-21" who="#mas">Codificación TEI del Cuadro Segundo</change>

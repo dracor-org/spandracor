@@ -65,9 +65,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="tragedia"/>
-      </textDesc>
       <abstract>
         <p>Tragedia de Lorca inspirada en una historia real, conocida como el crimen de Níjar. En el acto primero se presenta al novio, que quiere casarse con una muchacha que despierta los recelos de la madre, pues ha sido novia de un miembro de la familia de los Félix, responsables de la muerte de su marido y su hijo. En el acto segundo tienen lugar los preparativos de la boda y se presenta a Leonardo, el antiguo novio de la prometida, y se muestra cómo ese amor sigue estando vivo. Tras la boda, Leonardo huye con la novia. En el Acto tercero se produce la muerte de Leonardo y el novio y la confrontación de la novia con la madre.</p>
         <p>Acto 1: Cuadro 1: El novio y su madre hablan sobre la novia de este y del futuro de sus relaciones. Se hace referencia a las muertes en la familia que causaron una familia enemiga. Una vecina advierte a la madre del novio que había sospechas sobre la difunta madre de la novia; además señala que la novia tuvo de adolescente relaciones con Leonardo de los Félix, parte de la familia enemiga. Cuadro 2: La escena tiene lugar en la casa de Leonardo, donde su suegra y su mujer ponen a dormir al niño. Leonardo llega y hablan de la próxima boda de su antigua novia. En la conversación aparecen ciertos aspectos secretos y mentiras entre la pareja; termina en una fuerte discusión. Cuadro 3: el novio y su madre visitan a la novia y su padre y hacen los arreglos para que se casen en breve. La novia rechaza enseñar los regalos que le han hecho a la criada. Esta última le señala que Leonardo vino a verla la noche anterior y que ahora mismo está de nuevo fuera de la casa.</p>
@@ -153,6 +150,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--tragedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change when="2016-07-23" who="#sga">Versión inicial TEI.</change>

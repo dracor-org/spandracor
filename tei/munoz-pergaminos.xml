@@ -68,9 +68,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="juguete-comico"/>
-      </textDesc>
       <abstract>
         <p>Los Pergaminos, obra de Muñoz Seca, se trata de un juguete cómico en tres actos y en prosa. En el acto primero, tiene lugar la petición de mano de Elvira, hija de los Condes de la Pola de Clavijo - don Nuño y doña Urraca - para casarse con Gonzalo, hijo de los Marqueses del Valle de doña Favila - don Laín y doña Berenguela -. Ambos protagonistas comentan la importancia de que sus padres no conozcan la realidad: las dos familias no tienen una buena situación económica y ambas deben importantes sumas de dinero a don Melitón. Durante el acto de petición de mano, se conoce la verdad y los padres deciden suspender el compromiso. Sin embargo, los protagonistas no lo aceptan y se casan. En el acto segundo, aparecen Elvira y Gonzalo ya casados. Ambos protagonistas comentan su nueva situación: Elvira está embarazada y no quiere dar la noticia a las familias y Gonzalo ejerce de médico. Además, continúa la mala relación entre las familias de ambos. Finalmente, en medio de una discusión entre estas, Elvira se desmaya y sale a la luz su embarazo. En el tercer acto, Elvira y Gonzalo ya son padres de una niña y él se ha convertido en un prestigioso médico. Ambos protagonistas hablan sobre el bautizo de su hija y sobre el nombre que va a tener; algo que ha sido motivo de discusión entre las familias. Finalmente, la niña es bautizada, le ponen el nombre de María y se establece la paz entre todos. Por otro lado, la trama amorosa secundaria entre don Melitón y miss Plain acaba con ambos convertidos en padrinos-abuelos espirituales de la recién bautizada.</p>
       </abstract>
@@ -156,6 +153,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--juguete-comico-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-05-14" who="#emc">Versión inicial de TEI.</change>

@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="comedia-bárbara"/>
-      </textDesc>
       <abstract>
         <p>Incluida en la Trilogía Comedias bárbaras, segunda en la cronología narrativa.</p>
         <p>Jornada Primera: La obra comienza en una iglesia donde Sabelita, ahijada de don Juan Manuel y enamorada de él, se desmaya. La acción transcurre en la casa de don Juan Manuel,un hidalgo mujeriego y despótico, es abordado por unos ladrones que le piden dinero. Don Juan Manuel consigue desatarse y con un arma dispara a uno de los ladrones hiriéndole, pero otro de ellos también consigue herirle. Los ladrones consiguen huir y la jornada termina con don Juan Manuel en  el suelo herido abriendo los ojos aferrándose a la vida con ayuda de su criada Micaela La Roja.</p>
@@ -295,6 +292,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--comedia-bárbara-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-06-06" who="#jct">Versión inicital TEI.</change>

@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="comedia"/>
-      </textDesc>
       <abstract>
         <p>En el acto primero, África, la administradora del Parador o “refugio” construido por el Patronato Nacional del Turismo a pie de Manzanares, aparece en el salón atizando la chimenea y dirigiendo las labores del personal, entre otras las de su hermano Timoteo, cochero; y las de Paco, camarero del refugio. Horacio es un “buscavidas” de unos 45 años recién llegado, que con su astucia consigue quedarse y llenar el parador de clientes, lo que le reporta beneficios económicos. Oculta, no obstante, un secreto personal: tiene hijos en Madrid. África lo descubre cuando le sorprende poniendo una conferencia telefónica para hablar con ellos.</p>
         <p>En el segundo acto, Ramón, hijo de Timoteo, se enfurece contra Horacio porque piensa que le ha robado tres piezas de un coche que acababa de arreglar y cuyo pago le serviría para seguir ayudando económicamente a Maruja, doncella llegada al Parador acompañada de su hermana Consuelo. Ramón confiesa a su tía África que “está en relaciones” con Maruja y Horacio hace lo propio con África, declarándole el amor que siente por ella desde que se interesó por sus hijos y le ofreció sus confidencias y su simpatía. Ella se escandaliza, pero se reconoce a sí misma que a ella también le gustan su frente despejada y sus ojos vivos. El acto termina con el rechazo de Nieves hacia Luis, matrimonio alojado en el Parador.</p>
@@ -131,6 +128,10 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--comedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change when="2016-05-25" who="#sga">Teiheader, inclusión de personajes en castItem y segundo acto</change>

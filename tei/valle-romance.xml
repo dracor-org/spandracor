@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="comedia-bárbara"/>
-      </textDesc>
       <abstract>
         <p>La obra, dividida en tres jornadas, nos presenta la vuelta de don Juan Manuel Montenegro a su casa y la lucha de los hijos (Pedrito, Rosendo, Mauro, Gonzalito, Farruquiño) por la herencia ante la muerte de su madre.</p>
         <p>La primera de estas jornadas nos presenta al caballero que, borracho, sufre la aparición de la Santa Compaña, un entierro y un grupo de brujas, vuelve a su casa presintiendo la muerte de su esposa. Tras sufrir un complicado viaje por mar se encuentra con una hueste de mendigos  que lo acoge. En escenas diferentes  conocemos que realmente doña María ha muerto y la avaricia de los hijos, que ya están pensando en saquear la casa.</p>
@@ -225,6 +222,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--comedia-bárbara-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-06-06" who="#jct">Versión inicital TEI.</change>

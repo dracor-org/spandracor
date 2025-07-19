@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="esperpento"/>
-      </textDesc>
       <abstract>
         <p>Escena primera: Max Estrella se encuentra en su casa acompañado de la soledad de su ceguera, su mujer Madame Collet y su hija Claudinita. Ha perdido toda esperanza por obtener un trabajo o salario que -como escritor- les ayude a sobrevivir. Ante la desesperación, Don Latino –amigo del poeta- ha intentado empeñar algunos libros en la librería de Zaratustra sin éxito. Max decide salir con él para recuperarlos. Comienza así la peregrinación de la pareja de amigos por las calles de Madrid.</p>
         <p>Escena segunda: Max llega a la librería de Zaratustra con intención de recuperar sus libros. Entonces también llega Don Gay, poeta bohemio, que ha estado en Inglaterra y cuenta sus experiencias. La conversación discurre sobre la situación política y social española.</p>
@@ -280,6 +277,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--esperpento-->
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change status="draft" when="2016-06-06" who="#jct">Versión inicital TEI.</change>

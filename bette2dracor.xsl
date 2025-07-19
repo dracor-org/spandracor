@@ -77,17 +77,6 @@
   <!-- remove xml:id from castList roles -->
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 
-  <!-- add DraCor and Wikidata IDs for play -->
-  <!-- <xsl:template match="tei:publicationStmt">
-    <xsl:variable name="idno" select="tei:idno[1]/tei:idno[@type='number']/text()"/>
-    <publicationStmt>
-      <xsl:apply-templates/>
-      <idno type="dracor" xml:base="https://dracor.org/id/">
-        <xsl:value-of select="concat('span000', $idno)"/>
-      </idno>
-    </publicationStmt>
-  </xsl:template> -->
-
   <!-- transform tei:name and make sure wikidata idno comes first -->
   <xsl:template match="tei:titleStmt/tei:author">
     <author>
@@ -154,6 +143,38 @@
         <xsl:otherwise><xsl:text>UNKNOWN</xsl:text></xsl:otherwise>
       </xsl:choose>
     </xsl:attribute>
+  </xsl:template>
+
+  <!-- insert textClass derived from textDesc -->
+  <xsl:template match="tei:particDesc">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:apply-templates/>
+    </xsl:copy>
+    <xsl:variable name="purpose" select="//tei:textDesc/tei:purpose[@type]"/>
+    <xsl:if test="$purpose">
+      <textClass> <xsl:comment><xsl:value-of select="$purpose/@type"/></xsl:comment>
+        <xsl:if test="$purpose/@type = ('tragedia', 'tragicomedia', 'comedia', 'comedia-bárbara', 'juguete-comico')">
+          <classCode scheme="http://www.wikidata.org/entity/">
+            <xsl:choose>
+              <xsl:when test="$purpose/@type = 'tragedia'">
+                <xsl:text>Q80930</xsl:text>
+              </xsl:when>
+              <xsl:when test="$purpose/@type = 'tragicomedia'">
+                <xsl:text>Q192881</xsl:text>
+              </xsl:when>
+              <xsl:when test="$purpose/@type = ('comedia', 'comedia-bárbara', 'juguete-comico')">
+                <xsl:text>Q40831</xsl:text>
+              </xsl:when>
+            </xsl:choose>
+          </classCode>
+        </xsl:if>
+      </textClass>
+    </xsl:if>
+  </xsl:template>
+
+  <!-- delete invalid since incomplete textDesc elements -->
+  <xsl:template match="tei:textDesc">
   </xsl:template>
 
   <!--

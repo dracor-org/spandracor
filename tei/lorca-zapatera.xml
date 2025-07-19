@@ -63,9 +63,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="farsa"/>
-      </textDesc>
       <abstract>
         <p>Acto 1: la obra comienza con la protagonista, una joven zapatera de 18 años que, a partir de la conversación casual con un niño que acude a la zapatería, descubre que la critican en el pueblo porque no tiene hijos. Ella discute con su marido (de 53 años) y lo critica enérgicamente. El marido comienza a pensar si acertó casándose con ella o no. Mientras, a ella las cortejan dos hombres del pueblo, pero no hace caso a esos cortejos. El marido se va de casa.</p>
         <p>Acto 2: tras la marcha del marido, la zapatera monta una taberna para ganarse la vida. La siguen cortejando algunos hombres del pueblo pero ella continúa sin hacer caso a esos cortejos. Llega un trovador que canta una canción con la que ella se siente identificada por su situación, y entristece. En una conversación con ese trovador se muestra lo enamorado que está él de su mujer y la zapatera de su marido. El trovador se quita el disfraz que llevaba y se descubre que en realidad no era un trovador sino el marido de la zapatera. </p>
@@ -128,6 +125,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--farsa-->
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change status="draft" when="2016-07-27" who="#con">Primera versión de TEI</change>

@@ -70,9 +70,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p> El Acto I transcurre en la taberna, en la que van apareciendo por grupos los personajes. 
 			El grupo de amigos presentan a Juan José a través de su conversación y dan a conocer su relación con Rosa y el ansia de progresar de esta. Cuando los amigos se van a trabajar, llega Isidra, a la que ya conocemos como "celestina" a través de  los comentarios que han hecho los personajes. Paco llega con unos amigos y a la llegada de Rosa la invita a sumarse a la fiesta. Cuando llegan Andrés y Juan José para buscar a sus mujeres, este oye la voz de Rosa y echa en cara a Paco querer robársela y lo amenaza si sigue  con esa actitud. El Acto II tiene lugar en la casa de Juan José y Rosa, en la que se ha instalado la miseria, ya que Paco ha despedido a Juan José. Isidra sigue intentando que Rosa ceda a los deseos del capataz. Isidra es despedida por Juan José y comienzan los reproches de Rosa por la situación, lo que provoca que éste le pegue. Juan José se arrepiente de lo sucedido y decide poner fin a la situación. En el Acto III dos reclusos hablan de Juan José, que se encuentra preso por robar. El Cano lo define como valiente y triste por su vida pasada. Cuando llega Juan José, su amigo le propone escapar durante un traslado, a lo que Juan José se niega pero su decisión cambia cuando llega una carta en la que le comunican a Juan José que Rosa vive ahora con Paco, y decide huir con El Cano. En la casa de Rosa mientras habla con Isidra y con Paco, Rosa se prepara para una fiesta, con las galas compradas por Andrés,su actual hombre. Mientras Rosa se prepara Andrés se ausenta para resolver algunos asuntos pendientes con sus trabajadores. En la breve ausencia de  Andrés, llega Juan José, que acaba matando a los dos amantes.</p>
@@ -144,6 +141,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-02-10" who="#mgs">Versión inicial de TEI.</change>

@@ -64,9 +64,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="tragedia"/>
-      </textDesc>
       <abstract>
         <p>En el primer acto Rosita tiene 20 años y vive en un ‘carmen’, casa típica de Granada que situada frente a la Alhambra, con un patio central lleno de flores que permite observar sin ser visto, mientras dentro el tiempo se detiene. Los diálogos iniciales en torno a la rosa hacen presagiar un final trágico, cuando Sobrino –enamorado de Rosita– decide marcharse a América en busca de un futuro para los dos. La promesa de un matrimonio marca el desarrollo de un drama: todo es espera para Rosita.</p>
         <p>En el segundo acto han pasado 15 años. Rosita sigue aferrada al pasado. Muchos son los personajes que pasan por la escena mostrando el paso del tiempo, la evolución de la ciudad y sus costumbres, aunque para ella todo se ha detenido. Rosita vive ajena a todo desde su ‘carmen’ granadino, símbolo lorquiano de la opresión social sobre la mujer. A pesar de todos los cambios, nada se mueve en su vida, salvo la noticia del casamiento por poderes con Sobrino, que –lejos de ser una alegría– anuncia otro fracaso.</p>
@@ -139,6 +136,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--tragedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-06-06" who="#jct">Versión inicital TEI.</change>

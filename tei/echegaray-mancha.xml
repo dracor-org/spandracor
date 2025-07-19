@@ -78,9 +78,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>Drama con final trágico. En el primer acto vemos cómo doña Concepción está engañada, a pesar de las sospechas de don Justo, respecto a las dos jóvenes que acoge en su casa: cree buenísima a Enriqueta, que es una hipócrita, y malísima a Matilde por su pasado familiar. Además, quiere que su hijo Fernando se case con la primera. En el segundo acto descubrimos las relaciones que mantienen Julio y Enriqueta, quien quiere casarse por su dinero con Fernando. Matilde y Fernando se aman, pero esta quiere sacrificarse para no indisponerlo contra su familia, hasta que don Justo le revela que los padres de Enriqueta evitaron que los suyos se casaran y las sospechas que está vertiendo don Lorenzo sobre que es Matilde quien tiene relaciones con Julio. En el acto tercero, Matilde pide a Enriqueta que renuncie a casarse con Fernando, pues la siguió un día hasta casa de Julio y sabe de sus amoríos. Sin embargo, don Lorenzo vio cerca de la casa de Julio a Matilde, tal y como revela a doña Concepción, quien echa de su casa a Matilde, pues nadie - incluido Fernando- cree en su inocencia. En el cuarto acto, don Justo recibe una carta que debe dar a Fernando mientras Matilde se presenta en medio de los preparativos de la boda. Discusión entre Matilde y Enriqueta, boda de esta con Fernando. Matilde entrega la carta a Fernando quien descubre que el remitente es Julio. Este le descubre su relación con Enriqueta. Matilde mata a Enriqueta y Fernando se confiesa culpable del asesinato.</p>
       </abstract>
@@ -121,6 +118,9 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2015-09-24" who="#jct">Primer versión TEI de todas las partes unidas.</change>

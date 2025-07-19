@@ -65,9 +65,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="tragedia"/>
-      </textDesc>
       <abstract>
         <p>Acto 1: se presentan los personajes y sus relaciones. Pedro, marido de Fedra, quiere que su hijo Hipólito se case y tenga hijos y pide a Fedra que indague si el hijo piensa en ello. Fedra lo hace, a lo que Hipólito responde que no piensa todavía en casarse ni hay ninguna mujer. En la conversación, Fedra pero descubre a su hijo político (es decir, no es su hijo biológico) que está enamorada de él y él la rechaza. Pedro se entera que Hipólito no piensa en casarse y se enfada con ambos. También se presentan los personajes secundarios: la nodriza de Fedra, Eustaquia, quien sabe su amor por Hipólito; la criada Rosa, a quien Fedra ofrece ser su madrina de boda; y Marcelo, médico amigo de Pedro.</p>
         <p>Acto 2: ha pasado algún tiempo (probablemente días o semanas), Fedra amenaza a Hipólito con acusarle a él de pretenderle ante Pedro, amenaza que Hipólito ignora. Fedra lo hace y Pedro habla con su hijo. Hipólito no le descubre la verdad a su padre y este le pide que se vaya. Marcelo alude a Pedro que Hipólito es el único sano en esa casa. Fedra refiere su futura muerte.</p>
@@ -95,6 +92,10 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--tragedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q80930</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-08-08" who="#jct">Versión inicial de TEI.</change>

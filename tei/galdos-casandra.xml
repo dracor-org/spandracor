@@ -62,9 +62,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>Arreglo de la novela del mismo título y adaptación del mito clásico a la sociedad española de principios del siglo XX. En el Acto I se procede a la presentación de los personajes principales, entre los que destaca doña Juana, eje vertebrador de la trama, cuya herencia centra las preocupaciones del resto. El Acto II se inicia con la conversación entre Clementina, sobrina de doña Juana y una de sus herederas, y Alfonso, su marido. En ella se revelan los temores acerca de un cambio de opinión de doña Juana sobre el destino de su herencia, lo que efectivamente ocurrirá. Casandra, protagonista principal, acude a la casa de Clementina y Alfonso buscando su intermediación acerca del futuro que doña Juana ha ideado para Rogelio, su pareja y padre de sus hijos. doña Juana pretende encauzar la vida del joven alejándole a él y a los hijos de ambos de Casandra. En el Acto III se confirman las sospechas sobre el cambio de opinión de doña Juana con respecto a su herencia y será en el Acto IV cuando Casandra dé muerte a doña Juana antes de que esta pueda modificar el testamento</p>
       </abstract>
@@ -123,6 +120,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="compared" when="2016-02-02" who="#rbm">Minúsculas para personajes, revisión de sintaxis y validación</change>

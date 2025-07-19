@@ -68,9 +68,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="farsa-cómica"/>
-      </textDesc>
       <abstract>
         <p>Comedia que lleva por título y se inspira en un fragmento de una fábula de Juan Eugenio Hartzembuch, "El águila y el caracol". En el prólogo Plácido, Claudio y Javier quieren ir a Madrid a triunfar. Plácido ya insinúa que será a costa de renunciar a toda nobleza (va a vender el retrato de su madre para financiar el viaje), al amor que siente por Blanca, hermana de Javier y a todo principio moral. En el primer acto, todos menos Claudio están instalados en casa del marqués de Retamosa del Valle y de su caprichosa y casquivana hija Josefina. Se observa el comportamiento rastrero, hipócrita y dispuesto a medrar de Plácido mientras Blanca y Javier se distancia de él. En el Acto II los falsos halagos y la treta urdida por Plácido en el acto anterior cobran su fruto. Va a fingir batirse en duelo con Claudio para defender el honor del Marqués y ya ha conseguido el favor de don Anselmo, don Romualdo y de Josefina, con quien se promete en matrimonio. El Acto III se sitúa seis años más tarde y Plácido aspira a un alto cargo político mientras intenta recuperar el cuadro que había vendido. Se ve la malquerencia de Tomás hacia él, las infidelidades de Josefina y la degeneración de Claudio. Aparece Basilio para chantajear al protagonista, pues sabe lo sucedido con el falso duelo y la conducta licenciosa de Josefina. Plácido paga el precio que le pide Basilio por los papeles que le comprometen, mientras que Javier y Blanca le han ido a visitar y se van escandalizados por su decadencia. Le dicen a Plácido que ellos tienen el cuadro de su madre y acaba la obra con el reconocimiento por parte de Plácido de que dicho retrato es más digno de ocupar la casa de los dos hermanos que la abyecta familia que conforma él con el Marqués y Josefina.</p>
       </abstract>
@@ -126,6 +123,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--farsa-cómica-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-01-25" who="#coj">Versión inicial de TEI.</change>

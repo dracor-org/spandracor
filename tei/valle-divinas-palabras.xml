@@ -67,9 +67,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="tragicomedia"/>
-      </textDesc>
       <abstract>
         <p>Jornada primera: En San Clemente, una iglesia de aldea gallega. Pedro Gailo, el sacristán, ve molesto, a dos farandules que corren los caminos Lucero (también llamado compadre Miau) y Poca Pena. Pedro Gailo intenta echarlos de los alrededores de la iglesia. Mientras salen unas viejas de la Iglesia entre ellas Juana la Reina, mendiga, madre de un enano que le procura fortuna en limosnas y hermana del sacristán. Juana la Reina empieza a delirar y cae al suelo. A los gritos de Rosa aparecen Miguelín el Padronés, un anda caminos, y Lucero. Aconsejan a Rosa la Tatula que lleve la nueva a la familia, sin decir que ha muerto ya. Rosa la Tatula llega portadora de la mala nueva. Mari-Gaila, casada con el sacristán, comienza el planto y se ofrece  como una caridad  a hacerse cargo del carretón. Llega Marica del Reino, dando gritos donde está la muerta tendida. Llegan los Gailos y discuten acerca de quién se queda con el enano huérfano. Vuelven a discutir los parientes y el alcalde pedáneo les aconseja que se repartan al enano de lunes a miércoles, de jueves a sábados y los domingos alternados. </p>
         <p>Jornada segunda: Marica del Reino, acurrucada en el umbral de su casa, desayuna. Espera el carretón desde el día anterior y se desata en insultos hacia su cuñada. Mari-Gaila, bromea con los demás de lo bien que le sienta su nueva vida. Lucero queda con Mari-Gaila en verse. Pedro Gailo, el sacristán, pasea por el pórtico batiendo llaves. Marica del Reino le reclama el carretón y le incita a que tome venganza de su mujer, que anda extraviada. En la playa, se encuentran Mari-Gaila y Lucero, y este seduce a Mari-Gaila.  En la casa de los Gailos, el sacristán, borracho, afila el cuchillo y da vueltas a su idea de matar a su mujer. Simoniña intenta calmarlo y le procura más bebida. El viejo, en su borrachera, le propone un incesto a Simoniña, ésta lo rechaza y al fin el sacristán se duerme. En un hostal fuera de puertas, mendigos y trajinantes de toda laya, mientras Mari-Gaila y Lucero ven los castillos de fuego en la plaza. Miguel el Padronés y un joven, hablan de Lucero y de Mari-Gaila y de lo mucho que representa el enano para sacarle dinero enseñándole en ferias y verbenas. El enano tiene un ataque y muere, quedan de acuerdo en guardar silencio, echándole la culpa a Miguelín el padronés. Aparece la Mari-Gaila, le dan la noticia y le aconsejan darle tierras bajo la cruz de su madre. Mari-Gaila por un camino ve al Trasgo Cabrío, que le recuerda el adulterio que ha cometido. Mari-Gaila se aparece en casa de los Gailos y da la noticia de la muerte del baldadiño. Suelta el dinero que ha recogido. Simoniña comienza el planto. Acuerdan llevar el carretón a Marica del Reino y dejárselo sin decirle nada.</p>
@@ -199,6 +196,10 @@
           </personGrp>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--tragicomedia-->
+        <classCode scheme="http://www.wikidata.org/entity/">Q192881</classCode>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change status="draft" when="2016-06-06" who="#jct">Versión inicital TEI.</change>

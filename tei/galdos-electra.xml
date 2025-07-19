@@ -68,9 +68,6 @@
       <langUsage>
         <language ident="es">Español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>Adaptación de la tragedia "Electra" de Eurípides a la sociedad española de principios del siglo XX.</p>
         <p>En el Acto I se nos revela que Pantoja tiene cierta “autoridad” sobre Electra, la familiaridad entre Electra y Máximo, sobrino de don Urbano, el amor que siente Cuesta por Electra y la intención de Pantoja de ingresar a Electra en un convento.</p>
@@ -128,6 +125,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc status="approved">
       <change status="draft" when="2015-06-23" who="#jct">Versión inicital TEI.</change>

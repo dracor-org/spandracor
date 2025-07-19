@@ -64,9 +64,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>Acto 1: ocurre en la casa de Ángel. Él es el presidente de una junta revolucionaria. Al comienzo comenta con ciertos amigos y su mujer el discurso de la noche pasada, muy alabado. El grupo se despide y queda Eufenia, mujer de Ángel, y Eusebio solos, quien habla de sus problemas y celos contra Ángel. Ángel y Eufenia hablan de diferentes temas, entre ellos del hecho de que no hayan tenido hijos y de que ella espere de él gloria política como resarcimiento. Ángel está atormentado por su relación con Dios, la necesidad de libertad y el destino. Al final del acto Joaquín le informa que están conspirando para quitarle la presidencia, a lo que él responde enviando una carte de renuncia.</p>
         <p>Acto 2: Ángel tiene una fuerte discusión con Eufenia sobre su relación, la falta de hijos, la renuncia, su relación, con Eusebio, etcétera. Diferentes personajes como Eufebio o varios amigos de Ángel van a visitarle, discutiendo todos con él. Eusebio y Eufenia también discuten entre ellos. Eufenia abandona a Ángel y le deja una carta. Este se encuentra al final del acto completamente solo, pensando en el suicidio y la falta de Dios.</p>
@@ -112,6 +109,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2017-09-17" who="#jct">Versión inicial de TEI.</change>

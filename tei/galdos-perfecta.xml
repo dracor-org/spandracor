@@ -68,9 +68,6 @@
       <langUsage>
         <language ident="es">español</language>
       </langUsage>
-      <textDesc n="play">
-        <purpose type="drama"/>
-      </textDesc>
       <abstract>
         <p>Acto I. En el patio ajardinado de la casa de Doña Perfecta, Remedios –antigua criada de la señora y sobrina del párroco- y el tío Licurgo –habitante del pueblo- critican el compromiso de Rosarito con su primo, José Rey, pues la mujer considera mejor pretendiente para la joven a su hijo Jacintito. La visión moderna del joven llegado de la capital contrasta con la intolerancia y la inflexibilidad del pueblo de Orbajosa. El prejuicio y el autoritarismo minan su paciencia y lo conducen a denunciar la superstición, el fanatismo y la barbarie, la falta de verdadera piedad. La reacción de su tía, Doña Perfecta, y de don Inocencio, el párroco del pueblo, le hacen comprender que ha caído en desgracia.</p>
         <p>Acto II. Pepe Rey, en el salón de la casa de Doña Perfecta, se lamenta de no ver a Rosarito y tener solo como amigo a  Don Juan Tafetán –viejo tenorio del pueblo- con quien recorre siempre los mismos lugares. Teme que la enfermedad de su amada sea un artificio de su tía para evitar sus encuentros. El joven se entera de que ha sido relevado del cargo que le había confiado el gobierno y supone la existencia de una mano negra que ha actuado en su contra. Pepe Rey se queja de su destino y Don Juan Tafetán le comunica que en Librada ha encontrado una aliada para acercarse a Rosarito. Con la ayuda de la criada, se encuentran los enamorados, pero los jóvenes son descubiertos y se produce el enfrentamiento entre tía y sobrino. Doña Perfecta abiertamente le niega el consentimiento de casarse con Rosarito. Se oye el llegar de las tropas militares. La mujer reniega de la autoridad central y el joven confía en encontrar apoyo en la ley para lograr su objetivo: casarse con su prima.</p>
@@ -129,6 +126,9 @@
           </person>
         </listPerson>
       </particDesc>
+      <textClass>
+<!--drama-->
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change when="2016-01-10" who="#irm">creación de archivo a partir de las partes de los responsables; check xml syntax and validation</change>
