@@ -1,15 +1,5 @@
 #!/bin/sh
 
-# clone dracor-org fork of BETTE
-if ! [ -d ./BETTE ]; then
-  git clone https://github.com/dracor-org/BETTE.git
-fi
-# change to dracor branch
-cd ./BETTE
-git checkout dracor
-git pull
-cd -
-
 for f in ./BETTE/corpus/TEI/*.xml; do
   # adjust file name
   n=$(basename $f .xml \

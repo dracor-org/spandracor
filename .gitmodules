@@ -1,0 +1,3 @@
+[submodule "BETTE"]
+	path = BETTE
+	url = git@github.com:dracor-org/BETTE.git
