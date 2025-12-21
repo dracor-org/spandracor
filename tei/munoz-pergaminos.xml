@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000030" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -191,7 +191,7 @@
           <castItem>
             <role corresp="#elvi">Elvira</role>
             <roleDesc>Elegantísima y guapísima muchacha como de veinticinco años.</roleDesc>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#miss">Miss Plain</role>
@@ -200,22 +200,22 @@
           </castItem>
           <castItem>
             <role corresp="#urra">Urraca</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#bere">Berenguela</role>
-            <roleDesc></roleDesc>
-            <actor></actor>
+            <roleDesc/>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#chic">Chicharita</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#bern">Bernarda</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -225,22 +225,22 @@
           </castItem>
           <castItem>
             <role corresp="#conc">Concha</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#mano">Manolita</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#rina">Rafaelina</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#emil">Emilita</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -260,22 +260,22 @@
           </castItem>
           <castItem>
             <role corresp="#nuno">Nuño</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#lain">Laín</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#jaim">Jaime</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#antu">Antúnez</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -285,17 +285,17 @@
           </castItem>
           <castItem>
             <role corresp="#cosm">Don Cosme</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#domi">Domingo</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#illo">Faelillo</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -305,17 +305,17 @@
           </castItem>
           <castItem>
             <role corresp="#lito">Faelito</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#reve">Revenga</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#pepi">Pepito</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
         </castList>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000056" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -167,7 +167,7 @@
             <stage>(<hi rend="italic">La Esfinge</hi>. Acto II, escena IX)</stage>.</ab>
         </quote>
       </div>
-      <div></div>
+      <div/>
       <div>
         <head>DRAMATIS PERSONAE</head>
         <castList>

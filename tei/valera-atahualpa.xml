@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000028" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -180,7 +180,7 @@
           </castItem>
           <castItem>
             <role corresp="#laur">Laura</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -215,7 +215,7 @@
           </castItem>
           <castItem>
             <role corresp="#escu">Escudero</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>

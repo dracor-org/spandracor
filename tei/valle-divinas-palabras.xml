@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000013" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -301,37 +301,37 @@
           </castItem>
           <castItem>
             <role corresp="#cieg">El ciego de Gondar.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#vend">El vendedor de agua de limón.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#pere">Un peregrino.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#par">La pareja de civiles.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#matr">Un matrimonio de labriegos con una hija enferma.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#vent">La ventera</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sere">Serenín de Bretal.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
@@ -341,71 +341,71 @@
           </castItem>
           <castItem>
             <role corresp="#muje">Una mujer en preñez.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#veci">Otra vecina.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sold">Un soldado con el canuto de la licencia.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#ludo">Ludovina la tabernera.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#trop">Tropas de rapaces con burlas y canciones.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#beat">Beaterío de viejas y mozas.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
           </castItem>
           <castItem>
             <role corresp="#beni">Benita la costurera.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#quin">Quintín pintado.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#milo">Milón de La Arnoya</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#coim">Coimbra, perro sabio.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#colo">Colorín, pájaro adivino</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#tras">El trasgo cabrío</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#sapo">Un sapo anónimo que canta en la noche.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
           <castItem>
             <role corresp="#grit">Final de gritos y aturujos moceriles.</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor/>
           </castItem>
         </castList>

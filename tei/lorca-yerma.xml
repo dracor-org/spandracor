@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000008" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -158,82 +158,82 @@
           <castItem>
             <role corresp="#cant">Canto de voces</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#juan">Juan</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#yerm">Yerma</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mari">María</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vict">Víctor</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#viej">Vieja</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#much">Muchacha</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#lava">Lavandera</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cuna">Cuñada</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#dolo">Dolores</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#muje">Mujer</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#coro">Coro de mujeres</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#hemb">Hembra</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#homb">Hombre</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#nin">Niño</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mach">Macho</role>
             <roleDesc/>
-            <actor></actor>
+            <actor/>
           </castItem>
         </castList>
       </div>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000003" xml:lang="es">
   <teiHeader>
     <fileDesc>
@@ -160,7 +160,7 @@
           <head>Personajes</head>
           <castItem>
             <role corresp="#blan">Blanca</role>
-            <roleDesc></roleDesc>
+            <roleDesc/>
             <actor>Sra. Guerrero.</actor>
           </castItem>
           <castItem>
