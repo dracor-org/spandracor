@@ -22,7 +22,7 @@
   />
 
   <xsl:template match="/">
-    <TEI xml:id="{$dracor-id}" xml:lang="es">
+    <TEI type="dracor" xml:id="{$dracor-id}" xml:lang="es">
       <xsl:apply-templates select="/tei:TEI/*"/>
     </TEI>
   </xsl:template>

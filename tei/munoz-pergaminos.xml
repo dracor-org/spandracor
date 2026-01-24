@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000030" xml:lang="es">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="dracor" xml:id="span000030" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
