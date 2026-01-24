@@ -334,39 +334,30 @@
         </castItem>
         <castItem>
           <role corresp="#fray">Fray Jerónimo</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#vie1">Una vieja</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#moza">Una moza</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mona">un monago</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#voz_">una voz en la sombra</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#sabe">Sabelita</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#rosi">Doña Rosita</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#rosm">Rosita María</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#vie2">otra vieja</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#roja">La Roja</role>
@@ -374,7 +365,6 @@
         </castItem>
         <castItem>
           <role corresp="#zaga">El zagal de las ovejas</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#gala">Don Galán</role>
@@ -382,31 +372,24 @@
         </castItem>
         <castItem>
           <role corresp="#capi">El Capitán de los ladrones</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#veci">Un vecino</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#ladr">Un ladrón</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#otro">Otro ladrón</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#enma">El Enmascarado</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#voce">voces de los ladrones</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#voz2">voces de los criados</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#pedr">Pedro Rey</role>
@@ -418,191 +401,144 @@
         </castItem>
         <castItem>
           <role corresp="#dped">Don Pedrito</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cura">La Curandera</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mozo">Un mozo</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#viej">Un viejo</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mar1">Un Marinero</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#patr">El Patrón</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mar2">Otro marinero</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#manu">Manuel Tovío</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#peab">Pedro Abuín</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#fons">Manuel Fonseca</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#lana">Un Lañador</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#crib">Una Cribera</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cint">Una Cintera</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mend">El Mendicante</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#dona">Doña María</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cape">El Capellán</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#manc">La Manchada</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#rosa">Rosalva</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#biei">Bieito</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#andr">Andreíña</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#algu">El Alguacil</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#escr">El Escribano</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#maur">Don Mauro</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#farr">Don Farruquiño</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#rose">Don Rosendo</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cara">Cara de Plata</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#gine">El señor Ginero</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#borr">La voz de un borracho</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#una_">una señora</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#otra">la otra señora</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cria">Un criado</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#chan">El chantre</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#dean">El Deán</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#abue">El abuelo</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#rapa">El Rapaz</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#pren">La Preñada</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#mari">El marido</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#sueg">La suegra</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#nino">El niño Jesús</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#pich">La Pichona</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#gazu">La Gazula</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#viso">La Visoja</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#barq">El barquero</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#pere">El peregrino</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#espo">El Espolique</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#cieg">Una vieja ciega</role>
-          <roleDesc/>
         </castItem>
         <castItem>
           <role corresp="#eco_">Un eco</role>
-          <roleDesc/>
         </castItem>
       </castList>
     </front>

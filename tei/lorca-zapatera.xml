@@ -156,93 +156,57 @@
           <head>Actores</head>
           <castItem>
             <role corresp="#zapa">Zapatera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vecr">Vecina Roja</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vecm">Vecina Morada</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vecv">Vecina Verde</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#veca">Vecina Amarilla</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vecn">Vecina Negra</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#beap">Beata Primera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#beas">Beata Segunda</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sacr">Sacristana</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#elau">El Autor</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#zapo">Zapatero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#elni">El Niño</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#alca">Alcalde</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#donm">Don Mirlo</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mozf">Mozo de la Faja</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mozs">Mozo del Sombrero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#hija">Hijas de la Vecina Roja</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vbcp">Vecinas, Beatas, Curas y Pueblo</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
         </castList>
       </div>

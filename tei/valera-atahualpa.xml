@@ -176,62 +176,48 @@
           <castItem>
             <role corresp="#juan">Juanilla</role>
             <roleDesc>Criada de Laura </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#laur">Laura</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cuel">Francisco de Cuéllar</role>
             <roleDesc>Amigo de Rivera y pretendiente de Laura</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rive">Bartolomé Rivera</role>
             <roleDesc> Hermano de Laura</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#padr">El Padre Antonio</role>
             <roleDesc>Conferor de Laura</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cipr">Cipriano</role>
             <roleDesc>Criado indio de Rivera</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#bria">Doña Brianda</role>
             <roleDesc>Tía de los dos hermanos y amante, además, de su sobrino Rivera</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#iren">Doña Irene</role>
             <roleDesc>Madre de don Fernando</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#escu">Escudero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#fern">Don Fernando</role>
             <roleDesc>Comunero poscrito, seductor misterioso de Laura </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pere">Pérez</role>
             <roleDesc>Escudero de don Fernando</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#garc">Garcés</role>
             <roleDesc>Criado de Cuéllar</roleDesc>
-            <actor/>
           </castItem>
         </castList>
       </div>

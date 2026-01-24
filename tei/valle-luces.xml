@@ -311,308 +311,198 @@
           <head>Dramatis personae</head>
           <castItem>
             <role corresp="#max">Max Estrella</role>
-            <roleDesc></roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#coll">Madame Collet</role>
             <roleDesc>Su mujer</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#clau">Claudinita</role>
             <roleDesc>Su hija</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#lati">Don Latino de Hispalis</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#zara">Zaratustra</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#gay">Don Gay</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pelo">Un pelón</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#chica">La chica de la portera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pica">Pica lagartos</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#chic">Un chico de taberna</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pisa">Enriqueta la pisa bien</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rey">El rey de Portugal</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#borr">Un borracho</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#dori">Dorio de Gadex</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rafa">Rafael de los Vélez</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#luci">Lucio Vero</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#ming">Mínguez</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#galv">Gálvez</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#clar">Clarinito</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pere">Pérez</role>
             <roleDesc>Jovenes modernistas</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#grup">Grupo de los modernistas</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#capi">El capitán Pitito</role>
             <roleDesc>Capitán de los équites municipales</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sere">Un sereno</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#voz">La voz de un vecino</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#guar">Un guardia del orden</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#otro">Otro guardia del orden</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sera">Serafín el bonito</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cela">Un celador</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pres">Un preso</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cons">El conserje de la redacción</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#fili">Don Filiberto</role>
             <roleDesc>Redactor jefe</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mini">El ministro de la gobernación</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#dieg">Dieguito</role>
             <roleDesc>Secretario de su excelencia</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#ujie">ujier</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#viej">Una vieja pintada</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#luna">La lunares</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#jove">Un joven desconocido</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#madr">La madre del niño muerto</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#empe">El empeñista</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#port">La portera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#alba">Un albañil</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#veja">Una vieja</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#trap">La trapera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#reti">El retirado</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#otra">Otra portera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#veci">Una vecina</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#basi">Basilio Soulinake</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#coch">Un cochero de la funeraria</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sepu">Un sepulturero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#osep">Otro sepulturero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rube">Rubén Darío</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#marq">El marqués de Bradomín</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#poll">El pollo del pay-pay</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#peri">La periodista</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#veno">Un vecino</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#guin">Un guindilla</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#tabe">Un tabernero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#llav">El llavero</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#can">can</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#gato">gato</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#loro">Un loro</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <stage>Turbas, guardias, perros, gatos, un loro.</stage>
           <stage>La acción en un Madrid absurdo, brillante y hambriento.</stage>
@@ -5507,10 +5397,6 @@
         </div>
       </div>
     </body>
-    <back>
-      <div>
-        <p/>
-      </div>
-    </back>
+    <back></back>
   </text>
 </TEI>

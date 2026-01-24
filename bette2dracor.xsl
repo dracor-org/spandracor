@@ -80,6 +80,9 @@
   <!-- remove xml:id from castList roles -->
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 
+  <!-- remove empty elements -->
+  <xsl:template match="(tei:div|tei:roleDesc|tei:actor)[normalize-space() = '']"></xsl:template>
+
   <!-- transform tei:name and make sure wikidata idno comes first -->
   <xsl:template match="tei:titleStmt/tei:author">
     <author>

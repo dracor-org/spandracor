@@ -232,181 +232,125 @@
           <castItem>
             <role corresp="#luce">Lucero</role>
             <roleDesc>Lucero, que otras veces se llama Séptimo miau y compadre miau. Feriante </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#poca">Poca pena</role>
             <roleDesc>Manceba de Lucero , madre de su hijo </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rein">Juana La Reina</role>
             <roleDesc>Hermana de Pedro Gailo, hermana de Rosa de Tatula, madre del idiota. </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#idio">El hijo idiota</role>
             <roleDesc>Hijo de Juana La Reina  </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pedr">Pedro Gailo</role>
             <roleDesc>Sacristán de San Clemente;</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#marg">Mari-Gaila</role>
             <roleDesc>, su mujer,</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#simo">Simoniña</role>
             <roleDesc>, nacida de los dos.</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#tatu">La Tatula</role>
             <roleDesc> Vieja mendiga </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#migu">Miguelín El padronés</role>
             <roleDesc>  Mozo leñador  </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#chal">Un chalán</role>
             <roleDesc> Tratante de ganado   </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mujs">Mujerucas que llenan los cántaros en la fuente</role>
             <roleDesc> Aldeanas   </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#marc">Marica del Reino con otras mujerucas</role>
             <roleDesc>Hermana de Pedro Gailo, tía de Simoniña, cuñada de Mari-Gaila   </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#peda">Un alcalde pedáneo</role>
             <roleDesc>  Alcalde  </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rapa">Una rapaza.</role>
             <roleDesc> Rapaza   </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cieg">El ciego de Gondar.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vend">El vendedor de agua de limón.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pere">Un peregrino.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#par">La pareja de civiles.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#matr">Un matrimonio de labriegos con una hija enferma.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#vent">La ventera</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sere">Serenín de Bretal.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#viej">Una vieja en un ventano.</role>
             <roleDesc>   La vieja del ventano </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#muje">Una mujer en preñez.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#veci">Otra vecina.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sold">Un soldado con el canuto de la licencia.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#ludo">Ludovina la tabernera.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#trop">Tropas de rapaces con burlas y canciones.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#beat">Beaterío de viejas y mozas.</role>
-            <roleDesc/>
           </castItem>
           <castItem>
             <role corresp="#beni">Benita la costurera.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#quin">Quintín pintado.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#milo">Milón de La Arnoya</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#coim">Coimbra, perro sabio.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#colo">Colorín, pájaro adivino</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#tras">El trasgo cabrío</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#sapo">Un sapo anónimo que canta en la noche.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#grit">Final de gritos y aturujos moceriles.</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
         </castList>
       </div>

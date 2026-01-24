@@ -191,132 +191,88 @@
           <castItem>
             <role corresp="#elvi">Elvira</role>
             <roleDesc>Elegantísima y guapísima muchacha como de veinticinco años.</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#miss">Miss Plain</role>
             <roleDesc>Inglesa, 35 años, de aspecto varonil.</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#urra">Urraca</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#bere">Berenguela</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#chic">Chicharita</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#bern">Bernarda</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rela">Rafaela</role>
             <roleDesc>Hortelana, 45 años. </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#conc">Concha</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#mano">Manolita</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rina">Rafaelina</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#emil">Emilita</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rita">Rafaelita</role>
             <roleDesc>Hija de Rafaela y Rafaelón, 16 años.</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#meli">Melitón</role>
             <roleDesc>Señor como de cincuenta y ocho años; un gran señor, pero un señor rarísimo </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#gonz">Gonzalo</role>
             <roleDesc>Muchacho como de treinta años muy elegante y muy simpático</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#nuno">Nuño</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#lain">Laín</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#jaim">Jaime</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#antu">Antúnez</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rlon">Rafaelón</role>
             <roleDesc>Hortelano, marido de Rafaela, 49 años.</roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#cosm">Don Cosme</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#domi">Domingo</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#illo">Faelillo</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#rafa">Rafael</role>
             <roleDesc>Hijo de Rafaela y Rafaelón, 20 años. </roleDesc>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#lito">Faelito</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#reve">Revenga</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
           <castItem>
             <role corresp="#pepi">Pepito</role>
-            <roleDesc/>
-            <actor/>
           </castItem>
         </castList>
       </div>
