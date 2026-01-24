@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000014" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Luces de bohemia</title>
+        <title>Luces de bohemia</title>
         <title type="sub">Esperpento</title>
         <title type="short">LucesBohemia</title>
         <title type="full">Luces de bohemia. Esperpento</title>
@@ -311,7 +311,7 @@
           <head>Dramatis personae</head>
           <castItem>
             <role corresp="#max">Max Estrella</role>
-            <roleDesc/>
+            <roleDesc></roleDesc>
             <actor/>
           </castItem>
           <castItem>

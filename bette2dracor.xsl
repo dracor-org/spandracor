@@ -74,6 +74,9 @@
     </standOff>
   </xsl:template>
 
+  <!-- remove type="main" from title -->
+  <xsl:template match="tei:titleStmt/tei:title[@type='main']/@type"></xsl:template>
+
   <!-- remove xml:id from castList roles -->
   <xsl:template match="tei:role/@xml:id"></xsl:template>
 

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000043" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Águila de blasón</title>
+        <title>Águila de blasón</title>
         <title type="sub">Comedias bárbaras - 2</title>
         <title type="short">AguilaBlason</title>
         <title type="full">Águila de blasón: Comedias bárbaras - 2</title>
@@ -6302,6 +6302,6 @@
         </div>
       </div>
     </body>
-    <back/>
+    <back></back>
   </text>
 </TEI>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000045" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Cara de Plata</title>
+        <title>Cara de Plata</title>
         <title type="sub">Comedias bárbaras, 1</title>
         <title type="short">CaraPlata</title>
         <title type="full">Cara de Plata (Comedias bárbaras, 1)</title>
@@ -5345,7 +5345,7 @@
       </div>
     </body>
     <back>
-      <p/>
+      <p></p>
     </back>
   </text>
 </TEI>

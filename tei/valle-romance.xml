@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000044" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Romance de lobos</title>
+        <title>Romance de lobos</title>
         <title type="sub">Comedia bárbara</title>
         <title type="short">RomanceLobos</title>
         <title type="full">Romance de lobos. Comedia bárbara</title>

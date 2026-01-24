@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000005" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Casandra</title>
+        <title>Casandra</title>
         <title type="sub">drama en cuatro actos, arreglo de la novela del mismo título</title>
         <title type="short">Casandra</title>
         <title type="full">Casandra: drama en cuatro actos, arreglo de la novela del mismo título</title>

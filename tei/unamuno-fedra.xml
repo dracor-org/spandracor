@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="span000012" xml:lang="es">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Fedra</title>
+        <title>Fedra</title>
         <title type="sub">Tragedia en tres actos</title>
         <title type="short">Fedra</title>
         <title type="full">Fedra: Tragedia en tres actos</title>
