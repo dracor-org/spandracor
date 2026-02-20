@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/3698">epublibre</ref>
+        </bibl>
         <bibl type="first-published">
           <date>1933</date>
           <publisher>Tall. Espasa-Calpe</publisher>

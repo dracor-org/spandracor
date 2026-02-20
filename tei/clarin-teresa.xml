@@ -40,6 +40,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://www.cervantesvirtual.com/obra/teresa-ensayo-dramatico-en-un-acto-y-en-prosa--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="first-published">
           <date>1895</date>
           <pubPlace>Madrid</pubPlace>

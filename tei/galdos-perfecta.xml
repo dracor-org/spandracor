@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmcbr8q7">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="print-sourced">
           <date>1896</date>
           <publisher>Establecimiento Tipográfico de La Guirnalda</publisher>

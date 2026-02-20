@@ -39,6 +39,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref/>
+        </bibl>
         <bibl type="print-source">
           <date>1987</date>
           <publisher>Editorial Castalia</publisher>

@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmc571b3">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="print-source">
           <date>1905</date>
           <publisher>Viuda e hijos de M. Tello</publisher>

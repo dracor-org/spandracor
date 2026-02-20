@@ -42,6 +42,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/3936">epublibre</ref>
+        </bibl>
         <bibl type="first-published">
           <date>1918</date>
           <publisher>Sociedad de Autores Españoles/Imprenta R. Velasco</publisher>

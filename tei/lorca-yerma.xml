@@ -39,6 +39,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/6141">epublibre</ref>
+        </bibl>
         <bibl type="first-published">
           <date>1938</date>
           <publisher>Losada</publisher>

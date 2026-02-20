@@ -39,6 +39,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/3694">epublibre</ref>
+        </bibl>
         <bibl type="print-source">
           <date>1938</date>
           <publisher>Losada</publisher>

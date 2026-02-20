@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/9052">epublibre</ref>
+        </bibl>
         <bibl type="print-source">
           <date>1920</date>
           <publisher>Editorial tipografía Yagües - Opera Omnia VII</publisher>

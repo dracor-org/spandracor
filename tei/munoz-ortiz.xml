@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://epublibre.org/libro/detalle/7723">epublibre</ref>
+        </bibl>
         <bibl type="print-sourced">
           <date>1927</date>
           <publisher>Sociedad de Autores Españoles</publisher>

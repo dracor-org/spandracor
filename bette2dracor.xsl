@@ -116,6 +116,20 @@
     </xsl:choose>
   </xsl:template>
 
+  <xsl:template match="tei:sourceDesc">
+    <sourceDesc>
+      <xsl:if test="./tei:bibl[@type='electronic-source']">
+        <bibl type="digitalSource">
+          <ref>
+            <xsl:copy-of select="./tei:bibl[@type='electronic-source']/tei:ref[1]/@target"/>
+            <xsl:value-of select="./tei:bibl[@type='electronic-source']/tei:publisher"/>
+          </ref>
+        </bibl>
+      </xsl:if>
+      <xsl:apply-templates select="./*"/>
+    </sourceDesc>
+  </xsl:template>
+
   <!-- remove original wikidata idnos -->
   <xsl:template match="tei:titleStmt/tei:title/tei:idno[@type='wikidata']">
   </xsl:template>

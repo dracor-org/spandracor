@@ -42,6 +42,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target=" http://www.cervantesvirtual.com/nd/ark:/59851/bmc319t6">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="print-source">
           <title>La novela corta, año I, núm 17</title>
           <date>1982</date>

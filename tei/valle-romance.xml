@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/3362">epublibre</ref>
+        </bibl>
         <bibl type="print-source">
           <date>1908</date>
           <publisher>Gregorio Pueyo</publisher>

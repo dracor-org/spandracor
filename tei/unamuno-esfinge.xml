@@ -38,6 +38,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="#"/>
+        </bibl>
         <bibl type="print-source">
           <date>1987</date>
           <publisher>Clasicos Castalia</publisher>

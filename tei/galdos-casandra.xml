@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://www.cervantesvirtual.com/obra/casandra-drama--0/">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="first-published">
           <date>1910</date>
           <pubPlace>Madrid</pubPlace>

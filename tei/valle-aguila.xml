@@ -41,6 +41,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="https://www.epublibre.org/libro/detalle/4609">epublibre</ref>
+        </bibl>
         <bibl type="print-source">
           <date/>
           <publisher/>

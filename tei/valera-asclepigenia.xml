@@ -38,6 +38,9 @@
         </idno>
       </publicationStmt>
       <sourceDesc>
+        <bibl type="digitalSource">
+          <ref target="http://www.cervantesvirtual.com/obra/asclepigenia-1878--0">Biblioteca Virtual Miguel de Cervantes</ref>
+        </bibl>
         <bibl type="print-sourced">
           <date>1908</date>
           <publisher>Imprenta Alemana</publisher>
