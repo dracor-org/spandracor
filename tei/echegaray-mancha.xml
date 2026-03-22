@@ -54,6 +54,9 @@
         <bibl type="digitalSource">
           <ref target=" http://www.cervantesvirtual.com/nd/ark:/59851/bmcdf6m7 ">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q2181378</idno>
+        </bibl>
         <bibl type="print-source">
           <publisher>Florencio Fiscowich, editor (Sucesor de Hijos de A. Gullón.)</publisher>
           <date>1895</date>
@@ -75,6 +78,14 @@
           <date when="1895">9 de febrero de 1895</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1895">
+            <desc/>
+          </event>
+          <event type="premiere" when="1895">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -135,19 +146,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1895">
-        <desc/>
-      </event>
-      <event type="premiere" when="1895">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000002" passive="http://www.wikidata.org/entity/Q2181378"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

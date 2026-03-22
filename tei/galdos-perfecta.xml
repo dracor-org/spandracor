@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmcbr8q7">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q42303072</idno>
+        </bibl>
         <bibl type="print-sourced">
           <date>1896</date>
           <publisher>Establecimiento Tipográfico de La Guirnalda</publisher>
@@ -65,6 +68,14 @@
           <date when="1896">28 de enero de 1896</date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1896">
+            <desc/>
+          </event>
+          <event type="premiere" when="1896">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -147,19 +158,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1896">
-        <desc/>
-      </event>
-      <event type="premiere" when="1896">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000004" passive="http://www.wikidata.org/entity/Q42303072"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <p>Benito Pérez Galdós</p>

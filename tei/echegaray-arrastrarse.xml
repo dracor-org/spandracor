@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmck0702">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q19410894</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1901</date>
           <publisher>Sociedad de Autores Españoles/ Velasco impresor</publisher>
@@ -65,6 +68,14 @@
           <date when="1905">7 de febrero de 1905</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1901">
+            <desc/>
+          </event>
+          <event type="premiere" when="1905">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -139,19 +150,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1901">
-        <desc/>
-      </event>
-      <event type="premiere" when="1905">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000003" passive="http://www.wikidata.org/entity/Q19410894"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

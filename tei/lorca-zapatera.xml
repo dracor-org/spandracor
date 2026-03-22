@@ -41,6 +41,9 @@
         <bibl type="digitalSource">
           <ref>epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q2600796</idno>
+        </bibl>
         <bibl type="first-published">
           <date>1938</date>
           <publisher>Losada</publisher>
@@ -60,6 +63,11 @@
           <date/>
           <pubPlace/>
         </bibl>
+        <listEvent>
+          <event type="print" when="1938">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -141,16 +149,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1938">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000040" passive="http://www.wikidata.org/entity/Q2600796"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/3362">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q6111385</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1908</date>
           <publisher>Gregorio Pueyo</publisher>
@@ -64,6 +67,14 @@
           <date when="1970">abril de 1970</date>
           <pubPlace>Teatro San Martín de Buenos Aires</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1908">
+            <desc/>
+          </event>
+          <event type="premiere" when="1970">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -239,19 +250,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1908">
-        <desc/>
-      </event>
-      <event type="premiere" when="1970">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000044" passive="http://www.wikidata.org/entity/Q6111385"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

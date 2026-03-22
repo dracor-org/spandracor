@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="http://www.cervantesvirtual.com/nd/ark:/59851/bmc571b3">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q924513</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1905</date>
           <publisher>Viuda e hijos de M. Tello</publisher>
@@ -65,6 +68,11 @@
           <date>30 de enero de 1901</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1901">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -141,16 +149,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1901">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000006" passive="http://www.wikidata.org/entity/Q924513"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

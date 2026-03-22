@@ -45,6 +45,9 @@
         <bibl type="digitalSource">
           <ref target=" http://www.cervantesvirtual.com/nd/ark:/59851/bmc319t6">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q2914040</idno>
+        </bibl>
         <bibl type="print-source">
           <title>La novela corta, año I, núm 17</title>
           <date>1982</date>
@@ -67,6 +70,14 @@
           <date when="1895"> 29 de octubre de 1895 </date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1895">
+            <desc/>
+          </event>
+          <event type="premiere" when="1895">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -157,19 +168,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1895">
-        <desc/>
-      </event>
-      <event type="premiere" when="1895">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000001" passive="http://www.wikidata.org/entity/Q2914040"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

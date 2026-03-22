@@ -41,6 +41,9 @@
         <bibl type="digitalSource">
           <ref target="#"/>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q63200581</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1987</date>
           <publisher>Clasicos Castalia</publisher>
@@ -61,6 +64,11 @@
           <date/>
           <pubPlace/>
         </bibl>
+        <listEvent>
+          <event type="print" when="1898">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -123,16 +131,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1898">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000056" passive="http://www.wikidata.org/entity/Q63200581"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/7599">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q3312512</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1924</date>
           <publisher>Imprenta Cervantina</publisher>
@@ -64,6 +67,11 @@
           <date>21 de marzo de 1963</date>
           <pubPlace>Palais de Chaillot de París</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1924">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -294,16 +302,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1924">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000014" passive="http://www.wikidata.org/entity/Q3312512"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

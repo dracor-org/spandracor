@@ -43,35 +43,10 @@
   </xsl:template>
 
   <xsl:template match="tei:teiHeader">
-    <xsl:variable name="wd-id"
-      select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
-    <xsl:variable name="premiere"
-      select=".//tei:sourceDesc/tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
-    <xsl:variable name="print"
-      select=".//tei:sourceDesc/tei:bibl[@type='first-published']/tei:date/text()"/>
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
       <xsl:apply-templates/>
     </xsl:copy>
-    <standOff>
-      <xsl:if test="$premiere or $print">
-        <listEvent>
-          <xsl:if test="$print">
-            <event type="print" when="{$print}"><desc/></event>
-          </xsl:if>
-          <xsl:if test="$premiere">
-            <event type="premiere" when="{$premiere}"><desc/></event>
-          </xsl:if>
-        </listEvent>
-      </xsl:if>
-      <listRelation>
-        <relation
-          name="wikidata"
-          active="https://dracor.org/entity/{$dracor-id}"
-          passive="http://www.wikidata.org/entity/{$wd-id}"/>
-      </listRelation>
-
-    </standOff>
   </xsl:template>
 
   <!-- remove type="main" from title -->
@@ -117,6 +92,13 @@
   </xsl:template>
 
   <xsl:template match="tei:sourceDesc">
+    <xsl:variable name="qid"
+      select="/tei:TEI//tei:titleStmt/tei:title[@type='idno']/tei:idno[@type='wikidata']"/>
+    <xsl:variable name="premiere"
+      select="//tei:sourceDesc/tei:bibl[@type='first-performance']/tei:date/@when/string()"/>
+    <xsl:variable name="print"
+      select="//tei:sourceDesc/tei:bibl[@type='first-published']/tei:date/text()"/>
+
     <sourceDesc>
       <xsl:if test="./tei:bibl[@type='electronic-source']">
         <bibl type="digitalSource">
@@ -126,7 +108,24 @@
           </ref>
         </bibl>
       </xsl:if>
+      <xsl:if test="$qid">
+        <bibl type="wikidata">
+          <idno><xsl:value-of select="$qid"/></idno>
+        </bibl>
+      </xsl:if>
+
       <xsl:apply-templates select="./*"/>
+
+      <xsl:if test="$premiere or $print">
+        <listEvent>
+          <xsl:if test="$print">
+            <event type="print" when="{$print}"><desc/></event>
+          </xsl:if>
+          <xsl:if test="$premiere">
+            <event type="premiere" when="{$premiere}"><desc/></event>
+          </xsl:if>
+        </listEvent>
+      </xsl:if>
     </sourceDesc>
   </xsl:template>
 

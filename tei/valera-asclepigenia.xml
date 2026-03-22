@@ -41,6 +41,9 @@
         <bibl type="digitalSource">
           <ref target="http://www.cervantesvirtual.com/obra/asclepigenia-1878--0">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q63197188</idno>
+        </bibl>
         <bibl type="print-sourced">
           <date>1908</date>
           <publisher>Imprenta Alemana</publisher>
@@ -61,6 +64,14 @@
           <date when="1928">27 de septiembre de 1928</date>
           <pubPlace>Sala Rex de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1878">
+            <desc/>
+          </event>
+          <event type="premiere" when="1928">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -110,19 +121,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1878">
-        <desc/>
-      </event>
-      <event type="premiere" when="1928">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000027" passive="http://www.wikidata.org/entity/Q63197188"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>
