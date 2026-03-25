@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/9052">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q8561242</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1920</date>
           <publisher>Editorial tipografía Yagües - Opera Omnia VII</publisher>
@@ -64,6 +67,14 @@
           <date when="1933">16-11-1933</date>
           <pubPlace>Teatro Español</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1920">
+            <desc/>
+          </event>
+          <event type="premiere" when="1933">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -214,19 +225,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1920">
-        <desc/>
-      </event>
-      <event type="premiere" when="1933">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000013" passive="http://www.wikidata.org/entity/Q8561242"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

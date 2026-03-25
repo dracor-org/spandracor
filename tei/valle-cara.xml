@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/3825/">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q5748755</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1922</date>
           <publisher>La Pluma</publisher>
@@ -64,6 +67,14 @@
           <date when="1967">23/12/1967</date>
           <pubPlace>Teatro Moratín de Barcelona</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1922">
+            <desc/>
+          </event>
+          <event type="premiere" when="1967">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -233,19 +244,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1922">
-        <desc/>
-      </event>
-      <event type="premiere" when="1967">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000045" passive="http://www.wikidata.org/entity/Q5748755"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

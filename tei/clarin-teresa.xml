@@ -43,6 +43,9 @@
         <bibl type="digitalSource">
           <ref target="http://www.cervantesvirtual.com/obra/teresa-ensayo-dramatico-en-un-acto-y-en-prosa--0/">Biblioteca Virtual Miguel de Cervantes</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q63197172</idno>
+        </bibl>
         <bibl type="first-published">
           <date>1895</date>
           <pubPlace>Madrid</pubPlace>
@@ -64,6 +67,14 @@
           <publisher>Teatro Español</publisher>
           <pubPlace>Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1895">
+            <desc/>
+          </event>
+          <event type="premiere" when="1895">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -118,19 +129,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1895">
-        <desc/>
-      </event>
-      <event type="premiere" when="1895">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000018" passive="http://www.wikidata.org/entity/Q63197172"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

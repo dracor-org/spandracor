@@ -44,6 +44,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/4609">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q6172602</idno>
+        </bibl>
         <bibl type="print-source">
           <date/>
           <publisher/>
@@ -64,6 +67,14 @@
           <date when="1907">1907</date>
           <pubPlace>Barcelona</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1907">
+            <desc/>
+          </event>
+          <event type="premiere" when="1907">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -308,19 +319,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1907">
-        <desc/>
-      </event>
-      <event type="premiere" when="1907">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000043" passive="http://www.wikidata.org/entity/Q6172602"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

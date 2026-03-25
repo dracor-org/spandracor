@@ -42,6 +42,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/6141">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q944112</idno>
+        </bibl>
         <bibl type="first-published">
           <date>1938</date>
           <publisher>Losada</publisher>
@@ -62,6 +65,14 @@
           <date when="1934">29 de diciembre de 1934</date>
           <pubPlace>Teatro Español de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1938">
+            <desc/>
+          </event>
+          <event type="premiere" when="1934">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -140,19 +151,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1938">
-        <desc/>
-      </event>
-      <event type="premiere" when="1934">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000008" passive="http://www.wikidata.org/entity/Q944112"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>

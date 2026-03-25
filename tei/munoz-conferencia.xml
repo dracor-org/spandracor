@@ -43,6 +43,9 @@
         <bibl type="digitalSource">
           <ref target="https://www.epublibre.org/libro/detalle/7725">epublibre</ref>
         </bibl>
+        <bibl type="wikidata">
+          <idno>Q63200027</idno>
+        </bibl>
         <bibl type="print-source">
           <date>1916</date>
           <publisher>Imp. R. Velasco</publisher>
@@ -63,6 +66,14 @@
           <date when="1916">23 de junio de 1916.</date>
           <pubPlace>Teatro de la Comedia de Madrid</pubPlace>
         </bibl>
+        <listEvent>
+          <event type="print" when="1916">
+            <desc/>
+          </event>
+          <event type="premiere" when="1916">
+            <desc/>
+          </event>
+        </listEvent>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -129,19 +140,6 @@
       <change when="2019-05-16" who="#jct">Corregidos errores menores y añadido ID de wikidata</change>
     </revisionDesc>
   </teiHeader>
-  <standOff>
-    <listEvent>
-      <event type="print" when="1916">
-        <desc/>
-      </event>
-      <event type="premiere" when="1916">
-        <desc/>
-      </event>
-    </listEvent>
-    <listRelation>
-      <relation name="wikidata" active="https://dracor.org/entity/span000032" passive="http://www.wikidata.org/entity/Q63200027"/>
-    </listRelation>
-  </standOff>
   <text>
     <front>
       <div>
